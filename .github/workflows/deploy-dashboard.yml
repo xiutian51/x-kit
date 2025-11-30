@@ -1,0 +1,50 @@
+name: Deploy Dashboard
+
+on:
+  schedule:
+    - cron: '0 */6 * * *'  # 每6小时更新一次
+  workflow_dispatch:      # 允许手动触发
+  push:
+    branches:
+      - main
+    paths:
+      - 'tweets/**'
+      - 'scripts/generate-dashboard.ts'
+
+jobs:
+  deploy-dashboard:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+      pages: write
+      id-token: write
+    
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GH_TOKEN }}
+          
+      - name: Setup Bun
+        uses: oven-sh/setup-bun@v1
+        with:
+          bun-version: latest
+          
+      - name: Install dependencies
+        run: bun install
+        
+      - name: Generate Dashboard
+        run: bun run scripts/generate-dashboard.ts
+        
+      - name: Setup Pages
+        uses: actions/configure-pages@v4
+        
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: './dashboard'
+          
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
+

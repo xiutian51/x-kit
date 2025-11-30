@@ -1,0 +1,71 @@
+name: Hourly Update
+
+on:
+  schedule:
+    - cron: '0 * * * *'  # 每小时的第0分钟执行（即每小时执行一次）
+  workflow_dispatch:      # 允许手动触发
+
+jobs:
+  update-tweets:
+    name: 获取最新推文
+    runs-on: ubuntu-latest
+    timeout-minutes: 10  # 设置超时时间，避免长时间运行
+    
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GH_TOKEN }}
+          fetch-depth: 0  # 获取完整历史记录
+          
+      - name: Setup Git
+        run: |
+          git config --global user.name 'GitHub Actions Bot'
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+          
+      - name: Setup Bun
+        uses: oven-sh/setup-bun@v1
+        with:
+          bun-version: latest
+          
+      - name: Install dependencies
+        run: bun install
+        
+      - name: Fetch latest tweets
+        env:
+          AUTH_TOKEN: ${{ secrets.AUTH_TOKEN }}
+        run: |
+          echo "开始获取最新推文..."
+          bun run scripts/fetch-tweets.ts
+          echo "推文获取完成"
+        
+      - name: Check for changes
+        id: verify-changed-files
+        run: |
+          if [ -n "$(git status --porcelain)" ]; then
+            echo "changed=true" >> $GITHUB_OUTPUT
+            echo "检测到文件变更"
+          else
+            echo "changed=false" >> $GITHUB_OUTPUT
+            echo "没有文件变更"
+          fi
+        
+      - name: Commit and push changes
+        if: steps.verify-changed-files.outputs.changed == 'true'
+        run: |
+          git add tweets/ accounts/ || true
+          git commit -m "chore: update tweets [skip ci] - $(date '+%Y-%m-%d %H:%M:%S')" || exit 0
+          git push || echo "推送失败，可能是没有变更"
+          
+      - name: Summary
+        if: always()
+        run: |
+          echo "## 📊 执行结果" >> $GITHUB_STEP_SUMMARY
+          echo "" >> $GITHUB_STEP_SUMMARY
+          echo "- ✅ 执行时间: $(date '+%Y-%m-%d %H:%M:%S')" >> $GITHUB_STEP_SUMMARY
+          if [ "${{ steps.verify-changed-files.outputs.changed }}" == "true" ]; then
+            echo "- ✅ 数据已更新并提交" >> $GITHUB_STEP_SUMMARY
+          else
+            echo "- ℹ️ 没有新数据" >> $GITHUB_STEP_SUMMARY
+          fi
+
