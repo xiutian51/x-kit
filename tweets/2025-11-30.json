@@ -1,11 +1,88 @@
 [
   {
     "user": {
+      "screenName": "wublockchain12",
+      "name": "吴说区块链",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1763571513553543168/swT8lq9S_normal.jpg",
+      "description": "吴说中文推特：接近真相，更可信赖\n专业可信的行业新闻，优质深度内容推荐\n吴说所有内容渠道、播客、APP 等：https://t.co/rVoqryXVjk\n联系我们 TG: colinwu1989",
+      "followersCount": 168543,
+      "friendsCount": 1,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/wublockchain12/status/1995269614624964916",
+    "fullText": "Yearn Finance 的 yETH 产品遭遇攻击，攻击者似乎利用漏洞铸造了接近无限量的 yETH，从而在单笔交易中抽干池子并获利约 1,000 枚 ETH（约 300 万美元），其中部分资金已被转入 Tornado Cash；链上数据显示，攻击涉及多份新部署并在事后自毁的合约，具体损失规模尚未明确。Yearn 表示正调查 yETH LST"
+  },
+  {
+    "user": {
+      "screenName": "Phyrex_Ni",
+      "name": "Phyrex",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1596374669824696320/MGne6qLH_normal.jpg",
+      "description": "只是个搬砖的，偶尔恰饭\n不奢求，不浪费\nGlassNode 重度使用者\n没有群也不收费，所有分析回答均不构成投资建议\n近3亿用户共同选择Binance：https://t.co/JukzSnpfwD\nCrypto入口OKX就够了：https://t.co/vPOAfIjmpB\n做有温度的Bitget：https://t.co/VZ8RxZe5N7",
+      "followersCount": 364966,
+      "friendsCount": 5414,
+      "location": "4XLABS 辅导全球Web3项目落地华语市场"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/Phyrex_Ni/status/1995264233475588360",
+    "fullText": "特朗普表示，他已经决定了下一任美联储主席的人选，并将很快宣布。"
+  },
+  {
+    "user": {
+      "screenName": "JohnWRichKid",
+      "name": "John W. Rich Kid (Wendy’s Fry Cook)",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1742389291924242432/XTBVcO61_normal.jpg",
+      "description": "fries @wendys 🍟 memes @monad 💜 (parody)",
+      "followersCount": 80828,
+      "friendsCount": 1906,
+      "location": "Gary, Indiana"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/JohnWRichKid/status/1995263919603290292",
+    "fullText": "well I had a very enjoyable weekend spending it with family and friends \n\nI did some hiking, some good eating, and a little bit of partying  \n\ntime to get back to the grind\n\ngmonad"
+  },
+  {
+    "user": {
+      "screenName": "okx",
+      "name": "OKX",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1968722816154345472/vEj4j3o9_normal.jpg",
+      "description": "A new alternative for your crypto journey | Self-custody & dApps: @Wallet | Support: @OKXHelpDesk | UK users: @OKX_UK",
+      "followersCount": 5706714,
+      "friendsCount": 322,
+      "location": ""
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1995259302404046848/vid/avc1/720x720/EUxbwgEEbWmkSGb6.mp4?tag=14"
+    ],
+    "tweetUrl": "https://x.com/okx/status/1995259344980435378",
+    "fullText": "ICYMI: Now you can change your chart from light to dark. Pure art. https://t.co/n08MfZEqBg"
+  },
+  {
+    "user": {
+      "screenName": "William11Chan",
+      "name": "陳威廉",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1905263911060078592/0QafMmkn_normal.jpg",
+      "description": "一个伪装成加密博主的段子手。\n聊投资，聊加密，聊心态，聊比特币。\n这里的所有内容均不作为投资建议。 BTC HODL",
+      "followersCount": 185827,
+      "friendsCount": 354,
+      "location": "Hongkong"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/William11Chan/status/1995256862619709773",
+    "fullText": "十二月第一天有没有早起的选手🙋‍♂️\n\n今年最后一个月了，能不能过个好年？"
+  },
+  {
+    "user": {
       "screenName": "0xsmac",
       "name": "smac",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1683211280377675776/w1R5VHMv_normal.jpg",
       "description": "partner @compoundvc | your favorite alts favorite alt | host @smactalkpod | Mark 8:36 | normal is an illusion what is normal for the spider is chaos for the fly",
-      "followersCount": 14879,
+      "followersCount": 14880,
       "friendsCount": 1094,
       "location": ""
     },
@@ -20,7 +97,7 @@
       "name": "VLAD HOSTS THE BEST PODCAST IN BITCOIN",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1943609281854558208/f7P2Oowp_normal.jpg",
       "description": "TRUE BITCOIN MAXIMALIST / INTERESTED IN SCALING + PRIVACY TECH  / BITCOIN: YEAR ONE / DON'T LISTEN TO THE BITCOIN TAKEOVER PODCAST, IT'S ONLY FOR SMART PEOPLE",
-      "followersCount": 23722,
+      "followersCount": 23723,
       "friendsCount": 2668,
       "location": "Wallachia"
     },
@@ -35,7 +112,7 @@
       "name": "Crypto Tony",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1612936440240898049/b8uRB78r_normal.jpg",
       "description": "Crypto .. 99% will lose all money invested. Check your own country laws before investing / trading. Tweets do not endorse buying Crypto or directed to UK users.",
-      "followersCount": 558398,
+      "followersCount": 558395,
       "friendsCount": 723,
       "location": "Dubai"
     },
@@ -50,7 +127,7 @@
       "name": "gensyn",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1893746041926885376/L-4D2qr9_normal.jpg",
       "description": "Gensyn is building the network for machine intelligence. Build with the team here: https://t.co/1agn4jNAzR",
-      "followersCount": 90835,
+      "followersCount": 90845,
       "friendsCount": 42,
       "location": ""
     },
@@ -65,7 +142,7 @@
       "name": "shannon sharpe",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1914779013677244417/OKgmlYh__normal.jpg",
       "description": "Professional talker. Savannah State alum, 3x Super Bowl champ, Pro Football HOF. Brother, Dad, Pawpaw, Boss. For inquiries: 84inquiries@gmail.com",
-      "followersCount": 2052595,
+      "followersCount": 2052650,
       "friendsCount": 485,
       "location": ""
     },
@@ -80,7 +157,7 @@
       "name": "Crypto Tony",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1612936440240898049/b8uRB78r_normal.jpg",
       "description": "Crypto .. 99% will lose all money invested. Check your own country laws before investing / trading. Tweets do not endorse buying Crypto or directed to UK users.",
-      "followersCount": 558398,
+      "followersCount": 558395,
       "friendsCount": 723,
       "location": "Dubai"
     },
@@ -97,7 +174,7 @@
       "name": "Crypto Tony",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1612936440240898049/b8uRB78r_normal.jpg",
       "description": "Crypto .. 99% will lose all money invested. Check your own country laws before investing / trading. Tweets do not endorse buying Crypto or directed to UK users.",
-      "followersCount": 558398,
+      "followersCount": 558395,
       "friendsCount": 723,
       "location": "Dubai"
     },
@@ -114,7 +191,7 @@
       "name": "Overtime",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1931377566432317440/k5bQMdwy_normal.jpg",
       "description": "🫶",
-      "followersCount": 1746375,
+      "followersCount": 1746435,
       "friendsCount": 1207,
       "location": ""
     },
@@ -131,7 +208,7 @@
       "name": "shannon sharpe",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1914779013677244417/OKgmlYh__normal.jpg",
       "description": "Professional talker. Savannah State alum, 3x Super Bowl champ, Pro Football HOF. Brother, Dad, Pawpaw, Boss. For inquiries: 84inquiries@gmail.com",
-      "followersCount": 2052595,
+      "followersCount": 2052650,
       "friendsCount": 485,
       "location": ""
     },
@@ -146,7 +223,7 @@
       "name": "吴说区块链",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1763571513553543168/swT8lq9S_normal.jpg",
       "description": "吴说中文推特：接近真相，更可信赖\n专业可信的行业新闻，优质深度内容推荐\n吴说所有内容渠道、播客、APP 等：https://t.co/rVoqryXVjk\n联系我们 TG: colinwu1989",
-      "followersCount": 168541,
+      "followersCount": 168543,
       "friendsCount": 1,
       "location": ""
     },
@@ -161,7 +238,7 @@
       "name": "OKX",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1968722816154345472/vEj4j3o9_normal.jpg",
       "description": "A new alternative for your crypto journey | Self-custody & dApps: @Wallet | Support: @OKXHelpDesk | UK users: @OKX_UK",
-      "followersCount": 5706730,
+      "followersCount": 5706714,
       "friendsCount": 322,
       "location": ""
     },
@@ -178,7 +255,7 @@
       "name": "Overtime",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1931377566432317440/k5bQMdwy_normal.jpg",
       "description": "🫶",
-      "followersCount": 1746375,
+      "followersCount": 1746435,
       "friendsCount": 1207,
       "location": ""
     },
@@ -195,7 +272,7 @@
       "name": "Overtime",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1931377566432317440/k5bQMdwy_normal.jpg",
       "description": "🫶",
-      "followersCount": 1746375,
+      "followersCount": 1746435,
       "friendsCount": 1207,
       "location": ""
     },
@@ -212,7 +289,7 @@
       "name": "Crypto Tony",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1612936440240898049/b8uRB78r_normal.jpg",
       "description": "Crypto .. 99% will lose all money invested. Check your own country laws before investing / trading. Tweets do not endorse buying Crypto or directed to UK users.",
-      "followersCount": 558398,
+      "followersCount": 558395,
       "friendsCount": 723,
       "location": "Dubai"
     },
@@ -244,7 +321,7 @@
       "name": "Overtime",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1931377566432317440/k5bQMdwy_normal.jpg",
       "description": "🫶",
-      "followersCount": 1746375,
+      "followersCount": 1746435,
       "friendsCount": 1207,
       "location": ""
     },
@@ -261,7 +338,7 @@
       "name": "Crypto Tony",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1612936440240898049/b8uRB78r_normal.jpg",
       "description": "Crypto .. 99% will lose all money invested. Check your own country laws before investing / trading. Tweets do not endorse buying Crypto or directed to UK users.",
-      "followersCount": 558398,
+      "followersCount": 558395,
       "friendsCount": 723,
       "location": "Dubai"
     },
@@ -276,7 +353,7 @@
       "name": "ThuanCapital",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1455210352371589128/Ml-o06bv_normal.jpg",
       "description": "Thạc Sĩ MBA | KPMG Alumni | CRCM | 8+ years Crypto\n\n⚠️Tất Cả Chỉ Vì Mục Đích Thông Tin Và Không Được Xem Là Lời Khuyên Đầu Tư\n\nContact: Admin@ThuanCapital.com",
-      "followersCount": 496568,
+      "followersCount": 496573,
       "friendsCount": 503,
       "location": "Moon"
     },
@@ -296,7 +373,7 @@
       "name": "shannon sharpe",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1914779013677244417/OKgmlYh__normal.jpg",
       "description": "Professional talker. Savannah State alum, 3x Super Bowl champ, Pro Football HOF. Brother, Dad, Pawpaw, Boss. For inquiries: 84inquiries@gmail.com",
-      "followersCount": 2052595,
+      "followersCount": 2052650,
       "friendsCount": 485,
       "location": ""
     },
@@ -311,7 +388,7 @@
       "name": "LeBron James",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1904731639910965248/6bcSSJnG_normal.jpg",
       "description": "EST. AKRON - ST.V/M Class of '03 https://t.co/TrZZrgA5Yt #IPROMISE",
-      "followersCount": 48236619,
+      "followersCount": 48236588,
       "friendsCount": 180,
       "location": "Outer Space    "
     },
@@ -326,7 +403,7 @@
       "name": "Overtime",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1931377566432317440/k5bQMdwy_normal.jpg",
       "description": "🫶",
-      "followersCount": 1746375,
+      "followersCount": 1746435,
       "friendsCount": 1207,
       "location": ""
     },
@@ -343,7 +420,7 @@
       "name": "Tory | io.net 🦾",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1913360040771334144/QfDYMUjF_normal.jpg",
       "description": "Co-Founder of @ionet | Freeing the AI Genie from the Bottle 🧞‍♂️",
-      "followersCount": 80477,
+      "followersCount": 80473,
       "friendsCount": 1520,
       "location": "Decentralized"
     },
@@ -358,7 +435,7 @@
       "name": "Crypto Tony",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1612936440240898049/b8uRB78r_normal.jpg",
       "description": "Crypto .. 99% will lose all money invested. Check your own country laws before investing / trading. Tweets do not endorse buying Crypto or directed to UK users.",
-      "followersCount": 558398,
+      "followersCount": 558395,
       "friendsCount": 723,
       "location": "Dubai"
     },
@@ -375,7 +452,7 @@
       "name": "VLAD HOSTS THE BEST PODCAST IN BITCOIN",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1943609281854558208/f7P2Oowp_normal.jpg",
       "description": "TRUE BITCOIN MAXIMALIST / INTERESTED IN SCALING + PRIVACY TECH  / BITCOIN: YEAR ONE / DON'T LISTEN TO THE BITCOIN TAKEOVER PODCAST, IT'S ONLY FOR SMART PEOPLE",
-      "followersCount": 23722,
+      "followersCount": 23723,
       "friendsCount": 2668,
       "location": "Wallachia"
     },
@@ -392,7 +469,7 @@
       "name": "Overtime",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1931377566432317440/k5bQMdwy_normal.jpg",
       "description": "🫶",
-      "followersCount": 1746375,
+      "followersCount": 1746435,
       "friendsCount": 1207,
       "location": ""
     },
@@ -409,7 +486,7 @@
       "name": "ThuanCapital",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1455210352371589128/Ml-o06bv_normal.jpg",
       "description": "Thạc Sĩ MBA | KPMG Alumni | CRCM | 8+ years Crypto\n\n⚠️Tất Cả Chỉ Vì Mục Đích Thông Tin Và Không Được Xem Là Lời Khuyên Đầu Tư\n\nContact: Admin@ThuanCapital.com",
-      "followersCount": 496568,
+      "followersCount": 496573,
       "friendsCount": 503,
       "location": "Moon"
     },
@@ -426,7 +503,7 @@
       "name": "VLAD HOSTS THE BEST PODCAST IN BITCOIN",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1943609281854558208/f7P2Oowp_normal.jpg",
       "description": "TRUE BITCOIN MAXIMALIST / INTERESTED IN SCALING + PRIVACY TECH  / BITCOIN: YEAR ONE / DON'T LISTEN TO THE BITCOIN TAKEOVER PODCAST, IT'S ONLY FOR SMART PEOPLE",
-      "followersCount": 23722,
+      "followersCount": 23723,
       "friendsCount": 2668,
       "location": "Wallachia"
     },
@@ -441,7 +518,7 @@
       "name": "Crypto Tony",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1612936440240898049/b8uRB78r_normal.jpg",
       "description": "Crypto .. 99% will lose all money invested. Check your own country laws before investing / trading. Tweets do not endorse buying Crypto or directed to UK users.",
-      "followersCount": 558398,
+      "followersCount": 558395,
       "friendsCount": 723,
       "location": "Dubai"
     },
@@ -456,7 +533,7 @@
       "name": "H.E. Justin Sun 👨‍🚀 🌞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1954484454942298112/gmiMeJRS_normal.jpg",
       "description": "👨‍💻 Entrepreneur | 🤵‍♂️ Diplomat | 👨‍🚀 Astronaut #712 | 🍌 Art Collector | Founder @trondao | Advisor @BitTorrent & @htx_global | Chinese @sunyuchentron",
-      "followersCount": 3875050,
+      "followersCount": 3875069,
       "friendsCount": 3475,
       "location": "Geneva, Switzerland"
     },
@@ -471,7 +548,7 @@
       "name": "smac",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1683211280377675776/w1R5VHMv_normal.jpg",
       "description": "partner @compoundvc | your favorite alts favorite alt | host @smactalkpod | Mark 8:36 | normal is an illusion what is normal for the spider is chaos for the fly",
-      "followersCount": 14879,
+      "followersCount": 14880,
       "friendsCount": 1094,
       "location": ""
     },
@@ -486,7 +563,7 @@
       "name": "Crypto Tony",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1612936440240898049/b8uRB78r_normal.jpg",
       "description": "Crypto .. 99% will lose all money invested. Check your own country laws before investing / trading. Tweets do not endorse buying Crypto or directed to UK users.",
-      "followersCount": 558398,
+      "followersCount": 558395,
       "friendsCount": 723,
       "location": "Dubai"
     },
@@ -501,7 +578,7 @@
       "name": "枪十七",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1711548243610677248/zxFYz-g9_normal.jpg",
       "description": "资深做市商 为70+项目方提供做市/营销/PR辅导 | 前 $pump $gork 做市商 |《BTC庄家日记》作者 | 分享自己的思考和逻辑 | 二级市场交易经验10+年 / VC投后管理4年 / 投行6年 / 做市商7年 | 不接任何广告 不做嘴撸 不接付费宣发 不接交易所合作 不做返佣 没有收费群",
-      "followersCount": 82894,
+      "followersCount": 82911,
       "friendsCount": 23,
       "location": "Japan 🇯🇵"
     },
@@ -516,7 +593,7 @@
       "name": "OKX",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1968722816154345472/vEj4j3o9_normal.jpg",
       "description": "A new alternative for your crypto journey | Self-custody & dApps: @Wallet | Support: @OKXHelpDesk | UK users: @OKX_UK",
-      "followersCount": 5706730,
+      "followersCount": 5706714,
       "friendsCount": 322,
       "location": ""
     },
@@ -533,7 +610,7 @@
       "name": "ThuanCapital",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1455210352371589128/Ml-o06bv_normal.jpg",
       "description": "Thạc Sĩ MBA | KPMG Alumni | CRCM | 8+ years Crypto\n\n⚠️Tất Cả Chỉ Vì Mục Đích Thông Tin Và Không Được Xem Là Lời Khuyên Đầu Tư\n\nContact: Admin@ThuanCapital.com",
-      "followersCount": 496568,
+      "followersCount": 496573,
       "friendsCount": 503,
       "location": "Moon"
     },
@@ -550,7 +627,7 @@
       "name": "ThuanCapital",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1455210352371589128/Ml-o06bv_normal.jpg",
       "description": "Thạc Sĩ MBA | KPMG Alumni | CRCM | 8+ years Crypto\n\n⚠️Tất Cả Chỉ Vì Mục Đích Thông Tin Và Không Được Xem Là Lời Khuyên Đầu Tư\n\nContact: Admin@ThuanCapital.com",
-      "followersCount": 496568,
+      "followersCount": 496573,
       "friendsCount": 503,
       "location": "Moon"
     },
@@ -567,7 +644,7 @@
       "name": "ThuanCapital",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1455210352371589128/Ml-o06bv_normal.jpg",
       "description": "Thạc Sĩ MBA | KPMG Alumni | CRCM | 8+ years Crypto\n\n⚠️Tất Cả Chỉ Vì Mục Đích Thông Tin Và Không Được Xem Là Lời Khuyên Đầu Tư\n\nContact: Admin@ThuanCapital.com",
-      "followersCount": 496568,
+      "followersCount": 496573,
       "friendsCount": 503,
       "location": "Moon"
     },
@@ -614,7 +691,7 @@
       "name": "Crypto Tony",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1612936440240898049/b8uRB78r_normal.jpg",
       "description": "Crypto .. 99% will lose all money invested. Check your own country laws before investing / trading. Tweets do not endorse buying Crypto or directed to UK users.",
-      "followersCount": 558398,
+      "followersCount": 558395,
       "friendsCount": 723,
       "location": "Dubai"
     },
