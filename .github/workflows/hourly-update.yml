@@ -31,11 +31,30 @@ jobs:
       - name: Install dependencies
         run: bun install
         
+      - name: Verify AUTH_TOKEN is configured
+        run: |
+          if [ -z "${{ secrets.AUTH_TOKEN }}" ]; then
+            echo "❌ 错误: AUTH_TOKEN Secret 未配置！"
+            echo ""
+            echo "请按照以下步骤配置："
+            echo "1. 进入仓库 Settings → Secrets and variables → Actions"
+            echo "2. 点击 New repository secret"
+            echo "3. Name: AUTH_TOKEN"
+            echo "4. Secret: 你的 auth_token 值"
+            exit 1
+          else
+            echo "✅ AUTH_TOKEN 已配置"
+            echo "Token 长度: ${#AUTH_TOKEN}"
+          fi
+        env:
+          AUTH_TOKEN: ${{ secrets.AUTH_TOKEN }}
+        
       - name: Fetch latest tweets
         env:
           AUTH_TOKEN: ${{ secrets.AUTH_TOKEN }}
         run: |
           echo "开始获取最新推文..."
+          echo "Token 前10位: ${AUTH_TOKEN:0:10}..."
           bun run scripts/fetch-tweets.ts
           echo "推文获取完成"
         

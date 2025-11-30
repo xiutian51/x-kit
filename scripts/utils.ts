@@ -3,11 +3,17 @@ import axios from "axios";
 import { TwitterApi } from 'twitter-api-v2';
 
 export const _xClient = async (TOKEN: string) => {
-  console.log("🚀 ~ const_xClient= ~ TOKEN:", TOKEN)
+  // 验证 Token 是否为空
+  if (!TOKEN || TOKEN.trim() === '') {
+    throw new Error('❌ AUTH_TOKEN 未配置或为空！\n请检查 GitHub Secrets 中的 AUTH_TOKEN 是否正确配置。');
+  }
+  
+  console.log("🚀 ~ const_xClient= ~ TOKEN:", TOKEN.substring(0, 10) + '...' + TOKEN.substring(TOKEN.length - 5))
   const resp = await axios.get("https://x.com/manifest.json", {
     headers: {
       cookie: `auth_token=${TOKEN}`,
     },
+    maxRedirects: 5, // 限制重定向次数，避免循环
   });
   
   const resCookie = resp.headers["set-cookie"] as string[];
