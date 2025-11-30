@@ -15,7 +15,7 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
         with:
-          token: ${{ secrets.GH_TOKEN }}
+          token: ${{ secrets.GH_TOKEN || github.token }}
           fetch-depth: 0  # 获取完整历史记录
           
       - name: Setup Git
@@ -52,9 +52,12 @@ jobs:
         
       - name: Commit and push changes
         if: steps.verify-changed-files.outputs.changed == 'true'
+        env:
+          GITHUB_TOKEN: ${{ secrets.GH_TOKEN || github.token }}
         run: |
           git add tweets/ accounts/ || true
           git commit -m "chore: update tweets [skip ci] - $(date '+%Y-%m-%d %H:%M:%S')" || exit 0
+          git remote set-url origin https://x-access-token:${GITHUB_TOKEN}@github.com/${{ github.repository }}.git
           git push || echo "推送失败，可能是没有变更"
           
       - name: Summary
