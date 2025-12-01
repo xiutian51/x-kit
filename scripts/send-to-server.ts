@@ -28,9 +28,10 @@ interface TweetData {
  */
 async function sendToServer() {
   // 从环境变量读取配置
-  const apiUrl = process.env.FLASK_API_URL;
-  const apiKey = process.env.FLASK_API_KEY;
-  
+  // const apiUrl = process.env.FLASK_API_URL;
+  const apiUrl = 'http://localhost:5000';
+  // const apiKey = process.env.FLASK_API_KEY;
+  const apiKey = "x-secret-api-key-is-here";
   if (!apiUrl) {
     console.error('❌ 错误: FLASK_API_URL 环境变量未设置');
     process.exit(1);
