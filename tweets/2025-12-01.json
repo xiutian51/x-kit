@@ -1,11 +1,402 @@
 [
   {
     "user": {
+      "screenName": "tmel0211",
+      "name": "Haotian | CryptoInsight",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1517412688174804993/hTfpVb8Q_normal.jpg",
+      "description": "独立研究员| Advisor @ambergroup_io | 特约研究员 @IOSGVC｜ 硬核科普 | Previously：@peckshield | DMs for Collab｜ 社群只对推特订阅会员开放",
+      "followersCount": 46984,
+      "friendsCount": 2715,
+      "location": "订阅专栏入口👉"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/tmel0211/status/1995437220589601157",
+    "fullText": "加密行业振兴于：\n\n1）笃信Code is law的去中心化极客主义；\n\n2）相信Hodl住就会Rich的加密长期主义；\n\n3）坚守build驱动技术创新的价值创造路线；\n\n加密行业衰败于：\n\n1）沉迷于注意力经济奴役的纯MEME投机主义；\n\n2）追捧“边喊边卖”灵活进退的伪Degen Trader文化；"
+  },
+  {
+    "user": {
+      "screenName": "Wuhuoqiu",
+      "name": "Lao Bai",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1957952798513037312/BgHsgnHn_normal.jpg",
+      "description": "Advisor @ambergroup_io https://t.co/gwnjbS70D8｜ex Investment - OKX_Ventures ｜ex Investment & Research Partner @ABCDELabs",
+      "followersCount": 72543,
+      "friendsCount": 621,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/Wuhuoqiu/status/1995436083295944811",
+    "fullText": "我通过@MossAI_Official 向@tmel0211 给 提出了一个问题:"
+  },
+  {
+    "user": {
+      "screenName": "wublockchain12",
+      "name": "吴说区块链",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1763571513553543168/swT8lq9S_normal.jpg",
+      "description": "吴说中文推特：接近真相，更可信赖\n专业可信的行业新闻，优质深度内容推荐\n吴说所有内容渠道、播客、APP 等：https://t.co/rVoqryXVjk\n联系我们 TG: colinwu1989",
+      "followersCount": 168639,
+      "friendsCount": 1,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/wublockchain12/status/1995434551137751224",
+    "fullText": "吴说获悉，据 MLM 监测，某 BTC 巨鲸地址向 Aave 存入 126,300 枚 ETH（约 3.59 亿美元），并以此抵押借出 1.2 亿枚 USDT，随后全部转入 Binance。与此同时，一个新创建的钱包在 12 分钟前从 Binance 提取了 42,200 枚 ETH（约 1.2 亿美元）。https://t.co/oqL6Yvckju"
+  },
+  {
+    "user": {
+      "screenName": "okx",
+      "name": "OKX",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1968722816154345472/vEj4j3o9_normal.jpg",
+      "description": "A new alternative for your crypto journey | Self-custody & dApps: @Wallet | Support: @OKXHelpDesk | UK users: @OKX_UK",
+      "followersCount": 5706246,
+      "friendsCount": 322,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G7Ez6o1WMAAc2S9.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/okx/status/1995433212810543209",
+    "fullText": "Our latest PoR is out - 37th consecutive monthly release, verified by @hackenclub and open to all.  \n\n✅ $30.1B in primary assets\n✅ 100%+ reserves \n\nDon’t trust, verify → https://t.co/afX3QeVawf https://t.co/HlzHNvKZGl"
+  },
+  {
+    "user": {
+      "screenName": "blockjob2022",
+      "name": "Block Job",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1740552276312489984/nfHV_T_D_normal.jpg",
+      "description": "BlockJob「万象招聘」– 不被定义的区块链头部招聘平台，既能发布招聘｜找工作，还能来这里看段子！🧏🏻‍♂️",
+      "followersCount": 10571,
+      "friendsCount": 153,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G7Ez0vjbMAET_7l.jpg",
+      "https://pbs.twimg.com/media/G7Ez0vhawAE2tZz.jpg",
+      "https://pbs.twimg.com/media/G7Ez0vnbwAAIcu0.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/blockjob2022/status/1995433104723554397",
+    "fullText": "#Blockjob来科普\nWeb3轻松学：Day37（RSI运用中的注意事项） https://t.co/Qn4hM668pz"
+  },
+  {
+    "user": {
+      "screenName": "wublockchain12",
+      "name": "吴说区块链",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1763571513553543168/swT8lq9S_normal.jpg",
+      "description": "吴说中文推特：接近真相，更可信赖\n专业可信的行业新闻，优质深度内容推荐\n吴说所有内容渠道、播客、APP 等：https://t.co/rVoqryXVjk\n联系我们 TG: colinwu1989",
+      "followersCount": 168639,
+      "friendsCount": 1,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/wublockchain12/status/1995432844915552265",
+    "fullText": "据 Cryptopolitan 报道，韩国朝野就稳定币监管达成突破，目标于 2026 年 1 月通过《数字资产基本法》。方案将采用银行持股 51% 的联合体模式打造“韩式稳定币”，科技企业可参与但为小股东。共同民主党要求金融监管机构须在 12 月 10"
+  },
+  {
+    "user": {
+      "screenName": "CryptoTony__",
+      "name": "Crypto Tony",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1612936440240898049/b8uRB78r_normal.jpg",
+      "description": "Crypto .. 99% will lose all money invested. Check your own country laws before investing / trading. Tweets do not endorse buying Crypto or directed to UK users.",
+      "followersCount": 558362,
+      "friendsCount": 724,
+      "location": "Dubai"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G7EtKU1XUAAb0dC.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/CryptoTony__/status/1995432817174692130",
+    "fullText": "$TAO / $USD - Update\n\nThe relief wave is coming soon https://t.co/Laq9gbXHY5"
+  },
+  {
+    "user": {
+      "screenName": "blockjob2022",
+      "name": "Block Job",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1740552276312489984/nfHV_T_D_normal.jpg",
+      "description": "BlockJob「万象招聘」– 不被定义的区块链头部招聘平台，既能发布招聘｜找工作，还能来这里看段子！🧏🏻‍♂️",
+      "followersCount": 10571,
+      "friendsCount": 153,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G7EzdnyagAAbtfz.jpg",
+      "https://pbs.twimg.com/media/G7EzdnwaAAA5kuk.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/blockjob2022/status/1995432704381460884",
+    "fullText": "#Blockjob岗位更新\n\n【远程办公】招聘 Web3 自动化脚本开发！\n\n公司类型：Web3 公司\n\n工作地点：远程办公\n\n招聘岗位：自动化脚本开发 https://t.co/XRoIaXgdsI"
+  },
+  {
+    "user": {
+      "screenName": "blockjob2022",
+      "name": "Block Job",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1740552276312489984/nfHV_T_D_normal.jpg",
+      "description": "BlockJob「万象招聘」– 不被定义的区块链头部招聘平台，既能发布招聘｜找工作，还能来这里看段子！🧏🏻‍♂️",
+      "followersCount": 10571,
+      "friendsCount": 153,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G7Ey3hfbgAAbmfO.jpg",
+      "https://pbs.twimg.com/media/G7Ey3hfbgAE_HJG.jpg",
+      "https://pbs.twimg.com/media/G7Ey3hkbEAAEkuA.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/blockjob2022/status/1995432052037202325",
+    "fullText": "Web3工作｜招聘Base深圳的HR（全职，转正后远程）\n\n🕸️公司简介：\nhttps://t.co/UvCUaKqewz\nYour gateway to thrilling trade adventures.\n\n💰薪酬福利：\n$1800 - $2500 / month\n\n📪申请方式：\nEmail: xxkkfan.hr@gmail.com https://t.co/x5F3MoVMZl"
+  },
+  {
+    "user": {
+      "screenName": "wublockchain12",
+      "name": "吴说区块链",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1763571513553543168/swT8lq9S_normal.jpg",
+      "description": "吴说中文推特：接近真相，更可信赖\n专业可信的行业新闻，优质深度内容推荐\n吴说所有内容渠道、播客、APP 等：https://t.co/rVoqryXVjk\n联系我们 TG: colinwu1989",
+      "followersCount": 168639,
+      "friendsCount": 1,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/wublockchain12/status/1995431477991874577",
+    "fullText": "QCP 资本分析称，比特币从 91,000 美元急跌至 86,000 美元，主要因两点：日银加息预期飙升、中国非制造业 PMI 转弱拖累亚洲宏观情绪；Strategy CEO 提及在股价低于 NAV 且融资枯竭时可能卖 BTC，放大市场恐慌。尽管 QT 结束、12 月降息概率升至 87% 且 ETF 重新净流入，但 BTC 在此前反弹 15%"
+  },
+  {
+    "user": {
+      "screenName": "off_thetarget",
+      "name": "pepper 花椒",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1735898949146607616/Aq9dJSvQ_normal.png",
+      "description": "🔶经济模型设计/盘子设计 No Ponzi, No Finance.\n🔶 花椒盘学八字 「掐头去尾 中间留水」花椒经济学 @pepperfr1ends",
+      "followersCount": 32471,
+      "friendsCount": 2641,
+      "location": "大群限时开放"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/off_thetarget/status/1995431060319166969",
+    "fullText": "我希望和一个美丽的中国女人一起玩墓碑钉头这是我最喜欢的WWE摔角动作我小时候经常看"
+  },
+  {
+    "user": {
+      "screenName": "wublockchain12",
+      "name": "吴说区块链",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1763571513553543168/swT8lq9S_normal.jpg",
+      "description": "吴说中文推特：接近真相，更可信赖\n专业可信的行业新闻，优质深度内容推荐\n吴说所有内容渠道、播客、APP 等：https://t.co/rVoqryXVjk\n联系我们 TG: colinwu1989",
+      "followersCount": 168639,
+      "friendsCount": 1,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/wublockchain12/status/1995430963279429973",
+    "fullText": "吴说获悉，前花旗加密研究负责人 Joseph 就 Arthur Hayes 的解读回应称，外界对 Tether 的质疑忽略了关键事实：Tether 披露的储备并不等于其全部公司资产，其集团仍有未公开的股权投资、挖矿业务与企业储备；公司以约 1,200 亿美元美债产生高额利息收入，使其成为“极高盈利”的业务，估值区间或达 500"
+  },
+  {
+    "user": {
+      "screenName": "FinanceYF5",
+      "name": "AI Will",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1896818103016935424/ucw3T2uW_normal.jpg",
+      "description": "增长顾问 | AI行业分析师，Learn in Public",
+      "followersCount": 178648,
+      "friendsCount": 1942,
+      "location": "San Francisco Bay area"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G7ExoN2bgAEr5MK.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/FinanceYF5/status/1995430679040098425",
+    "fullText": "这些市值约 1 亿美元以上的公司，全都由一所硅谷小型学校的校友创办，这所学校只有约 25 年历史，每年学生不到 200 人：\n\nDoorDash\n\nGreenoaks Capital\n\nalexanderwang\n\nWindsurf\n\nChan Zuckerberg\n\n平均 SAT 成绩在美国是前 1% 水平，平均分 1525。\n\n这所学校是位于San Jose的 The Harker  School。 https://t.co/jLQTGEmomI"
+  },
+  {
+    "user": {
+      "screenName": "FinanceYF5",
+      "name": "AI Will",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1896818103016935424/ucw3T2uW_normal.jpg",
+      "description": "增长顾问 | AI行业分析师，Learn in Public",
+      "followersCount": 178648,
+      "friendsCount": 1942,
+      "location": "San Francisco Bay area"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1995429848102408192/vid/avc1/1308x720/watw_EAUuHt1E_pP.mp4?tag=14"
+    ],
+    "tweetUrl": "https://x.com/FinanceYF5/status/1995429911759388820",
+    "fullText": "Ilya 和 Bryan Johnson 都认为：当 AI 力量真正显现时，人类将被迫发生深刻变化；竞争将转向为生存而合作；AI 对齐目标不应是“控制”，而是“确保有感知的存在”。他们主张以简单清晰的理念指引未来，这就是 “Don't Die” 哲学。\n\n具体内容在下一条推文 https://t.co/sbe3y18m1L"
+  },
+  {
+    "user": {
+      "screenName": "UnicornBitcoin",
+      "name": "UNICORN⚡️🦄",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1963503485170978817/NpvyjRQ1_normal.jpg",
+      "description": "#XClub $BTC $ETH $OKB $BNB $SOL $UNI $ASTER\n\n#OKX WEB3入口一个就够https://t.co/pZCFItmdrD \n\n#Binance 近3亿用户的共同选择https://t.co/KoDvNU04iq",
+      "followersCount": 132405,
+      "friendsCount": 3144,
+      "location": "UnicornBitcoin"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G7EwQIaawAAINVT.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/UnicornBitcoin/status/1995429412632936607",
+    "fullText": "好多时候就很身不由己\nBTC 本来涨的好好的\n又暴跌\n又被套了\n\n那就拿住比特币\n如果能再有利息更好\n\n币安钱包 @BinanceWallet 上了个DeFi 嘉年华活动\n存 BTC 就能分钱\n\n具体说说是怎么玩的\n\n1/在 Simple Yield 的 Solv BTCB 池里质押 BTCB，就是把币放进一个按比例分配的装置\n\n2/活动 45 天，总共 30 https://t.co/AZs9sXGS0G"
+  },
+  {
+    "user": {
+      "screenName": "FinanceYF5",
+      "name": "AI Will",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1896818103016935424/ucw3T2uW_normal.jpg",
+      "description": "增长顾问 | AI行业分析师，Learn in Public",
+      "followersCount": 178648,
+      "friendsCount": 1942,
+      "location": "San Francisco Bay area"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G7EwDqSaQAATGrq.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/FinanceYF5/status/1995428952014512476",
+    "fullText": "斯坦福提出 Verbalized Sampling 技术：在提示中加入约20词，让模型“思考多个可能答案及其概率”，可提升创造力1.6–2倍、多样性25.7%，恢复66.8%被对齐削弱的创意，无需再训练即可优于微调模型。其本质是对抗模式塌缩，唤醒模型潜在多样表达。\n\n具体内容在下一条推文 https://t.co/3bvJCtXGRD"
+  },
+  {
+    "user": {
+      "screenName": "off_thetarget",
+      "name": "pepper 花椒",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1735898949146607616/Aq9dJSvQ_normal.png",
+      "description": "🔶经济模型设计/盘子设计 No Ponzi, No Finance.\n🔶 花椒盘学八字 「掐头去尾 中间留水」花椒经济学 @pepperfr1ends",
+      "followersCount": 32471,
+      "friendsCount": 2641,
+      "location": "大群限时开放"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G7EvK4JaoAAHC3o.png",
+      "https://pbs.twimg.com/media/G7EvRhFboAALiTo.png"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/off_thetarget/status/1995428290795069718",
+    "fullText": "🚨 花椒说 $mon 可能会在跌99% https://t.co/Ibq5EkSfSM"
+  },
+  {
+    "user": {
+      "screenName": "FinanceYF5",
+      "name": "AI Will",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1896818103016935424/ucw3T2uW_normal.jpg",
+      "description": "增长顾问 | AI行业分析师，Learn in Public",
+      "followersCount": 178648,
+      "friendsCount": 1942,
+      "location": "San Francisco Bay area"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G7EvVnNbIAAbBaQ.jpg",
+      "https://pbs.twimg.com/media/G7EvV1MbMAImaEi.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/FinanceYF5/status/1995428164349378750",
+    "fullText": "世界顶尖的黑客在越南租下一座豪华别墅，连续 30 天构建 AI 应用。\n\nAlex Reibman 加入了最后一周，看看他们做出了什么。\n\n以下是岘港  HRG前的最后一周更新（🧵）： https://t.co/cGuykuAao7"
+  },
+  {
+    "user": {
+      "screenName": "KuiGas",
+      "name": "丰密",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1951510357769592890/oim_Z9Fl_normal.jpg",
+      "description": "10几年前是个民工，现在是个屌丝，KuiGas路上，入不敷出，我明白这就是生活 🌱 \n一站式链上链下交易:https://t.co/ndLjOShioB \n使用交易:https://t.co/dxoLXgumeM \n\n@33daoweb3  @kuiclub",
+      "followersCount": 104698,
+      "friendsCount": 954,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/KuiGas/status/1995427154394562754",
+    "fullText": "好多老师都要飞迪拜参加币安的BBW。\n\n这次币安@binancezh荣获《2025 Regulation Asia Awards》 年度「最佳数字资产交易所」，听说这次要大办一次，规格很高，希望老师们多给一些前方一线报道。\n\n项目方面，我比较关心\nOpinion @opinionlabsxyz 跟Aster @Aster_DEX"
+  },
+  {
+    "user": {
+      "screenName": "CryptoTony__",
+      "name": "Crypto Tony",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1612936440240898049/b8uRB78r_normal.jpg",
+      "description": "Crypto .. 99% will lose all money invested. Check your own country laws before investing / trading. Tweets do not endorse buying Crypto or directed to UK users.",
+      "followersCount": 558362,
+      "friendsCount": 724,
+      "location": "Dubai"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/CryptoTony__/status/1995426394185302074",
+    "fullText": "End of month volatility never fails to amaze me \n\nBitcoin put on a show for us all"
+  },
+  {
+    "user": {
+      "screenName": "0xAA_Science",
+      "name": "0xAA",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1909791942961250308/nPZLMciH_normal.jpg",
+      "description": "Neuroscience PhD, x402 lover @WTFAcademy_ @ourRescuETH @The_PeopleDAO ｜启程Web3，就在币安: https://t.co/k5E2804y9X ｜新人首选，安全简单。一站式链上链下交易平台OKX https://t.co/Kwxe2KTZlu",
+      "followersCount": 168071,
+      "friendsCount": 1469,
+      "location": "Dark Forest"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G7EteFXbgAAkA-N.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/0xAA_Science/status/1995426110444896504",
+    "fullText": "怎么我一多进去\n日本要加息\n中国要打击\n泰达微策略要卖btc https://t.co/Y0yylbNCdE"
+  },
+  {
+    "user": {
+      "screenName": "wublockchain12",
+      "name": "吴说区块链",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1763571513553543168/swT8lq9S_normal.jpg",
+      "description": "吴说中文推特：接近真相，更可信赖\n专业可信的行业新闻，优质深度内容推荐\n吴说所有内容渠道、播客、APP 等：https://t.co/rVoqryXVjk\n联系我们 TG: colinwu1989",
+      "followersCount": 168639,
+      "friendsCount": 1,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/wublockchain12/status/1995426102890676569",
+    "fullText": "吴说获悉，据 CoinShares，在连续四周大规模资金外流后，数字资产 ETP 上周录得 10.7 亿美元资金净流入，主要受益于美联储成员 John Williams 的言论所带来的美国即将降息预期。比特币、以太坊和 XRP 均出现强劲资金流入，分别为 4.64 亿美元、3.09 亿美元和创纪录的 2.89"
+  },
+  {
+    "user": {
+      "screenName": "wublockchain12",
+      "name": "吴说区块链",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1763571513553543168/swT8lq9S_normal.jpg",
+      "description": "吴说中文推特：接近真相，更可信赖\n专业可信的行业新闻，优质深度内容推荐\n吴说所有内容渠道、播客、APP 等：https://t.co/rVoqryXVjk\n联系我们 TG: colinwu1989",
+      "followersCount": 168639,
+      "friendsCount": 1,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/wublockchain12/status/1995424479271330231",
+    "fullText": "吴说获悉，David Sacks 发文称，《纽约时报》针对其担任白宫 AI 与加密事务顾问期间的“利益冲突”调查已持续五个月，其间多项指控被逐条反驳，但 NYT 反复更换指控方向。他称 NYT 在持续“事实核查”过程中多次忽略或歪曲其回应，已聘请 Clare Locke 律所并公开往来文件回应。Brian Armstrong 转发称 NYT"
+  },
+  {
+    "user": {
+      "screenName": "discountifu",
+      "name": "大梦想家迪士尼",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1993334087940292609/WEd8L0BX_normal.jpg",
+      "description": "区块链｜AI｜玄学命理｜全沾工程师 🔮一站式加密货币看板 @ritmex_crypto 🕹️Sea·星海漫游 Co-Founder @Seaxing777",
+      "followersCount": 8248,
+      "friendsCount": 576,
+      "location": "Japan"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/discountifu/status/1995424242297663981",
+    "fullText": "Polymarket App 抢先预注册！\n传送门⬇️\nhttps://t.co/nhoNDviha4"
+  },
+  {
+    "user": {
       "screenName": "btcpiggy",
       "name": "开挂的金兔子☯️ 🍊MemeMax⚡️🧠SENT",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1992068457035386880/tOKeDb8i_normal.jpg",
       "description": "16年进入加密货币行业，玄學奇门遁甲预测加密货币|命运的改变始于看见 🛎️ ｜TG：https://t.co/mYpb4t0ty4｜币安广场创作者|币安返佣：https://t.co/AlkjvJSGtf ｜商务合作DM",
-      "followersCount": 30342,
+      "followersCount": 30353,
       "friendsCount": 2603,
       "location": ""
     },
@@ -20,7 +411,7 @@
       "name": "吴说区块链",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1763571513553543168/swT8lq9S_normal.jpg",
       "description": "吴说中文推特：接近真相，更可信赖\n专业可信的行业新闻，优质深度内容推荐\n吴说所有内容渠道、播客、APP 等：https://t.co/rVoqryXVjk\n联系我们 TG: colinwu1989",
-      "followersCount": 168606,
+      "followersCount": 168639,
       "friendsCount": 1,
       "location": ""
     },
@@ -35,7 +426,7 @@
       "name": "零下二度",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1487309134500225025/_W52xaE5_normal.jpg",
       "description": "百度搜索引擎优化工程师，互联网项目天使投资人，白桦林散文诗撰稿人。电报群：https://t.co/xmTwELWfE8  2023.10-2024.3连续16周币本位20倍做多sol赚取7k枚sol一战成名。 专注btc/eth/sol/sui/xrp现货操盘等服务。新telegram：lingxiaerdu5566",
-      "followersCount": 36115,
+      "followersCount": 36119,
       "friendsCount": 376,
       "location": "singapore"
     },
@@ -70,7 +461,7 @@
       "name": "Crypto Tony",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1612936440240898049/b8uRB78r_normal.jpg",
       "description": "Crypto .. 99% will lose all money invested. Check your own country laws before investing / trading. Tweets do not endorse buying Crypto or directed to UK users.",
-      "followersCount": 558364,
+      "followersCount": 558362,
       "friendsCount": 724,
       "location": "Dubai"
     },
@@ -88,7 +479,7 @@
       "name": "吴说区块链",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1763571513553543168/swT8lq9S_normal.jpg",
       "description": "吴说中文推特：接近真相，更可信赖\n专业可信的行业新闻，优质深度内容推荐\n吴说所有内容渠道、播客、APP 等：https://t.co/rVoqryXVjk\n联系我们 TG: colinwu1989",
-      "followersCount": 168606,
+      "followersCount": 168639,
       "friendsCount": 1,
       "location": ""
     },
@@ -103,8 +494,8 @@
       "name": "區塊先生 🐡 ⚠️ (rock #58)",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1869733805625647104/y9P6FvV4_normal.jpg",
       "description": "investor & advisor at @CurveFinance @PleasrDAO @ethena_labs @lighter_xyz & Puffer 🎍I make Crypto videos 平時就是做做Crypto影片和天使投資",
-      "followersCount": 98532,
-      "friendsCount": 3780,
+      "followersCount": 98535,
+      "friendsCount": 3782,
       "location": "Taiwan"
     },
     "images": [
@@ -122,7 +513,7 @@
       "name": "吴说区块链",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1763571513553543168/swT8lq9S_normal.jpg",
       "description": "吴说中文推特：接近真相，更可信赖\n专业可信的行业新闻，优质深度内容推荐\n吴说所有内容渠道、播客、APP 等：https://t.co/rVoqryXVjk\n联系我们 TG: colinwu1989",
-      "followersCount": 168606,
+      "followersCount": 168639,
       "friendsCount": 1,
       "location": ""
     },
@@ -137,7 +528,7 @@
       "name": "大梦想家迪士尼",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1993334087940292609/WEd8L0BX_normal.jpg",
       "description": "区块链｜AI｜玄学命理｜全沾工程师 🔮一站式加密货币看板 @ritmex_crypto 🕹️Sea·星海漫游 Co-Founder @Seaxing777",
-      "followersCount": 8246,
+      "followersCount": 8248,
       "friendsCount": 576,
       "location": "Japan"
     },
@@ -205,7 +596,7 @@
       "name": "Crypto Tony",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1612936440240898049/b8uRB78r_normal.jpg",
       "description": "Crypto .. 99% will lose all money invested. Check your own country laws before investing / trading. Tweets do not endorse buying Crypto or directed to UK users.",
-      "followersCount": 558364,
+      "followersCount": 558362,
       "friendsCount": 724,
       "location": "Dubai"
     },
@@ -220,7 +611,7 @@
       "name": "真爱社",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1823710618794516490/JosIMauP_normal.jpg",
       "description": "原创投稿流量扶持 @guochanfulishe\n每日推文转发2次-------3点----------10点\n@fulishe_  @zhenaishe_ @TZZ_guochan  原创初次投稿私 @TZZ_guochan 验证",
-      "followersCount": 249642,
+      "followersCount": 249625,
       "friendsCount": 5,
       "location": "外围大圈女COS圈空降"
     },
@@ -237,7 +628,7 @@
       "name": "Partisia Blockchain",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1858554363922259968/u0M3EFYl_normal.jpg",
       "description": "Partisia's Layer 1 Blockchain is doing for data what Bitcoin did for money.",
-      "followersCount": 198076,
+      "followersCount": 198072,
       "friendsCount": 176,
       "location": "Zug, Switzerland"
     },
@@ -254,8 +645,8 @@
       "name": "Crypto二狗",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1913255919993212928/JB2gyiaR_normal.jpg",
       "description": "$BNB 6年老OG 喜欢吹水交朋友 社区加微信xx145311 内容没有投资建议,仅代表个人观点 高风险投机 DYOR| #Binance https://t.co/BNuRmuEgrZ",
-      "followersCount": 29608,
-      "friendsCount": 1262,
+      "followersCount": 29618,
+      "friendsCount": 1263,
       "location": "歪脖山"
     },
     "images": [],
@@ -271,7 +662,7 @@
       "name": "零下二度",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1487309134500225025/_W52xaE5_normal.jpg",
       "description": "百度搜索引擎优化工程师，互联网项目天使投资人，白桦林散文诗撰稿人。电报群：https://t.co/xmTwELWfE8  2023.10-2024.3连续16周币本位20倍做多sol赚取7k枚sol一战成名。 专注btc/eth/sol/sui/xrp现货操盘等服务。新telegram：lingxiaerdu5566",
-      "followersCount": 36115,
+      "followersCount": 36119,
       "friendsCount": 376,
       "location": "singapore"
     },
@@ -288,7 +679,7 @@
       "name": "证势交易",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1597568078292082688/yGV-YUO__normal.jpg",
       "description": "🤵‍♂️证势集团CTO，证势交易创始人 🎯11年交易员，专注外汇(中线)、币圈(合约+现货)、期货(波段)、股票(长线) 📈交易，在推特整个中文区，在现价喊单与分享策略方面准确率第一，策略都是实打实，没有模凌两可，更没有马后炮，如果你也做交易，更想学好交易，就关注证势交易",
-      "followersCount": 66247,
+      "followersCount": 66253,
       "friendsCount": 61,
       "location": "Nevada, USA"
     },
@@ -303,7 +694,7 @@
       "name": "Crypto Tony",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1612936440240898049/b8uRB78r_normal.jpg",
       "description": "Crypto .. 99% will lose all money invested. Check your own country laws before investing / trading. Tweets do not endorse buying Crypto or directed to UK users.",
-      "followersCount": 558364,
+      "followersCount": 558362,
       "friendsCount": 724,
       "location": "Dubai"
     },
@@ -320,7 +711,7 @@
       "name": "证势交易",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1597568078292082688/yGV-YUO__normal.jpg",
       "description": "🤵‍♂️证势集团CTO，证势交易创始人 🎯11年交易员，专注外汇(中线)、币圈(合约+现货)、期货(波段)、股票(长线) 📈交易，在推特整个中文区，在现价喊单与分享策略方面准确率第一，策略都是实打实，没有模凌两可，更没有马后炮，如果你也做交易，更想学好交易，就关注证势交易",
-      "followersCount": 66247,
+      "followersCount": 66253,
       "friendsCount": 61,
       "location": "Nevada, USA"
     },
@@ -340,7 +731,7 @@
       "name": "吴说区块链",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1763571513553543168/swT8lq9S_normal.jpg",
       "description": "吴说中文推特：接近真相，更可信赖\n专业可信的行业新闻，优质深度内容推荐\n吴说所有内容渠道、播客、APP 等：https://t.co/rVoqryXVjk\n联系我们 TG: colinwu1989",
-      "followersCount": 168606,
+      "followersCount": 168639,
       "friendsCount": 1,
       "location": ""
     },
@@ -355,7 +746,7 @@
       "name": "大帅老猿",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/687927732311863297/iJSmNFUt_normal.jpg",
       "description": "边开房车边写代码走遍了中国 33 个省份，目前在清迈陪读，日常分享编程，游戏，AI，SEO，黑客增长和生活。",
-      "followersCount": 51516,
+      "followersCount": 51509,
       "friendsCount": 595,
       "location": "blog ➡️"
     },
@@ -372,8 +763,8 @@
       "name": "區塊先生 🐡 ⚠️ (rock #58)",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1869733805625647104/y9P6FvV4_normal.jpg",
       "description": "investor & advisor at @CurveFinance @PleasrDAO @ethena_labs @lighter_xyz & Puffer 🎍I make Crypto videos 平時就是做做Crypto影片和天使投資",
-      "followersCount": 98532,
-      "friendsCount": 3780,
+      "followersCount": 98535,
+      "friendsCount": 3782,
       "location": "Taiwan"
     },
     "images": [
@@ -900,7 +1291,7 @@
       "name": "Bitcoin.不求人",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1755778120819564544/VN-W-jMH_normal.jpg",
       "description": "全职炒币9年，20年牛市2万本金打到A7，注册币安邀请码：ETHBQR 进终身VIP，没有套路，主打免费课程免费进群，每天分享交易知识带你穿越牛熊！",
-      "followersCount": 58780,
+      "followersCount": 58752,
       "friendsCount": 1135,
       "location": "唯一TG：btcbqr"
     },
@@ -2942,6 +3333,24 @@
     ],
     "tweetUrl": "https://x.com/overtime/status/1995226851195990338",
     "fullText": "Not real\n\n(via @NFL)\n\n https://t.co/HnwdI9GflP"
+  },
+  {
+    "user": {
+      "screenName": "thecryptoskanda",
+      "name": "加密韋馱｜Skanda 🇹🇭",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1952378634406391808/Ta6RBRUd_normal.jpg",
+      "description": "韋(wěi) 馱(tuó) // Gambling & Ponzi // Con-Artist @Open_rug// Explore 130+ Chains with #okx https://t.co/6vHmBYOjM3 | Trade with #Binance https://t.co/H03DosP4lJ",
+      "followersCount": 49050,
+      "friendsCount": 2214,
+      "location": "Myawaddy"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G7AN3z6WMAANcFg.jpg",
+      "https://pbs.twimg.com/media/G7AOUdVXUAApOmX.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/thecryptoskanda/status/1995110578285682751",
+    "fullText": "我虽然一直在空 $MON ，但我觉得有必要讲个公道话：\n\n他这种情况，跟当年的Sui真的是一摸一样，是完全可预期，意料之中的情况，真不见得是团队做什么恶\n\n2023年5月Sui在熊市正中央开盘, Monad 11月24日也是熊市情绪（恐慌指数）开盘：\n\n- https://t.co/Y67djDkuYF"
   },
   {
     "user": {
