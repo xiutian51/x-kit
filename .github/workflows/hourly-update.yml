@@ -58,6 +58,20 @@ jobs:
           bun run scripts/fetch-tweets.ts
           echo "推文获取完成"
         
+      - name: Send to Flask Server
+        if: always()  # 无论推文获取是否成功，都尝试发送
+        env:
+          FLASK_API_URL: ${{ secrets.FLASK_API_URL }}
+          FLASK_API_KEY: ${{ secrets.FLASK_API_KEY }}
+        run: |
+          if [ -z "$FLASK_API_URL" ] || [ -z "$FLASK_API_KEY" ]; then
+            echo "⚠️ Flask 服务器配置未设置，跳过发送"
+            echo "如需启用，请配置 FLASK_API_URL 和 FLASK_API_KEY Secrets"
+          else
+            echo "🚀 发送数据到 Flask 服务器..."
+            bun run scripts/send-to-server.ts || echo "⚠️ 发送到服务器失败，但继续执行"
+          fi
+        
       - name: Check for changes
         id: verify-changed-files
         run: |
