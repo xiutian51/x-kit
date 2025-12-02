@@ -8,8 +8,8 @@ on:
     branches:
       - main
     paths:
+      - 'dashboard/index.html'
       - 'tweets/**'
-      - 'scripts/generate-dashboard.ts'
 
 jobs:
   deploy-dashboard:
@@ -25,16 +25,13 @@ jobs:
         with:
           token: ${{ secrets.GH_TOKEN || github.token }}
           
-      - name: Setup Bun
-        uses: oven-sh/setup-bun@v1
-        with:
-          bun-version: latest
-          
-      - name: Install dependencies
-        run: bun install
-        
-      - name: Generate Dashboard
-        run: bun run scripts/generate-dashboard.ts
+      - name: Verify index.html exists
+        run: |
+          if [ ! -f "dashboard/index.html" ]; then
+            echo "错误: dashboard/index.html 不存在"
+            exit 1
+          fi
+          echo "✓ dashboard/index.html 已找到"
         
       - name: Setup Pages
         uses: actions/configure-pages@v4
