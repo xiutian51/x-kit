@@ -1134,7 +1134,7 @@
       <h4>服务器配置</h4>
       <div class="config-field">
         <label>API 服务器地址</label>
-        <input type="text" id="server-url" value="http://localhost:5000" onchange="saveServerConfig()">
+        <input type="text" id="server-url" value="http://115.190.153.118:20500" onchange="saveServerConfig()">
       </div>
       <div class="config-status" id="server-status">
         <span class="status-dot disconnected"></span>
@@ -1145,7 +1145,7 @@
   
   <script>
     // 全局变量
-    let serverUrl = localStorage.getItem('serverUrl') || 'http://localhost:5000';
+    let serverUrl = localStorage.getItem('serverUrl') || 'http://115.190.153.118:20500';
     let authToken = localStorage.getItem('authToken') || null;
     let currentUsername = localStorage.getItem('currentUsername') || null;
     let currentPage = 1;
