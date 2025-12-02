@@ -1,11 +1,479 @@
 [
   {
     "user": {
+      "screenName": "arbitrum_cn",
+      "name": "Arbitrum 中文区 (💙,🧡)",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1636351913435463680/oRqIg7Az_normal.png",
+      "description": "@arbitrum Foundation官方中文账号。为所有人服务的链上生态，随心打造属于你的应用与公链。",
+      "followersCount": 16312,
+      "friendsCount": 14,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G7FwVvMa4AA4kKQ.png"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/arbitrum_cn/status/1995691893750202879",
+    "fullText": "Robinhood 现已将近 1,000 只股票进行代币化。\n\n他们先在 Arbitrum 上为欧盟用户开放，后续很快会覆盖全球。\n\n传统金融正在加速上链，一切尽在以太坊生态。\n\nArbitrum 无所不在 🫡 https://t.co/3PPxraWceM"
+  },
+  {
+    "user": {
+      "screenName": "wublockchain12",
+      "name": "吴说区块链",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1763571513553543168/swT8lq9S_normal.jpg",
+      "description": "吴说中文推特：接近真相，更可信赖\n专业可信的行业新闻，优质深度内容推荐\n吴说所有内容渠道、播客、APP 等：https://t.co/rVoqryXVjk\n联系我们 TG: colinwu1989",
+      "followersCount": 168665,
+      "friendsCount": 1,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/wublockchain12/status/1995691842722251030",
+    "fullText": "吴说获悉，美股上市矿企 Cango Inc.（CANG） 公布三季度业绩：季度收入 2.246 亿美元，其中比特币挖矿收入占 2.209 亿美元。三季度共挖出 1,930.8 枚 BTC，日均 21 枚；平均挖矿成本 8.1 万美元/BTC，全成本 9.94 万美元/BTC。公司本季实现 4350 万美元运营利润、3730 万美元净利润，调整后 EBITDA"
+  },
+  {
+    "user": {
+      "screenName": "jackli727",
+      "name": "零下二度",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1487309134500225025/_W52xaE5_normal.jpg",
+      "description": "百度搜索引擎优化工程师，互联网项目天使投资人，白桦林散文诗撰稿人。电报群：https://t.co/xmTwELWfE8  2023.10-2024.3连续16周币本位20倍做多sol赚取7k枚sol一战成名。 专注btc/eth/sol/sui/xrp现货操盘等服务。新telegram：lingxiaerdu5566",
+      "followersCount": 36184,
+      "friendsCount": 376,
+      "location": "singapore"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G7Id40gbgAA1rSB.jpg",
+      "https://pbs.twimg.com/media/G7Id40jaQAAlV3o.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/jackli727/status/1995691479847895048",
+    "fullText": "短线上，eth昨晚跌到了2720附近，符合昨天中午对昨晚加速下跌的期望。后半夜到今天上午超跌反弹一下，下午到晚上依然会继续回踩2700方向，防范这里是否跌破。 https://t.co/1Cz3xGv9D0"
+  },
+  {
+    "user": {
+      "screenName": "huahuayjy",
+      "name": "花花🇨🇳",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1899093962121441280/alUPagLK_normal.jpg",
+      "description": "知行合一，推特为记录个人交易，不构成投资建议。",
+      "followersCount": 283686,
+      "friendsCount": 1122,
+      "location": "新加坡"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/huahuayjy/status/1995691324268576859",
+    "fullText": "已经拒绝参加一切币圈活动，为退圈做准备了。\n\n深深的厌恶这个圈子，仅此而已。"
+  },
+  {
+    "user": {
+      "screenName": "wublockchain12",
+      "name": "吴说区块链",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1763571513553543168/swT8lq9S_normal.jpg",
+      "description": "吴说中文推特：接近真相，更可信赖\n专业可信的行业新闻，优质深度内容推荐\n吴说所有内容渠道、播客、APP 等：https://t.co/rVoqryXVjk\n联系我们 TG: colinwu1989",
+      "followersCount": 168665,
+      "friendsCount": 1,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/wublockchain12/status/1995690407951466972",
+    "fullText": "吴说获悉，据正义网报道，山西太原万柏林区法院近日一审宣判一起利用虚拟货币掩饰、隐瞒犯罪所得案件。两名被告人在明知资金来源异常的情况下，按诈骗分子指示，将受害人 147 万元现金转为泰达币（USDT）并跨境转移，事后收取 3 万元“好处费”。法院最终采纳检方量刑建议，分别判处 2 年 6 个月和 1 年"
+  },
+  {
+    "user": {
+      "screenName": "jackli727",
+      "name": "零下二度",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1487309134500225025/_W52xaE5_normal.jpg",
+      "description": "百度搜索引擎优化工程师，互联网项目天使投资人，白桦林散文诗撰稿人。电报群：https://t.co/xmTwELWfE8  2023.10-2024.3连续16周币本位20倍做多sol赚取7k枚sol一战成名。 专注btc/eth/sol/sui/xrp现货操盘等服务。新telegram：lingxiaerdu5566",
+      "followersCount": 36184,
+      "friendsCount": 376,
+      "location": "singapore"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G7IdMAwbgAEMBra.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/jackli727/status/1995689786850599419",
+    "fullText": "eth 月线死叉这几天才刚形成。在未来3个月内的趋势上，有可能跟2-4月份的走势一致，走一个月线5连阴的震荡下行。因为它无法站稳月线boll中轨（3050）往上轨（4400）以上去走，所以往下轨移动的概率就非常大。 https://t.co/YvFLdwDpJw"
+  },
+  {
+    "user": {
+      "screenName": "sunyuchentron",
+      "name": "孙宇晨（去过太空版）🧑‍🚀",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1955272811448340480/M9982AS6_normal.jpg",
+      "description": "👨‍💻 企业家 | 🤵‍♂️ 外交官 | 👨‍🚀 宇航员 #712 | 🍌 艺术收藏家 | 创始人 @trondaoCN | 顾问 @BitTorrent & @htx_global | 英文@justinsuntron",
+      "followersCount": 237425,
+      "friendsCount": 274,
+      "location": "Singapore"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/sunyuchentron/status/1995689526631751723",
+    "fullText": "心系香港火灾中的受灾同胞。\n\n让我们同舟共济，共渡时艰。\n\nhttps://t.co/XlqtyTKujn"
+  },
+  {
+    "user": {
       "screenName": "ESPNNBA",
       "name": "NBA on ESPN",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1051916190061404161/jzwKNnwY_normal.jpg",
       "description": "Official account of the NBA on ESPN.\n\nSign up for ESPN! https://t.co/9IUp5oiivV\nQuestions about your subscription? https://t.co/xdztE7q69N",
-      "followersCount": 9096960,
+      "followersCount": 9095499,
+      "friendsCount": 698,
+      "location": "ESPN"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1995689211773505536/vid/avc1/1920x1080/_e4BIP3yy0QinvgO.mp4?tag=16"
+    ],
+    "tweetUrl": "https://x.com/ESPNNBA/status/1995689300604649654",
+    "fullText": "A PAIR OF POSTERS IN BROOKLYN 🔥🔥🔥\n\nNets get their first home win of the season! https://t.co/kmcEfrMQMX"
+  },
+  {
+    "user": {
+      "screenName": "wublockchain12",
+      "name": "吴说区块链",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1763571513553543168/swT8lq9S_normal.jpg",
+      "description": "吴说中文推特：接近真相，更可信赖\n专业可信的行业新闻，优质深度内容推荐\n吴说所有内容渠道、播客、APP 等：https://t.co/rVoqryXVjk\n联系我们 TG: colinwu1989",
+      "followersCount": 168665,
+      "friendsCount": 1,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/wublockchain12/status/1995689079250583942",
+    "fullText": "吴说获悉，Anthropic 最新研究显示，AI Agents 具备可观的链上攻击能力：在对 2020–2025 年真实被黑的智能合约进行模拟测试中，Claude Opus 4.5、Sonnet 4.5 与 GPT-5 共计复现价值约 460 万美元的漏洞利用；在扫描 2849 个尚无已知漏洞的合约时，两模型还挖出 2"
+  },
+  {
+    "user": {
+      "screenName": "0xzhaozhao",
+      "name": "0xzhaozhao | 🌊RIVER | MemeMax⚡️",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1943563003275939841/nkNdTt9r_normal.jpg",
+      "description": "人生是用来体验的，Web3浪客。｜ 🏁Crypto入口，#OKX Web3 就够 ！最全交易工具，畅游130+公链，极速交易热门Meme。https://t.co/Qf6ORNcMNJ｜",
+      "followersCount": 69526,
+      "friendsCount": 3218,
+      "location": "合作DM"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G7IcJC2bgAEq45_.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/0xzhaozhao/status/1995688535714828305",
+    "fullText": "在内地监管升级之下，\n如何更安全的使用自己的USDT/USDC？\n\n1️⃣出金至港卡→再通过港卡进入支付宝/银联卡\n·从背包到众安，手续费固定为20U，无论多少资金都20U。\n·从众安到支付宝，手续费也是固定的，50港币左右。\n\n2️⃣将港卡绑定至微信支付-香港→进行日常消费\n· https://t.co/2YKrZVkz5W"
+  },
+  {
+    "user": {
+      "screenName": "hexiecs",
+      "name": "冷静冷静再冷静",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1808852270513278978/U5U08gDs_normal.jpg",
+      "description": "building good tools for the love of the game.",
+      "followersCount": 84569,
+      "friendsCount": 1397,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/hexiecs/status/1995688496141664529",
+    "fullText": "In a bear market, it’s actually easier to make small daily profits if you know how to short. Almost all altcoin pump reactions to ‘good news’ are unsustainable (avoid heavily controlled coins) because there just isn’t enough money left on the table. \nWhen dumb money believes"
+  },
+  {
+    "user": {
+      "screenName": "wublockchain12",
+      "name": "吴说区块链",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1763571513553543168/swT8lq9S_normal.jpg",
+      "description": "吴说中文推特：接近真相，更可信赖\n专业可信的行业新闻，优质深度内容推荐\n吴说所有内容渠道、播客、APP 等：https://t.co/rVoqryXVjk\n联系我们 TG: colinwu1989",
+      "followersCount": 168665,
+      "friendsCount": 1,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/wublockchain12/status/1995687072624246899",
+    "fullText": "吴说获悉，据 SoSoValue 数据，昨日（美东时间 12 月 1 日）Solana 现货 ETF 总净流出 1355 万美元。昨日（美东时间 12 月 1 日）单日净流入最多的 SOL 现货 ETF 为 Bitwise SOL ETF BSOL，单日净流入为 1718 万美元，目前 BSOL 历史总净流入达 5.45 亿美元。\nhttps://t.co/zHpn9SjnGh"
+  },
+  {
+    "user": {
+      "screenName": "wublockchain12",
+      "name": "吴说区块链",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1763571513553543168/swT8lq9S_normal.jpg",
+      "description": "吴说中文推特：接近真相，更可信赖\n专业可信的行业新闻，优质深度内容推荐\n吴说所有内容渠道、播客、APP 等：https://t.co/rVoqryXVjk\n联系我们 TG: colinwu1989",
+      "followersCount": 168665,
+      "friendsCount": 1,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/wublockchain12/status/1995686515087999093",
+    "fullText": "吴说获悉，据 SoSoValue 数据，昨日（美东时间 12 月 1 日）XRP 现货 ETF 总净流入 8965 万美元。昨日（美东时间 12 月 1 日）单日净流入最多的 XRP 现货 ETF 为 Grayscale XRP ETF GXRP，单日净流入为 5230 万美元，目前 GXRP 历史总净流入达 1.24 亿美元。\nhttps://t.co/LsjFd7F6b8"
+  },
+  {
+    "user": {
+      "screenName": "xiajingfa8",
+      "name": "证势交易",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1597568078292082688/yGV-YUO__normal.jpg",
+      "description": "🤵‍♂️证势集团CTO，证势交易创始人 🎯11年交易员，专注外汇(中线)、币圈(合约+现货)、期货(波段)、股票(长线) 📈交易，在推特整个中文区，在现价喊单与分享策略方面准确率第一，策略都是实打实，没有模凌两可，更没有马后炮，如果你也做交易，更想学好交易，就关注证势交易",
+      "followersCount": 66343,
+      "friendsCount": 61,
+      "location": "Nevada, USA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G7IZBV-bwAAOM6e.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/xiajingfa8/status/1995685098071752722",
+    "fullText": "我从不搞模拟盘，不发截图，买的时候第一时间通知大家，不管盈亏，实盘操作，资金20-30万做短线，绝不口嗨与马后炮，不玩假，一切是真干😄 https://t.co/pDeZOJXlU9"
+  },
+  {
+    "user": {
+      "screenName": "aooomiz",
+      "name": "Aoomi",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1518631378753105921/NMqQ6wpV_normal.jpg",
+      "description": "最不幸的是：她的性格卑劣，十分狂热，在任何场合和一切方面总是爱走极端，一辈子都漫无节制。",
+      "followersCount": 341707,
+      "friendsCount": 55,
+      "location": "United States"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G7IXMcKWQAAh0ER.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/aooomiz/status/1995683090862407784",
+    "fullText": "小狗狗 色一下 https://t.co/69hRqcdIzv"
+  },
+  {
+    "user": {
+      "screenName": "wublockchain12",
+      "name": "吴说区块链",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1763571513553543168/swT8lq9S_normal.jpg",
+      "description": "吴说中文推特：接近真相，更可信赖\n专业可信的行业新闻，优质深度内容推荐\n吴说所有内容渠道、播客、APP 等：https://t.co/rVoqryXVjk\n联系我们 TG: colinwu1989",
+      "followersCount": 168665,
+      "friendsCount": 1,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/wublockchain12/status/1995681876959527268",
+    "fullText": "吴说获悉，韩国加密交易所 Bithumb 与 Upbit 同日宣布，将 Grostlcoin（GRS） 列为“交易注意”项目，并同步暂停入金。DAXA（韩国交易所自律组织）在审核中指出，GRS 项目方对影响代币价值的重要事项披露不足，业务实际进展存在多项不达标情况，具有潜在投资者损害风险。\nhttps://t.co/YRD0izqclQ"
+  },
+  {
+    "user": {
+      "screenName": "ShannonSharpe",
+      "name": "shannon sharpe",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1914779013677244417/OKgmlYh__normal.jpg",
+      "description": "Professional talker. Savannah State alum, 3x Super Bowl champ, Pro Football HOF. Brother, Dad, Pawpaw, Boss. For inquiries: 84inquiries@gmail.com",
+      "followersCount": 2051609,
+      "friendsCount": 485,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/ShannonSharpe/status/1995681675985187211",
+    "fullText": "Elliss has GPS tracking. He’s locked in on a target. It’s getting blown  up. #MondayNightFootball #GiantsPats"
+  },
+  {
+    "user": {
+      "screenName": "xiajingfa8",
+      "name": "证势交易",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1597568078292082688/yGV-YUO__normal.jpg",
+      "description": "🤵‍♂️证势集团CTO，证势交易创始人 🎯11年交易员，专注外汇(中线)、币圈(合约+现货)、期货(波段)、股票(长线) 📈交易，在推特整个中文区，在现价喊单与分享策略方面准确率第一，策略都是实打实，没有模凌两可，更没有马后炮，如果你也做交易，更想学好交易，就关注证势交易",
+      "followersCount": 66343,
+      "friendsCount": 61,
+      "location": "Nevada, USA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G7IV2HdbgAI5anl.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/xiajingfa8/status/1995681606645022859",
+    "fullText": "卧槽，我只能说牛逼，刚刚发布完就拉升 https://t.co/ir4ANQYg32"
+  },
+  {
+    "user": {
+      "screenName": "wublockchain12",
+      "name": "吴说区块链",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1763571513553543168/swT8lq9S_normal.jpg",
+      "description": "吴说中文推特：接近真相，更可信赖\n专业可信的行业新闻，优质深度内容推荐\n吴说所有内容渠道、播客、APP 等：https://t.co/rVoqryXVjk\n联系我们 TG: colinwu1989",
+      "followersCount": 168665,
+      "friendsCount": 1,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/wublockchain12/status/1995681374402195808",
+    "fullText": "吴说获悉，据 @counterpartytv 数据面板，在 7.6 万个 MON 空投地址中，62.3% 的地址已经转移或者出售了其全部的 MON 空投，约 28% 的地址仍然全额持有空投。在 Top 25 名空投地址中，68% 的地址已将其全部或部分 MON 转移或者出售。当前 MON 价格略高于公售价格。https://t.co/3NiZr8tdXI"
+  },
+  {
+    "user": {
+      "screenName": "ESPNNBA",
+      "name": "NBA on ESPN",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1051916190061404161/jzwKNnwY_normal.jpg",
+      "description": "Official account of the NBA on ESPN.\n\nSign up for ESPN! https://t.co/9IUp5oiivV\nQuestions about your subscription? https://t.co/xdztE7q69N",
+      "followersCount": 9095499,
+      "friendsCount": 698,
+      "location": "ESPN"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1995681159309611008/vid/avc1/1280x720/O38MFWZdeEO6Ohiu.mp4?tag=16"
+    ],
+    "tweetUrl": "https://x.com/ESPNNBA/status/1995681187025576295",
+    "fullText": "CADE CUNNINGHAM IS CLUTCH 🔥 https://t.co/AMlBkWdKjo"
+  },
+  {
+    "user": {
+      "screenName": "blockjob2022",
+      "name": "Block Job",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1740552276312489984/nfHV_T_D_normal.jpg",
+      "description": "BlockJob「万象招聘」– 不被定义的区块链头部招聘平台，既能发布招聘｜找工作，还能来这里看段子！🧏🏻‍♂️",
+      "followersCount": 10566,
+      "friendsCount": 153,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G7IVLM8bYAAFqcw.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/blockjob2022/status/1995680876869624094",
+    "fullText": "GM🌞～ https://t.co/idE7YaoYoJ"
+  },
+  {
+    "user": {
+      "screenName": "overtime",
+      "name": "Overtime",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1931377566432317440/k5bQMdwy_normal.jpg",
+      "description": "🫶",
+      "followersCount": 1746760,
+      "friendsCount": 1207,
+      "location": ""
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1995678661564137488/vid/avc1/1920x1080/G1DyiTrRljJYjoaP.mp4?tag=21"
+    ],
+    "tweetUrl": "https://x.com/overtime/status/1995680825669812333",
+    "fullText": "Worst than the butt fumble? \n\n(via @NFL)\n\n https://t.co/ucBJs7SqoA"
+  },
+  {
+    "user": {
+      "screenName": "haze0x",
+      "name": "Haze 𝓰𝓶𝓰𝓷𝓪𝓲",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1940293487993208832/pji9dIoA_normal.jpg",
+      "description": "Cooking https://t.co/NVpkvmmdWB\n\nDon't copy trade my wallet, I will sell it at any time.\n\nI have no reason for my trade, just testing the product.",
+      "followersCount": 136823,
+      "friendsCount": 2055,
+      "location": "Onchain"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G7IUVRCbgAIzH7q.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/haze0x/status/1995680358768222425",
+    "fullText": "想在GMGN申请添加为KOL吗？\n在页面如图所示的位置，点击，填表，等待审核。\n就可以了。 https://t.co/akzuOLA0Uf"
+  },
+  {
+    "user": {
+      "screenName": "xiajingfa8",
+      "name": "证势交易",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1597568078292082688/yGV-YUO__normal.jpg",
+      "description": "🤵‍♂️证势集团CTO，证势交易创始人 🎯11年交易员，专注外汇(中线)、币圈(合约+现货)、期货(波段)、股票(长线) 📈交易，在推特整个中文区，在现价喊单与分享策略方面准确率第一，策略都是实打实，没有模凌两可，更没有马后炮，如果你也做交易，更想学好交易，就关注证势交易",
+      "followersCount": 66343,
+      "friendsCount": 61,
+      "location": "Nevada, USA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G7IUkdqbgAEaNlA.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/xiajingfa8/status/1995680204719874366",
+    "fullText": "不要问我雪人集团还在不在，昨天买的雪人集团不仅还在，刚刚把合金投资卖了还加仓了，合金投资赚6.8%平仓了，例外（由于私信太多，没有精力全部回复，日后私信不回了，只回答评论区最前十条铁粉的信息，这样大家都能第一时间看到，一箭双雕，例外本人纯分享，股票跟单需谨慎，祝大家多多赚钱🚀 https://t.co/UMpXrtBqb7"
+  },
+  {
+    "user": {
+      "screenName": "ChinaPumpWXC",
+      "name": "中国密码鲸公司 WHALE CHINESE 🇨🇳🐳🚀🌖",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1576255175693840387/m--uK6V2_normal.jpg",
+      "description": "⛩中国最大的“鲸鱼”社区，聚集了大量大额投资者/鲸鱼，对 #Crypto、#BTC、#Binance 等项目感兴趣。这里有许多与加密货币相关的内容，投资者在此汇聚，进行大额投资并共同讨论。所有推广项目仅供参考，请在投资前务必认真研究并尽职审查，独立判断并承担风险。",
+      "followersCount": 307261,
+      "friendsCount": 5786,
+      "location": "TOP ASIAN"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G7ITc6CbgAMioG3.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/ChinaPumpWXC/status/1995678979895033930",
+    "fullText": "$YEE 不只是一个恐龙 🦖 梗。\n它是一个拥有真实机制、真实分发能力，以及一个不仅仅持有……而是会行动的社区的梗。\n\n没有实用性的梗只是情绪。\n有实用性的梗会成为一种运动 ——\n它会吸引建设者、创造需求循环，即使在市场低迷时仍能不断扩张。\n\n0x9Ac9468E7E3E1D194080827226B45d0B892C77Fd https://t.co/qsUuijLbzz"
+  },
+  {
+    "user": {
+      "screenName": "ShannonSharpe",
+      "name": "shannon sharpe",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1914779013677244417/OKgmlYh__normal.jpg",
+      "description": "Professional talker. Savannah State alum, 3x Super Bowl champ, Pro Football HOF. Brother, Dad, Pawpaw, Boss. For inquiries: 84inquiries@gmail.com",
+      "followersCount": 2051609,
+      "friendsCount": 485,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/ShannonSharpe/status/1995678498078556434",
+    "fullText": "WTF was kicker doing? He missed the entire F’ing 🏈#MONDAYNIGHTFOOTBALL #GiantsPats"
+  },
+  {
+    "user": {
+      "screenName": "off_thetarget",
+      "name": "pepper 花椒",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1735898949146607616/Aq9dJSvQ_normal.png",
+      "description": "🔶经济模型设计/盘子设计 No Ponzi, No Finance.\n🔶 花椒盘学八字 「掐头去尾 中间留水」花椒经济学 @pepperfr1ends",
+      "followersCount": 32466,
+      "friendsCount": 2642,
+      "location": "大群限时开放"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G7IR_oVbgAEQLw6.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/off_thetarget/status/1995677678675050806",
+    "fullText": "Satlayer 现在市值2百万，FDV 9M \n\n你OTC的deal卖10万的货标价8.5M? \n\n现在你相信投资人真的都在亏了吧 https://t.co/ICGnFLc3Ei"
+  },
+  {
+    "user": {
+      "screenName": "xiajingfa8",
+      "name": "证势交易",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1597568078292082688/yGV-YUO__normal.jpg",
+      "description": "🤵‍♂️证势集团CTO，证势交易创始人 🎯11年交易员，专注外汇(中线)、币圈(合约+现货)、期货(波段)、股票(长线) 📈交易，在推特整个中文区，在现价喊单与分享策略方面准确率第一，策略都是实打实，没有模凌两可，更没有马后炮，如果你也做交易，更想学好交易，就关注证势交易",
+      "followersCount": 66343,
+      "friendsCount": 61,
+      "location": "Nevada, USA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G7ISIxBbgAEs-Pa.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/xiajingfa8/status/1995677529034948647",
+    "fullText": "15.55买入开开实业 https://t.co/yf6YLqf7ka"
+  },
+  {
+    "user": {
+      "screenName": "realDonaldTrump",
+      "name": "Donald J. Trump",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+      "description": "45th & 47th President of the United States of America🇺🇸",
+      "followersCount": 108565494,
+      "friendsCount": 53,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/realDonaldTrump/status/1995676855651664182",
+    "fullText": "I am asking all America First Patriots in Tennessee’s 7th Congressional District to please GET OUT AND VOTE TOMORROW for a phenomenal Candidate, Matt Van Epps, on Election Day, Tuesday, December 2nd! You can win this Election for MAGA Warrior Matt Van Epps, who has my Complete"
+  },
+  {
+    "user": {
+      "screenName": "ESPNNBA",
+      "name": "NBA on ESPN",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1051916190061404161/jzwKNnwY_normal.jpg",
+      "description": "Official account of the NBA on ESPN.\n\nSign up for ESPN! https://t.co/9IUp5oiivV\nQuestions about your subscription? https://t.co/xdztE7q69N",
+      "followersCount": 9095499,
       "friendsCount": 698,
       "location": "ESPN"
     },
@@ -22,7 +490,7 @@
       "name": "YuanMan🐮",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1984085752221986820/duNVXNlL_normal.jpg",
       "description": "🛠️Founder of @SanyuanCapital @DeJob_Official  📩Telegram：https://t.co/sZnvz7VZdb",
-      "followersCount": 33396,
+      "followersCount": 33440,
       "friendsCount": 1396,
       "location": ""
     },
@@ -39,7 +507,7 @@
       "name": "子时",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1939972609023582210/TznrEwzJ_normal.jpg",
       "description": "剑开天门 伟大撤退 ｜Crypto入口,OKX就够,最全交易工具,畅游130+公链,极速交易热门Meme 🔗 https://t.co/2xvR6AW4jb",
-      "followersCount": 86770,
+      "followersCount": 86786,
       "friendsCount": 3161,
       "location": "Dublin"
     },
@@ -56,7 +524,7 @@
       "name": "吴说区块链",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1763571513553543168/swT8lq9S_normal.jpg",
       "description": "吴说中文推特：接近真相，更可信赖\n专业可信的行业新闻，优质深度内容推荐\n吴说所有内容渠道、播客、APP 等：https://t.co/rVoqryXVjk\n联系我们 TG: colinwu1989",
-      "followersCount": 168658,
+      "followersCount": 168665,
       "friendsCount": 1,
       "location": ""
     },
@@ -71,7 +539,7 @@
       "name": "吴说区块链",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1763571513553543168/swT8lq9S_normal.jpg",
       "description": "吴说中文推特：接近真相，更可信赖\n专业可信的行业新闻，优质深度内容推荐\n吴说所有内容渠道、播客、APP 等：https://t.co/rVoqryXVjk\n联系我们 TG: colinwu1989",
-      "followersCount": 168658,
+      "followersCount": 168665,
       "friendsCount": 1,
       "location": ""
     },
@@ -86,7 +554,7 @@
       "name": "ALERT的会所",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1633442170303811584/bm60R1cI_normal.jpg",
       "description": "我就是一个推油的，不搞黄不编剧，安心交易。 #OKX 钱包让你感受交易的丝滑： https://t.co/kw09kLc18l #Binance 你的数字货币购买/交易平台，就是币安 https://t.co/hK6s7JwPbd",
-      "followersCount": 42190,
+      "followersCount": 42195,
       "friendsCount": 811,
       "location": ""
     },
@@ -104,7 +572,7 @@
       "name": "shannon sharpe",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1914779013677244417/OKgmlYh__normal.jpg",
       "description": "Professional talker. Savannah State alum, 3x Super Bowl champ, Pro Football HOF. Brother, Dad, Pawpaw, Boss. For inquiries: 84inquiries@gmail.com",
-      "followersCount": 2051579,
+      "followersCount": 2051609,
       "friendsCount": 485,
       "location": ""
     },
@@ -119,7 +587,7 @@
       "name": "Overtime",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1931377566432317440/k5bQMdwy_normal.jpg",
       "description": "🫶",
-      "followersCount": 1746727,
+      "followersCount": 1746760,
       "friendsCount": 1207,
       "location": ""
     },
@@ -136,7 +604,7 @@
       "name": "路遥 | Trader",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1929217566750515201/vEiguLrW_normal.jpg",
       "description": "路遥，全职奶爸、家庭煮夫，励志成为旅行美食博主！\n\n同时为B圈段子手兼全职在家蹲喝西北风交易猿\n反指达人，交易菜逼，亏钱小能手，佛系躺平ing...\n\n孤独的交易者\n思考、享受交易，体验、感悟人生。",
-      "followersCount": 88296,
+      "followersCount": 88303,
       "friendsCount": 357,
       "location": "CHINA"
     },
@@ -151,7 +619,7 @@
       "name": "OKX",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1968722816154345472/vEj4j3o9_normal.jpg",
       "description": "A new alternative for your crypto journey | Self-custody & dApps: @Wallet | Support: @OKXHelpDesk | UK users: @OKX_UK",
-      "followersCount": 5705325,
+      "followersCount": 5705384,
       "friendsCount": 322,
       "location": ""
     },
@@ -168,7 +636,7 @@
       "name": "pepper 花椒",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1735898949146607616/Aq9dJSvQ_normal.png",
       "description": "🔶经济模型设计/盘子设计 No Ponzi, No Finance.\n🔶 花椒盘学八字 「掐头去尾 中间留水」花椒经济学 @pepperfr1ends",
-      "followersCount": 32467,
+      "followersCount": 32466,
       "friendsCount": 2642,
       "location": "大群限时开放"
     },
@@ -185,7 +653,7 @@
       "name": "Phyrex",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1596374669824696320/MGne6qLH_normal.jpg",
       "description": "只是个搬砖的，偶尔恰饭\n不奢求，不浪费\nGlassNode 重度使用者\n没有群也不收费，所有分析回答均不构成投资建议\n近3亿用户共同选择Binance：https://t.co/JukzSnpfwD\nCrypto入口OKX就够了：https://t.co/vPOAfIjmpB\n做有温度的Bitget：https://t.co/VZ8RxZe5N7",
-      "followersCount": 365254,
+      "followersCount": 365270,
       "friendsCount": 5417,
       "location": "4XLABS 辅导全球Web3项目落地华语市场"
     },
@@ -202,7 +670,7 @@
       "name": "ThuanCapital",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1455210352371589128/Ml-o06bv_normal.jpg",
       "description": "Thạc Sĩ MBA | KPMG Alumni | CRCM | 8+ years Crypto\n\n⚠️Tất Cả Chỉ Vì Mục Đích Thông Tin Và Không Được Xem Là Lời Khuyên Đầu Tư\n\nContact: Admin@ThuanCapital.com",
-      "followersCount": 496760,
+      "followersCount": 496789,
       "friendsCount": 503,
       "location": "Moon"
     },
@@ -219,7 +687,7 @@
       "name": "吴说区块链",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1763571513553543168/swT8lq9S_normal.jpg",
       "description": "吴说中文推特：接近真相，更可信赖\n专业可信的行业新闻，优质深度内容推荐\n吴说所有内容渠道、播客、APP 等：https://t.co/rVoqryXVjk\n联系我们 TG: colinwu1989",
-      "followersCount": 168658,
+      "followersCount": 168665,
       "friendsCount": 1,
       "location": ""
     },
@@ -313,7 +781,7 @@
       "name": "YuanMan🐮",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1984085752221986820/duNVXNlL_normal.jpg",
       "description": "🛠️Founder of @SanyuanCapital @DeJob_Official  📩Telegram：https://t.co/sZnvz7VZdb",
-      "followersCount": 33396,
+      "followersCount": 33440,
       "friendsCount": 1396,
       "location": ""
     },
@@ -1070,6 +1538,21 @@
     "videos": [],
     "tweetUrl": "https://x.com/ThuanCapital/status/1995578992896925960",
     "fullText": "🇰🇿  KAZAKHSTAN CHUẨN BỊ MUA 300 TRIỆU USD CRYPTO\n\n🔸 Ngân hàng trung ương Kazakhstan muốn đầu tư từ 50 đến 300 triệu USD vào crypto nhưng sẽ chờ thị trường ổn định.\n\n🔸 Số tiền này lấy từ dự trữ ngoại hối không phải quỹ tài sản quốc gia\n\n🔸 Họ đã có https://t.co/ascWSOlUWQ"
+  },
+  {
+    "user": {
+      "screenName": "CMEGroup",
+      "name": "CME Group",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1807692157589069824/u18KKpaj_normal.jpg",
+      "description": "CME Group is the world’s leading derivatives marketplace.",
+      "followersCount": 697200,
+      "friendsCount": 6010,
+      "location": "Chicago"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/CMEGroup/status/1995562279023399313",
+    "fullText": "Following the Fed’s October rate cut, Fed Chair Jerome Powell poured cold water on the possibility of a further cut in 2025. What signals are markets watching?"
   },
   {
     "user": {
