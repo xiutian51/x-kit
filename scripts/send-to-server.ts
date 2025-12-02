@@ -28,17 +28,24 @@ interface TweetData {
  */
 async function sendToServer() {
   // 从环境变量读取配置
-  // const apiUrl = process.env.FLASK_API_URL;
-  const apiUrl = 'http://localhost:5000';
-  // const apiKey = process.env.FLASK_API_KEY;
-  const apiKey = "x-secret-api-key-is-here";
+  const apiUrl = process.env.FLASK_API_URL;
+  const apiKey = process.env.FLASK_API_KEY;
+  
+  // 调试输出（不显示完整 URL 和 Key，避免泄露）
+  console.log('🔍 环境变量检查:');
+  console.log(`   FLASK_API_URL: ${apiUrl ? `${apiUrl.substring(0, 20)}...` : '未设置'}`);
+  console.log(`   FLASK_API_KEY: ${apiKey ? '已设置 (长度: ' + apiKey.length + ')' : '未设置'}`);
+  console.log('');
+  
   if (!apiUrl) {
     console.error('❌ 错误: FLASK_API_URL 环境变量未设置');
+    console.error('   请检查 GitHub Secrets 中是否配置了 FLASK_API_URL');
     process.exit(1);
   }
   
   if (!apiKey) {
     console.error('❌ 错误: FLASK_API_KEY 环境变量未设置');
+    console.error('   请检查 GitHub Secrets 中是否配置了 FLASK_API_KEY');
     process.exit(1);
   }
   

@@ -64,9 +64,26 @@ jobs:
           FLASK_API_URL: ${{ secrets.FLASK_API_URL }}
           FLASK_API_KEY: ${{ secrets.FLASK_API_KEY }}
         run: |
+          echo "🔍 调试信息："
+          echo "FLASK_API_URL 是否设置: $([ -z "$FLASK_API_URL" ] && echo '否' || echo '是')"
+          if [ -n "$FLASK_API_URL" ]; then
+            echo "FLASK_API_URL 值: $FLASK_API_URL"
+            # 只显示前20个字符，避免泄露完整 URL
+            echo "FLASK_API_URL 前20字符: ${FLASK_API_URL:0:20}..."
+          fi
+          echo "FLASK_API_KEY 是否设置: $([ -z "$FLASK_API_KEY" ] && echo '否' || echo '是')"
+          echo ""
+          
           if [ -z "$FLASK_API_URL" ] || [ -z "$FLASK_API_KEY" ]; then
             echo "⚠️ Flask 服务器配置未设置，跳过发送"
             echo "如需启用，请配置 FLASK_API_URL 和 FLASK_API_KEY Secrets"
+            echo ""
+            echo "请检查："
+            echo "1. 进入仓库 Settings → Secrets and variables → Actions"
+            echo "2. 确认存在以下 Secrets："
+            echo "   - FLASK_API_URL (大小写敏感)"
+            echo "   - FLASK_API_KEY (大小写敏感)"
+            echo "3. 如果已存在，尝试删除后重新创建"
           else
             echo "🚀 发送数据到 Flask 服务器..."
             bun run scripts/send-to-server.ts || echo "⚠️ 发送到服务器失败，但继续执行"
