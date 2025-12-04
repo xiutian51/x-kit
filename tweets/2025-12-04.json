@@ -1,11 +1,303 @@
 [
   {
     "user": {
+      "screenName": "discountifu",
+      "name": "大梦想家迪士尼",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1993334087940292609/WEd8L0BX_normal.jpg",
+      "description": "区块链｜AI｜玄学命理｜全沾工程师 🔮一站式加密货币看板 @ritmex_crypto 🕹️Sea·星海漫游 Co-Founder @Seaxing777",
+      "followersCount": 8375,
+      "friendsCount": 579,
+      "location": "Japan"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G7Ug5jAbYAAMlgw.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/discountifu/status/1996538292863676639",
+    "fullText": "今天 @reactjs  RSC 爆出 CVE-2025-55182 漏洞\n原因：反序列化忘了过滤用户输入\n听起来有点耳熟\n早在 2007 年 PHP 的 CVE-2007-1701 漏洞，就是攻击者通过 session_decode() 等机制，注入恶意序列化数据，直接修改全局变量或敏感对象结构，成功 RCE/劫持控制流\n18 https://t.co/wJaol0tlA7"
+  },
+  {
+    "user": {
+      "screenName": "CryptoTony__",
+      "name": "Crypto Tony",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1612936440240898049/b8uRB78r_normal.jpg",
+      "description": "Crypto .. 99% will lose all money invested. Check your own country laws before investing / trading. Tweets do not endorse buying Crypto or directed to UK users.",
+      "followersCount": 558064,
+      "friendsCount": 725,
+      "location": "Dubai"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/CryptoTony__/status/1996537465193255075",
+    "fullText": "I learned yesterday not to get overexcited and overtrade lol. Only saving grace was the fact i held onto my longs i had shared the previous day on $ETH and $BTC, so ended up recovering the day in the Asian session\n\nUpdating more charts and plans for you today here and private"
+  },
+  {
+    "user": {
       "screenName": "wublockchain12",
       "name": "吴说区块链",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1763571513553543168/swT8lq9S_normal.jpg",
       "description": "吴说中文推特：接近真相，更可信赖\n专业可信的行业新闻，优质深度内容推荐\n吴说所有内容渠道、播客、APP 等：https://t.co/rVoqryXVjk\n联系我们 TG: colinwu1989",
-      "followersCount": 168945,
+      "followersCount": 168947,
+      "friendsCount": 1,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/wublockchain12/status/1996537207851757650",
+    "fullText": "据 Decrypt，华盛顿州金融机构部门（DFI）发布临时停业令，要求比特币 ATM 运营商 Coinme 返还超过 800 万美元未兑换的客户代金券款项。监管机构指控该公司在未兑换代金券的情况下，将这些款项当作公司收入，并违反了州内资金传输法规。DFI 表示计划撤销 Coinme 的资金传输许可证，并对其处以 30"
+  },
+  {
+    "user": {
+      "screenName": "XDash",
+      "name": "XDash",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1835375310344527872/hQ7y7lkV_normal.jpg",
+      "description": "《增长黑客》作者，创业者，投资者，宅男奶爸。\n\n- Blog: https://t.co/jmc7BALd8K\n- TG: https://t.co/gimLe52LoZ\n- YouTube: https://t.co/nOKTkKO8Ui\n- Podcast《冰镇电波》",
+      "followersCount": 25297,
+      "friendsCount": 53,
+      "location": " Shanghai"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/XDash/status/1996536625564881045",
+    "fullText": "今天在自己社群内获得的最大启发：\n\n让 AI 生成科普类内容（包括图片）时，指定用「繁体汉字」，实际跑出来的内容，会比用简体的丰富不少。\n\n（当然前提得是个国际版的 AI）"
+  },
+  {
+    "user": {
+      "screenName": "CryptoJHK",
+      "name": "Crypto军火库",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1506883765754236929/NtxXAmwf_normal.jpg",
+      "description": "👾 终极加密内幕消息平台 | 即时推送 | 零延误 | 全面信息汇总 ｜ 打破Web3消息茧房\n\n💸 付费社群聚合 https://t.co/2egKtvLAgf\n💎 交易所高返佣：https://t.co/4UeDxFlSHQ",
+      "followersCount": 61009,
+      "friendsCount": 1412,
+      "location": "8.9km"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G7Ue_BhasAAVaI1.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/CryptoJHK/status/1996536139017335129",
+    "fullText": "认识一个四川的女孩，去年被空气币骗走56万。\n\n钱是她偷偷攒的私房钱+借的网贷，连老公都没敢说。\n被骗那天，她一个人在厕所吐到虚脱。  \n\n后来她干了件最疯的事：\n不报警、不哭了、直接杀进了交易所BD圈。  \n\n从最基础的联系用户开始\n一个人，从0开始拉返佣。\n没人带、没人脉、没资源。 https://t.co/XPv7eo9GbL"
+  },
+  {
+    "user": {
+      "screenName": "PancakeSwap",
+      "name": "PancakeSwap",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1994226944792309760/OsCwDr6a_normal.jpg",
+      "description": "Everyone’s favorite DEX. Swap, trade, earn across 10 chains.",
+      "followersCount": 2144379,
+      "friendsCount": 217,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G7UP8vRagAAnxky.jpg",
+      "https://pbs.twimg.com/media/G7UP8vRbMAAgJLT.jpg",
+      "https://pbs.twimg.com/media/G7UP8vQaoAASXkZ.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/PancakeSwap/status/1996534950766731736",
+    "fullText": "Anyone want to join us for a pancake party at our booth? https://t.co/BZSlYo0xJ4"
+  },
+  {
+    "user": {
+      "screenName": "wublockchain12",
+      "name": "吴说区块链",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1763571513553543168/swT8lq9S_normal.jpg",
+      "description": "吴说中文推特：接近真相，更可信赖\n专业可信的行业新闻，优质深度内容推荐\n吴说所有内容渠道、播客、APP 等：https://t.co/rVoqryXVjk\n联系我们 TG: colinwu1989",
+      "followersCount": 168947,
+      "friendsCount": 1,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/wublockchain12/status/1996534118990151877",
+    "fullText": "据 Cryptopolitan，俄罗斯第二大银行 VTB 宣布，计划在 2026 年推出加密货币交易服务，允许投资者通过其经纪账户直接买卖比特币等去中心化数字货币。VTB 目前已为客户提供加密衍生品投资，但计划在明年提供直接的数字资产交易。VTB"
+  },
+  {
+    "user": {
+      "screenName": "laofeiguUK",
+      "name": "奇特飞古",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1730594598051876864/hNTOiRGu_normal.jpg",
+      "description": "英国8年，全栈工程师，主攻C/C++，曾为数据分析员，后为五斗米在厨房工作，创业不成功，独立开发不成功，一直沙发流浪，现渐渐走出深度贫困期。",
+      "followersCount": 2086,
+      "friendsCount": 146,
+      "location": "UK"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/laofeiguUK/status/1996533489391505450",
+    "fullText": "刚在群里刷了下，看到@xinzhi  推荐闪电说，@shandianshuo \n\n准备试一试"
+  },
+  {
+    "user": {
+      "screenName": "CryptoTony__",
+      "name": "Crypto Tony",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1612936440240898049/b8uRB78r_normal.jpg",
+      "description": "Crypto .. 99% will lose all money invested. Check your own country laws before investing / trading. Tweets do not endorse buying Crypto or directed to UK users.",
+      "followersCount": 558064,
+      "friendsCount": 725,
+      "location": "Dubai"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G7Uch50XoAAbD9F.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/CryptoTony__/status/1996533384961720438",
+    "fullText": "Imagine this happening \n\nWhat are you doing first? https://t.co/stnB9xsCoK"
+  },
+  {
+    "user": {
+      "screenName": "0xphiloA",
+      "name": "PP",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1801671061475627009/1jdfb2Rf_normal.jpg",
+      "description": "dev: https://t.co/Eauu38CutH classical liberalism Currently runs a technology studio",
+      "followersCount": 14738,
+      "friendsCount": 2822,
+      "location": "web3"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G7Ub0M1bEAA5U9Q.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/0xphiloA/status/1996532607732076790",
+    "fullText": "今天的小确幸\n\n之前刷aster的一批号最后一单忘记关了\n\n结果打开一看\n\n吓哭我了\n\n每次认真开合约都不赚钱\n\n无心插柳才能让我赚到钱 https://t.co/e1WQ4H4Ji7"
+  },
+  {
+    "user": {
+      "screenName": "RAFAELA_RIGO_",
+      "name": "⭐RᗩᖴᗩEᒪᗩ 𝗥𝗜𝗚𝗢 ⭐",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1774832540387266560/KX4b5B3-_normal.jpg",
+      "description": "🔰🔰CRYPTO MACRO STRATEGY & PREDICTIONS 🔰🔰Selling high with Max Profitability is my Expertise 🔰🔰 Scalp master🔰🔰Real Estate Multiplier🏠",
+      "followersCount": 163343,
+      "friendsCount": 70,
+      "location": "📍BackUp Account @rafaela_rigo"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/RAFAELA_RIGO_/status/1996531753817715149",
+    "fullText": ". \nI REMEMBER YEARS AGO when I received my first ever bonus from an exchange, it was 200$. I used that cash and made 850$ within a week!\nThe first experiences we rarely forget right?!😆\n\nTO CELEBRATE the best exchange I’ve found so far, to make money with futures trading, I’m"
+  },
+  {
+    "user": {
+      "screenName": "Crypto_He",
+      "name": "先知｜MemeMax⚡️",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1964723425215479808/pWtAHTP7_normal.png",
+      "description": "Co-Founder @seerlabs_crypto 日常记录｜合作私信dm ｜广告自辨\n\n#币安 3亿用户全球最大交易所 https://t.co/DTDaClRIGs\n\n#OKX DEX 20%返佣  https://t.co/qOXqOiypbM",
+      "followersCount": 89862,
+      "friendsCount": 3326,
+      "location": "先知社区"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1996531381342781440/vid/avc1/1080x1920/N2riJ93jKbpzF3Qk.mp4?tag=21"
+    ],
+    "tweetUrl": "https://x.com/Crypto_He/status/1996531554542321876",
+    "fullText": "一起看落日吧 https://t.co/rBUNyemXpr"
+  },
+  {
+    "user": {
+      "screenName": "CryptoMaster_ZH",
+      "name": "币圈达人",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1469128753401892867/Hnd9Ocpn_normal.jpg",
+      "description": "💰加密货币技术分析博主🏅\n📈📉陪伴大家穿越牛熊🚀\n\n👉油管频道：https://t.co/ltiHUAUNJu\n👉Discord会员群：https://t.co/zNCDlEd5d1\n👉Telegram免费群：https://t.co/EFMdXoZxEH",
+      "followersCount": 1506,
+      "friendsCount": 42,
+      "location": "元宇宙"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G7UajZcbIAAoLkk.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/CryptoMaster_ZH/status/1996531229844554208",
+    "fullText": "四年前的今天\n2021年12月4日\n传统币圈的最后一轮牛市正式结束 https://t.co/yolEDomYYw"
+  },
+  {
+    "user": {
+      "screenName": "cyrilxuq",
+      "name": "徐冲浪",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1980239992354930688/fJCZ8isl_normal.jpg",
+      "description": "美股交易员\nYoutube（https://t.co/TQSWom3YbH） 小隐寺·住持（https://t.co/HOBzGZiJEU） 加密货币·币安（https://t.co/bTKfCX8mKw） 链上meme(https://t.co/SOYXG7ei6b)",
+      "followersCount": 120647,
+      "friendsCount": 2185,
+      "location": "东京"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/cyrilxuq/status/1996530409967124932",
+    "fullText": "怎么规避CRS？\nhttps://t.co/0LMFFTJM8c"
+  },
+  {
+    "user": {
+      "screenName": "jason_chen998",
+      "name": "陈剑Jason",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1653068718321336321/grq9EkXA_normal.jpg",
+      "description": "4XLabs | 瞎分析，也作为投资者和顾问与部分项目存在利益相关，请注意我的内容无法保证客观，不要对我有过高的道德要求，不喜欢就求求你把我拉黑｜#Binance 启程Wbe3，就在币安👉 https://t.co/U3aQal7399｜超100%POR资金储备，安全首选OKX 👉 https://t.co/iFUpotVI6b",
+      "followersCount": 108621,
+      "friendsCount": 386,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G7UXWZ2bEAA6Ipi.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/jason_chen998/status/1996529412536443345",
+    "fullText": "刚才看了马斯克最新一期播客，随着AI发展能源电力越来越重要和稀缺，马斯克认为能源才是真正的硬通货，未来可能都没有所谓的货币，发电能力成了真正意义上的货币，所以站到他的逻辑，比特币是一种固化了能源的物体，如果货币最终形态回归到了能源本位，那比特币则是最接近这种形态的系统，你不能把挪威 https://t.co/H4tmLdoFok"
+  },
+  {
+    "user": {
+      "screenName": "okx",
+      "name": "OKX",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1968722816154345472/vEj4j3o9_normal.jpg",
+      "description": "A new alternative for your crypto journey | Self-custody & dApps: @Wallet | Support: @OKXHelpDesk | UK users: @OKX_UK",
+      "followersCount": 5703271,
+      "friendsCount": 322,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G7UXwfeaYAILjPq.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/okx/status/1996528149891547235",
+    "fullText": "One year ago, we received our VARA license. Today, the UAE is one of our most important global hubs.\n\nIn 12 months, we:\n• Opened our Dubai office with a 100+ team\n• Became the first licensed global exchange to offer retail derivatives in UAE\n• Built the fastest fiat-to-crypto https://t.co/EO0EZh7YZL"
+  },
+  {
+    "user": {
+      "screenName": "wublockchain12",
+      "name": "吴说区块链",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1763571513553543168/swT8lq9S_normal.jpg",
+      "description": "吴说中文推特：接近真相，更可信赖\n专业可信的行业新闻，优质深度内容推荐\n吴说所有内容渠道、播客、APP 等：https://t.co/rVoqryXVjk\n联系我们 TG: colinwu1989",
+      "followersCount": 168947,
+      "friendsCount": 1,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/wublockchain12/status/1996526811610599856",
+    "fullText": "吴说获悉，Lido 官方发文表示，以太坊 Fusaka 硬分叉顺利完成后，Prysm 共识层客户端出现漏洞，导致网络参与度出现问题。Lido 协议运行正常，质押者无需担心。由于协议底层的验证节点集分布式和去中心化的特性，Lido 受此事件影响较小，且 Prysm 客户端团队和节点运营商的快速响应有助于缓解问题。Lido"
+  },
+  {
+    "user": {
+      "screenName": "CryptoTony__",
+      "name": "Crypto Tony",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1612936440240898049/b8uRB78r_normal.jpg",
+      "description": "Crypto .. 99% will lose all money invested. Check your own country laws before investing / trading. Tweets do not endorse buying Crypto or directed to UK users.",
+      "followersCount": 558064,
+      "friendsCount": 725,
+      "location": "Dubai"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G7TqZL8WkAAUlXU.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/CryptoTony__/status/1996526392264233459",
+    "fullText": "$ENA / $USD - Update\n\n0.31c reclaim into support is your long entry, not right now at resistance. https://t.co/M6TBY4Bz5D"
+  },
+  {
+    "user": {
+      "screenName": "wublockchain12",
+      "name": "吴说区块链",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1763571513553543168/swT8lq9S_normal.jpg",
+      "description": "吴说中文推特：接近真相，更可信赖\n专业可信的行业新闻，优质深度内容推荐\n吴说所有内容渠道、播客、APP 等：https://t.co/rVoqryXVjk\n联系我们 TG: colinwu1989",
+      "followersCount": 168947,
       "friendsCount": 1,
       "location": ""
     },
@@ -37,7 +329,7 @@
       "name": "证势交易",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1597568078292082688/yGV-YUO__normal.jpg",
       "description": "🤵‍♂️证势集团CTO，证势交易创始人 🎯11年交易员，专注外汇(中线)、币圈(合约+现货)、期货(波段)、股票(长线) 📈交易，在推特整个中文区，在现价喊单与分享策略方面准确率第一，策略都是实打实，没有模凌两可，更没有马后炮，如果你也做交易，更想学好交易，就关注证势交易",
-      "followersCount": 66565,
+      "followersCount": 66564,
       "friendsCount": 62,
       "location": "Nevada, USA"
     },
@@ -54,7 +346,7 @@
       "name": "Crypto Tony",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1612936440240898049/b8uRB78r_normal.jpg",
       "description": "Crypto .. 99% will lose all money invested. Check your own country laws before investing / trading. Tweets do not endorse buying Crypto or directed to UK users.",
-      "followersCount": 558055,
+      "followersCount": 558064,
       "friendsCount": 725,
       "location": "Dubai"
     },
@@ -69,7 +361,7 @@
       "name": "Crypto Tony",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1612936440240898049/b8uRB78r_normal.jpg",
       "description": "Crypto .. 99% will lose all money invested. Check your own country laws before investing / trading. Tweets do not endorse buying Crypto or directed to UK users.",
-      "followersCount": 558055,
+      "followersCount": 558064,
       "friendsCount": 725,
       "location": "Dubai"
     },
@@ -86,7 +378,7 @@
       "name": "ChainGPT",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1996231365226885120/nvg2aS5W_normal.jpg",
       "description": "A Web3-AI infrastructure! Unleash AI's power with our tools for crypto trading, NFT creation, smart contract development, and more. $CGPT - Binance Listed 🤖 ⚡",
-      "followersCount": 824026,
+      "followersCount": 824028,
       "friendsCount": 812,
       "location": ""
     },
@@ -103,7 +395,7 @@
       "name": "子时",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1939972609023582210/TznrEwzJ_normal.jpg",
       "description": "剑开天门 伟大撤退 ｜Crypto入口,OKX就够,最全交易工具,畅游130+公链,极速交易热门Meme 🔗 https://t.co/2xvR6AW4jb",
-      "followersCount": 86902,
+      "followersCount": 86891,
       "friendsCount": 3166,
       "location": "Dublin"
     },
@@ -118,7 +410,7 @@
       "name": "花花🇨🇳",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1899093962121441280/alUPagLK_normal.jpg",
       "description": "知行合一，推特为记录个人交易，不构成投资建议。",
-      "followersCount": 284131,
+      "followersCount": 284123,
       "friendsCount": 1125,
       "location": "新加坡"
     },
@@ -150,7 +442,7 @@
       "name": "PancakeSwap",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1994226944792309760/OsCwDr6a_normal.jpg",
       "description": "Everyone’s favorite DEX. Swap, trade, earn across 10 chains.",
-      "followersCount": 2144416,
+      "followersCount": 2144379,
       "friendsCount": 217,
       "location": ""
     },
@@ -167,7 +459,7 @@
       "name": "Bitcoin.不求人",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1755778120819564544/VN-W-jMH_normal.jpg",
       "description": "全职炒币9年，20年牛市2万本金打到A7，没有套路，主打免费课程免费进群，每天分享交易知识带你穿越牛熊！",
-      "followersCount": 59070,
+      "followersCount": 59037,
       "friendsCount": 1136,
       "location": "唯一TG：btcbqr"
     },
@@ -184,7 +476,7 @@
       "name": "吴说区块链",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1763571513553543168/swT8lq9S_normal.jpg",
       "description": "吴说中文推特：接近真相，更可信赖\n专业可信的行业新闻，优质深度内容推荐\n吴说所有内容渠道、播客、APP 等：https://t.co/rVoqryXVjk\n联系我们 TG: colinwu1989",
-      "followersCount": 168945,
+      "followersCount": 168947,
       "friendsCount": 1,
       "location": ""
     },
@@ -199,7 +491,7 @@
       "name": "0xzhaozhao | 🌊Web3浪客 | MemeMax⚡️",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1943563003275939841/nkNdTt9r_normal.jpg",
       "description": "📖 小县城屌丝的 Web3 翻身日记｜\nTelegram: @zhaozhao1113  ｜\n🏁 #OKX Web3 - 你的 Crypto 首选！畅游130+公链，极速交易热门Meme，工具全能 → https://t.co/Qf6ORNcMNJ",
-      "followersCount": 69739,
+      "followersCount": 69743,
       "friendsCount": 3230,
       "location": "合作DM｜这里是2023All in Web3的阿zhao"
     },
@@ -218,7 +510,7 @@
       "name": "徐冲浪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1980239992354930688/fJCZ8isl_normal.jpg",
       "description": "美股交易员\nYoutube（https://t.co/TQSWom3YbH） 小隐寺·住持（https://t.co/HOBzGZiJEU） 加密货币·币安（https://t.co/bTKfCX8mKw） 链上meme(https://t.co/SOYXG7ei6b)",
-      "followersCount": 120660,
+      "followersCount": 120647,
       "friendsCount": 2185,
       "location": "东京"
     },
@@ -235,7 +527,7 @@
       "name": "Crypto Tony",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1612936440240898049/b8uRB78r_normal.jpg",
       "description": "Crypto .. 99% will lose all money invested. Check your own country laws before investing / trading. Tweets do not endorse buying Crypto or directed to UK users.",
-      "followersCount": 558055,
+      "followersCount": 558064,
       "friendsCount": 725,
       "location": "Dubai"
     },
@@ -267,7 +559,7 @@
       "name": "子时",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1939972609023582210/TznrEwzJ_normal.jpg",
       "description": "剑开天门 伟大撤退 ｜Crypto入口,OKX就够,最全交易工具,畅游130+公链,极速交易热门Meme 🔗 https://t.co/2xvR6AW4jb",
-      "followersCount": 86902,
+      "followersCount": 86891,
       "friendsCount": 3166,
       "location": "Dublin"
     },
@@ -282,7 +574,7 @@
       "name": "徐冲浪",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1980239992354930688/fJCZ8isl_normal.jpg",
       "description": "美股交易员\nYoutube（https://t.co/TQSWom3YbH） 小隐寺·住持（https://t.co/HOBzGZiJEU） 加密货币·币安（https://t.co/bTKfCX8mKw） 链上meme(https://t.co/SOYXG7ei6b)",
-      "followersCount": 120660,
+      "followersCount": 120647,
       "friendsCount": 2185,
       "location": "东京"
     },
@@ -297,7 +589,7 @@
       "name": "Crypto Tony",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1612936440240898049/b8uRB78r_normal.jpg",
       "description": "Crypto .. 99% will lose all money invested. Check your own country laws before investing / trading. Tweets do not endorse buying Crypto or directed to UK users.",
-      "followersCount": 558055,
+      "followersCount": 558064,
       "friendsCount": 725,
       "location": "Dubai"
     },
@@ -330,7 +622,7 @@
       "name": "PancakeSwap",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1994226944792309760/OsCwDr6a_normal.jpg",
       "description": "Everyone’s favorite DEX. Swap, trade, earn across 10 chains.",
-      "followersCount": 2144416,
+      "followersCount": 2144379,
       "friendsCount": 217,
       "location": ""
     },
@@ -347,7 +639,7 @@
       "name": "吴说区块链",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1763571513553543168/swT8lq9S_normal.jpg",
       "description": "吴说中文推特：接近真相，更可信赖\n专业可信的行业新闻，优质深度内容推荐\n吴说所有内容渠道、播客、APP 等：https://t.co/rVoqryXVjk\n联系我们 TG: colinwu1989",
-      "followersCount": 168945,
+      "followersCount": 168947,
       "friendsCount": 1,
       "location": ""
     },
@@ -362,7 +654,7 @@
       "name": "吴说区块链",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1763571513553543168/swT8lq9S_normal.jpg",
       "description": "吴说中文推特：接近真相，更可信赖\n专业可信的行业新闻，优质深度内容推荐\n吴说所有内容渠道、播客、APP 等：https://t.co/rVoqryXVjk\n联系我们 TG: colinwu1989",
-      "followersCount": 168945,
+      "followersCount": 168947,
       "friendsCount": 1,
       "location": ""
     },
@@ -416,7 +708,7 @@
       "name": "吴说区块链",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1763571513553543168/swT8lq9S_normal.jpg",
       "description": "吴说中文推特：接近真相，更可信赖\n专业可信的行业新闻，优质深度内容推荐\n吴说所有内容渠道、播客、APP 等：https://t.co/rVoqryXVjk\n联系我们 TG: colinwu1989",
-      "followersCount": 168945,
+      "followersCount": 168947,
       "friendsCount": 1,
       "location": ""
     },
@@ -446,7 +738,7 @@
       "name": "0xAA",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1909791942961250308/nPZLMciH_normal.jpg",
       "description": "Neuroscience PhD, x402 lover @WTFAcademy_ @ourRescuETH @The_PeopleDAO ｜启程Web3，就在币安: https://t.co/k5E2804y9X ｜新人首选，安全简单。一站式链上链下交易平台OKX https://t.co/Kwxe2KTZlu",
-      "followersCount": 168236,
+      "followersCount": 168241,
       "friendsCount": 1473,
       "location": "Dark Forest"
     },
@@ -2956,6 +3248,21 @@
   },
   {
     "user": {
+      "screenName": "elevenlabsio",
+      "name": "ElevenLabs",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1590865996532912131/Tkgaw9L1_normal.jpg",
+      "description": "The voice of technology. Bringing the world's knowledge, stories and agents to life.",
+      "followersCount": 147731,
+      "friendsCount": 11,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/elevenlabsio/status/1996276998864552339",
+    "fullText": "Generate any visual imaginable. Veo, Sora, Kling, Wan &amp; more—all in one editor. Join over 1M+ creators &amp; enterprises. Try for free now."
+  },
+  {
+    "user": {
       "screenName": "Browns",
       "name": "Cleveland Browns",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1990825693396283393/D0Q9TYzW_normal.jpg",
@@ -2977,7 +3284,7 @@
       "name": "Phyrex",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1596374669824696320/MGne6qLH_normal.jpg",
       "description": "只是个搬砖的，偶尔恰饭\n不奢求，不浪费\nGlassNode 重度使用者\n没有群也不收费，所有分析回答均不构成投资建议\n近3亿用户共同选择Binance：https://t.co/JukzSnpfwD\nCrypto入口OKX就够了：https://t.co/vPOAfIjmpB\n做有温度的Bitget：https://t.co/VZ8RxZe5N7",
-      "followersCount": 365926,
+      "followersCount": 365916,
       "friendsCount": 5424,
       "location": "4XLABS 辅导全球Web3项目落地华语市场"
     },
