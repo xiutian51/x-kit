@@ -1145,7 +1145,8 @@
   
   <script>
     // 全局变量
-    let serverUrl = localStorage.getItem('serverUrl') || 'http://115.190.153.118:20500';
+    let server = "http://localhost:20500"
+    let serverUrl = localStorage.getItem('serverUrl') || server;
     let authToken = localStorage.getItem('authToken') || null;
     let currentUsername = localStorage.getItem('currentUsername') || null;
     let currentPage = 1;
