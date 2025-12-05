@@ -1,11 +1,125 @@
 [
   {
     "user": {
+      "screenName": "gensynai",
+      "name": "gensyn",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1893746041926885376/L-4D2qr9_normal.jpg",
+      "description": "Gensyn is building the network for machine intelligence. Build with the team here: https://t.co/1agn4jNAzR",
+      "followersCount": 91164,
+      "friendsCount": 42,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/gensynai/status/1997020064273588633",
+    "fullText": "Prediction markets are messy, human systems where people buy shares in claims such as “Dodgers will win 2025 World series”\n\nLarge-scale ML is often a wall of GPUs quietly grinding through trillions of tokens\n\nThe two are solving the same problem\n\nhttps://t.co/bSi7qSbbaV"
+  },
+  {
+    "user": {
+      "screenName": "0xzhaozhao",
+      "name": "0xzhaozhao | 🌊Web3浪客 | MemeMax⚡️",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1943563003275939841/nkNdTt9r_normal.jpg",
+      "description": "📖 小县城屌丝的 Web3 翻身日记｜\nTelegram: @zhaozhao1113  ｜\n🏁 #OKX Web3 - 你的 Crypto 首选！畅游130+公链，极速交易热门Meme，工具全能 → https://t.co/Qf6ORNcMNJ",
+      "followersCount": 69795,
+      "friendsCount": 3232,
+      "location": "合作DM｜这里是2023All in Web3的阿zhao"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G7bSFm6bkAAAOKw.jpg",
+      "https://pbs.twimg.com/media/G7bSLSjbUAE76rw.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/0xzhaozhao/status/1997018792879325476",
+    "fullText": "2025 年最后一个月了，\n从 2022 年底“掉”进撸毛坑到现在，\n我把 X 当成了公开日记本。\n所以理论上，全网最懂我的 AI 应该就是 Grok 了。\n\n刚才直接问Grok：\n给我一份 0xzhaozhao 缺点完整版分析，用图表呈现：\n缺点维度｜核心表现｜对应推文内容｜实际后果\n\n看了Grok甩给我这份自虐级总结…… https://t.co/oLiBXz6bpw"
+  },
+  {
+    "user": {
+      "screenName": "overtime",
+      "name": "Overtime",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1931377566432317440/k5bQMdwy_normal.jpg",
+      "description": "🫶",
+      "followersCount": 1748741,
+      "friendsCount": 1206,
+      "location": ""
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1997017011763728384/vid/avc1/720x900/1yTGhTE4OdKqNUnD.mp4?tag=21"
+    ],
+    "tweetUrl": "https://x.com/overtime/status/1997017067904548904",
+    "fullText": "Broke his ankles and hit the emote 😭 (via _jusdane/IG) https://t.co/pWtiQBSJ1n"
+  },
+  {
+    "user": {
+      "screenName": "gakonst",
+      "name": "Georgios Konstantopoulos",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1596214564470734849/1Tg5-gNh_normal.jpg",
+      "description": "very greek accent. general partner & cto @paradigm. eng lead @tempo. optimist and rustacean 🦀 // team lead of reth, foundry, alloy. join us.",
+      "followersCount": 147406,
+      "friendsCount": 2265,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/gakonst/status/1997015768773677211",
+    "fullText": "Anyone seen any Claude Code / Codex skill for writing Rust or performance/systems engineering?"
+  },
+  {
+    "user": {
       "screenName": "CryptoTony__",
       "name": "Crypto Tony",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1612936440240898049/b8uRB78r_normal.jpg",
       "description": "Crypto .. 99% will lose all money invested. Check your own country laws before investing / trading. Tweets do not endorse buying Crypto or directed to UK users.",
-      "followersCount": 558125,
+      "followersCount": 557969,
+      "friendsCount": 726,
+      "location": "Dubai"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/CryptoTony__/status/1997012596231491895",
+    "fullText": "I hope everyone is making money today. \n\nNo one should have longed this morning as we did not have any validation to do so."
+  },
+  {
+    "user": {
+      "screenName": "JohnWRichKid",
+      "name": "John W. Rich Kid (Wendy’s Fry Cook)",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1742389291924242432/XTBVcO61_normal.jpg",
+      "description": "fries @wendys 🍟 memes @monad 💜 (parody)",
+      "followersCount": 80891,
+      "friendsCount": 1910,
+      "location": "Gary, Indiana"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G7bPIeRW0AEV0V3.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/JohnWRichKid/status/1997011235619971409",
+    "fullText": "Gary, Indiana is beautiful this time of year https://t.co/ausRozbpPf"
+  },
+  {
+    "user": {
+      "screenName": "0xAA_Science",
+      "name": "0xAA",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1909791942961250308/nPZLMciH_normal.jpg",
+      "description": "Neuroscience PhD, x402 lover @WTFAcademy_ @ourRescuETH @The_PeopleDAO ｜启程Web3，就在币安: https://t.co/k5E2804y9X ｜新人首选，安全简单。一站式链上链下交易平台OKX https://t.co/Kwxe2KTZlu",
+      "followersCount": 168150,
+      "friendsCount": 1474,
+      "location": "Dark Forest"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G7bNWpdb0AEgCb3.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/0xAA_Science/status/1997009284631245166",
+    "fullText": "来阿布扎比参加黑客松 ✅ https://t.co/zvUUSI1O0s"
+  },
+  {
+    "user": {
+      "screenName": "CryptoTony__",
+      "name": "Crypto Tony",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1612936440240898049/b8uRB78r_normal.jpg",
+      "description": "Crypto .. 99% will lose all money invested. Check your own country laws before investing / trading. Tweets do not endorse buying Crypto or directed to UK users.",
+      "followersCount": 557969,
       "friendsCount": 726,
       "location": "Dubai"
     },
@@ -22,7 +136,7 @@
       "name": "John W. Rich Kid (Wendy’s Fry Cook)",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1742389291924242432/XTBVcO61_normal.jpg",
       "description": "fries @wendys 🍟 memes @monad 💜 (parody)",
-      "followersCount": 80888,
+      "followersCount": 80891,
       "friendsCount": 1910,
       "location": "Gary, Indiana"
     },
@@ -39,7 +153,7 @@
       "name": "Crypto Tony",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1612936440240898049/b8uRB78r_normal.jpg",
       "description": "Crypto .. 99% will lose all money invested. Check your own country laws before investing / trading. Tweets do not endorse buying Crypto or directed to UK users.",
-      "followersCount": 558125,
+      "followersCount": 557969,
       "friendsCount": 726,
       "location": "Dubai"
     },
@@ -56,7 +170,7 @@
       "name": "Athena",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1793152329732198401/sKAzYzVw_normal.jpg",
       "description": "🇭🇰🇯🇵 Product | Writer | Investor | Content Creator | Prev CEX, bytedance | Podcast: @FOMO__Radio #AI IG: athenaislee 账号不垂直，记录人间思考✍️",
-      "followersCount": 6226,
+      "followersCount": 6227,
       "friendsCount": 1158,
       "location": "B612"
     },
@@ -71,7 +185,7 @@
       "name": "Athena",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1793152329732198401/sKAzYzVw_normal.jpg",
       "description": "🇭🇰🇯🇵 Product | Writer | Investor | Content Creator | Prev CEX, bytedance | Podcast: @FOMO__Radio #AI IG: athenaislee 账号不垂直，记录人间思考✍️",
-      "followersCount": 6226,
+      "followersCount": 6227,
       "friendsCount": 1158,
       "location": "B612"
     },
@@ -88,7 +202,7 @@
       "name": "零下二度",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1487309134500225025/_W52xaE5_normal.jpg",
       "description": "百度搜索引擎优化工程师，互联网项目天使投资人，白桦林散文诗撰稿人。电报群：https://t.co/xmTwELWfE8  2023.10-2024.3连续16周币本位20倍做多sol赚取7k枚sol一战成名。 专注btc/eth/sol/sui/xrp现货操盘等服务。新telegram：lingxiaerdu5566",
-      "followersCount": 36182,
+      "followersCount": 36183,
       "friendsCount": 376,
       "location": "singapore"
     },
@@ -103,7 +217,7 @@
       "name": "VLAD HOSTS THE BEST PODCAST IN BITCOIN",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1943609281854558208/f7P2Oowp_normal.jpg",
       "description": "TRUE BITCOIN MAXIMALIST / INTERESTED IN SCALING + PRIVACY TECH  / BITCOIN: YEAR ONE / DON'T LISTEN TO THE BITCOIN TAKEOVER PODCAST, IT'S ONLY FOR SMART PEOPLE",
-      "followersCount": 23744,
+      "followersCount": 23743,
       "friendsCount": 2677,
       "location": "Wallachia"
     },
@@ -118,7 +232,7 @@
       "name": "io.net",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1867536591201480704/sbkH-v_M_normal.jpg",
       "description": "The intelligent stack for powering AI workloads | https://t.co/hIYFLxle8l: decentralized GPUs | io.intelligence: inference & agents | https://t.co/EinR91I0wl",
-      "followersCount": 454299,
+      "followersCount": 454307,
       "friendsCount": 164,
       "location": "Manhattan, New York"
     },
@@ -135,7 +249,7 @@
       "name": "Crypto Tony",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1612936440240898049/b8uRB78r_normal.jpg",
       "description": "Crypto .. 99% will lose all money invested. Check your own country laws before investing / trading. Tweets do not endorse buying Crypto or directed to UK users.",
-      "followersCount": 558125,
+      "followersCount": 557969,
       "friendsCount": 726,
       "location": "Dubai"
     },
@@ -150,7 +264,7 @@
       "name": "EnHeng嗯哼🔸BNB",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1966152812536147968/nzlqBIZQ_normal.jpg",
       "description": "05年大学生入场学习记｜build #BNB $Aster｜Binance近3亿选择https://t.co/Y1GpxuSDRD｜Giggle BNB慈善贡献榜首位｜合作Dm Tg enheng777 ｜个人微信ttttwill｜仅代表个人观点不构成投资建议 高风险投机 DYOR",
-      "followersCount": 91416,
+      "followersCount": 95990,
       "friendsCount": 3083,
       "location": "TG频道发布重要信息"
     },
@@ -170,7 +284,7 @@
       "name": "Blockchainedbb",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1528513156032745472/ymeGRGhA_normal.jpg",
       "description": "Full-time Crypto and Stock trader 🇨🇦| I post charts and everything Crypto and Stocks | Click to join the community Support :blockchainedbb2.0@gmail.com",
-      "followersCount": 226302,
+      "followersCount": 226231,
       "friendsCount": 3391,
       "location": "Discord  & Youtube 👇"
     },
@@ -187,7 +301,7 @@
       "name": "零下二度",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1487309134500225025/_W52xaE5_normal.jpg",
       "description": "百度搜索引擎优化工程师，互联网项目天使投资人，白桦林散文诗撰稿人。电报群：https://t.co/xmTwELWfE8  2023.10-2024.3连续16周币本位20倍做多sol赚取7k枚sol一战成名。 专注btc/eth/sol/sui/xrp现货操盘等服务。新telegram：lingxiaerdu5566",
-      "followersCount": 36182,
+      "followersCount": 36183,
       "friendsCount": 376,
       "location": "singapore"
     },
@@ -203,9 +317,9 @@
     "user": {
       "screenName": "DJWZ",
       "name": "0xGarfield｜加菲众",
-      "profileImageUrl": "https://pbs.twimg.com/profile_images/1747544490909577216/6kTPQaNy_normal.jpg",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1997013394541760514/usmljUPg_normal.jpg",
       "description": "🚀 Audio Innovator | 🎵 Music Tech Pioneer | 📻 Former HIT FM DJ | 🏆 Red Dot & A’Design Award Winner | 🎙 TEDx Speaker | 🌍 Bridging Music, Tech & Innovation",
-      "followersCount": 14708,
+      "followersCount": 14707,
       "friendsCount": 1756,
       "location": "Chiang Mai, Thailand"
     },
@@ -241,7 +355,7 @@
       "name": "Crypto Tony",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1612936440240898049/b8uRB78r_normal.jpg",
       "description": "Crypto .. 99% will lose all money invested. Check your own country laws before investing / trading. Tweets do not endorse buying Crypto or directed to UK users.",
-      "followersCount": 558125,
+      "followersCount": 557969,
       "friendsCount": 726,
       "location": "Dubai"
     },
@@ -258,7 +372,7 @@
       "name": "Matt Shumer",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1490950574090571778/BtgOaqUP_normal.jpg",
       "description": "CEO @HyperWriteAI, @OthersideAI, creator of https://t.co/PSUlubx5bb (Github for prompts), investor in @GroqInc @Etched @Rork_App @OpenRouterAI + many more",
-      "followersCount": 101489,
+      "followersCount": 101493,
       "friendsCount": 1521,
       "location": "MODEL ALPHA 👉"
     },
@@ -273,7 +387,7 @@
       "name": "Overtime",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1931377566432317440/k5bQMdwy_normal.jpg",
       "description": "🫶",
-      "followersCount": 1748672,
+      "followersCount": 1748741,
       "friendsCount": 1206,
       "location": ""
     },
@@ -290,7 +404,7 @@
       "name": "Crypto Tony",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1612936440240898049/b8uRB78r_normal.jpg",
       "description": "Crypto .. 99% will lose all money invested. Check your own country laws before investing / trading. Tweets do not endorse buying Crypto or directed to UK users.",
-      "followersCount": 558125,
+      "followersCount": 557969,
       "friendsCount": 726,
       "location": "Dubai"
     },
@@ -307,7 +421,7 @@
       "name": "零下二度",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1487309134500225025/_W52xaE5_normal.jpg",
       "description": "百度搜索引擎优化工程师，互联网项目天使投资人，白桦林散文诗撰稿人。电报群：https://t.co/xmTwELWfE8  2023.10-2024.3连续16周币本位20倍做多sol赚取7k枚sol一战成名。 专注btc/eth/sol/sui/xrp现货操盘等服务。新telegram：lingxiaerdu5566",
-      "followersCount": 36182,
+      "followersCount": 36183,
       "friendsCount": 376,
       "location": "singapore"
     },
@@ -342,7 +456,7 @@
       "name": "HappyQQ_AI",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1963127781685858304/bQ6BtMOn_normal.jpg",
       "description": "曾在职场干过程序员、架构师、技术总监的活。\n现在是一名连续技术创业者，虽千万人吾往矣。\n现在也是一名业余的非专业的脱口秀演技人员。\n专注𝗔𝗜、软件开发、系统架构等前沿技术领域。\n公众号：移动互联网    （公众号真的是这么靓）",
-      "followersCount": 18659,
+      "followersCount": 18660,
       "friendsCount": 3622,
       "location": ""
     },
@@ -357,7 +471,7 @@
       "name": "Crypto Tony",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1612936440240898049/b8uRB78r_normal.jpg",
       "description": "Crypto .. 99% will lose all money invested. Check your own country laws before investing / trading. Tweets do not endorse buying Crypto or directed to UK users.",
-      "followersCount": 558125,
+      "followersCount": 557969,
       "friendsCount": 726,
       "location": "Dubai"
     },
@@ -389,7 +503,7 @@
       "name": "ThuanCapital",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1455210352371589128/Ml-o06bv_normal.jpg",
       "description": "Thạc Sĩ MBA | KPMG Alumni | CRCM | 8+ years Crypto\n\n⚠️Tất Cả Chỉ Vì Mục Đích Thông Tin Và Không Được Xem Là Lời Khuyên Đầu Tư\n\nContact: Admin@ThuanCapital.com",
-      "followersCount": 496590,
+      "followersCount": 496599,
       "friendsCount": 503,
       "location": "Moon"
     },
@@ -406,7 +520,7 @@
       "name": "零下二度",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1487309134500225025/_W52xaE5_normal.jpg",
       "description": "百度搜索引擎优化工程师，互联网项目天使投资人，白桦林散文诗撰稿人。电报群：https://t.co/xmTwELWfE8  2023.10-2024.3连续16周币本位20倍做多sol赚取7k枚sol一战成名。 专注btc/eth/sol/sui/xrp现货操盘等服务。新telegram：lingxiaerdu5566",
-      "followersCount": 36182,
+      "followersCount": 36183,
       "friendsCount": 376,
       "location": "singapore"
     },
@@ -423,7 +537,7 @@
       "name": "ThuanCapital",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1455210352371589128/Ml-o06bv_normal.jpg",
       "description": "Thạc Sĩ MBA | KPMG Alumni | CRCM | 8+ years Crypto\n\n⚠️Tất Cả Chỉ Vì Mục Đích Thông Tin Và Không Được Xem Là Lời Khuyên Đầu Tư\n\nContact: Admin@ThuanCapital.com",
-      "followersCount": 496590,
+      "followersCount": 496599,
       "friendsCount": 503,
       "location": "Moon"
     },
@@ -440,7 +554,7 @@
       "name": "ming_lau",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1868326100621000704/qUtDgzr5_normal.jpg",
       "description": "全力梭哈币安人生\n币安注册 https://t.co/X13tAsrz3O\n币安钱包邀请码 GQZO42F3\nok钱包 https://t.co/yFdN1ckInt",
-      "followersCount": 21187,
+      "followersCount": 21177,
       "friendsCount": 1223,
       "location": ""
     },
@@ -455,7 +569,7 @@
       "name": "ThuanCapital",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1455210352371589128/Ml-o06bv_normal.jpg",
       "description": "Thạc Sĩ MBA | KPMG Alumni | CRCM | 8+ years Crypto\n\n⚠️Tất Cả Chỉ Vì Mục Đích Thông Tin Và Không Được Xem Là Lời Khuyên Đầu Tư\n\nContact: Admin@ThuanCapital.com",
-      "followersCount": 496590,
+      "followersCount": 496599,
       "friendsCount": 503,
       "location": "Moon"
     },
@@ -472,7 +586,7 @@
       "name": "Johnny",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1945782178123579392/R0hCNJpp_normal.jpg",
       "description": "👑 For first access to all my trades, onchain plays, and daily market insights signup to @wealthgroup 🔥",
-      "followersCount": 872548,
+      "followersCount": 872151,
       "friendsCount": 879,
       "location": "Metaverse"
     },
@@ -489,7 +603,7 @@
       "name": "Crypto Tony",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1612936440240898049/b8uRB78r_normal.jpg",
       "description": "Crypto .. 99% will lose all money invested. Check your own country laws before investing / trading. Tweets do not endorse buying Crypto or directed to UK users.",
-      "followersCount": 558125,
+      "followersCount": 557969,
       "friendsCount": 726,
       "location": "Dubai"
     },
@@ -506,7 +620,7 @@
       "name": "CBB",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1872626142034739200/EIM6NL_5_normal.jpg",
       "description": "Riding the ponzi of magic internet money",
-      "followersCount": 104251,
+      "followersCount": 104250,
       "friendsCount": 162,
       "location": ""
     },
@@ -536,7 +650,7 @@
       "name": "Overtime",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1931377566432317440/k5bQMdwy_normal.jpg",
       "description": "🫶",
-      "followersCount": 1748672,
+      "followersCount": 1748741,
       "friendsCount": 1206,
       "location": ""
     },
@@ -553,7 +667,7 @@
       "name": "Johnny",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1945782178123579392/R0hCNJpp_normal.jpg",
       "description": "👑 For first access to all my trades, onchain plays, and daily market insights signup to @wealthgroup 🔥",
-      "followersCount": 872548,
+      "followersCount": 872151,
       "friendsCount": 879,
       "location": "Metaverse"
     },
@@ -568,7 +682,7 @@
       "name": "Phyrex",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1596374669824696320/MGne6qLH_normal.jpg",
       "description": "只是个搬砖的，偶尔恰饭\n不奢求，不浪费\nGlassNode 重度使用者\n没有群也不收费，所有分析回答均不构成投资建议\n近3亿用户共同选择Binance：https://t.co/JukzSnpfwD\nCrypto入口OKX就够了：https://t.co/vPOAfIjmpB\n做有温度的Bitget：https://t.co/VZ8RxZe5N7",
-      "followersCount": 366081,
+      "followersCount": 366079,
       "friendsCount": 5425,
       "location": "4XLABS 辅导全球Web3项目落地华语市场"
     },
@@ -585,7 +699,7 @@
       "name": "ChainGPT",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1996231365226885120/nvg2aS5W_normal.jpg",
       "description": "A Web3-AI infrastructure! Unleash AI's power with our tools for crypto trading, NFT creation, smart contract development, and more. $CGPT - Binance Listed 🤖 ⚡",
-      "followersCount": 823686,
+      "followersCount": 823636,
       "friendsCount": 814,
       "location": ""
     },
@@ -602,7 +716,7 @@
       "name": "大帅老猿",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/687927732311863297/iJSmNFUt_normal.jpg",
       "description": "边开房车边写代码走遍了中国 33 个省份，目前在清迈陪读，日常分享编程，游戏，AI，SEO，黑客增长和生活。",
-      "followersCount": 51721,
+      "followersCount": 51706,
       "friendsCount": 613,
       "location": "Blog ➡️"
     },
@@ -632,7 +746,7 @@
       "name": "ming_lau",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1868326100621000704/qUtDgzr5_normal.jpg",
       "description": "全力梭哈币安人生\n币安注册 https://t.co/X13tAsrz3O\n币安钱包邀请码 GQZO42F3\nok钱包 https://t.co/yFdN1ckInt",
-      "followersCount": 21187,
+      "followersCount": 21177,
       "friendsCount": 1223,
       "location": ""
     },
@@ -649,7 +763,7 @@
       "name": "熊大",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1938050639600504832/Hng8xQ4o_normal.jpg",
       "description": "#BTC #ETH＃AI   web3小韭菜一枚，分享优质Alpha项目及交互方案。",
-      "followersCount": 12421,
+      "followersCount": 12417,
       "friendsCount": 1873,
       "location": "🪂 Airdrop"
     },
@@ -666,7 +780,7 @@
       "name": "OKX",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1968722816154345472/vEj4j3o9_normal.jpg",
       "description": "A new alternative for your crypto journey | Self-custody & dApps: @Wallet | Support: @OKXHelpDesk | UK users: @OKX_UK",
-      "followersCount": 5702778,
+      "followersCount": 5702793,
       "friendsCount": 322,
       "location": ""
     },
@@ -683,7 +797,7 @@
       "name": "ThuanCapital",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1455210352371589128/Ml-o06bv_normal.jpg",
       "description": "Thạc Sĩ MBA | KPMG Alumni | CRCM | 8+ years Crypto\n\n⚠️Tất Cả Chỉ Vì Mục Đích Thông Tin Và Không Được Xem Là Lời Khuyên Đầu Tư\n\nContact: Admin@ThuanCapital.com",
-      "followersCount": 496590,
+      "followersCount": 496599,
       "friendsCount": 503,
       "location": "Moon"
     },
@@ -700,7 +814,7 @@
       "name": "Crypto Tony",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1612936440240898049/b8uRB78r_normal.jpg",
       "description": "Crypto .. 99% will lose all money invested. Check your own country laws before investing / trading. Tweets do not endorse buying Crypto or directed to UK users.",
-      "followersCount": 558125,
+      "followersCount": 557969,
       "friendsCount": 726,
       "location": "Dubai"
     },
@@ -717,7 +831,7 @@
       "name": "ThuanCapital",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1455210352371589128/Ml-o06bv_normal.jpg",
       "description": "Thạc Sĩ MBA | KPMG Alumni | CRCM | 8+ years Crypto\n\n⚠️Tất Cả Chỉ Vì Mục Đích Thông Tin Và Không Được Xem Là Lời Khuyên Đầu Tư\n\nContact: Admin@ThuanCapital.com",
-      "followersCount": 496590,
+      "followersCount": 496599,
       "friendsCount": 503,
       "location": "Moon"
     },
@@ -1340,6 +1454,21 @@
     "videos": [],
     "tweetUrl": "https://x.com/off_thetarget/status/1996933886694060469",
     "fullText": "快过年了  这一年赚不到啥钱 光赔钱 房贷车贷 孩子上学 看病 在单位里当牛马 同事勾心斗角 看老板脸色  回家还要忍受楼上噪音 \n\n人是很脆弱的 不像路边野草 风吹雨打也能成长  长时间情绪压抑 神经衰弱 就会精神病"
+  },
+  {
+    "user": {
+      "screenName": "SodStm",
+      "name": "Shape of Dreams",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1965964687918485504/4pfz0D-B_normal.png",
+      "description": "Step into the dream & become the nightmare in Shape of Dreams. Available now on Steam.",
+      "followersCount": 2743,
+      "friendsCount": 4,
+      "location": "The Rapids"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/SodStm/status/1996931185373778322",
+    "fullText": "The dream has taken new shape!\n\n🌌Shape of Dreams Update 1.1 goes live on 10 December 2025.\n\nNew builds, new threats, new ways to dominate.\n\nWishlist &amp; follow to stay notified."
   },
   {
     "user": {
@@ -4876,6 +5005,21 @@
     "images": [],
     "videos": [],
     "tweetUrl": "https://x.com/get_Ethos/status/1996722873701195904",
+    "fullText": "Don’t be the dad without life insurance.\n\nGet same-day coverage with Ethos life insurance."
+  },
+  {
+    "user": {
+      "screenName": "get_Ethos",
+      "name": "Ethos",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1895552790665314304/SAhXBchP_normal.jpg",
+      "description": "Ethos is changing the way people buy life insurance. We've simplified the process so you can get covered online instantly. \n\nLicenses: https://t.co/fuKtojjyQr",
+      "followersCount": 4708,
+      "friendsCount": 141,
+      "location": "San Francisco, CA"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/get_Ethos/status/1996722873696952507",
     "fullText": "Don’t be the dad without life insurance.\n\nGet same-day coverage with Ethos life insurance."
   },
   {
