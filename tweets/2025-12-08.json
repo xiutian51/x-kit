@@ -1,12 +1,139 @@
 [
   {
     "user": {
+      "screenName": "partisiampc",
+      "name": "Partisia Blockchain",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1858554363922259968/u0M3EFYl_normal.jpg",
+      "description": "Partisia's Layer 1 Blockchain is doing for data what Bitcoin did for money.",
+      "followersCount": 197990,
+      "friendsCount": 176,
+      "location": "Zug, Switzerland"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G7qXx_4W0AA3Fsk.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/partisiampc/status/1998079097075884494",
+    "fullText": "🎬 Node Ops AMA recap for Sceptre Liquid Staking\n\nIt was a solid discussion with node operators.\n\nWe covered:\n• How $sMPC liquid staking works in practice\n• What Sceptre looks for when selecting operators\n• How rewards, cooldown and redemptions flow\n• The plan for $sMPC - https://t.co/Xly5NPNawx"
+  },
+  {
+    "user": {
+      "screenName": "gensynai",
+      "name": "gensyn",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1893746041926885376/L-4D2qr9_normal.jpg",
+      "description": "Gensyn is building the network for machine intelligence. Build with the team here: https://t.co/1agn4jNAzR",
+      "followersCount": 91349,
+      "friendsCount": 43,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/gensynai/status/1998077634748809404",
+    "fullText": "Live on Discord now talking all things Delphi\n\nhttps://t.co/B3bgESXsuc"
+  },
+  {
+    "user": {
+      "screenName": "0xzhaozhao",
+      "name": "0xzhaozhao | 🌊Web3浪客 | MemeMax⚡️",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1943563003275939841/nkNdTt9r_normal.jpg",
+      "description": "📖 小县城屌丝的 Web3 翻身日记｜\nTelegram: @zhaozhao1113  ｜\n🏁 #OKX Web3 - 你的 Crypto 首选！畅游130+公链，极速交易热门Meme，工具全能 → https://t.co/Qf6ORNcMNJ",
+      "followersCount": 70114,
+      "friendsCount": 3235,
+      "location": "合作DM｜这里是2023All in Web3的阿zhao"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G7qWUVta8AEGhYR.jpg",
+      "https://pbs.twimg.com/media/G7qWVXbagAAnalz.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/0xzhaozhao/status/1998074934854299696",
+    "fullText": "在国外，\n不要表现的来自中国大陆，\n可以避免90%的危险。\n\n表现的来自，\n日本、韩国、中华台北，\n可以避免95%的危险。\n\n遇到讲普通话，来聊天的，\n说自己来自日本、韩国、中华台北，\n不喜欢dD，不喜欢中国，\n可以避免99%的危险。 https://t.co/HdjTBQz75h"
+  },
+  {
+    "user": {
+      "screenName": "CryptoTony__",
+      "name": "Crypto Tony",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1612936440240898049/b8uRB78r_normal.jpg",
+      "description": "Crypto .. 99% will lose all money invested. Check your own country laws before investing / trading. Tweets do not endorse buying Crypto or directed to UK users.",
+      "followersCount": 558253,
+      "friendsCount": 726,
+      "location": "Dubai"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/CryptoTony__/status/1998072965343195629",
+    "fullText": "If your a spot or futures trader with over $1,000 capital and are looking for more Altcoin calls and direction in the market. DM me. \n\nMust be happy to sign up to my WEEX ref link and trade for access to daily calls.\n\nCalled the $BTC short today in the group. Plenty more wins to"
+  },
+  {
+    "user": {
+      "screenName": "silverfang88",
+      "name": "子时",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1939972609023582210/TznrEwzJ_normal.jpg",
+      "description": "剑开天门 伟大撤退 ｜Crypto入口,OKX就够,最全交易工具,畅游130+公链,极速交易热门Meme 🔗 https://t.co/2xvR6AW4jb",
+      "followersCount": 87104,
+      "friendsCount": 3167,
+      "location": "Dublin"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/silverfang88/status/1998072053337821480",
+    "fullText": "卧槽 蓝战非这个被绑架可吓死人"
+  },
+  {
+    "user": {
+      "screenName": "CryptoNewton",
+      "name": "Shelby",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1585198113794494470/BklvuxQy_normal.jpg",
+      "description": "My telegram group: https://t.co/tAKzztxI8l",
+      "followersCount": 271966,
+      "friendsCount": 4406,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/CryptoNewton/status/1998070600737095746",
+    "fullText": "$BTC is grinding back toward 90–92k on thinner volume, while ETFs quietly become the main driver of flows.\n\n To me that screams \"late-stage chop, early-stage repricing\" \n\nIn that environment, I want high-beta plays that still have real fundamentals. BNB Chain as RWA hub makes"
+  },
+  {
+    "user": {
+      "screenName": "JohnWRichKid",
+      "name": "John W. Rich Kid (Wendy’s Fry Cook)",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1742389291924242432/XTBVcO61_normal.jpg",
+      "description": "fries @wendys 🍟 memes @monad 💜 (parody)",
+      "followersCount": 80834,
+      "friendsCount": 1912,
+      "location": "Gary, Indiana"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/JohnWRichKid/status/1998070216270418187",
+    "fullText": "you should have 1 goal everyday: \n\noutwit, outplay, and outlast the doomers who are in a constant state of grumpiness\n\nit is very obvious who has this goal and who does not\n\naccomplish this and you can do anything"
+  },
+  {
+    "user": {
+      "screenName": "okx",
+      "name": "OKX",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1968722816154345472/vEj4j3o9_normal.jpg",
+      "description": "A new alternative for your crypto journey | Self-custody & dApps: @Wallet | Support: @OKXHelpDesk | UK users: @OKX_UK",
+      "followersCount": 5703027,
+      "friendsCount": 322,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G7qQixcXEAQWzx6.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/okx/status/1998068332088463855",
+    "fullText": "It’s official. The New Money App is now available in the US 🇺🇸\n\nExperience Simple, CeDeFi, Advanced, Web3 all in one app. https://t.co/inE34wP9je"
+  },
+  {
+    "user": {
       "screenName": "ChinaPumpWXC",
       "name": "中国密码鲸公司 WHALE CHINESE 🇨🇳🐳🚀🌖",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1576255175693840387/m--uK6V2_normal.jpg",
       "description": "⛩中国最大的“鲸鱼”社区，聚集了大量大额投资者/鲸鱼，对 #Crypto、#BTC、#Binance 等项目感兴趣。这里有许多与加密货币相关的内容，投资者在此汇聚，进行大额投资并共同讨论。所有推广项目仅供参考，请在投资前务必认真研究并尽职审查，独立判断并承担风险。",
-      "followersCount": 307051,
-      "friendsCount": 5787,
+      "followersCount": 307076,
+      "friendsCount": 5786,
       "location": "TOP ASIAN"
     },
     "images": [
@@ -22,7 +149,7 @@
       "name": "时光预言机i",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1680834237476503552/ReNK3EB0_normal.jpg",
       "description": "#OKX Web3钱包现已支持100+公链提供钱包、多链 swap、NFT、DeFi挖矿一站式服务#Web3 \nhttps://t.co/OlSbeexeUf\n\n币安近3亿人的选择：https://t.co/dVeyZwP75i\n\n商务合作私信",
-      "followersCount": 23240,
+      "followersCount": 23239,
       "friendsCount": 2728,
       "location": "电报：https://t.me/+pf8HwEO822kzM"
     },
@@ -40,7 +167,7 @@
       "name": "UNICORN⚡️🦄",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1963503485170978817/NpvyjRQ1_normal.jpg",
       "description": "1 $BTC = 1 $BTC\n\n#XClub Founder\n\n#OKX WEB3入口一个就够https://t.co/pZCFItlFC5 \n\n#Binance 近3亿用户的共同选择https://t.co/KoDvNTZwsS",
-      "followersCount": 132373,
+      "followersCount": 132386,
       "friendsCount": 3191,
       "location": "UnicornBitcoin"
     },
@@ -59,7 +186,7 @@
       "name": "0xAA",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1909791942961250308/nPZLMciH_normal.jpg",
       "description": "Neuroscience PhD, x402 lover @WTFAcademy_ @ourRescuETH @The_PeopleDAO ｜启程Web3，就在币安: https://t.co/k5E2804y9X ｜新人首选，安全简单。一站式链上链下交易平台OKX https://t.co/Kwxe2KTZlu",
-      "followersCount": 169114,
+      "followersCount": 169112,
       "friendsCount": 1479,
       "location": "Dark Forest"
     },
@@ -76,7 +203,7 @@
       "name": "Johnny",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1945782178123579392/R0hCNJpp_normal.jpg",
       "description": "👑 For first access to all my trades, onchain plays, and daily market insights signup to @wealthgroup 🔥",
-      "followersCount": 872606,
+      "followersCount": 872625,
       "friendsCount": 879,
       "location": "Metaverse"
     },
@@ -93,8 +220,8 @@
       "name": "gensyn",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1893746041926885376/L-4D2qr9_normal.jpg",
       "description": "Gensyn is building the network for machine intelligence. Build with the team here: https://t.co/1agn4jNAzR",
-      "followersCount": 91347,
-      "friendsCount": 42,
+      "followersCount": 91349,
+      "friendsCount": 43,
       "location": ""
     },
     "images": [],
@@ -110,7 +237,7 @@
       "name": "ChainGPT",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1996231365226885120/nvg2aS5W_normal.jpg",
       "description": "A Web3-AI infrastructure! Unleash AI's power with our tools for crypto trading, NFT creation, smart contract development, and more. $CGPT - Binance Listed 🤖 ⚡",
-      "followersCount": 823388,
+      "followersCount": 823373,
       "friendsCount": 814,
       "location": ""
     },
@@ -127,7 +254,7 @@
       "name": "ThuanCapital",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1455210352371589128/Ml-o06bv_normal.jpg",
       "description": "Thạc Sĩ MBA | KPMG Alumni | CRCM | 8+ years Crypto\n\n⚠️Tất Cả Chỉ Vì Mục Đích Thông Tin Và Không Được Xem Là Lời Khuyên Đầu Tư\n\nContact: Admin@ThuanCapital.com",
-      "followersCount": 496713,
+      "followersCount": 496720,
       "friendsCount": 503,
       "location": "Moon"
     },
@@ -144,7 +271,7 @@
       "name": "ThuanCapital",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1455210352371589128/Ml-o06bv_normal.jpg",
       "description": "Thạc Sĩ MBA | KPMG Alumni | CRCM | 8+ years Crypto\n\n⚠️Tất Cả Chỉ Vì Mục Đích Thông Tin Và Không Được Xem Là Lời Khuyên Đầu Tư\n\nContact: Admin@ThuanCapital.com",
-      "followersCount": 496713,
+      "followersCount": 496720,
       "friendsCount": 503,
       "location": "Moon"
     },
@@ -161,7 +288,7 @@
       "name": "ThuanCapital",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1455210352371589128/Ml-o06bv_normal.jpg",
       "description": "Thạc Sĩ MBA | KPMG Alumni | CRCM | 8+ years Crypto\n\n⚠️Tất Cả Chỉ Vì Mục Đích Thông Tin Và Không Được Xem Là Lời Khuyên Đầu Tư\n\nContact: Admin@ThuanCapital.com",
-      "followersCount": 496713,
+      "followersCount": 496720,
       "friendsCount": 503,
       "location": "Moon"
     },
@@ -178,7 +305,7 @@
       "name": "吴说区块链",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1763571513553543168/swT8lq9S_normal.jpg",
       "description": "吴说中文推特：接近真相，更可信赖\n专业可信的行业新闻，优质深度内容推荐\n吴说所有内容渠道、播客、APP 等：https://t.co/rVoqryXVjk\n联系我们 TG: colinwu1989",
-      "followersCount": 169304,
+      "followersCount": 169311,
       "friendsCount": 1,
       "location": ""
     },
@@ -193,7 +320,7 @@
       "name": "吴说区块链",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1763571513553543168/swT8lq9S_normal.jpg",
       "description": "吴说中文推特：接近真相，更可信赖\n专业可信的行业新闻，优质深度内容推荐\n吴说所有内容渠道、播客、APP 等：https://t.co/rVoqryXVjk\n联系我们 TG: colinwu1989",
-      "followersCount": 169304,
+      "followersCount": 169311,
       "friendsCount": 1,
       "location": ""
     },
@@ -208,7 +335,7 @@
       "name": "ThuanCapital",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1455210352371589128/Ml-o06bv_normal.jpg",
       "description": "Thạc Sĩ MBA | KPMG Alumni | CRCM | 8+ years Crypto\n\n⚠️Tất Cả Chỉ Vì Mục Đích Thông Tin Và Không Được Xem Là Lời Khuyên Đầu Tư\n\nContact: Admin@ThuanCapital.com",
-      "followersCount": 496713,
+      "followersCount": 496720,
       "friendsCount": 503,
       "location": "Moon"
     },
@@ -244,7 +371,7 @@
       "name": "Overtime",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1931377566432317440/k5bQMdwy_normal.jpg",
       "description": "🫶",
-      "followersCount": 1749312,
+      "followersCount": 1749336,
       "friendsCount": 1206,
       "location": ""
     },
@@ -261,7 +388,7 @@
       "name": "ThuanCapital",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1455210352371589128/Ml-o06bv_normal.jpg",
       "description": "Thạc Sĩ MBA | KPMG Alumni | CRCM | 8+ years Crypto\n\n⚠️Tất Cả Chỉ Vì Mục Đích Thông Tin Và Không Được Xem Là Lời Khuyên Đầu Tư\n\nContact: Admin@ThuanCapital.com",
-      "followersCount": 496713,
+      "followersCount": 496720,
       "friendsCount": 503,
       "location": "Moon"
     },
@@ -278,7 +405,7 @@
       "name": "路遥 | Trader",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1929217566750515201/vEiguLrW_normal.jpg",
       "description": "路遥，全职奶爸、家庭煮夫，励志成为旅行美食博主！\n\n同时为B圈段子手兼全职在家蹲喝西北风交易猿\n反指达人，交易菜逼，亏钱小能手，佛系躺平ing...\n\n孤独的交易者\n思考、享受交易，体验、感悟人生。",
-      "followersCount": 88448,
+      "followersCount": 88451,
       "friendsCount": 357,
       "location": "CHINA"
     },
@@ -293,8 +420,8 @@
       "name": "子时",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1939972609023582210/TznrEwzJ_normal.jpg",
       "description": "剑开天门 伟大撤退 ｜Crypto入口,OKX就够,最全交易工具,畅游130+公链,极速交易热门Meme 🔗 https://t.co/2xvR6AW4jb",
-      "followersCount": 87116,
-      "friendsCount": 3166,
+      "followersCount": 87104,
+      "friendsCount": 3167,
       "location": "Dublin"
     },
     "images": [],
@@ -308,7 +435,7 @@
       "name": "0xzhaozhao | 🌊Web3浪客 | MemeMax⚡️",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1943563003275939841/nkNdTt9r_normal.jpg",
       "description": "📖 小县城屌丝的 Web3 翻身日记｜\nTelegram: @zhaozhao1113  ｜\n🏁 #OKX Web3 - 你的 Crypto 首选！畅游130+公链，极速交易热门Meme，工具全能 → https://t.co/Qf6ORNcMNJ",
-      "followersCount": 70117,
+      "followersCount": 70114,
       "friendsCount": 3235,
       "location": "合作DM｜这里是2023All in Web3的阿zhao"
     },
@@ -327,7 +454,7 @@
       "name": "EnHeng嗯哼🔸BNB",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1966152812536147968/nzlqBIZQ_normal.jpg",
       "description": "05年大学生入场学习记｜build #BNB $Aster｜Binance近3亿选择https://t.co/Y1GpxuSDRD｜Giggle BNB慈善贡献榜首位｜合作Dm Tg enheng777 ｜个人微信ttttwill｜仅代表个人观点不构成投资建议 高风险投机 DYOR",
-      "followersCount": 87799,
+      "followersCount": 87809,
       "friendsCount": 3098,
       "location": "TG频道发布重要信息"
     },
@@ -344,7 +471,7 @@
       "name": "吴说区块链",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1763571513553543168/swT8lq9S_normal.jpg",
       "description": "吴说中文推特：接近真相，更可信赖\n专业可信的行业新闻，优质深度内容推荐\n吴说所有内容渠道、播客、APP 等：https://t.co/rVoqryXVjk\n联系我们 TG: colinwu1989",
-      "followersCount": 169304,
+      "followersCount": 169311,
       "friendsCount": 1,
       "location": ""
     },
@@ -359,7 +486,7 @@
       "name": "吴说区块链",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1763571513553543168/swT8lq9S_normal.jpg",
       "description": "吴说中文推特：接近真相，更可信赖\n专业可信的行业新闻，优质深度内容推荐\n吴说所有内容渠道、播客、APP 等：https://t.co/rVoqryXVjk\n联系我们 TG: colinwu1989",
-      "followersCount": 169304,
+      "followersCount": 169311,
       "friendsCount": 1,
       "location": ""
     },
@@ -374,7 +501,7 @@
       "name": "Johnny",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1945782178123579392/R0hCNJpp_normal.jpg",
       "description": "👑 For first access to all my trades, onchain plays, and daily market insights signup to @wealthgroup 🔥",
-      "followersCount": 872606,
+      "followersCount": 872625,
       "friendsCount": 879,
       "location": "Metaverse"
     },
@@ -389,7 +516,7 @@
       "name": "Crypto Tony",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1612936440240898049/b8uRB78r_normal.jpg",
       "description": "Crypto .. 99% will lose all money invested. Check your own country laws before investing / trading. Tweets do not endorse buying Crypto or directed to UK users.",
-      "followersCount": 558257,
+      "followersCount": 558253,
       "friendsCount": 726,
       "location": "Dubai"
     },
@@ -404,7 +531,7 @@
       "name": "Stephen A Smith",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1724515058376400896/LM2zVPsV_normal.jpg",
       "description": "The real Stephen A. Smith. Host of First Take on ESPN and The Stephen A. Smith Show on @Siriusxm. My book Straight Shooter is available now",
-      "followersCount": 5916836,
+      "followersCount": 5916871,
       "friendsCount": 23,
       "location": ""
     },
@@ -419,7 +546,7 @@
       "name": "吴说区块链",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1763571513553543168/swT8lq9S_normal.jpg",
       "description": "吴说中文推特：接近真相，更可信赖\n专业可信的行业新闻，优质深度内容推荐\n吴说所有内容渠道、播客、APP 等：https://t.co/rVoqryXVjk\n联系我们 TG: colinwu1989",
-      "followersCount": 169304,
+      "followersCount": 169311,
       "friendsCount": 1,
       "location": ""
     },
@@ -434,7 +561,7 @@
       "name": "AltLayer",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1787391034957144064/183kLjsg_normal.jpg",
       "description": "Accelerate Web3 with our restaked rollups & verifiable agents.",
-      "followersCount": 654365,
+      "followersCount": 654360,
       "friendsCount": 363,
       "location": ""
     },
@@ -451,8 +578,8 @@
       "name": "子时",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1939972609023582210/TznrEwzJ_normal.jpg",
       "description": "剑开天门 伟大撤退 ｜Crypto入口,OKX就够,最全交易工具,畅游130+公链,极速交易热门Meme 🔗 https://t.co/2xvR6AW4jb",
-      "followersCount": 87116,
-      "friendsCount": 3166,
+      "followersCount": 87104,
+      "friendsCount": 3167,
       "location": "Dublin"
     },
     "images": [
@@ -485,7 +612,7 @@
       "name": "吴说区块链",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1763571513553543168/swT8lq9S_normal.jpg",
       "description": "吴说中文推特：接近真相，更可信赖\n专业可信的行业新闻，优质深度内容推荐\n吴说所有内容渠道、播客、APP 等：https://t.co/rVoqryXVjk\n联系我们 TG: colinwu1989",
-      "followersCount": 169304,
+      "followersCount": 169311,
       "friendsCount": 1,
       "location": ""
     },
@@ -501,7 +628,7 @@
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1997099567356301312/QINmGFRh_normal.jpg",
       "description": "🚀 Audio Innovator | 🎵 Music Tech Pioneer | 💼 Former HITFM DJ | 🏆 Red Dot & A’Design Winner | 🎙️ TEDx Speaker | 🌏 Digital Nomad |🧪 Vensa Field Researcher",
       "followersCount": 14711,
-      "friendsCount": 1770,
+      "friendsCount": 1771,
       "location": "Chiang Mai, Thailand"
     },
     "images": [
@@ -517,7 +644,7 @@
       "name": "CBB",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1872626142034739200/EIM6NL_5_normal.jpg",
       "description": "Riding the ponzi of magic internet money",
-      "followersCount": 104380,
+      "followersCount": 104383,
       "friendsCount": 163,
       "location": ""
     },
@@ -532,7 +659,7 @@
       "name": "吴说区块链",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1763571513553543168/swT8lq9S_normal.jpg",
       "description": "吴说中文推特：接近真相，更可信赖\n专业可信的行业新闻，优质深度内容推荐\n吴说所有内容渠道、播客、APP 等：https://t.co/rVoqryXVjk\n联系我们 TG: colinwu1989",
-      "followersCount": 169304,
+      "followersCount": 169311,
       "friendsCount": 1,
       "location": ""
     },
@@ -547,7 +674,7 @@
       "name": "Crypto Tony",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1612936440240898049/b8uRB78r_normal.jpg",
       "description": "Crypto .. 99% will lose all money invested. Check your own country laws before investing / trading. Tweets do not endorse buying Crypto or directed to UK users.",
-      "followersCount": 558257,
+      "followersCount": 558253,
       "friendsCount": 726,
       "location": "Dubai"
     },
@@ -564,7 +691,7 @@
       "name": "证势交易",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1597568078292082688/yGV-YUO__normal.jpg",
       "description": "🤵‍♂️证势集团CTO，证势交易创始人 🎯11年交易员，专注外汇(中线)、币圈(合约+现货)、期货(波段)、股票(长线) 📈交易，在推特整个中文区，在现价喊单与分享策略方面准确率第一，策略都是实打实，没有模凌两可，更没有马后炮，如果你也做交易，更想学好交易，就关注证势交易",
-      "followersCount": 66965,
+      "followersCount": 66977,
       "friendsCount": 63,
       "location": "Nevada, USA"
     },
@@ -581,7 +708,7 @@
       "name": "吴说区块链",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1763571513553543168/swT8lq9S_normal.jpg",
       "description": "吴说中文推特：接近真相，更可信赖\n专业可信的行业新闻，优质深度内容推荐\n吴说所有内容渠道、播客、APP 等：https://t.co/rVoqryXVjk\n联系我们 TG: colinwu1989",
-      "followersCount": 169304,
+      "followersCount": 169311,
       "friendsCount": 1,
       "location": ""
     },
@@ -596,7 +723,7 @@
       "name": "加密韋馱｜Skanda 🇹🇭",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1952378634406391808/Ta6RBRUd_normal.jpg",
       "description": "韋(wěi) 馱(tuó) // Cooking @hertzflow_xyz // The evil preacher of PVP Generation",
-      "followersCount": 49286,
+      "followersCount": 49288,
       "friendsCount": 2209,
       "location": "Myawaddy"
     },
@@ -613,7 +740,7 @@
       "name": "枪十七",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1711548243610677248/zxFYz-g9_normal.jpg",
       "description": "资深做市商 为70+项目方提供做市/营销/PR辅导 | 前 $pump $gork 做市商 |《BTC庄家日记》作者 | 分享自己的思考和逻辑 | 二级市场交易经验10+年 / VC投后管理4年 / 投行6年 / 做市商7年 | 不接任何广告 不做嘴撸 不接付费宣发 不接交易所合作 不做返佣 没有收费群",
-      "followersCount": 82970,
+      "followersCount": 82968,
       "friendsCount": 23,
       "location": "Japan 🇯🇵"
     },
@@ -628,7 +755,7 @@
       "name": "证势交易",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1597568078292082688/yGV-YUO__normal.jpg",
       "description": "🤵‍♂️证势集团CTO，证势交易创始人 🎯11年交易员，专注外汇(中线)、币圈(合约+现货)、期货(波段)、股票(长线) 📈交易，在推特整个中文区，在现价喊单与分享策略方面准确率第一，策略都是实打实，没有模凌两可，更没有马后炮，如果你也做交易，更想学好交易，就关注证势交易",
-      "followersCount": 66965,
+      "followersCount": 66977,
       "friendsCount": 63,
       "location": "Nevada, USA"
     },
@@ -660,7 +787,7 @@
       "name": "吴说区块链",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1763571513553543168/swT8lq9S_normal.jpg",
       "description": "吴说中文推特：接近真相，更可信赖\n专业可信的行业新闻，优质深度内容推荐\n吴说所有内容渠道、播客、APP 等：https://t.co/rVoqryXVjk\n联系我们 TG: colinwu1989",
-      "followersCount": 169304,
+      "followersCount": 169311,
       "friendsCount": 1,
       "location": ""
     },
@@ -675,7 +802,7 @@
       "name": "Cosmos - The Interchain ⚛️",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1983807442874929152/gO8dvfPE_normal.png",
       "description": "The internet of blockchains.",
-      "followersCount": 564022,
+      "followersCount": 564019,
       "friendsCount": 309,
       "location": "🌌"
     },
@@ -692,7 +819,7 @@
       "name": "EnHeng嗯哼🔸BNB",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1966152812536147968/nzlqBIZQ_normal.jpg",
       "description": "05年大学生入场学习记｜build #BNB $Aster｜Binance近3亿选择https://t.co/Y1GpxuSDRD｜Giggle BNB慈善贡献榜首位｜合作Dm Tg enheng777 ｜个人微信ttttwill｜仅代表个人观点不构成投资建议 高风险投机 DYOR",
-      "followersCount": 87799,
+      "followersCount": 87809,
       "friendsCount": 3098,
       "location": "TG频道发布重要信息"
     },
@@ -726,7 +853,7 @@
       "name": "吴说区块链",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1763571513553543168/swT8lq9S_normal.jpg",
       "description": "吴说中文推特：接近真相，更可信赖\n专业可信的行业新闻，优质深度内容推荐\n吴说所有内容渠道、播客、APP 等：https://t.co/rVoqryXVjk\n联系我们 TG: colinwu1989",
-      "followersCount": 169304,
+      "followersCount": 169311,
       "friendsCount": 1,
       "location": ""
     },
@@ -1700,7 +1827,7 @@
       "name": "花果山大圣",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1956649801128329216/9dfodVqp_normal.jpg",
       "description": "不爱上班的程序员, 靠谱的前端讲师， 卖课为生，前端 Web3  程序员英语 私教, 独立开发\n努力做最好的程序员讲师\n油管主页：https://t.co/kEcslLs1vs\n加入电报群:  https://t.co/fQEVZn8uNH\n合作微信：itdasheng168",
-      "followersCount": 54269,
+      "followersCount": 54274,
       "friendsCount": 1148,
       "location": "Remote"
     },
