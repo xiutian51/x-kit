@@ -1,11 +1,294 @@
 [
   {
     "user": {
+      "screenName": "wublockchain12",
+      "name": "吴说区块链",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1763571513553543168/swT8lq9S_normal.jpg",
+      "description": "吴说中文推特：接近真相，更可信赖\n专业可信的行业新闻，优质深度内容推荐\n吴说所有内容渠道、播客、APP 等：https://t.co/rVoqryXVjk\n联系我们 TG: colinwu1989",
+      "followersCount": 169451,
+      "friendsCount": 1,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/wublockchain12/status/1998411555944456435",
+    "fullText": "据彭博社，Stripe 与加密风投公司 Paradigm 宣布，其联合开发的区块链项目 Tempo 已正式开放公测，允许企业构建基于稳定币的支付应用。新合作伙伴包括瑞银集团（UBS）和 Cross River Bank，现有合作方涵盖德意志银行、Nubank、OpenAI 与 Anthropic。Tempo"
+  },
+  {
+    "user": {
+      "screenName": "servasyy",
+      "name": "serva huang",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1969304899877027840/Ok6tYp0b_normal.jpg",
+      "description": "古早程序员 | AI出海 | 自由职业\n机车游侠&机速购&骑享租创始人\n15年前 freelance 起步 → 连续创业者 → 亏过1个亿，逆风翻盘中\n分享创业，AI，生活，读书，健身，中医",
+      "followersCount": 12698,
+      "friendsCount": 620,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G7vH67tWgAAi1Rf.jpg",
+      "https://pbs.twimg.com/media/G7vH_8CWoAAXr8k.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/servasyy/status/1998410780727713805",
+    "fullText": "这个Linux风格的海报太有创意了！  \n\n根据@cellinlab大佬的黑客松海报 \n复刻并修改了一版  \n\n老规矩，提示词在评论区👇 https://t.co/jvTgqBed6b"
+  },
+  {
+    "user": {
+      "screenName": "gakonst",
+      "name": "Georgios Konstantopoulos",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1596214564470734849/1Tg5-gNh_normal.jpg",
+      "description": "very greek accent. general partner & cto @paradigm. eng lead @tempo. optimist and rustacean 🦀 // team lead of reth, foundry, alloy. join us.",
+      "followersCount": 147575,
+      "friendsCount": 2265,
+      "location": ""
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1998410062411550720/vid/avc1/1690x1314/Qhi0rmK_0wI-R6Ea.mp4?tag=21"
+    ],
+    "tweetUrl": "https://x.com/gakonst/status/1998410464871805299",
+    "fullText": "btw we shipped our own blazing-fast block explorer for tempo and open sourced it\n\nbuilt on cloudflare workers and index supply, costs few dollars / month to maintain given an RPC https://t.co/Zzplu49ycT"
+  },
+  {
+    "user": {
+      "screenName": "ThuanCapital",
+      "name": "ThuanCapital",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1455210352371589128/Ml-o06bv_normal.jpg",
+      "description": "Thạc Sĩ MBA | KPMG Alumni | CRCM | 8+ years Crypto\n\n⚠️Tất Cả Chỉ Vì Mục Đích Thông Tin Và Không Được Xem Là Lời Khuyên Đầu Tư\n\nContact: Admin@ThuanCapital.com",
+      "followersCount": 496816,
+      "friendsCount": 503,
+      "location": "Moon"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G7vHPZLaYAEeyxD.jpg",
+      "https://pbs.twimg.com/media/G7vHUf5a4AA9id2.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/ThuanCapital/status/1998410314417836268",
+    "fullText": "MỸ ỦNG HỘ CÁC CÔNG TY CRYPTO XIN GIẤY PHÉP NGÂN HÀNG\n\n🔸 Lãnh đạo cơ quan giám sát ngân hàng Mỹ (OCC) Jonathan Gould nói rằng các ngân hàng truyền thống không nên cản trở công ty crypto xin giấy phép ngân hàng.\n\n🔸 Khoảng 14 hồ sơ xin lập ngân hàng mới trong năm https://t.co/zpsINBc6mP"
+  },
+  {
+    "user": {
+      "screenName": "JohnWRichKid",
+      "name": "John W. Rich Kid (Wendy’s Fry Cook)",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1742389291924242432/XTBVcO61_normal.jpg",
+      "description": "fries @wendys 🍟 memes @monad 💜 (parody)",
+      "followersCount": 80824,
+      "friendsCount": 1914,
+      "location": "Gary, Indiana"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G7vGoMJXQAEFZ6a.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/JohnWRichKid/status/1998409256496705803",
+    "fullText": "what I bring to the table as your boyfriend:\n\n- extremely wealthy father (9 figs) \n- minimum wage job\n- under 5’7\n- over 250 lbs \n- crippling gambling addiction \n- passion for crypto and video games\n- 2 priors for tax evasion \n\ndoes anyone want to meet me? https://t.co/C1nd6fNiFN"
+  },
+  {
+    "user": {
+      "screenName": "HappyQQ_AI",
+      "name": "HappyQQ_AI",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1963127781685858304/bQ6BtMOn_normal.jpg",
+      "description": "曾在职场干过程序员、架构师、技术总监的活。\n现在是一名连续技术创业者，虽千万人吾往矣。\n现在也是一名业余的非专业的脱口秀演技人员。\n专注𝗔𝗜、软件开发、系统架构等前沿技术领域。\n公众号：移动互联网    （公众号真的是这么靓）",
+      "followersCount": 18647,
+      "friendsCount": 3646,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/HappyQQ_AI/status/1998408716152967456",
+    "fullText": "高压锅如果没有泄气阀，你说会炸么？"
+  },
+  {
+    "user": {
+      "screenName": "haze0x",
+      "name": "Haze 𝓰𝓶𝓰𝓷𝓪𝓲",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1940293487993208832/pji9dIoA_normal.jpg",
+      "description": "Cooking https://t.co/NVpkvmmdWB\n\nDon't copy trade my wallet, I will sell it at any time.\n\nI have no reason for my trade, just testing the product.",
+      "followersCount": 137001,
+      "friendsCount": 2058,
+      "location": "Onchain"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1998408505737478144/vid/avc1/1920x1080/eafl6ByTSoR193KC.mp4?tag=21"
+    ],
+    "tweetUrl": "https://x.com/haze0x/status/1998408660012413332",
+    "fullText": "https://t.co/K3ikgCl80c"
+  },
+  {
+    "user": {
+      "screenName": "wublockchain12",
+      "name": "吴说区块链",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1763571513553543168/swT8lq9S_normal.jpg",
+      "description": "吴说中文推特：接近真相，更可信赖\n专业可信的行业新闻，优质深度内容推荐\n吴说所有内容渠道、播客、APP 等：https://t.co/rVoqryXVjk\n联系我们 TG: colinwu1989",
+      "followersCount": 169451,
+      "friendsCount": 1,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/wublockchain12/status/1998407862620696785",
+    "fullText": "吴说获悉，Tether 宣布与非洲金融科技平台 HoneyCoin 建立战略合作，旨在扩大稳定币在非洲的应用范围。HoneyCoin 将推出支持 USDT 支付的无现金 POS 平台，使商户可在结账时直接接受稳定币付款，并在其生态系统中集成"
+  },
+  {
+    "user": {
+      "screenName": "ThuanCapital",
+      "name": "ThuanCapital",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1455210352371589128/Ml-o06bv_normal.jpg",
+      "description": "Thạc Sĩ MBA | KPMG Alumni | CRCM | 8+ years Crypto\n\n⚠️Tất Cả Chỉ Vì Mục Đích Thông Tin Và Không Được Xem Là Lời Khuyên Đầu Tư\n\nContact: Admin@ThuanCapital.com",
+      "followersCount": 496816,
+      "friendsCount": 503,
+      "location": "Moon"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G7vDlGDaYAEN0db.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/ThuanCapital/status/1998406000760742104",
+    "fullText": "Hyperliquid Strategies (HSI), công ty kho bạc chuyên nắm giữ token HYPE, vừa công bố kế hoạch mua lại 30 triệu USD cổ phiếu trong vòng 12 tháng. Mục tiêu là làm cho mỗi cổ phiếu đại diện cho nhiều HYPE hơn, qua đó tăng giá trị cho cổ đông.\n\nCách HSI vận hành https://t.co/qZZbtGlIp9"
+  },
+  {
+    "user": {
+      "screenName": "CryptoTony__",
+      "name": "Crypto Tony",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1612936440240898049/b8uRB78r_normal.jpg",
+      "description": "Crypto .. 99% will lose all money invested. Check your own country laws before investing / trading. Tweets do not endorse buying Crypto or directed to UK users.",
+      "followersCount": 558289,
+      "friendsCount": 726,
+      "location": "Dubai"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/CryptoTony__/status/1998405272747028618",
+    "fullText": "Always enter a trade keeping in mind what Bitcoin could do, as the daddy could ruin any potential setup giving the opportunity."
+  },
+  {
+    "user": {
+      "screenName": "ThuanCapital",
+      "name": "ThuanCapital",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1455210352371589128/Ml-o06bv_normal.jpg",
+      "description": "Thạc Sĩ MBA | KPMG Alumni | CRCM | 8+ years Crypto\n\n⚠️Tất Cả Chỉ Vì Mục Đích Thông Tin Và Không Được Xem Là Lời Khuyên Đầu Tư\n\nContact: Admin@ThuanCapital.com",
+      "followersCount": 496816,
+      "friendsCount": 503,
+      "location": "Moon"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G7vCw6Ra0AALbM4.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/ThuanCapital/status/1998405136465764863",
+    "fullText": "Tether vừa đầu tư 81 triệu USD vào Generative Bionics, một startup của Ý chuyên làm robot hình người kết hợp AI (“Physical AI”). \n\nCông ty này xuất phát từ Viện Công nghệ Ý, có hơn 20 năm nghiên cứu và 70 kỹ sư tham gia. Robot của họ được thiết kế để làm việc https://t.co/6mUlllOJ9P"
+  },
+  {
+    "user": {
+      "screenName": "TheVladCostea",
+      "name": "VLAD HOSTS THE BEST PODCAST IN BITCOIN",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1943609281854558208/f7P2Oowp_normal.jpg",
+      "description": "TRUE BITCOIN MAXIMALIST / INTERESTED IN SCALING + PRIVACY TECH  / BITCOIN: YEAR ONE / DON'T LISTEN TO THE BITCOIN TAKEOVER PODCAST, IT'S ONLY FOR SMART PEOPLE",
+      "followersCount": 23791,
+      "friendsCount": 2679,
+      "location": "Wallachia"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/TheVladCostea/status/1998404598281707848",
+    "fullText": "Hi @cculianu \n\nAre you related to Ioan Petru Culianu?\n\nhttps://t.co/VmamfDIdr7"
+  },
+  {
+    "user": {
+      "screenName": "partisiampc",
+      "name": "Partisia Blockchain",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1858554363922259968/u0M3EFYl_normal.jpg",
+      "description": "Partisia's Layer 1 Blockchain is doing for data what Bitcoin did for money.",
+      "followersCount": 198006,
+      "friendsCount": 176,
+      "location": "Zug, Switzerland"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/partisiampc/status/1998401749242012074",
+    "fullText": "Everything you know about privacy is wrong. It was never about secrets. It was about controlling them.\n\nInstitutions run on data. Turning that off is not an option. The real line is between using what you collect to serve people and using it to steer them.\n\nMost systems can"
+  },
+  {
+    "user": {
+      "screenName": "EnHeng456",
+      "name": "EnHeng嗯哼🔸BNB",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1966152812536147968/nzlqBIZQ_normal.jpg",
+      "description": "05年大学生入场学习记｜build #BNB $Aster｜Binance近3亿选择https://t.co/Y1GpxuSDRD｜Giggle BNB慈善贡献榜首位｜合作Dm Tg enheng777 ｜个人微信ttttwill｜仅代表个人观点不构成投资建议 高风险投机 DYOR",
+      "followersCount": 87754,
+      "friendsCount": 3099,
+      "location": "TG频道发布重要信息"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G7u_Er6aAAAaM0y.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/EnHeng456/status/1998400964727034169",
+    "fullText": "静候天时 ，顺势而为\n\n不是我不出手\n\n是等待一个好的机会 https://t.co/Z5EwcEjGFT"
+  },
+  {
+    "user": {
+      "screenName": "wublockchain12",
+      "name": "吴说区块链",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1763571513553543168/swT8lq9S_normal.jpg",
+      "description": "吴说中文推特：接近真相，更可信赖\n专业可信的行业新闻，优质深度内容推荐\n吴说所有内容渠道、播客、APP 等：https://t.co/rVoqryXVjk\n联系我们 TG: colinwu1989",
+      "followersCount": 169451,
+      "friendsCount": 1,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/wublockchain12/status/1998399683136479490",
+    "fullText": "吴说获悉，去中心化永续合约交易所 HyENA 正式上线，暂限受邀用户参与。该平台基于 Hyperliquid 的 HIP-3 标准构建，以 USDe 作为保证金资产，并由 Based 团队主导开发。首批支持交易对包括 HYPE-USDe、BTC-USDe、ETH-USDe 和 SOL-USDe。HyENA 同时推出流动性金库"
+  },
+  {
+    "user": {
+      "screenName": "Crypto_He",
+      "name": "先知｜MemeMax⚡️",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1964723425215479808/pWtAHTP7_normal.png",
+      "description": "Co-Founder @seerlabs_crypto 日常记录｜合作私信dm ｜广告自辨\n\n#币安 3亿用户全球最大交易所 https://t.co/DTDaClRIGs\n\n#OKX DEX 20%返佣  https://t.co/qOXqOiypbM",
+      "followersCount": 89890,
+      "friendsCount": 3331,
+      "location": "先知社区"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G7u84qsa4AEeoLn.jpg",
+      "https://pbs.twimg.com/media/G7u85pWbcAAMBwi.jpg",
+      "https://pbs.twimg.com/media/G7u87MpbIAAjny_.jpg",
+      "https://pbs.twimg.com/media/G7u88HUagAAKBjP.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/Crypto_He/status/1998399284572557599",
+    "fullText": "今天跟 @bcgame 一起逛法拉利公园！\n\n法拉利老了还是法拉利 https://t.co/L8O5Ap5y2K"
+  },
+  {
+    "user": {
+      "screenName": "zhenaishe_",
+      "name": "真爱社",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1823710618794516490/JosIMauP_normal.jpg",
+      "description": "原创投稿流量扶持 @guochanfulishe\n每日推文转发2次-------3点----------10点\n@fulishe_  @zhenaishe_ @TZZ_guochan  原创初次投稿私 @TZZ_guochan 验证",
+      "followersCount": 249373,
+      "friendsCount": 5,
+      "location": "外围大圈女COS圈空降"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1990734963206234112/vid/avc1/1920x1080/4GJuaItgTmtN1XJP.mp4?tag=21",
+      "https://video.twimg.com/amplify_video/1990734963214606336/vid/avc1/1920x1080/2b_2gViOueE_L2li.mp4?tag=21",
+      "https://video.twimg.com/amplify_video/1990734963298480129/vid/avc1/1920x1080/11c1mpGHfb_CtOJT.mp4?tag=21",
+      "https://video.twimg.com/amplify_video/1990734963202007040/vid/avc1/1920x1080/oYpT26el7N6QZViq.mp4?tag=21"
+    ],
+    "tweetUrl": "https://x.com/zhenaishe_/status/1998398226618065173",
+    "fullText": "NTR夫妇【黑桃夫妻黑桃女皇】福利①，炮友只管把我老婆操爽操高潮，可内射可肛，我负责刷锅https://t.co/qrYkAF7ysX"
+  },
+  {
+    "user": {
       "screenName": "ezshine",
       "name": "大帅老猿",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/687927732311863297/iJSmNFUt_normal.jpg",
       "description": "边开房车边写代码走遍了中国 33 个省份，目前在清迈陪读，日常分享编程，游戏，AI，SEO，黑客增长和生活。",
-      "followersCount": 51820,
+      "followersCount": 51821,
       "friendsCount": 616,
       "location": "Blog ➡️"
     },
@@ -61,7 +344,7 @@
       "name": "Crypto Tony",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1612936440240898049/b8uRB78r_normal.jpg",
       "description": "Crypto .. 99% will lose all money invested. Check your own country laws before investing / trading. Tweets do not endorse buying Crypto or directed to UK users.",
-      "followersCount": 558273,
+      "followersCount": 558289,
       "friendsCount": 726,
       "location": "Dubai"
     },
@@ -76,7 +359,7 @@
       "name": "吴说区块链",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1763571513553543168/swT8lq9S_normal.jpg",
       "description": "吴说中文推特：接近真相，更可信赖\n专业可信的行业新闻，优质深度内容推荐\n吴说所有内容渠道、播客、APP 等：https://t.co/rVoqryXVjk\n联系我们 TG: colinwu1989",
-      "followersCount": 169427,
+      "followersCount": 169451,
       "friendsCount": 1,
       "location": ""
     },
@@ -113,7 +396,7 @@
       "name": "ZC",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1994591586148327424/dsFT_rXG_normal.jpg",
       "description": "#狗日的18线邪修KOL\n#飞轮 #灯塔  #蓝鸟会\n币安交易所：https://t.co/RGJNw3wEXH",
-      "followersCount": 8134,
+      "followersCount": 8135,
       "friendsCount": 5320,
       "location": "Singapore"
     },
@@ -128,7 +411,7 @@
       "name": "ChainGPT",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1996231365226885120/nvg2aS5W_normal.jpg",
       "description": "A Web3-AI infrastructure! Unleash AI's power with our tools for crypto trading, NFT creation, smart contract development, and more. $CGPT - Binance Listed 🤖 ⚡",
-      "followersCount": 823241,
+      "followersCount": 823266,
       "friendsCount": 816,
       "location": ""
     },
@@ -145,8 +428,8 @@
       "name": "Mr Panda",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1738715996737933312/QHUuRDK1_normal.jpg",
       "description": "独立开发者 ｜ 个人IP教练 ｜ 帮助新手在X上完成早期成长｜ 公众号：PandaTalk8",
-      "followersCount": 59343,
-      "friendsCount": 6937,
+      "followersCount": 59353,
+      "friendsCount": 6938,
       "location": ""
     },
     "images": [
@@ -162,7 +445,7 @@
       "name": "吴说区块链",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1763571513553543168/swT8lq9S_normal.jpg",
       "description": "吴说中文推特：接近真相，更可信赖\n专业可信的行业新闻，优质深度内容推荐\n吴说所有内容渠道、播客、APP 等：https://t.co/rVoqryXVjk\n联系我们 TG: colinwu1989",
-      "followersCount": 169427,
+      "followersCount": 169451,
       "friendsCount": 1,
       "location": ""
     },
@@ -177,7 +460,7 @@
       "name": "John W. Rich Kid (Wendy’s Fry Cook)",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1742389291924242432/XTBVcO61_normal.jpg",
       "description": "fries @wendys 🍟 memes @monad 💜 (parody)",
-      "followersCount": 80819,
+      "followersCount": 80824,
       "friendsCount": 1914,
       "location": "Gary, Indiana"
     },
@@ -192,7 +475,7 @@
       "name": "Crypto Tony",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1612936440240898049/b8uRB78r_normal.jpg",
       "description": "Crypto .. 99% will lose all money invested. Check your own country laws before investing / trading. Tweets do not endorse buying Crypto or directed to UK users.",
-      "followersCount": 558273,
+      "followersCount": 558289,
       "friendsCount": 726,
       "location": "Dubai"
     },
@@ -209,7 +492,7 @@
       "name": "大帅老猿",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/687927732311863297/iJSmNFUt_normal.jpg",
       "description": "边开房车边写代码走遍了中国 33 个省份，目前在清迈陪读，日常分享编程，游戏，AI，SEO，黑客增长和生活。",
-      "followersCount": 51820,
+      "followersCount": 51821,
       "friendsCount": 616,
       "location": "Blog ➡️"
     },
@@ -226,7 +509,7 @@
       "name": "Crypto军火库",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1506883765754236929/NtxXAmwf_normal.jpg",
       "description": "👾 终极加密内幕消息平台 | 即时推送 | 零延误 | 全面信息汇总 ｜ 打破Web3消息茧房\n\n💸 付费社群聚合 https://t.co/2egKtvLAgf\n💎 交易所高返佣：https://t.co/4UeDxFlSHQ",
-      "followersCount": 61027,
+      "followersCount": 61031,
       "friendsCount": 1411,
       "location": "8.9km"
     },
@@ -243,7 +526,7 @@
       "name": "CBB",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1872626142034739200/EIM6NL_5_normal.jpg",
       "description": "Riding the ponzi of magic internet money",
-      "followersCount": 104397,
+      "followersCount": 104401,
       "friendsCount": 163,
       "location": ""
     },
@@ -258,7 +541,7 @@
       "name": "先知｜MemeMax⚡️",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1964723425215479808/pWtAHTP7_normal.png",
       "description": "Co-Founder @seerlabs_crypto 日常记录｜合作私信dm ｜广告自辨\n\n#币安 3亿用户全球最大交易所 https://t.co/DTDaClRIGs\n\n#OKX DEX 20%返佣  https://t.co/qOXqOiypbM",
-      "followersCount": 89877,
+      "followersCount": 89890,
       "friendsCount": 3331,
       "location": "先知社区"
     },
@@ -276,7 +559,7 @@
       "name": "Crypto Tony",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1612936440240898049/b8uRB78r_normal.jpg",
       "description": "Crypto .. 99% will lose all money invested. Check your own country laws before investing / trading. Tweets do not endorse buying Crypto or directed to UK users.",
-      "followersCount": 558273,
+      "followersCount": 558289,
       "friendsCount": 726,
       "location": "Dubai"
     },
@@ -291,7 +574,7 @@
       "name": "吴说区块链",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1763571513553543168/swT8lq9S_normal.jpg",
       "description": "吴说中文推特：接近真相，更可信赖\n专业可信的行业新闻，优质深度内容推荐\n吴说所有内容渠道、播客、APP 等：https://t.co/rVoqryXVjk\n联系我们 TG: colinwu1989",
-      "followersCount": 169427,
+      "followersCount": 169451,
       "friendsCount": 1,
       "location": ""
     },
@@ -306,7 +589,7 @@
       "name": "OKX",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1968722816154345472/vEj4j3o9_normal.jpg",
       "description": "A new alternative for your crypto journey | Self-custody & dApps: @Wallet | Support: @OKXHelpDesk | UK users: @OKX_UK",
-      "followersCount": 5703079,
+      "followersCount": 5703197,
       "friendsCount": 325,
       "location": ""
     },
@@ -323,7 +606,7 @@
       "name": "吴说区块链",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1763571513553543168/swT8lq9S_normal.jpg",
       "description": "吴说中文推特：接近真相，更可信赖\n专业可信的行业新闻，优质深度内容推荐\n吴说所有内容渠道、播客、APP 等：https://t.co/rVoqryXVjk\n联系我们 TG: colinwu1989",
-      "followersCount": 169427,
+      "followersCount": 169451,
       "friendsCount": 1,
       "location": ""
     },
@@ -338,7 +621,7 @@
       "name": "大帅老猿",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/687927732311863297/iJSmNFUt_normal.jpg",
       "description": "边开房车边写代码走遍了中国 33 个省份，目前在清迈陪读，日常分享编程，游戏，AI，SEO，黑客增长和生活。",
-      "followersCount": 51820,
+      "followersCount": 51821,
       "friendsCount": 616,
       "location": "Blog ➡️"
     },
@@ -353,7 +636,7 @@
       "name": "吴说区块链",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1763571513553543168/swT8lq9S_normal.jpg",
       "description": "吴说中文推特：接近真相，更可信赖\n专业可信的行业新闻，优质深度内容推荐\n吴说所有内容渠道、播客、APP 等：https://t.co/rVoqryXVjk\n联系我们 TG: colinwu1989",
-      "followersCount": 169427,
+      "followersCount": 169451,
       "friendsCount": 1,
       "location": ""
     },
@@ -787,7 +1070,7 @@
       "name": "开挂的金兔子☯️ 🍊MemeMax⚡️🧠SENT",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1992068457035386880/tOKeDb8i_normal.jpg",
       "description": "16年进入加密货币行业，玄學奇门遁甲预测加密货币|命运的改变始于看见 🛎️ ｜TG：https://t.co/mYpb4t0ty4｜币安广场创作者|币安返佣：https://t.co/AlkjvJSGtf ｜商务合作DM",
-      "followersCount": 29872,
+      "followersCount": 29875,
       "friendsCount": 2614,
       "location": ""
     },
@@ -2626,7 +2909,7 @@
       "name": "BRIDGE Summit",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1955568618659315712/bL8VY5Vk_normal.jpg",
       "description": "The largest debut media event in the world 🗓️ Dec 8-10 📍 ADNEC Centre - Abu Dhabi, UAE 🔗 Register Now! ⬇️",
-      "followersCount": 1349,
+      "followersCount": 1437,
       "friendsCount": 0,
       "location": ""
     },
@@ -4887,11 +5170,28 @@
   },
   {
     "user": {
+      "screenName": "SpursOfficial",
+      "name": "Tottenham Hotspur",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1941794144394887168/2-Rl2QdI_normal.jpg",
+      "description": "COYS 🤍",
+      "followersCount": 8700248,
+      "friendsCount": 457,
+      "location": "Tottenham, London, England"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/1998062373316247554/vid/avc1/2160x3840/iltHJNd3qVfifKqP.mp4?tag=21"
+    ],
+    "tweetUrl": "https://x.com/SpursOfficial/status/1998062769828999281",
+    "fullText": "Training prep 💪 https://t.co/T5xUPr4fqt"
+  },
+  {
+    "user": {
       "screenName": "wublockchain12",
       "name": "吴说区块链",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1763571513553543168/swT8lq9S_normal.jpg",
       "description": "吴说中文推特：接近真相，更可信赖\n专业可信的行业新闻，优质深度内容推荐\n吴说所有内容渠道、播客、APP 等：https://t.co/rVoqryXVjk\n联系我们 TG: colinwu1989",
-      "followersCount": 169427,
+      "followersCount": 169451,
       "friendsCount": 1,
       "location": ""
     },
