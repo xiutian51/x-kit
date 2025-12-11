@@ -1076,7 +1076,10 @@
             </select>
           </div>
           <div class="ai-input-row">
-            <button class="btn btn-primary" style="width: 100%;" onclick="generateSummary()">
+            <select class="ai-input" id="ai-provider" style="flex: 0 0 140px;">
+              <option value="">使用默认模型</option>
+            </select>
+            <button class="btn btn-primary" style="flex: 1;" onclick="generateSummary()">
               <span>✨</span> 生成 AI 总结
             </button>
           </div>
@@ -1085,7 +1088,7 @@
           <div class="ai-placeholder">
             <div class="icon">🧠</div>
             <p>点击上方按钮生成推文智能总结</p>
-            <p style="font-size: 0.8rem; margin-top: 8px;">支持通义千问大模型</p>
+            <p style="font-size: 0.8rem; margin-top: 8px;">支持多模型：通义千问、腾讯混元</p>
           </div>
         </div>
       </div>
@@ -1154,6 +1157,7 @@
     let allUsers = [];
     let filteredUsers = [];
     let currentUser = null;
+    let availableProviders = [];
     const usersPerPage = 20;
     
     // ==================== 认证相关 ====================
@@ -1227,6 +1231,10 @@
       document.getElementById('login-overlay').classList.add('hidden');
       document.getElementById('main-container').style.display = 'block';
       document.getElementById('current-username').textContent = currentUsername || '--';
+      // 加载 Provider 列表（如果已登录）
+      if (authToken) {
+        loadProviders();
+      }
     }
     
     /**
@@ -1272,6 +1280,7 @@
           checkServerStatus();
           loadStats();
           loadUsers();
+          loadProviders(); // 加载 Provider 列表
         } else {
           errorEl.textContent = data.error || '登录失败';
           errorEl.classList.add('show');
@@ -1328,6 +1337,37 @@
     
     // ==================== 初始化 ====================
     
+    /**
+     * 加载可用的 LLM Provider 列表
+     */
+    async function loadProviders() {
+      try {
+        const response = await authFetch(`${serverUrl}/api/llm/providers`);
+        if (response.ok) {
+          const data = await response.json();
+          if (data.success) {
+            availableProviders = data.data.providers || [];
+            const providerSelect = document.getElementById('ai-provider');
+            
+            // 清空现有选项（保留"使用默认模型"）
+            providerSelect.innerHTML = '<option value="">使用默认模型</option>';
+            
+            // 添加可用 Provider
+            availableProviders.forEach(provider => {
+              if (provider.enabled) {
+                const option = document.createElement('option');
+                option.value = provider.name;
+                option.textContent = `${provider.name} (${provider.model})${provider.is_default ? ' [默认]' : ''}`;
+                providerSelect.appendChild(option);
+              }
+            });
+          }
+        }
+      } catch (e) {
+        console.error('加载 Provider 列表失败:', e);
+      }
+    }
+    
     document.addEventListener('DOMContentLoaded', async () => {
       document.getElementById('server-url').value = serverUrl;
       
@@ -1339,6 +1379,7 @@
           checkServerStatus();
           loadStats();
           loadUsers();
+          loadProviders(); // 加载 Provider 列表
         } else {
           handleTokenExpired();
         }
@@ -1577,21 +1618,29 @@
       const aiOutput = document.getElementById('ai-output');
       const username = document.getElementById('ai-username').value.trim();
       const days = document.getElementById('ai-days').value;
+      const provider = document.getElementById('ai-provider').value || null; // 获取选择的 Provider
       
       aiOutput.innerHTML = '<div class="ai-loading"><div class="spinner"></div><span>AI 正在分析推文...</span></div>';
       
       try {
+        const requestBody = {
+          screen_name: username || null,
+          days: parseInt(days),
+          stream: true
+        };
+        
+        // 如果选择了 Provider，添加到请求体
+        if (provider) {
+          requestBody.provider = provider;
+        }
+        
         const response = await fetch(`${serverUrl}/api/tweets/summarize`, {
           method: 'POST',
           headers: {
             'Content-Type': 'application/json',
             'Authorization': `Bearer ${authToken}`
           },
-          body: JSON.stringify({
-            screen_name: username || null,
-            days: parseInt(days),
-            stream: true
-          })
+          body: JSON.stringify(requestBody)
         });
         
         if (response.status === 401) {
@@ -1642,7 +1691,8 @@
         }
       } catch (e) {
         console.error('AI 总结失败:', e);
-        aiOutput.innerHTML = `<div class="empty-state"><div class="icon">⚠️</div><p>${e.message || 'AI 总结失败'}</p><p style="font-size: 0.8rem; margin-top: 8px;">请检查 tongyi_config.json 配置</p></div>`;
+        const providerName = provider ? ` (${provider})` : '';
+        aiOutput.innerHTML = `<div class="empty-state"><div class="icon">⚠️</div><p>${e.message || 'AI 总结失败'}</p><p style="font-size: 0.8rem; margin-top: 8px;">请检查 llm_config.json 配置${providerName}</p></div>`;
       }
     }
     

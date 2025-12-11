@@ -56,6 +56,9 @@ bun run scripts/fetch-tweets.ts
 
 # 批量关注用户
 bun run scripts/batch-follow.ts
+
+# 获取当前账号的关注列表并保存到 accounts 文件夹
+bun run scripts/fetch-following.ts
 ```
 
 ## 自动化部署
