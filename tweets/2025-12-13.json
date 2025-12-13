@@ -1,11 +1,340 @@
 [
   {
     "user": {
+      "screenName": "CyberPhilos",
+      "name": "赛博哲学家",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1915367685137063936/nIEYsC_Q_normal.jpg",
+      "description": "频道: https://t.co/nkaRd28lUC",
+      "followersCount": 29994,
+      "friendsCount": 2097,
+      "location": "Join Sigma Hunter 👉"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/CyberPhilos/status/1999919836747694432",
+    "fullText": "https://t.co/XKDnZJY3cP"
+  },
+  {
+    "user": {
+      "screenName": "SeekingAlpha",
+      "name": "Seeking Alpha",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/534299535552421888/eHacq8EQ_normal.png",
+      "description": "A global leader in crowdsourced U.S. investment research, powered by one of the largest and most vibrant investor communities.",
+      "followersCount": 314136,
+      "friendsCount": 234,
+      "location": "New York, NY"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/SeekingAlpha/status/1999919760465903897",
+    "fullText": "Trending stocks as Wall Street tumbles amid tech, AI selloff $DIS $IBM $ORCL #investing #trading #markets https://t.co/WFPzxs6GMC"
+  },
+  {
+    "user": {
+      "screenName": "cryptorand",
+      "name": "Rand",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1833123917231251456/syW7dLNd_normal.jpg",
+      "description": "Trader & Investor. Building at @RR2Capital.",
+      "followersCount": 332571,
+      "friendsCount": 1067,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G7-U_9IW8AMMSnU.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/cryptorand/status/1999918494121328779",
+    "fullText": "The average cost by public miners ⛏️ to produce 1 x $BTC.\n\n(Calculated at a Bitcoin price of 91,680) https://t.co/KwkQmB3q6n"
+  },
+  {
+    "user": {
+      "screenName": "bull_bnb",
+      "name": "BULL 牛",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1998648605067108352/ynZ8FwBW_normal.jpg",
+      "description": "Bulliever #Doyr",
+      "followersCount": 473289,
+      "friendsCount": 2464,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/bull_bnb/status/1999917751067148476",
+    "fullText": "One of the greatest people I’ve met in the last 3 years is Bilal bin Saqib.\nA true hustler who earned his way to the top.\n\nI genuinely love seeing people recognize and appreciate his struggle. More success is loading for this guy 🚀\n\nI’m proud of him, and I truly believe that one"
+  },
+  {
+    "user": {
+      "screenName": "LuxAlgo",
+      "name": "LuxAlgo",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1872719571141951488/Wd4LnEpE_normal.jpg",
+      "description": "The #1 AI agent for backtesting trading strategies \nWorld's largest provider of trading indicators 📈",
+      "followersCount": 109171,
+      "friendsCount": 342,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G8EGcTFXwAEfGb8.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/LuxAlgo/status/1999917739234767336",
+    "fullText": "The US government is now onboarding retail to crypto and you're bearish? https://t.co/dQ5Br1s60z"
+  },
+  {
+    "user": {
+      "screenName": "TheOnion",
+      "name": "The Onion",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1517492889852461056/bEnqsvVR_normal.jpg",
+      "description": "America's Finest News Source. A @globtetrahedron subsidiary.\n\nGet the paper delivered to your door: https://t.co/jJP2Apbhe8",
+      "followersCount": 10577558,
+      "friendsCount": 8,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/TheOnion/status/1999917303425577127",
+    "fullText": "Man Humiliates Himself At Holiday Party By Telling Coworkers He Appreciates Them https://t.co/Ve76mmTcs7"
+  },
+  {
+    "user": {
+      "screenName": "Fetch_ai",
+      "name": "Fetch.ai",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1829125609353551872/5GnVEkRB_normal.png",
+      "description": "Try ASI One: World’s First Web3 LLM - https://t.co/aluyOJDcww \n\nFounding member of the @ASI_Alliance",
+      "followersCount": 264323,
+      "friendsCount": 758,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/Fetch_ai/status/1999917281179058660",
+    "fullText": "Every task has an ideal agent. ASI:one helps you find it faster. Explore now: https://t.co/9PNP5z2vKL"
+  },
+  {
+    "user": {
+      "screenName": "cryptocom",
+      "name": "Crypto.com",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1873578819833204736/t-8bwuwM_normal.jpg",
+      "description": "The best place to buy, sell, and pay with crypto #BTC #CRO #DeFi #FFTB",
+      "followersCount": 3064351,
+      "friendsCount": 495,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/cryptocom/status/1999917239332466840",
+    "fullText": "Supercycle? Supercycle."
+  },
+  {
+    "user": {
+      "screenName": "WhiteHouse",
+      "name": "The White House",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1916971216620982274/1DsLEcqW_normal.jpg",
+      "description": "The Golden Age of America Begins Right Now.\n📱 Text USA to 45470 to receive alerts.",
+      "followersCount": 3064775,
+      "friendsCount": 6,
+      "location": "Washington, DC"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G8Eh_OoXUAEtCJg.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/WhiteHouse/status/1999917084424249674",
+    "fullText": "“We mourn the loss of three Great American Patriots in Syria, two soldiers, and one Civilian Interpreter. Likewise, we pray for the three injured soldiers who, it has just been confirmed, are doing well. This was an ISIS attack against the U.S., and Syria, in a very dangerous https://t.co/uK3t5dlMfL"
+  },
+  {
+    "user": {
+      "screenName": "GCsheng",
+      "name": "深大高财生.eth",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1956429310363074560/kZapgvHx_normal.jpg",
+      "description": "NFT 菩萨丨精算师 丨贪财好色丨全是情绪没有观点丨立场不明丨 \n#Binance\n找链上机会就上binance钱包网页版享受手续费折扣：https://t.co/8pQX4Oxnbj",
+      "followersCount": 45510,
+      "friendsCount": 1495,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G8Ehx6hbMAAuyGW.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/GCsheng/status/1999916857592332546",
+    "fullText": "hh https://t.co/oRY9svGxoU"
+  },
+  {
+    "user": {
+      "screenName": "realwuzhe",
+      "name": "wuzhe",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/866518410972192768/66vemQ1D_normal.jpg",
+      "description": "关注科技、好用的工具、美股、日常生活 | INTJ-A | 没有建群，不主动私信人，谨防骗子 | 投资有风险，不要听我的 | NFA | 不接广告，勿扰",
+      "followersCount": 124146,
+      "friendsCount": 4416,
+      "location": "the world"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/realwuzhe/status/1999915027252363361",
+    "fullText": "土耳其这块地方，历史虽长但结构简单。一开始是希腊文明，然后就是罗马，然后分成东西罗马，西罗马衰弱，东罗马（拜占庭）大约1000年，后来突厥崛起，灭了东罗马，建立奥斯曼帝国，持续600多年，直到一战战败而解体。"
+  },
+  {
+    "user": {
+      "screenName": "SeekingAlpha",
+      "name": "Seeking Alpha",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/534299535552421888/eHacq8EQ_normal.png",
+      "description": "A global leader in crowdsourced U.S. investment research, powered by one of the largest and most vibrant investor communities.",
+      "followersCount": 314136,
+      "friendsCount": 234,
+      "location": "New York, NY"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/SeekingAlpha/status/1999914726936227948",
+    "fullText": "Build Your +8% Income Tree: The 3-Step Plan For Monthly Cash Flow $AGNCZ $EPD $LYB #economy #trading #stockmarket https://t.co/Ewjh6UgUR0"
+  },
+  {
+    "user": {
+      "screenName": "theinformation",
+      "name": "The Information",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1747484907163516928/d_K3Z_hH_normal.jpg",
+      "description": "The most authoritative publication covering tech that high-powered tech execs and founders read daily.\n\nTITV M-F at 1 ET: https://t.co/M0NywExPjR",
+      "followersCount": 131652,
+      "friendsCount": 704,
+      "location": "San Francisco"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/theinformation/status/1999913467935875412",
+    "fullText": "OpenEvidence’s annualized advertising revenue has reached $150 million, tripling since August. The company makes money by selling ad space on its chatbot to pharmaceutical companies. Read: https://t.co/z6FFQbzoQM"
+  },
+  {
+    "user": {
+      "screenName": "Jtsong2",
+      "name": "Jtsong.eth (Ø,G)",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1991552049633456134/kX8PQF9f_normal.jpg",
+      "description": "#NFT enthusiast @doodles OG | @arcthecommunity Stellar | @0G_labs 华语负责人",
+      "followersCount": 18334,
+      "friendsCount": 8302,
+      "location": "Sydney"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G8EedDlbQAAicZX.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/Jtsong2/status/1999913204915613998",
+    "fullText": "感觉阻碍绝大多数人成长的一个是认知迷雾，太容易被锁死旧的思考舒适区而不愿意去接受新东西；另一个就是有一定认知之后但是却无法付诸于行动，或者是开始行动了一次却无法持续。\n\n这两点结合，筛选掉了99%的人群从“平庸”变成“卓越”，时刻警醒自己。\n\nIt feels like two things hold most people back https://t.co/ClcNUv72OS"
+  },
+  {
+    "user": {
+      "screenName": "WhiteHouse",
+      "name": "The White House",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1916971216620982274/1DsLEcqW_normal.jpg",
+      "description": "The Golden Age of America Begins Right Now.\n📱 Text USA to 45470 to receive alerts.",
+      "followersCount": 3064775,
+      "friendsCount": 6,
+      "location": "Washington, DC"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G8Ectq2XIAE-qOm.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/WhiteHouse/status/1999912137527808122",
+    "fullText": "AMERICA'S GAME.\n\nPresident Trump will be in attendance for the 126th Army - Navy football game TODAY. 🇺🇸 https://t.co/SRIzuUtLKL"
+  },
+  {
+    "user": {
+      "screenName": "babylonlabs_io",
+      "name": "Babylon",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1998503728303779840/LwGCRt3m_normal.jpg",
+      "description": "Making Bitcoin Productive. Trustlessly. Now.",
+      "followersCount": 445869,
+      "friendsCount": 255,
+      "location": "RT ≠ endorsement"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G8EdDRLbMAA5V5b.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/babylonlabs_io/status/1999911657821331858",
+    "fullText": "Spotted something new in our Linktree?\n\nWe just launched our Instagram and YouTube.\n\nMore visuals. More breakdowns. More Babylon.\n\nLinks below 👇🏼\nhttps://t.co/Vb7w4FywSo\nhttps://t.co/d55nf5wRRM https://t.co/tPR5pm5uto"
+  },
+  {
+    "user": {
+      "screenName": "jessepollak",
+      "name": "jesse.base.eth",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1879556312822120448/QngrqCSC_normal.jpg",
+      "description": "@base builder #001 | DM @jessexbt_ai to get building",
+      "followersCount": 333264,
+      "friendsCount": 4188,
+      "location": "east bay & the internet"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/jessepollak/status/1999911543354634719",
+    "fullText": "All creators are welcome on @base"
+  },
+  {
+    "user": {
+      "screenName": "musalbas",
+      "name": "Mustafa Al-Bassam",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1876246917207777280/VCsOmkV7_normal.jpg",
+      "description": "Co-founder @Celestia",
+      "followersCount": 45202,
+      "friendsCount": 276,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/musalbas/status/1999910175185232196",
+    "fullText": "some 'dexes' are so centralised that Binance might as well just as Privy support to its cex and claim it's a dex - it would be just as decentralised as some of these 'dexes'\n\nforced inclusion to the L1 is prob the bare minimum to make it a dex imo"
+  },
+  {
+    "user": {
+      "screenName": "joshwoodward",
+      "name": "Josh Woodward",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1994910063794806784/CJr-dzpj_normal.jpg",
+      "description": "VP, @Google @GoogleLabs @GeminiApp @GoogleAIStudio",
+      "followersCount": 39603,
+      "friendsCount": 757,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/joshwoodward/status/1999909704458449112",
+    "fullText": "The @GoogleLabs team is so fun - we shipped 12 things in 5 days last week 🧵"
+  },
+  {
+    "user": {
+      "screenName": "SeekingAlpha",
+      "name": "Seeking Alpha",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/534299535552421888/eHacq8EQ_normal.png",
+      "description": "A global leader in crowdsourced U.S. investment research, powered by one of the largest and most vibrant investor communities.",
+      "followersCount": 314136,
+      "friendsCount": 234,
+      "location": "New York, NY"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/SeekingAlpha/status/1999909693670752367",
+    "fullText": "AI Isn't A Bubble, This Dip Is A Blessing $SP500 $SPX $DJI #stockmarket #business #markets https://t.co/HnRfYWpmyx"
+  },
+  {
+    "user": {
+      "screenName": "siterlee",
+      "name": "詩攳 股票日記 美股 投資 SOXL SOXS SPY QQQ TNA",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1833578223827034112/j8PThcCq_normal.jpg",
+      "description": "自由交易者 獨立分析 主要專注費城半導體 標普 納指指數 #SOXX #QQQ #SPY #IWM 個人獨自量化數據與指標系統 非主流指引",
+      "followersCount": 1145,
+      "friendsCount": 38,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/siterlee/status/1999909086293553586",
+    "fullText": "我大概算起來 標普的高點是7062 整數算7100\n這是今年到明年初可以到的位子\n\n聽到有甚麼7300以上 先不要有這麼大的目標\n我的計算上目前是7100附近\n先到這裡再說 標普的計算公式通常比較固定一點 很好算\n$SPX $SPY $QQQ"
+  },
+  {
+    "user": {
       "screenName": "AshCrypto",
       "name": "Ash Crypto",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1935933861034090496/h_vgXOAw_normal.jpg",
       "description": "News, Memes, Charts, Hopium, Market analysis and Latest crypto updates. Our official Telegram https://t.co/6iHJbN2D67",
-      "followersCount": 2077677,
+      "followersCount": 2077808,
       "friendsCount": 313,
       "location": "X"
     },
@@ -22,7 +351,7 @@
       "name": "Robinson · 鲁棒逊",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1980814059525033985/d9tb6rAG_normal.jpg",
       "description": "AI & Robustness in chaos.\n\nInsight  → Strategy → Operation\n\nNow,not How.\n\n我对现实世界的认知\n贫瘠到无法自知其贫瘠",
-      "followersCount": 23287,
+      "followersCount": 23288,
       "friendsCount": 492,
       "location": "Deep thinker try to think"
     },
@@ -37,7 +366,7 @@
       "name": "BULL 牛",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1998648605067108352/ynZ8FwBW_normal.jpg",
       "description": "Bulliever #Doyr",
-      "followersCount": 473290,
+      "followersCount": 473289,
       "friendsCount": 2464,
       "location": ""
     },
@@ -52,7 +381,7 @@
       "name": "The Information",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1747484907163516928/d_K3Z_hH_normal.jpg",
       "description": "The most authoritative publication covering tech that high-powered tech execs and founders read daily.\n\nTITV M-F at 1 ET: https://t.co/M0NywExPjR",
-      "followersCount": 131651,
+      "followersCount": 131652,
       "friendsCount": 704,
       "location": "San Francisco"
     },
@@ -67,7 +396,7 @@
       "name": "Robinson · 鲁棒逊",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1980814059525033985/d9tb6rAG_normal.jpg",
       "description": "AI & Robustness in chaos.\n\nInsight  → Strategy → Operation\n\nNow,not How.\n\n我对现实世界的认知\n贫瘠到无法自知其贫瘠",
-      "followersCount": 23287,
+      "followersCount": 23288,
       "friendsCount": 492,
       "location": "Deep thinker try to think"
     },
@@ -82,7 +411,7 @@
       "name": "Sqalef",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1972475871089905664/AhOXGm0C_normal.jpg",
       "description": "speculator, participant of markets, chaotic neutral",
-      "followersCount": 3913,
+      "followersCount": 3918,
       "friendsCount": 3022,
       "location": ""
     },
@@ -97,7 +426,7 @@
       "name": "BULL 牛",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1998648605067108352/ynZ8FwBW_normal.jpg",
       "description": "Bulliever #Doyr",
-      "followersCount": 473290,
+      "followersCount": 473289,
       "friendsCount": 2464,
       "location": ""
     },
@@ -2171,7 +2500,7 @@
       "name": "大老师Bugsbunny",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1656730805648121856/M80xGVh0_normal.jpg",
       "description": "保护韭菜的大老师｜兔八哥｜exVC ｜做鸭子的好对手 @GreeksLive｜",
-      "followersCount": 28843,
+      "followersCount": 28856,
       "friendsCount": 2055,
       "location": "新加坡"
     },
@@ -2706,7 +3035,7 @@
       "name": "Yu Hu 🌊",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1928088049881337861/EKt8b-qc_normal.jpg",
       "description": "Founder @KaitoAI. Building things people use | ex @citadel veteran",
-      "followersCount": 66955,
+      "followersCount": 66954,
       "friendsCount": 4391,
       "location": ""
     },
@@ -3826,7 +4155,7 @@
       "name": "0xAA",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1909791942961250308/nPZLMciH_normal.jpg",
       "description": "Neuroscience PhD, x402 lover @WTFAcademy_ @ourRescuETH @The_PeopleDAO ｜启程Web3，就在币安: https://t.co/k5E2804y9X ｜新人首选，安全简单。一站式链上链下交易平台OKX https://t.co/Kwxe2KTZlu",
-      "followersCount": 169187,
+      "followersCount": 169266,
       "friendsCount": 1475,
       "location": "Dark Forest"
     },
