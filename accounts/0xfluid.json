@@ -1,0 +1,63 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNzExMTA1OTM1NjEwMDkzNTY4",
+  "isBlueVerified": false,
+  "legacy": {
+    "canDm": false,
+    "canMediaTag": true,
+    "createdAt": "Sun Oct 08 19:47:19 +0000 2023",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "An ever-evolving DeFi protocol and base for future financial system by @Instadapp.\n\nOn Ethereum & EVMs: Fluid.\nOn Solana: @jup_lend powered by Fluid.",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "fluid.io",
+            "expanded_url": "http://fluid.io",
+            "url": "https://t.co/QA3LpVtyvo",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 1564,
+    "followersCount": 38502,
+    "following": true,
+    "friendsCount": 29,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 361,
+    "location": "",
+    "mediaCount": 447,
+    "name": "Fluid 🌊",
+    "normalFollowersCount": 38502,
+    "pinnedTweetIdsStr": [
+      "1996475335383404891"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1711105935610093568/1696844691",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1712332669697024001/xgs6LB3Y_normal.png",
+    "profileInterstitialType": "",
+    "screenName": "0xfluid",
+    "statusesCount": 1705,
+    "translatorType": "none",
+    "url": "https://t.co/QA3LpVtyvo",
+    "verified": false,
+    "verifiedType": "Business",
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "profileImageShape": "Square",
+  "restId": "1711105935610093568",
+  "tipjarSettings": {}
+}

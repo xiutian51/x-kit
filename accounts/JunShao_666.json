@@ -1,0 +1,58 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNTg4MTI4NDgyOTQwNTUxMTY4",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Thu Nov 03 11:18:49 +0000 2022",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "资深二级分析师┋广场创作者┋白名单分享┋投研报告┋项目线程┋链圈信息捕获者┋加密世界信仰者┋ 优质币种分析┋ 商务合作DM ┋无投资建议┋ ➠ 乌鸦社群：https://t.co/icFuAS1ZHp",
+    "entities": {
+      "description": {
+        "urls": [
+          {
+            "display_url": "t.me/WuYaCommunity8…",
+            "expanded_url": "http://t.me/WuYaCommunity888",
+            "url": "https://t.co/icFuAS1ZHp",
+            "indices": [
+              77,
+              100
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 22115,
+    "followersCount": 40678,
+    "following": true,
+    "friendsCount": 1803,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 90,
+    "location": "Hong Kong",
+    "mediaCount": 1640,
+    "name": "Crypto_君少",
+    "normalFollowersCount": 40678,
+    "pinnedTweetIdsStr": [],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1588128482940551168/1722147791",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1808135500840001537/al17oN8I_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "JunShao_666",
+    "statusesCount": 25801,
+    "translatorType": "none",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "profileImageShape": "Circle",
+  "restId": "1588128482940551168",
+  "tipjarSettings": {
+    "isEnabled": true
+  }
+}

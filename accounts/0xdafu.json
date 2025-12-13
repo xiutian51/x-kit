@@ -1,0 +1,51 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjo4MjE0MDYzNTU5NTMwNTM2OTc=",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": false,
+    "createdAt": "Tue Jan 17 17:18:31 +0000 2017",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "🚬",
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 347,
+    "followersCount": 2049,
+    "following": true,
+    "friendsCount": 96,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 34,
+    "location": "中华人民共和国🇨🇳",
+    "mediaCount": 274,
+    "name": "DaFu",
+    "normalFollowersCount": 2049,
+    "pinnedTweetIdsStr": [
+      "1983206139459207222"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/821406355953053697/1750795120",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1937600041889464320/OAULpH4F_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "0xdafu",
+    "statusesCount": 2981,
+    "translatorType": "none",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "profileImageShape": "Circle",
+  "restId": "821406355953053697",
+  "tipjarSettings": {
+    "ethereumHandle": "0xa03Cf13561d1BD56f705E4F73fb31E5E81888888",
+    "isEnabled": false
+  }
+}

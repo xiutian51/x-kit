@@ -1,0 +1,49 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": false,
+  "id": "VXNlcjoxMzUxODQ3ODM4",
+  "isBlueVerified": false,
+  "legacy": {
+    "canDm": false,
+    "canMediaTag": false,
+    "createdAt": "Sun Apr 14 13:26:54 +0000 2013",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "",
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 13,
+    "followersCount": 73980,
+    "following": true,
+    "friendsCount": 1,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 111,
+    "location": "",
+    "mediaCount": 79,
+    "name": "Mine moment",
+    "normalFollowersCount": 73980,
+    "pinnedTweetIdsStr": [],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1351847838/1697729875",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1714953910556000256/UCojSEWG_normal.jpg",
+    "profileInterstitialType": "",
+    "_protected": true,
+    "screenName": "Mine_moment",
+    "statusesCount": 336,
+    "translatorType": "none",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "profileImageShape": "Circle",
+  "restId": "1351847838",
+  "tipjarSettings": {
+    "isEnabled": false
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjo4Nzc4MDc5MzU0OTMwMzM5ODQ=",
+  "isBlueVerified": false,
+  "legacy": {
+    "canDm": false,
+    "canMediaTag": true,
+    "createdAt": "Thu Jun 22 08:38:15 +0000 2017",
+    "defaultProfile": false,
+    "defaultProfileImage": false,
+    "description": "The world’s leading blockchain ecosystem and digital asset exchange | #Binance #BNB | Support: @BinanceHelpDesk | Posts are not directed towards UK users.",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "bit.ly/BinanceCryptoA…",
+            "expanded_url": "http://bit.ly/BinanceCryptoApp",
+            "url": "https://t.co/1not5QbiqF",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 7173,
+    "followersCount": 15140240,
+    "following": true,
+    "friendsCount": 574,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 35179,
+    "location": "",
+    "mediaCount": 16149,
+    "name": "Binance",
+    "normalFollowersCount": 15140240,
+    "pinnedTweetIdsStr": [
+      "1998784780603662364"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/877807935493033984/1765141552",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1940131561103347712/f5y2qENu_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "binance",
+    "statusesCount": 41201,
+    "translatorType": "none",
+    "url": "https://t.co/1not5QbiqF",
+    "verified": false,
+    "verifiedType": "Business",
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "profileImageShape": "Square",
+  "restId": "877807935493033984",
+  "tipjarSettings": {}
+}

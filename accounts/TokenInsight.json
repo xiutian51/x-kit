@@ -1,0 +1,69 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjo5Nzg5MjE0NTk5NTg2MzI0NDg=",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Wed Mar 28 09:07:18 +0000 2018",
+    "defaultProfile": false,
+    "defaultProfileImage": false,
+    "description": "TokenInsight is the most trusted institution for professional crypto ratings and research. Delivering crypto data & market intelligence to crypto participants.",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "tokeninsight.com",
+            "expanded_url": "http://tokeninsight.com",
+            "url": "https://t.co/pHHS9psCn6",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 1740,
+    "followersCount": 20842,
+    "following": true,
+    "friendsCount": 11,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 382,
+    "location": "Ethereum mainnet",
+    "mediaCount": 2554,
+    "name": "TokenInsight",
+    "normalFollowersCount": 20842,
+    "pinnedTweetIdsStr": [
+      "1981571727600836674"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/978921459958632448/1688377836",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1585942545003315201/cAMLZyvL_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "TokenInsight",
+    "statusesCount": 6218,
+    "translatorType": "none",
+    "url": "https://t.co/pHHS9psCn6",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [],
+    "professionalType": "Business",
+    "restId": "1496679918180048899"
+  },
+  "profileImageShape": "Circle",
+  "restId": "978921459958632448",
+  "tipjarSettings": {
+    "isEnabled": true
+  }
+}

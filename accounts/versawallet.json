@@ -1,0 +1,62 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNjE2MDQyMDE4ODA3MDg3MTA2",
+  "isBlueVerified": false,
+  "legacy": {
+    "canDm": false,
+    "canMediaTag": true,
+    "createdAt": "Thu Jan 19 11:57:23 +0000 2023",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "Your Crypto Co-pilot",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "versawallet.io",
+            "expanded_url": "https://versawallet.io",
+            "url": "https://t.co/t3F2akFnfp",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 96,
+    "followersCount": 16396,
+    "following": true,
+    "friendsCount": 13,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 15,
+    "location": "",
+    "mediaCount": 19,
+    "name": "Versa Wallet",
+    "normalFollowersCount": 16396,
+    "pinnedTweetIdsStr": [
+      "1772557406985441692"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1616042018807087106/1689925456",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1682280103861190656/PIBQNA1E_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "versawallet",
+    "statusesCount": 69,
+    "translatorType": "none",
+    "url": "https://t.co/t3F2akFnfp",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "profileImageShape": "Circle",
+  "restId": "1616042018807087106",
+  "tipjarSettings": {}
+}

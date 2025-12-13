@@ -1,0 +1,68 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxMjYwNTU5NzA0MzM1NTY4ODk2",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Wed May 13 13:18:00 +0000 2020",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "Become Smart Money. A New Way to Trade.",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "nsn.ai/explore",
+            "expanded_url": "https://nsn.ai/explore",
+            "url": "https://t.co/D5lRf0zxwz",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 13667,
+    "followersCount": 349369,
+    "following": true,
+    "friendsCount": 306,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 4457,
+    "location": "",
+    "mediaCount": 7355,
+    "name": "Nansen 🧭",
+    "normalFollowersCount": 349369,
+    "pinnedTweetIdsStr": [
+      "1998288051056091563"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1260559704335568896/1765332821",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1989853271356575746/m5yJggD9_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "nansen_ai",
+    "statusesCount": 19004,
+    "translatorType": "none",
+    "url": "https://t.co/D5lRf0zxwz",
+    "verified": false,
+    "verifiedType": "Business",
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [],
+    "professionalType": "Business",
+    "restId": "1474581192489848833"
+  },
+  "profileImageShape": "Square",
+  "restId": "1260559704335568896",
+  "tipjarSettings": {}
+}

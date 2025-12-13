@@ -1,0 +1,69 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjo5MjUyMDMzMTY5OTIxOTY2MDk=",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": false,
+    "createdAt": "Tue Oct 31 03:30:35 +0000 2017",
+    "defaultProfile": false,
+    "defaultProfileImage": false,
+    "description": "Anchpor 创始人\nAnchpor 内置 EXtrust 功能，实现重要线索应急传递！\nEXtrust, 家族未来的隐形护盾！\nApple/Google 应用商店搜索下载 Anchpor",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "anchpor.com",
+            "expanded_url": "https://anchpor.com",
+            "url": "https://t.co/dYXziEtODf",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 3202,
+    "followersCount": 51248,
+    "following": true,
+    "friendsCount": 171,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 955,
+    "location": "新加坡",
+    "mediaCount": 312,
+    "name": "Lao Mao",
+    "normalFollowersCount": 51248,
+    "pinnedTweetIdsStr": [],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/925203316992196609/1713322925",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1890672779353288704/oGTMZdm5_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "Imlaomao",
+    "statusesCount": 4591,
+    "translatorType": "none",
+    "url": "https://t.co/dYXziEtODf",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [],
+    "professionalType": "Creator",
+    "restId": "1457857147761430534"
+  },
+  "profileImageShape": "Circle",
+  "restId": "925203316992196609",
+  "tipjarSettings": {
+    "bitcoinHandle": "bc1qdp4uj8zwdsljp742fc7lafy05szkktezxqpakj",
+    "ethereumHandle": "0x571722CF2679eD6b98fe4Fa44431ca8a160849F1",
+    "isEnabled": true
+  }
+}

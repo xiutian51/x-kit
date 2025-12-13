@@ -1,0 +1,73 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNDYyNzI3Nzk3MTM1MjE2NjQx",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Mon Nov 22 10:21:05 +0000 2021",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "Looking for smartmoney onchain!",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "linktr.ee/Lookonchain",
+            "expanded_url": "https://linktr.ee/Lookonchain",
+            "url": "https://t.co/EEYB73FTv0",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 506,
+    "followersCount": 675803,
+    "following": true,
+    "friendsCount": 324,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 8713,
+    "location": "Onchain",
+    "mediaCount": 9388,
+    "name": "Lookonchain",
+    "normalFollowersCount": 675803,
+    "pinnedTweetIdsStr": [
+      "1554457248315092992"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1462727797135216641/1637579147",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1551771778472497152/ocyqhsbm_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "lookonchain",
+    "statusesCount": 11031,
+    "translatorType": "none",
+    "url": "https://t.co/EEYB73FTv0",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [
+      {
+        "iconName": "IconBriefcaseStroke",
+        "id": 192,
+        "name": "Financial Services"
+      }
+    ],
+    "professionalType": "Business",
+    "restId": "1515184700100595713"
+  },
+  "profileImageShape": "Circle",
+  "restId": "1462727797135216641",
+  "tipjarSettings": {}
+}

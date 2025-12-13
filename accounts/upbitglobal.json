@@ -1,0 +1,70 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxMDg0NjkwNTg5NTU4MjY3OTA1",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": false,
+    "canMediaTag": true,
+    "createdAt": "Mon Jan 14 05:56:03 +0000 2019",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "The official Twitter account of Upbit, the Trusted Global Digital Asset Exchange.\n\nTelegram: https://t.co/8FkIkFNgsf",
+    "entities": {
+      "description": {
+        "urls": [
+          {
+            "display_url": "t.me/UpbitGlobal_Of…",
+            "expanded_url": "http://t.me/UpbitGlobal_Official",
+            "url": "https://t.co/8FkIkFNgsf",
+            "indices": [
+              93,
+              116
+            ]
+          }
+        ]
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "sg.upbit.com",
+            "expanded_url": "https://sg.upbit.com/",
+            "url": "https://t.co/ihyI2kIkPs",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 26,
+    "followersCount": 51560,
+    "following": true,
+    "friendsCount": 50,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 409,
+    "location": "Global",
+    "mediaCount": 267,
+    "name": "Upbit Global",
+    "normalFollowersCount": 51560,
+    "pinnedTweetIdsStr": [],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1084690589558267905/1709548102",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1113298401938927616/zFiXWHyH_normal.png",
+    "profileInterstitialType": "",
+    "screenName": "upbitglobal",
+    "statusesCount": 699,
+    "translatorType": "none",
+    "url": "https://t.co/ihyI2kIkPs",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "profileImageShape": "Circle",
+  "restId": "1084690589558267905",
+  "tipjarSettings": {}
+}

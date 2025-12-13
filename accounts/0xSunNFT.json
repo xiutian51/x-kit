@@ -1,0 +1,49 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxMTQ2NDkyNzEwNTgyMzA4ODY0",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": false,
+    "createdAt": "Wed Jul 03 18:55:37 +0000 2019",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "Talk is cheap, show me the wallet.",
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 9346,
+    "followedBy": true,
+    "followersCount": 207582,
+    "following": true,
+    "friendsCount": 4710,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 4591,
+    "location": "",
+    "mediaCount": 1571,
+    "name": "0xSun",
+    "normalFollowersCount": 207582,
+    "pinnedTweetIdsStr": [
+      "1880769711480389784"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1146492710582308864/1668408268",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1820705442735296512/ej9BX01I_normal.png",
+    "profileInterstitialType": "",
+    "screenName": "0xSunNFT",
+    "statusesCount": 5278,
+    "translatorType": "none",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "profileImageShape": "Circle",
+  "restId": "1146492710582308864",
+  "tipjarSettings": {}
+}

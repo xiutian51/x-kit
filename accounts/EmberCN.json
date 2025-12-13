@@ -1,0 +1,65 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNDk5NjU2MzA5NTY1NjU3MDg5",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Fri Mar 04 08:01:51 +0000 2022",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "分享链上数据\n数据搬运工+非客观分析\n非链上数据内容就是广告\n所有言论都没有投资建议\nOKX 20% 交易返现注册：https://t.co/vSDelNGIcT",
+    "entities": {
+      "description": {
+        "urls": [
+          {
+            "display_url": "okx.com/join/EMBER",
+            "expanded_url": "https://www.okx.com/join/EMBER",
+            "url": "https://t.co/vSDelNGIcT",
+            "indices": [
+              58,
+              81
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 5260,
+    "followersCount": 139805,
+    "following": true,
+    "friendsCount": 567,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 2779,
+    "location": "",
+    "mediaCount": 4366,
+    "name": "余烬",
+    "normalFollowersCount": 139805,
+    "pinnedTweetIdsStr": [
+      "1951581118672912682"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1499656309565657089/1741576594",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1538063339917430784/-XWBxDFr_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "EmberCN",
+    "statusesCount": 8792,
+    "translatorType": "none",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [],
+    "professionalType": "Business",
+    "restId": "1622014432468697088"
+  },
+  "profileImageShape": "Circle",
+  "restId": "1499656309565657089",
+  "tipjarSettings": {
+    "isEnabled": true
+  }
+}

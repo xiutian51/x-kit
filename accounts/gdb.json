@@ -1,0 +1,73 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {
+    "label": {
+      "url": {
+        "url": "https://twitter.com/OpenAI",
+        "urlType": "DeepLink"
+      },
+      "badge": {
+        "url": "https://pbs.twimg.com/profile_images/1885410181409820672/ztsaR0JW_bigger.jpg"
+      },
+      "description": "OpenAI",
+      "userLabelType": "BusinessLabel",
+      "userLabelDisplayType": "Badge"
+    }
+  },
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNjIxMjQ1NDA=",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": false,
+    "canMediaTag": true,
+    "createdAt": "Fri Jul 02 19:38:09 +0000 2010",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "President & Co-Founder @OpenAI",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "gregbrockman.com",
+            "expanded_url": "http://gregbrockman.com",
+            "url": "https://t.co/k4cALifwtx",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 1774,
+    "followersCount": 884282,
+    "following": true,
+    "friendsCount": 32,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 8955,
+    "location": "",
+    "mediaCount": 418,
+    "name": "Greg Brockman",
+    "normalFollowersCount": 884282,
+    "pinnedTweetIdsStr": [],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/162124540/1399179172",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1347621377503711233/bHg3ipfD_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "gdb",
+    "statusesCount": 5634,
+    "translatorType": "none",
+    "url": "https://t.co/k4cALifwtx",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "profileImageShape": "Circle",
+  "restId": "162124540",
+  "tipjarSettings": {}
+}

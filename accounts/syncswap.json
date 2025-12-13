@@ -1,0 +1,77 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNDM5MTIyMDE5MzA4NTU2Mjg4",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Sat Sep 18 07:00:09 +0000 2021",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "Seamless and Efficient DEX for Consumer Crypto on Ethereum ZK Rollups ⚡️ ZKsync, Sophon, Linea, Scroll\n\n🔮 https://t.co/evtWoxmp1i | Turkiye @SyncSwapTR",
+    "entities": {
+      "description": {
+        "urls": [
+          {
+            "display_url": "syncswap.xyz/discord",
+            "expanded_url": "https://syncswap.xyz/discord",
+            "url": "https://t.co/evtWoxmp1i",
+            "indices": [
+              106,
+              129
+            ]
+          }
+        ]
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "syncswap.xyz",
+            "expanded_url": "https://syncswap.xyz",
+            "url": "https://t.co/CRv4IvupFs",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 975,
+    "followersCount": 705149,
+    "following": true,
+    "friendsCount": 532,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 1203,
+    "location": "Future of Ethereum",
+    "mediaCount": 275,
+    "name": "SyncSwap (((+)))",
+    "normalFollowersCount": 705149,
+    "pinnedTweetIdsStr": [
+      "1949874122244182286"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1439122019308556288/1679625661",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1534590986772303873/kg4-p_V7_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "syncswap",
+    "statusesCount": 1336,
+    "translatorType": "none",
+    "url": "https://t.co/CRv4IvupFs",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [],
+    "professionalType": "Creator",
+    "restId": "1547216140090220544"
+  },
+  "profileImageShape": "Circle",
+  "restId": "1439122019308556288",
+  "tipjarSettings": {}
+}

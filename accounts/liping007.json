@@ -1,0 +1,58 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxMzc3NDY1MjY1MjIzNDYyOTEz",
+  "isBlueVerified": false,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Thu Apr 01 03:38:54 +0000 2021",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "币圈12年，见证了荣耀与浑浊，理性纯粹。HK，NFA / DYOR",
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 4296,
+    "followersCount": 50346,
+    "following": true,
+    "friendsCount": 3776,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 1384,
+    "location": "香港",
+    "mediaCount": 225,
+    "name": "李平 | ddd.eth",
+    "normalFollowersCount": 50346,
+    "pinnedTweetIdsStr": [
+      "1719917261081948233"
+    ],
+    "possiblySensitive": false,
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1643070445837754368/lPPJtmqV_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "liping007",
+    "statusesCount": 1765,
+    "translatorType": "none",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [
+      {
+        "iconName": "IconBriefcaseStroke",
+        "id": 1039,
+        "name": "Venture Capital"
+      }
+    ],
+    "professionalType": "Creator",
+    "restId": "1580020117995663360"
+  },
+  "profileImageShape": "Circle",
+  "restId": "1377465265223462913",
+  "tipjarSettings": {}
+}

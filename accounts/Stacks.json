@@ -1,0 +1,93 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjozMjg1Nzk3NDE0",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": false,
+    "canMediaTag": true,
+    "createdAt": "Mon Jul 20 20:32:56 +0000 2015",
+    "defaultProfile": false,
+    "defaultProfileImage": false,
+    "description": "A Bitcoin L2 enabling smart contracts & apps with Bitcoin as secure base layer 🟧\n\nRegular Stacks Updates: https://t.co/w8goj3MlPU\n\n 🟧 TG+ https://t.co/MNXiV0kOyR",
+    "entities": {
+      "description": {
+        "urls": [
+          {
+            "display_url": "stackssnacks.com",
+            "expanded_url": "https://stackssnacks.com/",
+            "url": "https://t.co/w8goj3MlPU",
+            "indices": [
+              106,
+              129
+            ]
+          },
+          {
+            "display_url": "stx.is/chat",
+            "expanded_url": "http://stx.is/chat",
+            "url": "https://t.co/MNXiV0kOyR",
+            "indices": [
+              138,
+              161
+            ]
+          }
+        ]
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "stacks.co",
+            "expanded_url": "https://stacks.co",
+            "url": "https://t.co/VrhheihJJX",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 14769,
+    "followersCount": 236441,
+    "following": true,
+    "friendsCount": 227,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 2730,
+    "location": "Bitcoin",
+    "mediaCount": 2880,
+    "name": "stacks.btc",
+    "normalFollowersCount": 236441,
+    "pinnedTweetIdsStr": [
+      "1990797265351716923"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/3285797414/1704140758",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1764968185399267328/lrmnHOuN_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "Stacks",
+    "statusesCount": 13135,
+    "translatorType": "none",
+    "url": "https://t.co/VrhheihJJX",
+    "verified": false,
+    "verifiedType": "Business",
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [
+      {
+        "iconName": "IconBriefcaseStroke",
+        "id": 1009,
+        "name": "Community"
+      }
+    ],
+    "professionalType": "Business",
+    "restId": "1646513770448187392"
+  },
+  "profileImageShape": "Square",
+  "restId": "3285797414",
+  "tipjarSettings": {}
+}

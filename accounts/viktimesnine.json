@@ -1,0 +1,47 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNjk1MTAzMTk3NzAwODI5MTg0",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Fri Aug 25 15:58:29 +0000 2023",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "protocol eng @unstable_labs",
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 134,
+    "followersCount": 839,
+    "following": true,
+    "friendsCount": 122,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 11,
+    "location": "memepool",
+    "mediaCount": 1,
+    "name": "Vik",
+    "normalFollowersCount": 839,
+    "pinnedTweetIdsStr": [
+      "1728248656107827684"
+    ],
+    "possiblySensitive": false,
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1945359279252254720/rDaq63r2_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "viktimesnine",
+    "statusesCount": 13,
+    "translatorType": "none",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "profileImageShape": "Circle",
+  "restId": "1695103197700829184",
+  "tipjarSettings": {}
+}

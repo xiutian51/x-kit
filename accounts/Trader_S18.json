@@ -1,0 +1,86 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNjYzNzQ5ODUyOTY1MjQwODM0",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": false,
+    "createdAt": "Wed May 31 03:31:05 +0000 2023",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "Trader（缺德） DAO（道）人 / 野生宏观观察员 / 叉腰怪 / 链上小捕快 / 币圈老油条 / 灵魂画线师 / 肥猪流操盘手 / 基金制造者 / 出海老船长 / 拉盘委员会副会长 /超100%POR资金储备，安全首选。交易所&钱包，OKX就够 。🔗 https://t.co/idtBAtvFqH",
+    "entities": {
+      "description": {
+        "urls": [
+          {
+            "display_url": "okx.com",
+            "expanded_url": "http://okx.com",
+            "url": "https://t.co/idtBAtvFqH",
+            "indices": [
+              130,
+              153
+            ]
+          }
+        ]
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "t.me/web3blackdragon",
+            "expanded_url": "https://t.me/web3blackdragon",
+            "url": "https://t.co/iHamP1PJ9T",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 6848,
+    "followersCount": 53087,
+    "following": true,
+    "friendsCount": 733,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 1254,
+    "location": "月亮之上",
+    "mediaCount": 1422,
+    "name": "TraderS | 缺德道人",
+    "normalFollowersCount": 53087,
+    "pinnedTweetIdsStr": [
+      "1779391454848352626"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1663749852965240834/1760553743",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1663755176581431296/KKbxA9BI_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "Trader_S18",
+    "statusesCount": 11403,
+    "translatorType": "none",
+    "url": "https://t.co/iHamP1PJ9T",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [
+      {
+        "iconName": "IconBriefcaseStroke",
+        "id": 192,
+        "name": "Financial Services"
+      }
+    ],
+    "professionalType": "Creator",
+    "restId": "1663751260984705033"
+  },
+  "profileImageShape": "Circle",
+  "restId": "1663749852965240834",
+  "tipjarSettings": {
+    "ethereumHandle": "0x2a733f1e8f224905d205403132bc27f1fd3b5c32",
+    "isEnabled": true
+  }
+}

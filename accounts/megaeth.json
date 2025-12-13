@@ -1,0 +1,63 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNzMwMzIxMTMzNTQ1OTIyNTYw",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Thu Nov 30 20:21:37 +0000 2023",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "MegaETH is the real-time blockchain. Where crypto applications leverage extreme performance to reach their full potential.",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "linktr.ee/megaeth_labs",
+            "expanded_url": "https://linktr.ee/megaeth_labs",
+            "url": "https://t.co/UYOFRKR5NU",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 926,
+    "followersCount": 203529,
+    "following": true,
+    "friendsCount": 47,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 1046,
+    "location": "world computer",
+    "mediaCount": 314,
+    "name": "MegaETH",
+    "normalFollowersCount": 203529,
+    "pinnedTweetIdsStr": [
+      "1986429671890891017"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1730321133545922560/1732711134",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1861751545790070784/KvlxTzAq_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "megaeth",
+    "statusesCount": 974,
+    "translatorType": "none",
+    "url": "https://t.co/UYOFRKR5NU",
+    "verified": false,
+    "verifiedType": "Business",
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "profileImageShape": "Square",
+  "restId": "1730321133545922560",
+  "tipjarSettings": {}
+}

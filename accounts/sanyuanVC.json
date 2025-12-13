@@ -1,0 +1,49 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNTA0MjkzNDg3MjIyNTU4NzI0",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Thu Mar 17 03:08:36 +0000 2022",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "🛠️Founder of @SanyuanCapital @DeJob_Official",
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 5357,
+    "followedBy": true,
+    "followersCount": 33730,
+    "following": true,
+    "friendsCount": 1402,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 413,
+    "location": "",
+    "mediaCount": 1282,
+    "name": "园长｜YuanMan",
+    "normalFollowersCount": 33730,
+    "pinnedTweetIdsStr": [
+      "1654773802566553600"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1504293487222558724/1684477366",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1984085752221986820/duNVXNlL_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "sanyuanVC",
+    "statusesCount": 7350,
+    "translatorType": "none",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "profileImageShape": "Circle",
+  "restId": "1504293487222558724",
+  "tipjarSettings": {}
+}

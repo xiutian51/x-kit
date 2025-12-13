@@ -1,0 +1,60 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxOTU1NTUzMzcwMTcwOTQ5NjMy",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Wed Aug 13 08:54:03 +0000 2025",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "明星链X Layer @XLayerOfficial 上的创新Launchpad，所有人都可以创建代币。Memes, Creators, Startups.",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "oko.fun",
+            "expanded_url": "http://oko.fun",
+            "url": "https://t.co/grMyqzyApA",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 2,
+    "followersCount": 3240,
+    "following": true,
+    "friendsCount": 4,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 32,
+    "location": "猎星台",
+    "mediaCount": 2,
+    "name": "猎星台oko.fun",
+    "normalFollowersCount": 3240,
+    "pinnedTweetIdsStr": [],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1955553370170949632/1755258378",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1955569448292855808/V9fcdApL_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "okodotfun",
+    "statusesCount": 9,
+    "translatorType": "none",
+    "url": "https://t.co/grMyqzyApA",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "profileImageShape": "Circle",
+  "restId": "1955553370170949632",
+  "tipjarSettings": {}
+}

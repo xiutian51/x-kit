@@ -1,0 +1,72 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNDM1MDc4OTM1NDg2NzU4OTE2",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Tue Sep 07 03:14:24 +0000 2021",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "Crypto native media platform in Asia since 2020 \n#Narratives Diving 💎 | #Crypto analysis \n\n熱點訊息不漏接：https://t.co/Qr1WLbvwQP\n\n👇 加入華語社區",
+    "entities": {
+      "description": {
+        "urls": [
+          {
+            "display_url": "bit.ly/3NSAATN",
+            "expanded_url": "https://bit.ly/3NSAATN",
+            "url": "https://t.co/Qr1WLbvwQP",
+            "indices": [
+              99,
+              122
+            ]
+          }
+        ]
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "t.me/cryptowesearch…",
+            "expanded_url": "https://t.me/cryptowesearchzh",
+            "url": "https://t.co/VVcW6Snl68",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 1888,
+    "followersCount": 17466,
+    "following": true,
+    "friendsCount": 672,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 182,
+    "location": "Web3",
+    "mediaCount": 3489,
+    "name": "Crypto Wesearch 每日幣研",
+    "normalFollowersCount": 17466,
+    "pinnedTweetIdsStr": [
+      "1902000440952418785"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1435078935486758916/1632201282",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1608304695776509954/gaWpTcjW_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "CryptoWesearch",
+    "statusesCount": 10852,
+    "translatorType": "none",
+    "url": "https://t.co/VVcW6Snl68",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "profileImageShape": "Circle",
+  "restId": "1435078935486758916",
+  "tipjarSettings": {}
+}

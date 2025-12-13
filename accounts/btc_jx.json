@@ -1,0 +1,80 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNTEwODg2OTQwNzEwNjE3MDkx",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": false,
+    "createdAt": "Mon Apr 04 07:48:27 +0000 2022",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "普通擦边女爱炒币｜不是kol｜扔门永存｜记录个人交易：https://t.co/fkshaN8bT5｜合作tg：jingxiangxj",
+    "entities": {
+      "description": {
+        "urls": [
+          {
+            "display_url": "t.me/btcjx0825",
+            "expanded_url": "https://t.me/btcjx0825",
+            "url": "https://t.co/fkshaN8bT5",
+            "indices": [
+              27,
+              50
+            ]
+          }
+        ]
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "okx.com/join/18217947",
+            "expanded_url": "http://okx.com/join/18217947",
+            "url": "https://t.co/xwEVeoqqym",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 3996,
+    "followersCount": 610516,
+    "following": true,
+    "friendsCount": 1162,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 982,
+    "location": "畅享web3尽在OKX",
+    "mediaCount": 974,
+    "name": "静香小姐",
+    "normalFollowersCount": 610516,
+    "pinnedTweetIdsStr": [
+      "1793481001861251259"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1510886940710617091/1741674591",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1559441539889127424/5p6T0EKu_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "btc_jx",
+    "statusesCount": 11246,
+    "translatorType": "none",
+    "url": "https://t.co/xwEVeoqqym",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [],
+    "professionalType": "Creator",
+    "restId": "1567502610474717188"
+  },
+  "profileImageShape": "Circle",
+  "restId": "1510886940710617091",
+  "tipjarSettings": {
+    "ethereumHandle": "0x95D6E6821dD4Bf2097bfEAA53aed365C2172a2d7",
+    "isEnabled": false
+  }
+}

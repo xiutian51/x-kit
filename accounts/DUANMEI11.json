@@ -1,0 +1,61 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNDUxMjIwODkyMTU1OTk4MjA5",
+  "isBlueVerified": false,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": false,
+    "createdAt": "Thu Oct 21 16:16:44 +0000 2021",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "我是一个热点打野战士，千万别跟着我单，我随时杀进杀出，跟随信息涌动，亏钱勿怪dyro\n#bitget",
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 27468,
+    "followersCount": 39822,
+    "following": true,
+    "friendsCount": 2375,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 827,
+    "location": "AOTE",
+    "mediaCount": 854,
+    "name": "信息捕获手",
+    "normalFollowersCount": 39822,
+    "pinnedTweetIdsStr": [
+      "1634055617789984768"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1451220892155998209/1656854312",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1818217471931035648/DkefqXUt_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "DUANMEI11",
+    "statusesCount": 9245,
+    "translatorType": "none",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [
+      {
+        "iconName": "IconBriefcaseStroke",
+        "id": 192,
+        "name": "Financial Services"
+      }
+    ],
+    "professionalType": "Creator",
+    "restId": "1479040891301945347"
+  },
+  "profileImageShape": "Circle",
+  "restId": "1451220892155998209",
+  "tipjarSettings": {
+    "isEnabled": true
+  }
+}

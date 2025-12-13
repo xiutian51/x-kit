@@ -1,0 +1,57 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxMzYyOTY3MTU2ODI1MDE4MzY5",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Sat Feb 20 03:28:10 +0000 2021",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "澳洲区块链9年老韭菜，Bnbchain专家，Kaito中文区Yap No.1，爱投研爱分享爱生活爱赚钱。 绑定大狮兄币安钱包邀请码，减免10%交易手续费！ 币安钱包邀请码：X7HMTOPH OKX钱包邀请码： GOGOGO",
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 14541,
+    "followersCount": 117025,
+    "following": true,
+    "friendsCount": 2796,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 2269,
+    "location": "Melbourne, Australia",
+    "mediaCount": 3864,
+    "name": "土澳大狮兄BroLeon | 🔶BNB |",
+    "normalFollowersCount": 117025,
+    "pinnedTweetIdsStr": [],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1362967156825018369/1710416372",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1958379175309606912/gFvgpUGx_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "BroLeonAus",
+    "statusesCount": 18788,
+    "translatorType": "none",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [
+      {
+        "iconName": "IconBriefcaseStroke",
+        "id": 934,
+        "name": "Social Media Influencer"
+      }
+    ],
+    "professionalType": "Creator",
+    "restId": "1593175002488377344"
+  },
+  "profileImageShape": "Circle",
+  "restId": "1362967156825018369",
+  "tipjarSettings": {}
+}

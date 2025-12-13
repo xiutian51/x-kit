@@ -1,0 +1,62 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNzUzMjQwNTY5NjkyNjg0Mjg4",
+  "isBlueVerified": false,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Fri Feb 02 02:15:04 +0000 2024",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "Enabling a new era of semi-fungible tokens with native liquidity and fractionalization.\n\nA collection of 10,000 Replicants.",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "pandora.build",
+            "expanded_url": "http://pandora.build",
+            "url": "https://t.co/3q7nGVzoHD",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 992,
+    "followersCount": 44563,
+    "following": true,
+    "friendsCount": 30,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 239,
+    "location": "ERC404",
+    "mediaCount": 67,
+    "name": "Pandora",
+    "normalFollowersCount": 44563,
+    "pinnedTweetIdsStr": [
+      "1798845535744659810"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1753240569692684288/1707720779",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1753240619219136512/TtCkeIll_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "Pandora_ERC404",
+    "statusesCount": 310,
+    "translatorType": "none",
+    "url": "https://t.co/3q7nGVzoHD",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "profileImageShape": "Circle",
+  "restId": "1753240569692684288",
+  "tipjarSettings": {}
+}

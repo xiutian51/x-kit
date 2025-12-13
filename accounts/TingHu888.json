@@ -1,0 +1,62 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjo5MDM2OTEyNzQ3NzA4MzM0MDg=",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": false,
+    "createdAt": "Fri Sep 01 18:49:24 +0000 2017",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "浮生如梦，世事如风。\n一餐终日饱，一寝至夜安。",
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 4067,
+    "followersCount": 135446,
+    "following": true,
+    "friendsCount": 571,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 1844,
+    "location": "China",
+    "mediaCount": 3331,
+    "name": "TingHu♪",
+    "normalFollowersCount": 135446,
+    "pinnedTweetIdsStr": [
+      "1975548674509054305"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/903691274770833408/1765132614",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1985330729958678528/y2GaZmuj_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "TingHu888",
+    "statusesCount": 33910,
+    "translatorType": "none",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [
+      {
+        "iconName": "IconBriefcaseStroke",
+        "id": 29,
+        "name": "Amusement & Theme Park"
+      }
+    ],
+    "professionalType": "Creator",
+    "restId": "1497148490044289024"
+  },
+  "profileImageShape": "Circle",
+  "restId": "903691274770833408",
+  "tipjarSettings": {
+    "ethereumHandle": "0xcbDbc739Bf9E1F5Bd7ACC5BE8C3DEE7F2f433ae3",
+    "isEnabled": true
+  }
+}

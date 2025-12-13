@@ -1,0 +1,103 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNDUzNjk5MjQ0MTE2Nzc0OTIw",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": false,
+    "canMediaTag": true,
+    "createdAt": "Thu Oct 28 12:24:50 +0000 2021",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "｜助教微信：April1336 ｜\n｜俱乐部网站：https://t.co/4anPnQUP54｜\n｜智能机器人🤖（限时免费）：https://t.co/PnZZlDvDjf｜\n｜ Deribit（你10%减免）： https://t.co/bpfuD6lBIS ｜",
+    "entities": {
+      "description": {
+        "urls": [
+          {
+            "display_url": "sober-club.com",
+            "expanded_url": "https://sober-club.com/",
+            "url": "https://t.co/4anPnQUP54",
+            "indices": [
+              25,
+              48
+            ]
+          },
+          {
+            "display_url": "t.me/c/2229730872/1",
+            "expanded_url": "https://t.me/c/2229730872/1",
+            "url": "https://t.co/PnZZlDvDjf",
+            "indices": [
+              64,
+              87
+            ]
+          },
+          {
+            "display_url": "deribit.com/?reg=18775.7600",
+            "expanded_url": "https://www.deribit.com/?reg=18775.7600",
+            "url": "https://t.co/bpfuD6lBIS",
+            "indices": [
+              108,
+              131
+            ]
+          }
+        ]
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "linktr.ee/Sober666",
+            "expanded_url": "https://linktr.ee/Sober666",
+            "url": "https://t.co/zlOMKVR3MP",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 23403,
+    "followersCount": 13909,
+    "following": true,
+    "friendsCount": 786,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 231,
+    "location": "Sober聊期权-知识星球",
+    "mediaCount": 3542,
+    "name": "Sober聊期权, CFA",
+    "normalFollowersCount": 13909,
+    "pinnedTweetIdsStr": [
+      "1980302550063845867"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1453699244116774920/1763526787",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1639493809649364993/cQWPZ--a_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "Amy6Tina",
+    "statusesCount": 17174,
+    "translatorType": "none",
+    "url": "https://t.co/zlOMKVR3MP",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [
+      {
+        "iconName": "IconBriefcaseStroke",
+        "id": 192,
+        "name": "Financial Services"
+      }
+    ],
+    "professionalType": "Creator",
+    "restId": "1711016917740511712"
+  },
+  "profileImageShape": "Circle",
+  "restId": "1453699244116774920",
+  "tipjarSettings": {
+    "isEnabled": true
+  }
+}

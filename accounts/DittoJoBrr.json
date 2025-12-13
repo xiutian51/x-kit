@@ -1,0 +1,60 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxMjc4ODY5ODM1NjkxMDY5NDQw",
+  "isBlueVerified": false,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": false,
+    "createdAt": "Fri Jul 03 01:55:12 +0000 2020",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "去有水的地方捕鱼",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "dittojo.substack.com",
+            "expanded_url": "https://dittojo.substack.com",
+            "url": "https://t.co/Z2VZyQJ2IC",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 13194,
+    "followersCount": 6591,
+    "following": true,
+    "friendsCount": 5296,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 274,
+    "location": "",
+    "mediaCount": 85,
+    "name": "DittoJo",
+    "normalFollowersCount": 6591,
+    "pinnedTweetIdsStr": [],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1278869835691069440/1637674865",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1670988224737726465/kdGUptvB_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "DittoJoBrr",
+    "statusesCount": 1982,
+    "translatorType": "none",
+    "url": "https://t.co/Z2VZyQJ2IC",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "profileImageShape": "Circle",
+  "restId": "1278869835691069440",
+  "tipjarSettings": {}
+}

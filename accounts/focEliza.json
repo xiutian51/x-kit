@@ -1,0 +1,59 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxODYzMzkyMDI2MDA5Nzc2MTI4",
+  "isBlueVerified": false,
+  "legacy": {
+    "canDm": false,
+    "canMediaTag": true,
+    "createdAt": "Mon Dec 02 01:17:46 +0000 2024",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "Open-source framework designed for fully on-chain AI agents/ ElizaOS",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "github.com/focai-acc/focE…",
+            "expanded_url": "https://github.com/focai-acc/focEliza",
+            "url": "https://t.co/p8VXfHjXr0",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 32,
+    "followersCount": 5219,
+    "following": true,
+    "friendsCount": 6,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 83,
+    "location": "on-chain",
+    "mediaCount": 24,
+    "name": "focEliza | focai/acc",
+    "normalFollowersCount": 5219,
+    "pinnedTweetIdsStr": [],
+    "possiblySensitive": false,
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1872610242779111424/bV3rz2wr_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "focEliza",
+    "statusesCount": 136,
+    "translatorType": "none",
+    "url": "https://t.co/p8VXfHjXr0",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "profileImageShape": "Circle",
+  "restId": "1863392026009776128",
+  "tipjarSettings": {}
+}

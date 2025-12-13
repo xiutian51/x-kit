@@ -1,0 +1,75 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxMjkzMTI1MTkwODUxOTc3MjE2",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": false,
+    "createdAt": "Tue Aug 11 10:00:59 +0000 2020",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "| coder | MEME alpha | 没任何收费群 | 经验帖和教程在亮点 | 纯粹的赌徒 | #OKX web3入口 一个就够 https://t.co/ipz3GujQUs",
+    "entities": {
+      "description": {
+        "urls": [
+          {
+            "display_url": "web3.okx.com/zh-hans/web3",
+            "expanded_url": "https://web3.okx.com/zh-hans/web3",
+            "url": "https://t.co/ipz3GujQUs",
+            "indices": [
+              69,
+              92
+            ]
+          }
+        ]
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "t.me/LamIsRealGoat",
+            "expanded_url": "https://t.me/LamIsRealGoat",
+            "url": "https://t.co/iwMxUAq2pR",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 24052,
+    "followersCount": 18534,
+    "following": true,
+    "friendsCount": 1535,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 610,
+    "location": "",
+    "mediaCount": 442,
+    "name": "Lam",
+    "normalFollowersCount": 18534,
+    "pinnedTweetIdsStr": [],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1293125190851977216/1733597690",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1858122486795382784/Z85gDi0k_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "0xCryptoWing",
+    "statusesCount": 9917,
+    "translatorType": "none",
+    "url": "https://t.co/iwMxUAq2pR",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [],
+    "professionalType": "Creator",
+    "restId": "1662337797997629441"
+  },
+  "profileImageShape": "Circle",
+  "restId": "1293125190851977216",
+  "tipjarSettings": {}
+}

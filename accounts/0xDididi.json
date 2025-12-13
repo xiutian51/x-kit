@@ -1,0 +1,83 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNDgxMjQ2MTAyNDAxOTg2NTYx",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Wed Jan 12 12:46:11 +0000 2022",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "98的ENTP，互联网pm一枚，转型做全职交易  Trading is a waiting game!!!\n\n猪脚饭社区：https://t.co/iPmCuVVbTC\n频道内视频由猪脚饭社区Sam老师提供",
+    "entities": {
+      "description": {
+        "urls": [
+          {
+            "display_url": "discord.gg/dididi",
+            "expanded_url": "https://discord.gg/dididi",
+            "url": "https://t.co/iPmCuVVbTC",
+            "indices": [
+              61,
+              84
+            ]
+          }
+        ]
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "discord.gg/dididi",
+            "expanded_url": "https://discord.gg/dididi",
+            "url": "https://t.co/iPmCuVVbTC",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 602,
+    "followersCount": 5871,
+    "following": true,
+    "friendsCount": 192,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 93,
+    "location": "北京",
+    "mediaCount": 1665,
+    "name": "迪迪 | 猪脚饭社区",
+    "normalFollowersCount": 5871,
+    "pinnedTweetIdsStr": [],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1481246102401986561/1646105919",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1861736690316128256/6I051kFr_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "0xDididi",
+    "statusesCount": 2853,
+    "translatorType": "none",
+    "url": "https://t.co/iPmCuVVbTC",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [
+      {
+        "iconName": "IconBriefcaseStroke",
+        "id": 192,
+        "name": "Financial Services"
+      }
+    ],
+    "professionalType": "Creator",
+    "restId": "1600829758300098560"
+  },
+  "profileImageShape": "Circle",
+  "restId": "1481246102401986561",
+  "tipjarSettings": {
+    "isEnabled": true
+  }
+}

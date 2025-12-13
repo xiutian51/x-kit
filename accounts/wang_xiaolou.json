@@ -1,0 +1,77 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNDM0Nzc1Njk2MDQ4NDc2MTYy",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Mon Sep 06 07:09:23 +0000 2021",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "|个人投研者｜AI + Web3 | 只筛选，不教育｜善良：利他不利己；聪明：利他又利己｜",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "substack.com/@wangxiaolou",
+            "expanded_url": "https://substack.com/@wangxiaolou",
+            "url": "https://t.co/L1Am0kdone",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 23779,
+    "followedBy": true,
+    "followersCount": 28211,
+    "following": true,
+    "friendsCount": 5741,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 599,
+    "location": "Shanghai",
+    "mediaCount": 3933,
+    "name": "日拱一卒王小楼",
+    "normalFollowersCount": 28211,
+    "pinnedTweetIdsStr": [
+      "1996407853670899817"
+    ],
+    "possiblySensitive": false,
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1988567900735877120/DKtV7mlY_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "wang_xiaolou",
+    "statusesCount": 38893,
+    "translatorType": "none",
+    "url": "https://t.co/L1Am0kdone",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [
+      {
+        "iconName": "IconBriefcaseStroke",
+        "id": 192,
+        "name": "Financial Services"
+      }
+    ],
+    "professionalType": "Creator",
+    "restId": "1470680570468630531"
+  },
+  "profileImageShape": "Circle",
+  "restId": "1434775696048476162",
+  "tipjarSettings": {
+    "ethereumHandle": "0xDdd54D4D71FF9AD625D8e90DC6DdEafEeB5632Ba",
+    "isEnabled": true,
+    "patreonHandle": "wang_xiaolou"
+  }
+}

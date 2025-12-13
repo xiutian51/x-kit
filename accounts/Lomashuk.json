@@ -1,0 +1,73 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoyMzQzNTg4OTI=",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Wed Jan 05 13:24:20 +0000 2011",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "Accelerating the world's transition to a cybernetic economy. @cyberFund_",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "cyber.fund",
+            "expanded_url": "http://cyber.fund",
+            "url": "https://t.co/sYX6He3azL",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 10297,
+    "followersCount": 36845,
+    "following": true,
+    "friendsCount": 1757,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 731,
+    "location": "",
+    "mediaCount": 38,
+    "name": "Konstantin Lomashuk cyber/acc",
+    "normalFollowersCount": 36845,
+    "pinnedTweetIdsStr": [
+      "1990820894332403714"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/234358892/1590748161",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1745561226371846144/v2DO9VLS_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "Lomashuk",
+    "statusesCount": 2765,
+    "translatorType": "none",
+    "url": "https://t.co/sYX6He3azL",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [
+      {
+        "iconName": "IconBriefcaseStroke",
+        "id": 958,
+        "name": "Entrepreneur"
+      }
+    ],
+    "professionalType": "Creator",
+    "restId": "1587039838980788224"
+  },
+  "profileImageShape": "Circle",
+  "restId": "234358892",
+  "tipjarSettings": {}
+}

@@ -1,0 +1,55 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjo1MTQ3Mzgx",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": false,
+    "createdAt": "Wed Apr 18 19:09:47 +0000 2007",
+    "defaultProfile": false,
+    "defaultProfileImage": false,
+    "description": "关注科技、好用的工具、美股、日常生活 | INTJ-A | 没有建群，不主动私信人，谨防骗子 | 投资有风险，不要听我的 | NFA | 不接广告，勿扰",
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 1472,
+    "followedBy": true,
+    "followersCount": 124151,
+    "following": true,
+    "friendsCount": 4413,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 1960,
+    "location": "the world",
+    "mediaCount": 693,
+    "name": "wuzhe",
+    "normalFollowersCount": 124151,
+    "pinnedTweetIdsStr": [],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/5147381/1366828940",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/866518410972192768/66vemQ1D_normal.jpg",
+    "profileInterstitialType": "",
+    "_protected": true,
+    "screenName": "realwuzhe",
+    "statusesCount": 4571,
+    "translatorType": "regular",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [],
+    "professionalType": "Creator",
+    "restId": "1470201570780499974"
+  },
+  "profileImageShape": "Circle",
+  "restId": "5147381",
+  "tipjarSettings": {
+    "isEnabled": true
+  }
+}

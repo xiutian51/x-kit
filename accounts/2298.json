@@ -1,0 +1,70 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {
+    "label": {
+      "url": {
+        "url": "https://twitter.com/GoKiteAI",
+        "urlType": "DeepLink"
+      },
+      "badge": {
+        "url": "https://pbs.twimg.com/profile_images/1962781271978815488/07fQQARS_bigger.jpg"
+      },
+      "description": "KITE AI",
+      "userLabelType": "BusinessLabel",
+      "userLabelDisplayType": "Badge"
+    }
+  },
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjo2MjI2ODYxMQ==",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Sun Aug 02 14:23:06 +0000 2009",
+    "defaultProfile": false,
+    "defaultProfileImage": false,
+    "description": "投研｜NFT归零选手｜链游朝拜者｜链上笨B钱包｜\n\nDM For Promo  商务合作联系TG \n\nhttps://t.co/CEEjJz2nsl",
+    "entities": {
+      "description": {
+        "urls": [
+          {
+            "display_url": "t.me/yundan2298",
+            "expanded_url": "https://t.me/yundan2298",
+            "url": "https://t.co/CEEjJz2nsl",
+            "indices": [
+              51,
+              74
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 193885,
+    "followedBy": true,
+    "followersCount": 39716,
+    "following": true,
+    "friendsCount": 4636,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 203,
+    "location": "",
+    "mediaCount": 794,
+    "name": "云淡风轻｜MemeMax⚡️",
+    "normalFollowersCount": 39716,
+    "pinnedTweetIdsStr": [],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/62268611/1746698687",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1993299179079450629/pJYKbgRi_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "2298",
+    "statusesCount": 103134,
+    "translatorType": "none",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "profileImageShape": "Circle",
+  "restId": "62268611",
+  "tipjarSettings": {}
+}

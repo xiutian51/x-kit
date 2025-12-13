@@ -1,0 +1,74 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxMTMxMjEyNzYxMTAxMjk5NzEz",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Wed May 22 14:58:33 +0000 2019",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "@OKX 高级品牌经理 | Web3 & Crypto Enthusiast | 分享品牌增长、市场动态与行业趋势 📢 DM for collaborations!",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "okx.com",
+            "expanded_url": "http://okx.com",
+            "url": "https://t.co/PW907fyaSF",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 2227,
+    "followedBy": true,
+    "followersCount": 10674,
+    "following": true,
+    "friendsCount": 874,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 109,
+    "location": "香港",
+    "mediaCount": 924,
+    "name": "Yuki",
+    "normalFollowersCount": 10674,
+    "pinnedTweetIdsStr": [
+      "1998708632335343827"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1131212761101299713/1738744101",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1887054804930981888/h1avTrMw_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "OKX_Yuki",
+    "statusesCount": 6422,
+    "translatorType": "none",
+    "url": "https://t.co/PW907fyaSF",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [
+      {
+        "iconName": "IconBriefcaseStroke",
+        "id": 192,
+        "name": "Financial Services"
+      }
+    ],
+    "professionalType": "Creator",
+    "restId": "1486276451708338178"
+  },
+  "profileImageShape": "Circle",
+  "restId": "1131212761101299713",
+  "tipjarSettings": {}
+}

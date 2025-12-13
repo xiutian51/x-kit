@@ -1,0 +1,60 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNTY1NzAwNjQ0OTUwMTUxMTcw",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Fri Sep 02 13:59:05 +0000 2022",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "Own Your Stack 🥷 build app-specific rollups with ease!",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "stackrlabs.xyz",
+            "expanded_url": "https://www.stackrlabs.xyz/",
+            "url": "https://t.co/QJa0VVgLis",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 715,
+    "followersCount": 5758,
+    "following": true,
+    "friendsCount": 0,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 134,
+    "location": "Ethereum",
+    "mediaCount": 126,
+    "name": "Stackr Labs",
+    "normalFollowersCount": 5758,
+    "pinnedTweetIdsStr": [],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1565700644950151170/1681093386",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1645250976016748547/85_efB6s_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "0xStackr",
+    "statusesCount": 603,
+    "translatorType": "none",
+    "url": "https://t.co/QJa0VVgLis",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "profileImageShape": "Circle",
+  "restId": "1565700644950151170",
+  "tipjarSettings": {}
+}

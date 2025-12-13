@@ -1,0 +1,68 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNTg1MjMwODEyMTM5NjQyODgx",
+  "isBlueVerified": false,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Wed Oct 26 11:24:37 +0000 2022",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "Usual is a secure and decentralized fiat-backed (RWA) stablecoin issuer that redistributes value and ownership through the $USUAL token. \n\nTime is Ownership.",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "usual.money",
+            "expanded_url": "https://usual.money/",
+            "url": "https://t.co/bRNUukHuJB",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 1025,
+    "followersCount": 114886,
+    "following": true,
+    "friendsCount": 151,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 375,
+    "location": "Cyberspace",
+    "mediaCount": 797,
+    "name": "Usual",
+    "normalFollowersCount": 114886,
+    "pinnedTweetIdsStr": [
+      "1996905153916502308"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1585230812139642881/1719996591",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1770044779759304705/E7jPDO9n_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "usualmoney",
+    "statusesCount": 2115,
+    "translatorType": "none",
+    "url": "https://t.co/bRNUukHuJB",
+    "verified": false,
+    "verifiedType": "Business",
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [],
+    "professionalType": "Business",
+    "restId": "1644207284027813888"
+  },
+  "profileImageShape": "Square",
+  "restId": "1585230812139642881",
+  "tipjarSettings": {}
+}

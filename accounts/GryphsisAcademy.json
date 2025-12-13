@@ -1,0 +1,70 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNjE5NTM5NjQxMTc4NDExMDA4",
+  "isBlueVerified": false,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Sun Jan 29 03:35:27 +0000 2023",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "公益 Web3 投研教育平台 https://t.co/6ndt5SwRSh ，致力于帮助更多华语圈用户了解 Web3，加入 Web3",
+    "entities": {
+      "description": {
+        "urls": [
+          {
+            "display_url": "gryphsis.com",
+            "expanded_url": "http://www.gryphsis.com",
+            "url": "https://t.co/6ndt5SwRSh",
+            "indices": [
+              15,
+              38
+            ]
+          }
+        ]
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "linktr.ee/gryphsis",
+            "expanded_url": "https://linktr.ee/gryphsis",
+            "url": "https://t.co/Tp4yeO7f69",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 216,
+    "followersCount": 6065,
+    "following": true,
+    "friendsCount": 301,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 61,
+    "location": "Singapore",
+    "mediaCount": 1211,
+    "name": "GA | Gryphsis Academy",
+    "normalFollowersCount": 6065,
+    "pinnedTweetIdsStr": [],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1619539641178411008/1698066168",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1664102816645025792/i5bi4sLi_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "GryphsisAcademy",
+    "statusesCount": 2661,
+    "translatorType": "none",
+    "url": "https://t.co/Tp4yeO7f69",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "profileImageShape": "Circle",
+  "restId": "1619539641178411008",
+  "tipjarSettings": {}
+}

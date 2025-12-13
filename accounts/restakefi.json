@@ -1,0 +1,72 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNjc5NTQ2ODE3MzI5OTE3OTU0",
+  "isBlueVerified": false,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Thu Jul 13 17:42:32 +0000 2023",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "Restake Finance - A New Era of Yield \n\nThe first modular liquid restaking protocol, powered by EigenLayer. \n\nJoin us: https://t.co/iOUR2gRyNO",
+    "entities": {
+      "description": {
+        "urls": [
+          {
+            "display_url": "discord.gg/yG27xrVUGd",
+            "expanded_url": "https://discord.gg/yG27xrVUGd",
+            "url": "https://t.co/iOUR2gRyNO",
+            "indices": [
+              118,
+              141
+            ]
+          }
+        ]
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "restakefinance.com",
+            "expanded_url": "http://www.restakefinance.com",
+            "url": "https://t.co/7UjFZb7rNf",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 782,
+    "followersCount": 10015,
+    "following": true,
+    "friendsCount": 36,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 156,
+    "location": "Ether",
+    "mediaCount": 109,
+    "name": "Restake Finance DAO",
+    "normalFollowersCount": 10015,
+    "pinnedTweetIdsStr": [
+      "1737554569163354218"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1679546817329917954/1700541702",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1726614380417003520/16AE-ZQB_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "restakefi",
+    "statusesCount": 505,
+    "translatorType": "none",
+    "url": "https://t.co/7UjFZb7rNf",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "profileImageShape": "Circle",
+  "restId": "1679546817329917954",
+  "tipjarSettings": {}
+}

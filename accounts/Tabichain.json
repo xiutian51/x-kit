@@ -1,0 +1,66 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxMzUzMjkwOTgyMDg3NzkwNTky",
+  "isBlueVerified": false,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Sun Jan 24 10:38:22 +0000 2021",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "The World’s First Decentralized Network for Consumer Finance, backed by @animocabrands & @YZilabs towards 8 billion-user future.",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "linktr.ee/tabichain",
+            "expanded_url": "https://linktr.ee/tabichain",
+            "url": "https://t.co/ZfU4zxnocn",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 2854,
+    "followersCount": 1436380,
+    "following": true,
+    "friendsCount": 317,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 891,
+    "location": "Tabi Chain ⛓️",
+    "mediaCount": 1065,
+    "name": "Tabi 💢",
+    "normalFollowersCount": 1436380,
+    "pinnedTweetIdsStr": [],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1353290982087790592/1756301253",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1946163108588007425/gPj4Qsxa_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "Tabichain",
+    "statusesCount": 2602,
+    "translatorType": "none",
+    "url": "https://t.co/ZfU4zxnocn",
+    "verified": false,
+    "verifiedType": "Business",
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [],
+    "professionalType": "Business",
+    "restId": "1471469006414819328"
+  },
+  "profileImageShape": "Square",
+  "restId": "1353290982087790592",
+  "tipjarSettings": {}
+}

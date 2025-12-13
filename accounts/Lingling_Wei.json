@@ -1,0 +1,62 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjo0OTk2MDM3ODc=",
+  "isBlueVerified": false,
+  "legacy": {
+    "canDm": false,
+    "canMediaTag": true,
+    "createdAt": "Wed Feb 22 08:51:00 +0000 2012",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "Mama. @WSJ Chief China Correspondent. Author of award-winning “WSJ CHINA”newsletter. Coauthor w/@bobdavis187 of “Superpower Showdown.\"",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "wsj.com/newsletters/ws…",
+            "expanded_url": "https://www.wsj.com/newsletters/wsj-china",
+            "url": "https://t.co/EosgmqK2CF",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 8385,
+    "followersCount": 113457,
+    "following": true,
+    "friendsCount": 236,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 2019,
+    "location": "New York, via Beijing",
+    "mediaCount": 371,
+    "name": "Lingling Wei 魏玲灵",
+    "normalFollowersCount": 113457,
+    "pinnedTweetIdsStr": [
+      "1981537465157538079"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/499603787/1661998981",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1723707466246971392/Mvs-YG14_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "Lingling_Wei",
+    "statusesCount": 10307,
+    "translatorType": "none",
+    "url": "https://t.co/EosgmqK2CF",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "profileImageShape": "Circle",
+  "restId": "499603787",
+  "tipjarSettings": {}
+}

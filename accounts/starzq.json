@@ -1,0 +1,79 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoyNTUwODA2Nw==",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": false,
+    "createdAt": "Fri Mar 20 14:08:03 +0000 2009",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "Host @day1globalpod , Top Crypto Podcast 🇨🇳🇺🇸\n| Research & Invest in AI, Robotics, Crypto\n| @virtuals_io Partner \n| @humafinance Content Academy Mentor",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "linktr.ee/day1global",
+            "expanded_url": "https://linktr.ee/day1global",
+            "url": "https://t.co/Q0eWKfRHrv",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 8630,
+    "followedBy": true,
+    "followersCount": 41780,
+    "following": true,
+    "friendsCount": 1812,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 1016,
+    "location": "Collab→day1globalxyz@gmail.com",
+    "mediaCount": 2077,
+    "name": "Star@Day1Global Podcast",
+    "normalFollowersCount": 41780,
+    "pinnedTweetIdsStr": [
+      "1995657628228485411"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/25508067/1749090590",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1928268381888860164/15uMfp9o_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "starzq",
+    "statusesCount": 10601,
+    "translatorType": "none",
+    "url": "https://t.co/Q0eWKfRHrv",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [
+      {
+        "iconName": "IconBriefcaseStroke",
+        "id": 713,
+        "name": "Science & Technology"
+      }
+    ],
+    "professionalType": "Creator",
+    "restId": "1560218359563620353"
+  },
+  "profileImageShape": "Circle",
+  "restId": "25508067",
+  "superFollowEligible": true,
+  "tipjarSettings": {
+    "bitcoinHandle": "bc1qp26ljfpzmu4p3tvgrrmdx7h4cuzz5c9gqv54hr",
+    "ethereumHandle": "0x80749d65a5790e4BED42B6735fc5321Ce8de2319",
+    "isEnabled": true
+  }
+}

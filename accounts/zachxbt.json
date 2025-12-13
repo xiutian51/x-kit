@@ -1,0 +1,66 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjozMDEyODUyNDYy",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": false,
+    "createdAt": "Sun Feb 08 02:00:26 +0000 2015",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "Scam survivor turned 2D investigator | Advisor @paradigm",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "t.me/investigations",
+            "expanded_url": "https://t.me/investigations",
+            "url": "https://t.co/QQUVAtXi35",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 225750,
+    "followersCount": 931620,
+    "following": true,
+    "friendsCount": 1878,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 9035,
+    "location": "",
+    "mediaCount": 6182,
+    "name": "ZachXBT",
+    "normalFollowersCount": 931620,
+    "pinnedTweetIdsStr": [
+      "1836752923830702392"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/3012852462/1762119229",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1995410150161805312/Ub_ZdoNA_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "zachxbt",
+    "statusesCount": 22265,
+    "translatorType": "none",
+    "url": "https://t.co/QQUVAtXi35",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "profileImageShape": "Circle",
+  "restId": "3012852462",
+  "tipjarSettings": {
+    "bitcoinHandle": "bc1qus70g077qqpue70ldk6grvh3qexvfhu5kn6wv7",
+    "ethereumHandle": "0x9D727911B54C455B0071A7B682FcF4Bc444B5596",
+    "isEnabled": true
+  }
+}

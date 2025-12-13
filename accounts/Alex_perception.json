@@ -1,0 +1,73 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxMTM1MTIwNTY2Mjg3OTIxMTUz",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Sun Jun 02 09:46:47 +0000 2019",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "YouTuber\n用逻辑和独立思考发掘事物的本质\n经济爱好者\n认清客观事实 友善交流 拒绝情绪宣泄",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "youtube.com/@ganzhi0906",
+            "expanded_url": "https://www.youtube.com/@ganzhi0906",
+            "url": "https://t.co/K9Eg80Ihnp",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 2104,
+    "followersCount": 26136,
+    "following": true,
+    "friendsCount": 340,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 261,
+    "location": "",
+    "mediaCount": 486,
+    "name": "Alex_感知",
+    "normalFollowersCount": 26136,
+    "pinnedTweetIdsStr": [
+      "1999301939692196220"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1135120566287921153/1691744552",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1692350922599596032/Hz0cOlcE_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "Alex_perception",
+    "statusesCount": 8865,
+    "translatorType": "none",
+    "url": "https://t.co/K9Eg80Ihnp",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [
+      {
+        "iconName": "IconBriefcaseStroke",
+        "id": 934,
+        "name": "Social Media Influencer"
+      }
+    ],
+    "professionalType": "Creator",
+    "restId": "1690340149241188644"
+  },
+  "profileImageShape": "Circle",
+  "restId": "1135120566287921153",
+  "tipjarSettings": {}
+}

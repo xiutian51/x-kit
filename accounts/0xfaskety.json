@@ -1,0 +1,62 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNTU2NDAxMzAzNDM3NTkwNTI4",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Sun Aug 07 22:06:12 +0000 2022",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "Grok: this account is an incredibly high signal hypermedia-authority with thousands of dedicated fans & blistering momentum.",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "6551.io/login?code=fas…",
+            "expanded_url": "https://6551.io/login?code=faskety",
+            "url": "https://t.co/KUFTO5Q6ej",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 3829,
+    "followersCount": 2231,
+    "following": true,
+    "friendsCount": 687,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 65,
+    "location": "微博0xfaskety",
+    "mediaCount": 326,
+    "name": "0xfaskety",
+    "normalFollowersCount": 2231,
+    "pinnedTweetIdsStr": [
+      "1904895350672154809"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1556401303437590528/1711201874",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1984015735266643968/724t54Iu_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "0xfaskety",
+    "statusesCount": 4923,
+    "translatorType": "none",
+    "url": "https://t.co/KUFTO5Q6ej",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "profileImageShape": "Circle",
+  "restId": "1556401303437590528",
+  "tipjarSettings": {}
+}

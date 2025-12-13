@@ -1,0 +1,58 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoyNjAwNzI2NTU2",
+  "isBlueVerified": false,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Thu Jul 03 01:03:55 +0000 2014",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "严肃型人设。威科夫理论学习&实践 | bitget邀请链接：https://t.co/EnYchaVsZH ，或者注册时填写邀请码：gnbt",
+    "entities": {
+      "description": {
+        "urls": [
+          {
+            "display_url": "partner.bitgetapp.com/bg/NHK1LU",
+            "expanded_url": "http://partner.bitgetapp.com/bg/NHK1LU",
+            "url": "https://t.co/EnYchaVsZH",
+            "indices": [
+              30,
+              53
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 136,
+    "followersCount": 16141,
+    "following": true,
+    "friendsCount": 240,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 318,
+    "location": "葡萄牙",
+    "mediaCount": 1352,
+    "name": "SeanWyckoff",
+    "normalFollowersCount": 16141,
+    "pinnedTweetIdsStr": [],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/2600726556/1715691818",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1809436894796881920/snsCLLKQ_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "RandoCoachB",
+    "statusesCount": 11569,
+    "translatorType": "none",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "profileImageShape": "Circle",
+  "restId": "2600726556",
+  "tipjarSettings": {
+    "isEnabled": true
+  }
+}

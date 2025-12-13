@@ -1,0 +1,80 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjo0NDg5NTM5MzU=",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": false,
+    "createdAt": "Wed Dec 28 15:27:41 +0000 2011",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "ex @tencentglobal Alpha小学生 内幕频道：https://t.co/1OcHdEpGwa 商务✉️ TG ：https://t.co/w3fzeWKR09",
+    "entities": {
+      "description": {
+        "urls": [
+          {
+            "display_url": "t.me/cryptomole0",
+            "expanded_url": "https://t.me/cryptomole0",
+            "url": "https://t.co/1OcHdEpGwa",
+            "indices": [
+              32,
+              55
+            ]
+          },
+          {
+            "display_url": "t.me/Oxmoles",
+            "expanded_url": "https://t.me/Oxmoles",
+            "url": "https://t.co/w3fzeWKR09",
+            "indices": [
+              65,
+              88
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 2909,
+    "followersCount": 23215,
+    "following": true,
+    "friendsCount": 7822,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 367,
+    "location": "广告位洽谈",
+    "mediaCount": 1037,
+    "name": "鼹鼠.Chang",
+    "normalFollowersCount": 23215,
+    "pinnedTweetIdsStr": [
+      "1947331387427860905"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/448953935/1723132796",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1905196048144048128/zeLNIXe4_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "0xmoles",
+    "statusesCount": 6875,
+    "translatorType": "none",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [
+      {
+        "iconName": "IconBriefcaseStroke",
+        "id": 1094,
+        "name": "Blockchain"
+      }
+    ],
+    "professionalType": "Business",
+    "restId": "1632663708307705856"
+  },
+  "profileImageShape": "Circle",
+  "restId": "448953935",
+  "tipjarSettings": {
+    "isEnabled": true
+  }
+}

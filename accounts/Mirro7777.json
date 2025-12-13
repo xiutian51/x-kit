@@ -1,0 +1,57 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNDUwNzk3ODg1OTUyNDQyMzcw",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": false,
+    "canMediaTag": true,
+    "createdAt": "Wed Oct 20 12:15:56 +0000 2021",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "永远热爱 $cheems $bnb",
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 13274,
+    "followersCount": 39330,
+    "following": true,
+    "friendsCount": 382,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 792,
+    "location": "",
+    "mediaCount": 658,
+    "name": "MIRRO🔶BNB",
+    "normalFollowersCount": 39330,
+    "pinnedTweetIdsStr": [],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1450797885952442370/1755057953",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1987779770286063616/O3bOBJIb_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "Mirro7777",
+    "statusesCount": 8207,
+    "translatorType": "none",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [
+      {
+        "iconName": "IconBriefcaseStroke",
+        "id": 192,
+        "name": "Financial Services"
+      }
+    ],
+    "professionalType": "Creator",
+    "restId": "1523301476076253184"
+  },
+  "profileImageShape": "Circle",
+  "restId": "1450797885952442370",
+  "tipjarSettings": {}
+}

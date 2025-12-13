@@ -1,0 +1,62 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxMzcwMDA0NDY2NTI3NzAzMDQ0",
+  "isBlueVerified": false,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Thu Mar 11 13:31:50 +0000 2021",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "",
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 3636,
+    "followedBy": true,
+    "followersCount": 384,
+    "following": true,
+    "friendsCount": 4162,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 14,
+    "location": "borabora",
+    "mediaCount": 261,
+    "name": "古典派.edge🦭",
+    "normalFollowersCount": 384,
+    "pinnedTweetIdsStr": [
+      "1868650044603437449"
+    ],
+    "possiblySensitive": true,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1370004466527703044/1723302957",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1912534308079955969/cWKjES8g_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "noVCcoin",
+    "statusesCount": 4767,
+    "translatorType": "none",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [
+      {
+        "iconName": "IconBriefcaseStroke",
+        "id": 192,
+        "name": "Financial Services"
+      }
+    ],
+    "professionalType": "Business",
+    "restId": "1518779040257110017"
+  },
+  "profileImageShape": "Circle",
+  "restId": "1370004466527703044",
+  "tipjarSettings": {
+    "isEnabled": true
+  }
+}

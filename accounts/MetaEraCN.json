@@ -1,0 +1,83 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjo0MTIzOTY2MDU=",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Mon Nov 14 16:48:23 +0000 2011",
+    "defaultProfile": false,
+    "defaultProfileImage": false,
+    "description": "ME Group 是全球领先的金融科技平台。总部位于香港，纽约设有北美办公室。核心业务涵盖媒体服务、品牌会展、AI 生态平台。致力于为全球用户提供精准的资讯内容、专业的市场服务和AI智能化解决方案。\n更多信息：https://t.co/l8vUljAN6r",
+    "entities": {
+      "description": {
+        "urls": [
+          {
+            "display_url": "solo.to/menews",
+            "expanded_url": "https://solo.to/menews",
+            "url": "https://t.co/l8vUljAN6r",
+            "indices": [
+              105,
+              128
+            ]
+          }
+        ]
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "me.news",
+            "expanded_url": "https://www.me.news/",
+            "url": "https://t.co/pAm1ennt84",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 6249,
+    "followersCount": 51531,
+    "following": true,
+    "friendsCount": 734,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 143,
+    "location": "香港",
+    "mediaCount": 6756,
+    "name": "ME News",
+    "normalFollowersCount": 51531,
+    "pinnedTweetIdsStr": [
+      "1999102105702019549"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/412396605/1762761572",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1991876085395677185/5BaLXTOG_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "MetaEraCN",
+    "statusesCount": 14263,
+    "translatorType": "none",
+    "url": "https://t.co/pAm1ennt84",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [
+      {
+        "iconName": "IconBriefcaseStroke",
+        "id": 580,
+        "name": "Media & News Company"
+      }
+    ],
+    "professionalType": "Business",
+    "restId": "1673631126081146880"
+  },
+  "profileImageShape": "Circle",
+  "restId": "412396605",
+  "tipjarSettings": {}
+}

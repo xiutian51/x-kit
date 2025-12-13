@@ -1,0 +1,82 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {
+    "label": {
+      "url": {
+        "url": "https://twitter.com/PolymarketTrade",
+        "urlType": "DeepLink"
+      },
+      "badge": {
+        "url": "https://pbs.twimg.com/profile_images/1984009470628761600/g0ajJ_4j_bigger.jpg"
+      },
+      "description": "Polymarket Traders",
+      "userLabelType": "BusinessLabel",
+      "userLabelDisplayType": "Badge"
+    }
+  },
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNDc1NzUzMDU0MjIxNzEzNDA4",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Tue Dec 28 08:59:02 +0000 2021",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "@0xUClub｜另类资产交易员｜AI PM｜alumni @HKUniversity @HKUST｜随所乐求，一切皆遂｜日常记录：https://t.co/079Sowet6U",
+    "entities": {
+      "description": {
+        "urls": [
+          {
+            "display_url": "t.me/kevinz49",
+            "expanded_url": "https://t.me/kevinz49",
+            "url": "https://t.co/079Sowet6U",
+            "indices": [
+              66,
+              89
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 6106,
+    "followersCount": 15126,
+    "following": true,
+    "friendsCount": 2625,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 450,
+    "location": "Hong Kong",
+    "mediaCount": 238,
+    "name": "KevinZ🇭🇰 𝟎𝐱𝐔",
+    "normalFollowersCount": 15126,
+    "pinnedTweetIdsStr": [
+      "1974748593522442610"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1475753054221713408/1757512550",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1932264004510212096/oCMk41cz_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "KevinZbtc",
+    "statusesCount": 3790,
+    "translatorType": "none",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [
+      {
+        "iconName": "IconBriefcaseStroke",
+        "id": 713,
+        "name": "Science & Technology"
+      }
+    ],
+    "professionalType": "Business",
+    "restId": "1641254032244195328"
+  },
+  "profileImageShape": "Circle",
+  "restId": "1475753054221713408",
+  "tipjarSettings": {}
+}

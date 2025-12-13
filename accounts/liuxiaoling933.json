@@ -1,0 +1,82 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjo5OTA3NzUyNDkwMzY3MjIxNzY=",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Mon Apr 30 02:10:01 +0000 2018",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "Web3 Builder  Love Memes  #BTC #BNB   $M  | 🐜  #Binance 近3亿用户的共同选择，出入金安全 启程Web3 👉\n进入：https://t.co/M97g3UVQai",
+    "entities": {
+      "description": {
+        "urls": [
+          {
+            "display_url": "accounts.marketwebb.club/register?ref=1…",
+            "expanded_url": "https://accounts.marketwebb.club/register?ref=10129316",
+            "url": "https://t.co/M97g3UVQai",
+            "indices": [
+              85,
+              108
+            ]
+          }
+        ]
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "t.me/fengtian137",
+            "expanded_url": "http://t.me/fengtian137",
+            "url": "https://t.co/UXRqgr9Y9t",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 141596,
+    "followersCount": 104224,
+    "following": true,
+    "friendsCount": 13083,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 330,
+    "location": "",
+    "mediaCount": 3615,
+    "name": "baby MemeMax⚡",
+    "normalFollowersCount": 104224,
+    "pinnedTweetIdsStr": [],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/990775249036722176/1724040385",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1991726985761157126/5509GLro_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "liuxiaoling933",
+    "statusesCount": 129662,
+    "translatorType": "none",
+    "url": "https://t.co/UXRqgr9Y9t",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [
+      {
+        "iconName": "IconBriefcaseStroke",
+        "id": 934,
+        "name": "Social Media Influencer"
+      }
+    ],
+    "professionalType": "Business",
+    "restId": "1630428328871223296"
+  },
+  "profileImageShape": "Circle",
+  "restId": "990775249036722176",
+  "superFollowEligible": true,
+  "tipjarSettings": {}
+}

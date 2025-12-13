@@ -1,0 +1,73 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNTUxMjU4NTI2NTg0MTE1MjA0",
+  "isBlueVerified": false,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Sun Jul 24 17:30:38 +0000 2022",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "增长顾问 | AI行业分析师，Learn in Public",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "linktr.ee/hanweilang",
+            "expanded_url": "https://linktr.ee/hanweilang",
+            "url": "https://t.co/CiSnfQhPGA",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 5225,
+    "followersCount": 179230,
+    "following": true,
+    "friendsCount": 1959,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 2040,
+    "location": "San Francisco Bay area",
+    "mediaCount": 22547,
+    "name": "AI Will",
+    "normalFollowersCount": 179230,
+    "pinnedTweetIdsStr": [
+      "1997957243233566793"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1551258526584115204/1760393812",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1896818103016935424/ucw3T2uW_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "FinanceYF5",
+    "statusesCount": 41073,
+    "translatorType": "none",
+    "url": "https://t.co/CiSnfQhPGA",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [
+      {
+        "iconName": "IconBriefcaseStroke",
+        "id": 580,
+        "name": "Media & News Company"
+      }
+    ],
+    "professionalType": "Creator",
+    "restId": "1679707725205483520"
+  },
+  "profileImageShape": "Circle",
+  "restId": "1551258526584115204",
+  "tipjarSettings": {}
+}

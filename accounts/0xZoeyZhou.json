@@ -1,0 +1,63 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNDczNDgxMzIxNjk1NTE0NjI0",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Wed Dec 22 02:31:56 +0000 2021",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "Building Re Labs--专注链上增长和技术服务\nWeb3冲浪员🏄🏻‍♀️ | 折腾创业No.3 ing 🧲 | 打狗别上头专员🐶 Data Commercialization📊More degen, more abstract. ex Build @ScopeProtocol",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "relabs.pro",
+            "expanded_url": "https://relabs.pro/",
+            "url": "https://t.co/GraIe8zkAs",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 409,
+    "followedBy": true,
+    "followersCount": 1763,
+    "following": true,
+    "friendsCount": 1390,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 6,
+    "location": "Blockchain",
+    "mediaCount": 41,
+    "name": "Zoeyzzz",
+    "normalFollowersCount": 1763,
+    "pinnedTweetIdsStr": [],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1473481321695514624/1646057687",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1879839404069736448/AM0a1cQb_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "0xZoeyZhou",
+    "statusesCount": 197,
+    "translatorType": "none",
+    "url": "https://t.co/GraIe8zkAs",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "profileImageShape": "Circle",
+  "restId": "1473481321695514624",
+  "tipjarSettings": {
+    "isEnabled": true
+  }
+}

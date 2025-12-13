@@ -1,0 +1,63 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxODAzODE2MzI5NTUzODUwMzY4",
+  "isBlueVerified": false,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Thu Jun 20 15:45:37 +0000 2024",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "The developer platform enabling data markets for the AI era.\nChain-agnostic and built on @SuiNetwork. \nAccount managed by Walrus Foundation.",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "linktr.ee/walrusprotocol",
+            "expanded_url": "https://linktr.ee/walrusprotocol",
+            "url": "https://t.co/w34IxdxoqG",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 2469,
+    "followersCount": 420213,
+    "following": true,
+    "friendsCount": 191,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 483,
+    "location": "Sui",
+    "mediaCount": 429,
+    "name": "Walrus 🦭/acc",
+    "normalFollowersCount": 420213,
+    "pinnedTweetIdsStr": [
+      "1995703979641348465"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1803816329553850368/1759386788",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1999150644205133825/AGypgg2Z_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "WalrusProtocol",
+    "statusesCount": 2062,
+    "translatorType": "none",
+    "url": "https://t.co/w34IxdxoqG",
+    "verified": false,
+    "verifiedType": "Business",
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "profileImageShape": "Square",
+  "restId": "1803816329553850368",
+  "tipjarSettings": {}
+}

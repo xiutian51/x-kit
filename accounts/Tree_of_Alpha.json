@@ -1,0 +1,76 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {
+    "label": {
+      "url": {
+        "url": "https://twitter.com/TreeNewsFeed",
+        "urlType": "DeepLink"
+      },
+      "badge": {
+        "url": "https://pbs.twimg.com/profile_images/1765782465740673024/ngDalbvj_bigger.jpg"
+      },
+      "description": "Tree News",
+      "userLabelType": "BusinessLabel",
+      "userLabelDisplayType": "Badge"
+    }
+  },
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNDU2MzI3ODk1ODY2MzE0NzUz",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": false,
+    "createdAt": "Thu Nov 04 18:30:22 +0000 2021",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "semi-retarded trader\nbuilding @TreeNewsFeed \nbuying @TreeNewsToken",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "tree.news",
+            "expanded_url": "https://tree.news/",
+            "url": "https://t.co/Q0KT7qFcIl",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 2479,
+    "followersCount": 242878,
+    "following": true,
+    "friendsCount": 139,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 3793,
+    "location": "",
+    "mediaCount": 9,
+    "name": "Tree",
+    "normalFollowersCount": 242878,
+    "pinnedTweetIdsStr": [],
+    "possiblySensitive": false,
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1987856100591357952/g82osZ_b_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "Tree_of_Alpha",
+    "statusesCount": 52,
+    "translatorType": "none",
+    "url": "https://t.co/Q0KT7qFcIl",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "profileImageShape": "Circle",
+  "restId": "1456327895866314753",
+  "tipjarSettings": {
+    "bitcoinHandle": "",
+    "ethereumHandle": "0x75487C1db799A5dD6A1cD05193fa85156E0f6a56",
+    "isEnabled": true
+  }
+}

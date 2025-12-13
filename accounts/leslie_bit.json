@@ -1,0 +1,77 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {
+    "label": {
+      "url": {
+        "url": "https://twitter.com/renaissxyz",
+        "urlType": "DeepLink"
+      },
+      "badge": {
+        "url": "https://pbs.twimg.com/profile_images/1985405275910914055/It-n1Whw_bigger.jpg"
+      },
+      "description": "Renaiss Protocol",
+      "userLabelType": "BusinessLabel",
+      "userLabelDisplayType": "Badge"
+    }
+  },
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNDM1OTU4MTY2Mzk1NjU0MTQ0",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Thu Sep 09 13:28:09 +0000 2021",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "MKT @renaissxyz | Noise Maker @TheMintLabs | 漫漫人生，修A9之路 | 00s | HKU 🎓 | Building narratives & growth in Web3 | 合作请私信 | Find Alpha. Manage risk. Stay real.",
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 11403,
+    "followedBy": true,
+    "followersCount": 14950,
+    "following": true,
+    "friendsCount": 4039,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 116,
+    "location": "Web3",
+    "mediaCount": 435,
+    "name": "Leslie 雷司令 @Renaiss",
+    "normalFollowersCount": 14950,
+    "pinnedTweetIdsStr": [
+      "1975212108725067976"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1435958166395654144/1758897575",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1985685261540614144/HZ9hlwUW_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "leslie_bit",
+    "statusesCount": 6145,
+    "translatorType": "none",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [
+      {
+        "iconName": "IconBriefcaseStroke",
+        "id": 1094,
+        "name": "Blockchain"
+      }
+    ],
+    "professionalType": "Creator",
+    "restId": "1591229928468463616"
+  },
+  "profileImageShape": "Circle",
+  "restId": "1435958166395654144",
+  "tipjarSettings": {
+    "bitcoinHandle": "16adSA21pB3b6jrLZQHXkssyc98THWBWn4",
+    "ethereumHandle": "0x4A451E82704e015Fa93b4403c0e4ace4ecc04F2c",
+    "isEnabled": true
+  }
+}

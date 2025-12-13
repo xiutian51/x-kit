@@ -1,0 +1,61 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNDY2NjczMzk0NjQ5NTU5MDQw",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": false,
+    "createdAt": "Fri Dec 03 07:39:38 +0000 2021",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "知行合一，推特为记录个人交易，不构成投资建议。",
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 11123,
+    "followersCount": 284062,
+    "following": true,
+    "friendsCount": 1125,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 1913,
+    "location": "新加坡",
+    "mediaCount": 2322,
+    "name": "花花🇨🇳",
+    "normalFollowersCount": 284062,
+    "pinnedTweetIdsStr": [
+      "1976854033668489388"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1466673394649559040/1731723450",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1899093962121441280/alUPagLK_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "huahuayjy",
+    "statusesCount": 18292,
+    "translatorType": "none",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [
+      {
+        "iconName": "IconBriefcaseStroke",
+        "id": 192,
+        "name": "Financial Services"
+      }
+    ],
+    "professionalType": "Creator",
+    "restId": "1468503355396083713"
+  },
+  "profileImageShape": "Circle",
+  "restId": "1466673394649559040",
+  "tipjarSettings": {
+    "isEnabled": true
+  }
+}

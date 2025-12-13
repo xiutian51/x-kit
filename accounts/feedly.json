@@ -1,0 +1,71 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNDQ4NTAxOA==",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": false,
+    "createdAt": "Wed Apr 23 04:00:25 +0000 2008",
+    "defaultProfile": false,
+    "defaultProfileImage": false,
+    "description": "Feedly is the fastest way to track the topics and trends that matter to you",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "feedly.com/homepage",
+            "expanded_url": "https://feedly.com/homepage",
+            "url": "https://t.co/tUSwbtmYGF",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 26129,
+    "followersCount": 104371,
+    "following": true,
+    "friendsCount": 3428,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 3972,
+    "location": "San Francisco, CA",
+    "mediaCount": 593,
+    "name": "Feedly",
+    "normalFollowersCount": 104371,
+    "pinnedTweetIdsStr": [],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/14485018/1745533836",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/497252082106122240/DsFZEZlE_normal.png",
+    "profileInterstitialType": "",
+    "screenName": "feedly",
+    "statusesCount": 52799,
+    "translatorType": "none",
+    "url": "https://t.co/tUSwbtmYGF",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [
+      {
+        "iconName": "IconBriefcaseStroke",
+        "id": 986,
+        "name": "Software Application"
+      }
+    ],
+    "professionalType": "Business",
+    "restId": "1440391141879341057"
+  },
+  "profileImageShape": "Circle",
+  "restId": "14485018",
+  "tipjarSettings": {}
+}

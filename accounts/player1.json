@@ -1,0 +1,60 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {
+    "label": {
+      "url": {
+        "url": "https://twitter.com/PolymarketTrade",
+        "urlType": "DeepLink"
+      },
+      "badge": {
+        "url": "https://pbs.twimg.com/profile_images/1984009470628761600/g0ajJ_4j_bigger.jpg"
+      },
+      "description": "Polymarket Traders",
+      "userLabelType": "BusinessLabel",
+      "userLabelDisplayType": "Badge"
+    }
+  },
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxMDY5MjU4NjcxMTExMTg4NDgy",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Sun Dec 02 15:55:07 +0000 2018",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "Came for the money, stayed to make it all back\n\nProbably your favourite counterparty on @Polymarket",
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 39353,
+    "followersCount": 30256,
+    "following": true,
+    "friendsCount": 2504,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 192,
+    "location": "",
+    "mediaCount": 2141,
+    "name": "player1.eth",
+    "normalFollowersCount": 30256,
+    "pinnedTweetIdsStr": [],
+    "possiblySensitive": false,
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1904846905768628224/SjkwITEr_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "player1",
+    "statusesCount": 9997,
+    "translatorType": "none",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "profileImageShape": "Circle",
+  "restId": "1069258671111188482",
+  "tipjarSettings": {
+    "isEnabled": true
+  }
+}

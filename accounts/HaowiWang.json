@@ -1,0 +1,84 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxMTMzOTM2MDQyMTcwNDM3NjMy",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": false,
+    "createdAt": "Thu May 30 03:19:54 +0000 2019",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "all in DEFI https://t.co/5kcxsT3X0d",
+    "entities": {
+      "description": {
+        "urls": [
+          {
+            "display_url": "advanced.coinbase.com/join/ZAFAPCE",
+            "expanded_url": "https://advanced.coinbase.com/join/ZAFAPCE",
+            "url": "https://t.co/5kcxsT3X0d",
+            "indices": [
+              12,
+              35
+            ]
+          }
+        ]
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "mirror.xyz/haowi.eth",
+            "expanded_url": "https://mirror.xyz/haowi.eth",
+            "url": "https://t.co/o8b4AtCXAL",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 16104,
+    "followersCount": 16283,
+    "following": true,
+    "friendsCount": 1344,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 358,
+    "location": "Central Region, Singapore",
+    "mediaCount": 937,
+    "name": "haowi.eth🦙🦙🦙🚀🚀🚀",
+    "normalFollowersCount": 16283,
+    "pinnedTweetIdsStr": [],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1133936042170437632/1650691258",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1545095183112364032/P2r_eKHk_normal.png",
+    "profileInterstitialType": "",
+    "screenName": "HaowiWang",
+    "statusesCount": 14054,
+    "translatorType": "none",
+    "url": "https://t.co/o8b4AtCXAL",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [
+      {
+        "iconName": "IconBriefcaseStroke",
+        "id": 934,
+        "name": "Social Media Influencer"
+      }
+    ],
+    "professionalType": "Creator",
+    "restId": "1476665758729977859"
+  },
+  "profileImageShape": "Circle",
+  "restId": "1133936042170437632",
+  "tipjarSettings": {
+    "ethereumHandle": "0x58c0c064a89138bF3216c20f4E4827ec0fE78E87",
+    "isEnabled": true
+  }
+}

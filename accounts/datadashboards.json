@@ -1,0 +1,70 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxODk1Nzk3MDM3NDY0OTU2OTI4",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Sat Mar 01 11:23:37 +0000 2025",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "the revolution will not be centralized | dunedatadash@gmail.com | NFA\n\ncofounder @ https://t.co/ZSVW5Pa8dF",
+    "entities": {
+      "description": {
+        "urls": [
+          {
+            "display_url": "paymentscan.xyz",
+            "expanded_url": "https://www.paymentscan.xyz/",
+            "url": "https://t.co/ZSVW5Pa8dF",
+            "indices": [
+              83,
+              106
+            ]
+          }
+        ]
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "paymentscan.xyz",
+            "expanded_url": "https://www.paymentscan.xyz/",
+            "url": "https://t.co/ZSVW5Pa8dF",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 1664,
+    "followersCount": 2221,
+    "following": true,
+    "friendsCount": 375,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 57,
+    "location": "",
+    "mediaCount": 353,
+    "name": "dash",
+    "normalFollowersCount": 2221,
+    "pinnedTweetIdsStr": [],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1895797037464956928/1756365534",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1895800436629663744/DZGOxZAX_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "datadashboards",
+    "statusesCount": 1316,
+    "translatorType": "none",
+    "url": "https://t.co/ZSVW5Pa8dF",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "profileImageShape": "Circle",
+  "restId": "1895797037464956928",
+  "tipjarSettings": {}
+}

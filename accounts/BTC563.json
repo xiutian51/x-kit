@@ -1,0 +1,96 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNTgzMDc1ODY0NjM1MzU1MTM2",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Thu Oct 20 12:41:23 +0000 2022",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "#Binance 币安中文区年度最佳交易/技术分析博主 |  🔸24年币安交易大赛第二名🥈 社区交流群：https://t.co/bEdxcvnTnK 🟣 https://t.co/WSOJEY6a3A 币安广场作者",
+    "entities": {
+      "description": {
+        "urls": [
+          {
+            "display_url": "t.me/BTC_0595",
+            "expanded_url": "http://t.me/BTC_0595",
+            "url": "https://t.co/bEdxcvnTnK",
+            "indices": [
+              52,
+              75
+            ]
+          },
+          {
+            "display_url": "youtube.com/@BTC563",
+            "expanded_url": "https://www.youtube.com/@BTC563",
+            "url": "https://t.co/WSOJEY6a3A",
+            "indices": [
+              78,
+              101
+            ]
+          }
+        ]
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "0595BTC.com",
+            "expanded_url": "http://0595BTC.com",
+            "url": "https://t.co/ZwTWOdhoQX",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 20997,
+    "followersCount": 31759,
+    "following": true,
+    "friendsCount": 962,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 232,
+    "location": "",
+    "mediaCount": 3590,
+    "name": "颜驰.Bit",
+    "normalFollowersCount": 31759,
+    "pinnedTweetIdsStr": [
+      "1856034385570697700"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1583075864635355136/1741855353",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1940379875925180416/LNtpw-Cy_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "BTC563",
+    "statusesCount": 14552,
+    "translatorType": "none",
+    "url": "https://t.co/ZwTWOdhoQX",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [
+      {
+        "iconName": "IconBriefcaseStroke",
+        "id": 192,
+        "name": "Financial Services"
+      }
+    ],
+    "professionalType": "Creator",
+    "restId": "1583777564577128449"
+  },
+  "profileImageShape": "Circle",
+  "restId": "1583075864635355136",
+  "tipjarSettings": {
+    "bitcoinHandle": "1BmpJZWxTWQg9xS4GZcV3uBtEiAziRsjA3",
+    "ethereumHandle": "0x1d8246ea6e5b800313f2811ba7f4f5a07a21adba",
+    "isEnabled": true
+  }
+}

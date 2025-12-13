@@ -1,0 +1,61 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNDYyNjQzMzg5ODUwMDc5MjMz",
+  "isBlueVerified": false,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Mon Nov 22 04:45:54 +0000 2021",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "黑天鹅永远会发生~交易是一场价值观的战争，你一定要坚守你的交易信仰！",
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 3633,
+    "followersCount": 12379,
+    "following": true,
+    "friendsCount": 309,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 220,
+    "location": "Anywhere",
+    "mediaCount": 420,
+    "name": "曼巴自我进化",
+    "normalFollowersCount": 12379,
+    "pinnedTweetIdsStr": [
+      "1972498067896369154"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1462643389850079233/1761793936",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1997848768113487872/ud2o6IiL_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "bitzhengnian",
+    "statusesCount": 4611,
+    "translatorType": "none",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [
+      {
+        "iconName": "IconBriefcaseStroke",
+        "id": 192,
+        "name": "Financial Services"
+      }
+    ],
+    "professionalType": "Creator",
+    "restId": "1469473041201582080"
+  },
+  "profileImageShape": "Circle",
+  "restId": "1462643389850079233",
+  "tipjarSettings": {
+    "isEnabled": true
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxMDg3MTM0ODg3MDkyNjA0OTI5",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Sun Jan 20 23:48:49 +0000 2019",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "@MSX_CN 首席客服 | @HashKeyGroup Alumni | @HTX_Global Alumni |📚politics and media researcher| 🎓@sheffielduni |",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "msx.com",
+            "expanded_url": "https://msx.com/",
+            "url": "https://t.co/8O0Eo0CzCr",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 3513,
+    "followersCount": 4299,
+    "following": true,
+    "friendsCount": 1285,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 33,
+    "location": "HongKong",
+    "mediaCount": 245,
+    "name": "胡建林 Keaton",
+    "normalFollowersCount": 4299,
+    "pinnedTweetIdsStr": [
+      "1952187561604264023"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1087134887092604929/1721025216",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1966169084955090944/WVnsT6hx_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "BitInvolution",
+    "statusesCount": 1985,
+    "translatorType": "none",
+    "url": "https://t.co/8O0Eo0CzCr",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [
+      {
+        "iconName": "IconBriefcaseStroke",
+        "id": 15,
+        "name": "Entertainment & Recreation"
+      }
+    ],
+    "professionalType": "Creator",
+    "restId": "1534353748633452546"
+  },
+  "profileImageShape": "Circle",
+  "restId": "1087134887092604929",
+  "tipjarSettings": {}
+}

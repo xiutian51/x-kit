@@ -1,0 +1,55 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjo3MjA1MzQ5NDkxMzMyMzAwODA=",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Thu Apr 14 08:51:33 +0000 2016",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "商业+编码=成功",
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 2942,
+    "followersCount": 35722,
+    "following": true,
+    "friendsCount": 960,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 143,
+    "location": "",
+    "mediaCount": 1599,
+    "name": "Eric 在搞钱",
+    "normalFollowersCount": 35722,
+    "pinnedTweetIdsStr": [
+      "1996949687254085999"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/720534949133230080/1742374273",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1897607335172030464/1eWUpif1_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "shizhiang1",
+    "statusesCount": 6413,
+    "translatorType": "none",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [],
+    "professionalType": "Creator",
+    "restId": "1905884675786346638"
+  },
+  "profileImageShape": "Circle",
+  "restId": "720534949133230080",
+  "tipjarSettings": {
+    "isEnabled": true
+  }
+}

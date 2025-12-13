@@ -1,0 +1,70 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNTA3MDUzMTczNDYyMDMyNDA1",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Thu Mar 24 17:54:16 +0000 2022",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "#defi晚期接盘侠 挣认知内的钱 🔶币安注册🔗 ：https://t.co/Xsv9hNxkkj 🔶币安推荐码：CPA_00KQJHJHCB",
+    "entities": {
+      "description": {
+        "urls": [
+          {
+            "display_url": "marketwebb.ac/activity/refer…",
+            "expanded_url": "https://www.marketwebb.ac/activity/referral-entry/CPA?ref=CPA_00KQJHJHCB",
+            "url": "https://t.co/Xsv9hNxkkj",
+            "indices": [
+              26,
+              49
+            ]
+          }
+        ]
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "binance.com/zh-TC/download…",
+            "expanded_url": "https://www.binance.com/zh-TC/download?pageType=normal",
+            "url": "https://t.co/ZmxGF5HMj0",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 105,
+    "followersCount": 8278,
+    "following": true,
+    "friendsCount": 791,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 144,
+    "location": "",
+    "mediaCount": 245,
+    "name": "鲤鱼王",
+    "normalFollowersCount": 8278,
+    "pinnedTweetIdsStr": [],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1507053173462032405/1677347569",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1737164076093222912/jqNdGXow_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "LIyuKing911",
+    "statusesCount": 764,
+    "translatorType": "none",
+    "url": "https://t.co/ZmxGF5HMj0",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "profileImageShape": "Circle",
+  "restId": "1507053173462032405",
+  "tipjarSettings": {}
+}

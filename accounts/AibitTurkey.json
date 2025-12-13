@@ -1,0 +1,81 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNzcwNjU0OTc0MDg0NzkyMzIw",
+  "isBlueVerified": false,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Thu Mar 21 03:34:26 +0000 2024",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "AIBit, bir kripto borsasıdır, #AI ve #Blockchain teknolojisini kullanarak #Web3 gelişimine katkıda bulunmaya çalışıyoruz.  📨 https://t.co/A9FShV1iZ6",
+    "entities": {
+      "description": {
+        "urls": [
+          {
+            "display_url": "t.me/AibitGlobal",
+            "expanded_url": "https://t.me/AibitGlobal",
+            "url": "https://t.co/A9FShV1iZ6",
+            "indices": [
+              125,
+              148
+            ]
+          }
+        ]
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "aibit.com",
+            "expanded_url": "http://aibit.com",
+            "url": "https://t.co/9Q1GJiQvZ8",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 497,
+    "followersCount": 1855,
+    "following": true,
+    "friendsCount": 88,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 6,
+    "location": "Singapore",
+    "mediaCount": 10,
+    "name": "AibitTürkiye",
+    "normalFollowersCount": 1855,
+    "pinnedTweetIdsStr": [],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1770654974084792320/1742352026",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1770658157662224384/Zxy-L6g8_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "AibitTurkey",
+    "statusesCount": 15,
+    "translatorType": "none",
+    "url": "https://t.co/9Q1GJiQvZ8",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [
+      {
+        "iconName": "IconBriefcaseStroke",
+        "id": 192,
+        "name": "Financial Services"
+      }
+    ],
+    "professionalType": "Business",
+    "restId": "1772168004102656472"
+  },
+  "profileImageShape": "Circle",
+  "restId": "1770654974084792320",
+  "tipjarSettings": {}
+}

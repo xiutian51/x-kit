@@ -1,0 +1,84 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxMzU5MTUwNDQwNjYzOTQ5MzE5",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": false,
+    "createdAt": "Tue Feb 09 14:41:45 +0000 2021",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "Mamba Mentality\n币安钱包打狗：https://t.co/azmBxnHSnf\n邀请码省手续费：MMW5LP6Y\nhttps://t.co/8cckBMfDK4",
+    "entities": {
+      "description": {
+        "urls": [
+          {
+            "display_url": "web3.binance.com/zh-CN/referral…",
+            "expanded_url": "https://web3.binance.com/zh-CN/referral?chain=bsc&ref=MMW5LP6Y",
+            "url": "https://t.co/azmBxnHSnf",
+            "indices": [
+              23,
+              46
+            ]
+          },
+          {
+            "display_url": "linktr.ee/Ed_x0101",
+            "expanded_url": "https://linktr.ee/Ed_x0101",
+            "url": "https://t.co/8cckBMfDK4",
+            "indices": [
+              64,
+              87
+            ]
+          }
+        ]
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "t.me/Ed_blockdaily",
+            "expanded_url": "https://t.me/Ed_blockdaily",
+            "url": "https://t.co/aU8aY47CJs",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 19333,
+    "followersCount": 81218,
+    "following": true,
+    "friendsCount": 3064,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 2102,
+    "location": "Hong Kong",
+    "mediaCount": 1896,
+    "name": "Ed_x區塊日記🇭🇰",
+    "normalFollowersCount": 81218,
+    "pinnedTweetIdsStr": [
+      "1978366379431801126"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1359150440663949319/1679211564",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1972802138318491648/WBM1Lz_a_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "Ed_x0101",
+    "statusesCount": 14078,
+    "translatorType": "none",
+    "url": "https://t.co/aU8aY47CJs",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "profileImageShape": "Circle",
+  "restId": "1359150440663949319",
+  "superFollowEligible": true,
+  "tipjarSettings": {
+    "isEnabled": true
+  }
+}

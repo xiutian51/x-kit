@@ -1,0 +1,75 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {
+    "label": {
+      "url": {
+        "url": "https://twitter.com/Consensys",
+        "urlType": "DeepLink"
+      },
+      "badge": {
+        "url": "https://pbs.twimg.com/profile_images/1673661934036500480/Ee6NYB_K_bigger.jpg"
+      },
+      "description": "Consensys.eth",
+      "userLabelType": "BusinessLabel",
+      "userLabelDisplayType": "Badge"
+    }
+  },
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoyMzYyODU0NjI0",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Wed Feb 26 15:44:09 +0000 2014",
+    "defaultProfile": false,
+    "defaultProfileImage": false,
+    "description": "Co-founder of @ethereum | Founder of @Consensys | Chairman of @ConsensysMesh | Chairman of @SharpLinkGaming $SBET. Building on #ETH. Views expressed are my own.",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "consensys.io",
+            "expanded_url": "http://consensys.io",
+            "url": "https://t.co/cA4X4bHgnB",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 7429,
+    "followersCount": 392087,
+    "following": true,
+    "friendsCount": 3476,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 5455,
+    "location": "Earth",
+    "mediaCount": 331,
+    "name": "Joseph Lubin",
+    "normalFollowersCount": 392087,
+    "pinnedTweetIdsStr": [
+      "1947246604349591824"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/2362854624/1687866454",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/968150222760132608/Dzi20Mri_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "ethereumJoseph",
+    "statusesCount": 3828,
+    "translatorType": "none",
+    "url": "https://t.co/cA4X4bHgnB",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "profileImageShape": "Circle",
+  "restId": "2362854624",
+  "tipjarSettings": {}
+}

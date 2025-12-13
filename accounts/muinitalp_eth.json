@@ -1,0 +1,49 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjozNzgyNDUzNTk=",
+  "isBlueVerified": false,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": false,
+    "createdAt": "Thu Sep 22 21:54:08 +0000 2011",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "Crypto enthusiast. Launching a new NFT Manga! A supporter of $XRP.",
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 9219,
+    "followedBy": true,
+    "followersCount": 84,
+    "following": true,
+    "friendsCount": 183,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 0,
+    "location": "Germany",
+    "mediaCount": 75,
+    "name": "muinitalp",
+    "normalFollowersCount": 84,
+    "pinnedTweetIdsStr": [
+      "1906067617875734585"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/378245359/1737628834",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1882377875313016832/hvHMRg7K_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "muinitalp_eth",
+    "statusesCount": 2163,
+    "translatorType": "none",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "profileImageShape": "Circle",
+  "restId": "378245359",
+  "tipjarSettings": {}
+}

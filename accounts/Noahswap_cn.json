@@ -1,0 +1,70 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNjg2MjE2ODEyOTAyNzA3MjAw",
+  "isBlueVerified": false,
+  "legacy": {
+    "canDm": false,
+    "canMediaTag": true,
+    "createdAt": "Tue Aug 01 03:26:38 +0000 2023",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "全球第一家加密资产合成平台  |  今日正式上线：https://t.co/cHZuOzzhC0",
+    "entities": {
+      "description": {
+        "urls": [
+          {
+            "display_url": "noahswap.io",
+            "expanded_url": "http://noahswap.io",
+            "url": "https://t.co/cHZuOzzhC0",
+            "indices": [
+              25,
+              48
+            ]
+          }
+        ]
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "noahswap.io",
+            "expanded_url": "http://noahswap.io",
+            "url": "https://t.co/cHZuOzzhC0",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 46,
+    "followersCount": 5364,
+    "following": true,
+    "friendsCount": 43,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 2,
+    "location": "",
+    "mediaCount": 767,
+    "name": "Noahswap 中文平台",
+    "normalFollowersCount": 5364,
+    "pinnedTweetIdsStr": [],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1686216812902707200/1704164759",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1742019370636005376/N9tZOCUF_normal.png",
+    "profileInterstitialType": "",
+    "screenName": "Noahswap_cn",
+    "statusesCount": 930,
+    "translatorType": "none",
+    "url": "https://t.co/cHZuOzzhC0",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "profileImageShape": "Circle",
+  "restId": "1686216812902707200",
+  "tipjarSettings": {}
+}

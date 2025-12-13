@@ -1,0 +1,92 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNjI1NzU5OTQzMTIxODM4MDgx",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Wed Feb 15 07:32:36 +0000 2023",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "Create AI, Shape Gaming, Co-building the AI economy\nGroup: https://t.co/UosvgTtZai\nChannel: https://t.co/AA3YNDA4S8",
+    "entities": {
+      "description": {
+        "urls": [
+          {
+            "display_url": "bit.ly/4ciYqBs",
+            "expanded_url": "https://bit.ly/4ciYqBs",
+            "url": "https://t.co/UosvgTtZai",
+            "indices": [
+              59,
+              82
+            ]
+          },
+          {
+            "display_url": "t.me/xworld_official",
+            "expanded_url": "https://t.me/xworld_official",
+            "url": "https://t.co/AA3YNDA4S8",
+            "indices": [
+              92,
+              115
+            ]
+          }
+        ]
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "linktr.ee/xworld_ai",
+            "expanded_url": "http://linktr.ee/xworld_ai",
+            "url": "https://t.co/SSCeDMiu4F",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 308,
+    "followersCount": 182467,
+    "following": true,
+    "friendsCount": 101,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 27,
+    "location": "",
+    "mediaCount": 939,
+    "name": "XWorld",
+    "normalFollowersCount": 182467,
+    "pinnedTweetIdsStr": [
+      "1998379672024002932"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1625759943121838081/1742458415",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1902635076829245441/ONfd4lGq_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "xworld_ai",
+    "statusesCount": 1473,
+    "translatorType": "none",
+    "url": "https://t.co/SSCeDMiu4F",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [
+      {
+        "iconName": "IconBriefcaseStroke",
+        "id": 713,
+        "name": "Science & Technology"
+      }
+    ],
+    "professionalType": "Business",
+    "restId": "1639113575653597185"
+  },
+  "profileImageShape": "Circle",
+  "restId": "1625759943121838081",
+  "tipjarSettings": {}
+}

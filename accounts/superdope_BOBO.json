@@ -1,0 +1,62 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxMzc5MDQxNTA5ODcwMzA1Mjgx",
+  "isBlueVerified": false,
+  "legacy": {
+    "canDm": false,
+    "canMediaTag": true,
+    "createdAt": "Mon Apr 05 12:01:46 +0000 2021",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "⌛一切内容非投资建议🫠牛群员工🐸比尔吉沃特人🐮all in链上数据分析🪄干货在亮点👇",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "t.me/superdopebo",
+            "expanded_url": "http://t.me/superdopebo",
+            "url": "https://t.co/aj3GLSSoAu",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 2059,
+    "followersCount": 11937,
+    "following": true,
+    "friendsCount": 2599,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 175,
+    "location": "solscan.io",
+    "mediaCount": 326,
+    "name": "BOBO",
+    "normalFollowersCount": 11937,
+    "pinnedTweetIdsStr": [
+      "1949313793793941940"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1379041509870305281/1670933035",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1604156343488679936/nNFV1ZTw_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "superdope_BOBO",
+    "statusesCount": 2951,
+    "translatorType": "none",
+    "url": "https://t.co/aj3GLSSoAu",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "profileImageShape": "Circle",
+  "restId": "1379041509870305281",
+  "tipjarSettings": {}
+}

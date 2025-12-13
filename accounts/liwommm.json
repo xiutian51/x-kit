@@ -1,0 +1,61 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxMzM2NzUzNDk2ODU1NjE3NTM4",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": false,
+    "createdAt": "Wed Dec 09 19:24:19 +0000 2020",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "暴富加载中🍬",
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 3042,
+    "followersCount": 5781,
+    "following": true,
+    "friendsCount": 885,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 17,
+    "location": "",
+    "mediaCount": 79,
+    "name": "梨涡芒芒",
+    "normalFollowersCount": 5781,
+    "pinnedTweetIdsStr": [
+      "1974355631655268633"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1336753496855617538/1694331044",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1987877650074116097/vS0-QG7U_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "liwommm",
+    "statusesCount": 1588,
+    "translatorType": "none",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [
+      {
+        "iconName": "IconBriefcaseStroke",
+        "id": 192,
+        "name": "Financial Services"
+      }
+    ],
+    "professionalType": "Creator",
+    "restId": "1641111128876122112"
+  },
+  "profileImageShape": "Circle",
+  "restId": "1336753496855617538",
+  "tipjarSettings": {
+    "isEnabled": true
+  }
+}

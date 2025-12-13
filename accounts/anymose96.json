@@ -1,0 +1,83 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjo3ODA4NzIy",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": false,
+    "createdAt": "Mon Jul 30 02:45:57 +0000 2007",
+    "defaultProfile": false,
+    "defaultProfileImage": false,
+    "description": "一个软核科普作家 ｜ 入门 Web3 首选 #OKX https://t.co/SzXn2FkQa3",
+    "entities": {
+      "description": {
+        "urls": [
+          {
+            "display_url": "web3.okx.com",
+            "expanded_url": "http://web3.okx.com",
+            "url": "https://t.co/SzXn2FkQa3",
+            "indices": [
+              27,
+              50
+            ]
+          }
+        ]
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "t.me/allforweb3",
+            "expanded_url": "https://t.me/allforweb3",
+            "url": "https://t.co/XR0k0wGcuY",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 5755,
+    "followersCount": 28585,
+    "following": true,
+    "friendsCount": 1378,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 833,
+    "location": "singapore",
+    "mediaCount": 2580,
+    "name": "anymose.edge 🦭",
+    "normalFollowersCount": 28585,
+    "pinnedTweetIdsStr": [
+      "1650158567419416577"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/7808722/1736414184",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1965421100160135168/W7mN1CeP_normal.png",
+    "profileInterstitialType": "",
+    "screenName": "anymose96",
+    "statusesCount": 31928,
+    "translatorType": "none",
+    "url": "https://t.co/XR0k0wGcuY",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [
+      {
+        "iconName": "IconBriefcaseStroke",
+        "id": 192,
+        "name": "Financial Services"
+      }
+    ],
+    "professionalType": "Creator",
+    "restId": "1597801397491159043"
+  },
+  "profileImageShape": "Circle",
+  "restId": "7808722",
+  "tipjarSettings": {}
+}

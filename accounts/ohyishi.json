@@ -1,0 +1,86 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {
+    "label": {
+      "url": {
+        "url": "https://twitter.com/OneKeyHQ",
+        "urlType": "DeepLink"
+      },
+      "badge": {
+        "url": "https://pbs.twimg.com/profile_images/1874442595646230531/wphGtJMP_bigger.jpg"
+      },
+      "description": "OneKey",
+      "userLabelType": "BusinessLabel",
+      "userLabelDisplayType": "Badge"
+    }
+  },
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoyNTgxNTY0NzU=",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": false,
+    "createdAt": "Sun Feb 27 02:46:56 +0000 2011",
+    "defaultProfile": false,
+    "defaultProfileImage": false,
+    "description": "intern at onekey 👉 https://t.co/VuDtV3zk82",
+    "entities": {
+      "description": {
+        "urls": [
+          {
+            "display_url": "onekey.so/r/yishi",
+            "expanded_url": "http://onekey.so/r/yishi",
+            "url": "https://t.co/VuDtV3zk82",
+            "indices": [
+              19,
+              42
+            ]
+          }
+        ]
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "yishi.io",
+            "expanded_url": "https://yishi.io",
+            "url": "https://t.co/euZtSeJaBZ",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 14464,
+    "followedBy": true,
+    "followersCount": 85332,
+    "following": true,
+    "friendsCount": 3833,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 1341,
+    "location": "earth, moon and mars.",
+    "mediaCount": 476,
+    "name": "Yishi",
+    "normalFollowersCount": 85332,
+    "pinnedTweetIdsStr": [],
+    "possiblySensitive": false,
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1927515593592213504/Olm9TKXc_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "ohyishi",
+    "statusesCount": 6047,
+    "translatorType": "none",
+    "url": "https://t.co/euZtSeJaBZ",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "profileImageShape": "Circle",
+  "restId": "258156475",
+  "tipjarSettings": {
+    "bitcoinHandle": "3P27pzh7tGK1xpxumvADzNo9ZyXDZZY2NR",
+    "isEnabled": true
+  }
+}

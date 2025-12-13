@@ -1,0 +1,61 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxMzIwMTM3OTYzMTEyNTc0OTc2",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Sat Oct 24 23:00:03 +0000 2020",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "AI first. Founder of Vernal. 🤖Co-founder of Huobi & ChainUP.",
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 3941,
+    "followersCount": 237526,
+    "following": true,
+    "friendsCount": 1452,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 957,
+    "location": "San Francisco, CA",
+    "mediaCount": 432,
+    "name": "Du Jun",
+    "normalFollowersCount": 237526,
+    "pinnedTweetIdsStr": [
+      "1915939747077492815"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1320137963112574976/1749571931",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1614999478867742720/edV5b25F_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "DujunX",
+    "statusesCount": 2009,
+    "translatorType": "none",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [
+      {
+        "iconName": "IconBriefcaseStroke",
+        "id": 1039,
+        "name": "Venture Capital"
+      }
+    ],
+    "professionalType": "Creator",
+    "restId": "1587993405707014149"
+  },
+  "profileImageShape": "Circle",
+  "restId": "1320137963112574976",
+  "tipjarSettings": {
+    "isEnabled": true
+  }
+}

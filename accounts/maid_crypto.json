@@ -1,0 +1,126 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {
+    "label": {
+      "url": {
+        "url": "https://twitter.com/maxbidtrending",
+        "urlType": "DeepLink"
+      },
+      "badge": {
+        "url": "https://pbs.twimg.com/profile_images/1813317920488890368/BWJ-Mwzq_bigger.jpg"
+      },
+      "description": "MAX TRENDING",
+      "userLabelType": "BusinessLabel",
+      "userLabelDisplayType": "Badge"
+    }
+  },
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNTM1MjI1NDIzNjU4NzcwNDM0",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": false,
+    "createdAt": "Fri Jun 10 11:40:45 +0000 2022",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "开合约来：https://t.co/gm8PiLcQX0\nDEX之王（返20%+）:https://t.co/6QLwVMjqeE\n打meme神器:https://t.co/pzbgNAkc7y\n买美股就上：https://t.co/qsDZ5dJkUO",
+    "entities": {
+      "description": {
+        "urls": [
+          {
+            "display_url": "bitmex.com/app/register/2…",
+            "expanded_url": "https://www.bitmex.com/app/register/2Abb_e",
+            "url": "https://t.co/gm8PiLcQX0",
+            "indices": [
+              5,
+              28
+            ]
+          },
+          {
+            "display_url": "web3.okx.com/ul/joindex?ref…",
+            "expanded_url": "https://web3.okx.com/ul/joindex?ref=MAID20",
+            "url": "https://t.co/6QLwVMjqeE",
+            "indices": [
+              42,
+              65
+            ]
+          },
+          {
+            "display_url": "inv.debot.ai/r/174112?lang=…",
+            "expanded_url": "https://inv.debot.ai/r/174112?lang=zh",
+            "url": "https://t.co/pzbgNAkc7y",
+            "indices": [
+              74,
+              97
+            ]
+          },
+          {
+            "display_url": "msx.com/?code=8lMJ67",
+            "expanded_url": "https://msx.com/?code=8lMJ67",
+            "url": "https://t.co/qsDZ5dJkUO",
+            "indices": [
+              104,
+              127
+            ]
+          }
+        ]
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "maid.web3.club",
+            "expanded_url": "https://maid.web3.club/",
+            "url": "https://t.co/uaSNjsbCzv",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 45362,
+    "followersCount": 137598,
+    "following": true,
+    "friendsCount": 6043,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 1276,
+    "location": "",
+    "mediaCount": 3679,
+    "name": "CryptoMaid加密女仆お嬢様 .edge🦭",
+    "normalFollowersCount": 137598,
+    "pinnedTweetIdsStr": [
+      "1998916257756873197"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1535225423658770434/1754915695",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1954884001342341120/0OmJrznn_normal.png",
+    "profileInterstitialType": "",
+    "screenName": "maid_crypto",
+    "statusesCount": 25115,
+    "translatorType": "none",
+    "url": "https://t.co/uaSNjsbCzv",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [
+      {
+        "iconName": "IconBriefcaseStroke",
+        "id": 192,
+        "name": "Financial Services"
+      }
+    ],
+    "professionalType": "Creator",
+    "restId": "1591610832265388034"
+  },
+  "profileImageShape": "Circle",
+  "restId": "1535225423658770434",
+  "tipjarSettings": {
+    "ethereumHandle": "0xb4e597e34e3ec254e9e4795ecf1a31b9fa1e40f4",
+    "isEnabled": true
+  }
+}

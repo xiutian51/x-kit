@@ -1,0 +1,68 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoyNDQxNTY4NTY2",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Sun Apr 13 11:18:25 +0000 2014",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "牛市撤退中｜焦虑症躺平｜品牌PR\n合作TG：https://t.co/Xk6CzIEOYM",
+    "entities": {
+      "description": {
+        "urls": [
+          {
+            "display_url": "t.me/xiaolizi_0927",
+            "expanded_url": "https://t.me/xiaolizi_0927",
+            "url": "https://t.co/Xk6CzIEOYM",
+            "indices": [
+              22,
+              45
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 1491,
+    "followedBy": true,
+    "followersCount": 5926,
+    "following": true,
+    "friendsCount": 1116,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 45,
+    "location": "China",
+    "mediaCount": 391,
+    "name": "小李子 | 胡子观币",
+    "normalFollowersCount": 5926,
+    "pinnedTweetIdsStr": [],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/2441568566/1661048181",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1561558145255690240/DOcpnIPU_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "Xiaolizi_27",
+    "statusesCount": 3187,
+    "translatorType": "none",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [
+      {
+        "iconName": "IconBriefcaseStroke",
+        "id": 192,
+        "name": "Financial Services"
+      }
+    ],
+    "professionalType": "Creator",
+    "restId": "1528981573470539777"
+  },
+  "profileImageShape": "Circle",
+  "restId": "2441568566",
+  "tipjarSettings": {}
+}

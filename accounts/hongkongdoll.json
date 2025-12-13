@@ -1,0 +1,67 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxMzkwNTYwMzQxMjI3MDIwMjkx",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Fri May 07 06:53:28 +0000 2021",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "NOT A KOL",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "hongkongdoll.io",
+            "expanded_url": "http://hongkongdoll.io",
+            "url": "https://t.co/6jdgs04ep8",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 2587,
+    "followersCount": 1643223,
+    "following": true,
+    "friendsCount": 410,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 2210,
+    "location": "频道 & Links",
+    "mediaCount": 513,
+    "name": "HongKongDoll",
+    "normalFollowersCount": 1643223,
+    "pinnedTweetIdsStr": [
+      "1978332242230325301"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1390560341227020291/1763597466",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1997302369361780736/e0pP2M3s_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "hongkongdoll",
+    "statusesCount": 3130,
+    "translatorType": "none",
+    "url": "https://t.co/6jdgs04ep8",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [],
+    "professionalType": "Creator",
+    "restId": "1594357388953403393"
+  },
+  "profileImageShape": "Circle",
+  "restId": "1390560341227020291",
+  "tipjarSettings": {}
+}

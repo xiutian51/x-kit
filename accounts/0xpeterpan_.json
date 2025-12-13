@@ -1,0 +1,70 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {
+    "label": {
+      "url": {
+        "url": "https://twitter.com/UseUniversalX",
+        "urlType": "DeepLink"
+      },
+      "badge": {
+        "url": "https://pbs.twimg.com/profile_images/1885153504291102720/R7usrJag_bigger.jpg"
+      },
+      "description": "UniversalX",
+      "userLabelType": "BusinessLabel",
+      "userLabelDisplayType": "Badge"
+    }
+  },
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjozMDA2MzQyMTg=",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": false,
+    "canMediaTag": true,
+    "createdAt": "Wed May 18 02:59:29 +0000 2011",
+    "defaultProfile": false,
+    "defaultProfileImage": false,
+    "description": "BUIDL @ParticleNtwrk\n@UseUniversalX, Never bridge again",
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 2163,
+    "followersCount": 2191,
+    "following": true,
+    "friendsCount": 5630,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 31,
+    "location": "Singapore",
+    "mediaCount": 105,
+    "name": "Peter Pan〈∞⋆UX⋆∞〉",
+    "normalFollowersCount": 2191,
+    "pinnedTweetIdsStr": [],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/300634218/1718801742",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1512766055378489345/HKJHn3ez_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "0xpeterpan_",
+    "statusesCount": 1594,
+    "translatorType": "none",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [
+      {
+        "iconName": "IconBriefcaseStroke",
+        "id": 713,
+        "name": "Science & Technology"
+      }
+    ],
+    "professionalType": "Creator",
+    "restId": "1626089948968534016"
+  },
+  "profileImageShape": "Circle",
+  "restId": "300634218",
+  "tipjarSettings": {}
+}

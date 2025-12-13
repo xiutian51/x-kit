@@ -1,0 +1,74 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNDk4OTE0NDYwMzMyNzQwNjEx",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Wed Mar 02 06:54:32 +0000 2022",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "Accelerate Web3 with our restaked rollups & verifiable agents.",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "linktr.ee/altlayer",
+            "expanded_url": "https://linktr.ee/altlayer",
+            "url": "https://t.co/J0Okxmwhvj",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 3643,
+    "followersCount": 654006,
+    "following": true,
+    "friendsCount": 363,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 1110,
+    "location": "",
+    "mediaCount": 942,
+    "name": "AltLayer",
+    "normalFollowersCount": 654006,
+    "pinnedTweetIdsStr": [
+      "1984140613961576494"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1498914460332740611/1762420323",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1787391034957144064/183kLjsg_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "alt_layer",
+    "statusesCount": 2912,
+    "translatorType": "none",
+    "url": "https://t.co/J0Okxmwhvj",
+    "verified": false,
+    "verifiedType": "Business",
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [
+      {
+        "iconName": "IconBriefcaseStroke",
+        "id": 713,
+        "name": "Science & Technology"
+      }
+    ],
+    "professionalType": "Creator",
+    "restId": "1522219456188977152"
+  },
+  "profileImageShape": "Square",
+  "restId": "1498914460332740611",
+  "tipjarSettings": {}
+}

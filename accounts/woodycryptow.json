@@ -1,0 +1,58 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjo5NjIzNjkyOTA0NTExMDM3NDQ=",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": false,
+    "createdAt": "Sat Feb 10 16:54:53 +0000 2018",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "交易終究靠自己而不靠他人 任何觀點均不是投資建議",
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 6292,
+    "followersCount": 47515,
+    "following": true,
+    "friendsCount": 1625,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 1200,
+    "location": "Taiwan",
+    "mediaCount": 539,
+    "name": "Woody（修仙版本",
+    "normalFollowersCount": 47515,
+    "pinnedTweetIdsStr": [],
+    "possiblySensitive": false,
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1735479525616783360/tUdDdw5C_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "woodycryptow",
+    "statusesCount": 4943,
+    "translatorType": "none",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [
+      {
+        "iconName": "IconBriefcaseStroke",
+        "id": 1094,
+        "name": "Blockchain"
+      }
+    ],
+    "professionalType": "Creator",
+    "restId": "1588136834508656641"
+  },
+  "profileImageShape": "Circle",
+  "restId": "962369290451103744",
+  "tipjarSettings": {
+    "isEnabled": true
+  }
+}

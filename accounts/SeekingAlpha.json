@@ -1,0 +1,74 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoyMzA1OTQ5OQ==",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Fri Mar 06 12:52:56 +0000 2009",
+    "defaultProfile": false,
+    "defaultProfileImage": false,
+    "description": "A global leader in crowdsourced U.S. investment research, powered by one of the largest and most vibrant investor communities.",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "seekingalpha.com/market-news?so…",
+            "expanded_url": "http://seekingalpha.com/market-news?source=twitter_profile&utm_medium=social&utm_source=twitter",
+            "url": "https://t.co/ESdRuQzVf5",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 3733,
+    "followersCount": 314065,
+    "following": true,
+    "friendsCount": 234,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 5550,
+    "location": "New York, NY",
+    "mediaCount": 661,
+    "name": "Seeking Alpha",
+    "normalFollowersCount": 314065,
+    "pinnedTweetIdsStr": [
+      "1999030355354071554"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/23059499/1723640574",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/534299535552421888/eHacq8EQ_normal.png",
+    "profileInterstitialType": "",
+    "screenName": "SeekingAlpha",
+    "statusesCount": 1073980,
+    "translatorType": "none",
+    "url": "https://t.co/ESdRuQzVf5",
+    "verified": false,
+    "verifiedType": "Business",
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [
+      {
+        "iconName": "IconBriefcaseStroke",
+        "id": 1009,
+        "name": "Community"
+      }
+    ],
+    "professionalType": "Business",
+    "restId": "1539268360017526784"
+  },
+  "profileImageShape": "Square",
+  "restId": "23059499",
+  "tipjarSettings": {}
+}

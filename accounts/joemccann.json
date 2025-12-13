@@ -1,0 +1,60 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNDgxNDc2Mg==",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": false,
+    "createdAt": "Sat May 17 21:19:23 +0000 2008",
+    "defaultProfile": false,
+    "defaultProfileImage": false,
+    "description": "“Only a fool trips on what’s behind them.” — Iceberg Slim ◢ Founder, CEO, Asymmetric Financial & Asymmetric Information",
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 42175,
+    "followersCount": 102855,
+    "following": true,
+    "friendsCount": 1,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 2282,
+    "location": "La La Land",
+    "mediaCount": 8064,
+    "name": "◢",
+    "normalFollowersCount": 102855,
+    "pinnedTweetIdsStr": [
+      "1991922835300982910"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/14814762/1757003666",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1966522911197683712/BXgWydGT_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "joemccann",
+    "statusesCount": 96604,
+    "translatorType": "none",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [
+      {
+        "iconName": "IconBriefcaseStroke",
+        "id": 958,
+        "name": "Entrepreneur"
+      }
+    ],
+    "professionalType": "Creator",
+    "restId": "1681852192012275712"
+  },
+  "profileImageShape": "Circle",
+  "restId": "14814762",
+  "superFollowEligible": true,
+  "tipjarSettings": {}
+}

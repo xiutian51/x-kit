@@ -1,0 +1,91 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNDYxNTYyNzg3MDA4ODQ3ODcz",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": false,
+    "createdAt": "Fri Nov 19 05:11:52 +0000 2021",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "DeFi & 套利探索与实战，主要内容在 YT 频道更新。\n\nYoutube 频道▶️ https://t.co/v12JMHqSlw\nTG 更新通知群：https://t.co/INsbPUw0vF\nWechat：Bitcoin3D\n商务合作请联系 @Riconomi",
+    "entities": {
+      "description": {
+        "urls": [
+          {
+            "display_url": "youtube.com/@crypto36d",
+            "expanded_url": "https://youtube.com/@crypto36d",
+            "url": "https://t.co/v12JMHqSlw",
+            "indices": [
+              44,
+              67
+            ]
+          },
+          {
+            "display_url": "t.me/+GR8VzHRcQ3wxY…",
+            "expanded_url": "https://t.me/+GR8VzHRcQ3wxYWI1",
+            "url": "https://t.co/INsbPUw0vF",
+            "indices": [
+              77,
+              100
+            ]
+          }
+        ]
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "youtube.com/@crypto36d",
+            "expanded_url": "https://youtube.com/@crypto36d",
+            "url": "https://t.co/v12JMHqSlw",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 2136,
+    "followedBy": true,
+    "followersCount": 25141,
+    "following": true,
+    "friendsCount": 960,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 592,
+    "location": "萨尔瓦多🇸🇻",
+    "mediaCount": 767,
+    "name": "3D 加密频道",
+    "normalFollowersCount": 25141,
+    "pinnedTweetIdsStr": [
+      "1993108216709050420"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1461562787008847873/1742542973",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1906430651370532865/DM720ns0_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "22333D",
+    "statusesCount": 4788,
+    "translatorType": "none",
+    "url": "https://t.co/v12JMHqSlw",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [],
+    "professionalType": "Creator",
+    "restId": "1461567968974827525"
+  },
+  "profileImageShape": "Circle",
+  "restId": "1461562787008847873",
+  "tipjarSettings": {
+    "bitcoinHandle": "1QDMpywBER19pW4eHRNuXszRGEwdhjA18U",
+    "isEnabled": true,
+    "patreonHandle": ""
+  }
+}

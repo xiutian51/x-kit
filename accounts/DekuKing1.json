@@ -1,0 +1,63 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxMjc5NzExNjYzMjY0ODk0OTc3",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": false,
+    "createdAt": "Sun Jul 05 09:40:15 +0000 2020",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "长大是一件无人生还的事，但我们要放下过去向前看",
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 1198,
+    "followersCount": 105202,
+    "following": true,
+    "friendsCount": 2864,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 1953,
+    "location": "",
+    "mediaCount": 855,
+    "name": "0x易经(朱重八版)",
+    "normalFollowersCount": 105202,
+    "pinnedTweetIdsStr": [
+      "1983164984143294659"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1279711663264894977/1738681327",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1813228124894863362/Z3rJrZCq_normal.jpg",
+    "profileInterstitialType": "",
+    "_protected": true,
+    "screenName": "DekuKing1",
+    "statusesCount": 9816,
+    "translatorType": "none",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [
+      {
+        "iconName": "IconBriefcaseStroke",
+        "id": 192,
+        "name": "Financial Services"
+      }
+    ],
+    "professionalType": "Creator",
+    "restId": "1516258764370092032"
+  },
+  "profileImageShape": "Circle",
+  "restId": "1279711663264894977",
+  "tipjarSettings": {
+    "ethereumHandle": "0xff6d98635B94666DDFA69Ff76cCF59594ff1C417",
+    "isEnabled": true
+  }
+}

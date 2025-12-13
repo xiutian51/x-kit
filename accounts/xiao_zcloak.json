@@ -1,0 +1,87 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxMTYzNzc4MjE0ODg1MzUxNDI0",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": false,
+    "createdAt": "Tue Aug 20 11:42:15 +0000 2019",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "Founder of @zCloakNetwork\n\nThe First On-Chain Bank: https://t.co/koQNsNgcQV\n\nVlying in the decentralized Internet @vlyai.\n\nTeaching Web3 in @NUSingapore.",
+    "entities": {
+      "description": {
+        "urls": [
+          {
+            "display_url": "app.zcloak.money",
+            "expanded_url": "http://app.zcloak.money",
+            "url": "https://t.co/koQNsNgcQV",
+            "indices": [
+              52,
+              75
+            ]
+          }
+        ]
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "zcloak.network",
+            "expanded_url": "https://zcloak.network",
+            "url": "https://t.co/lyiUVB7aes",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 7231,
+    "followedBy": true,
+    "followersCount": 10831,
+    "following": true,
+    "friendsCount": 1700,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 101,
+    "location": "Singapore",
+    "mediaCount": 294,
+    "name": "0xFrancis",
+    "normalFollowersCount": 10831,
+    "pinnedTweetIdsStr": [
+      "1960253421816348709"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1163778214885351424/1664082799",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1617091360980598784/uXwg8MGU_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "xiao_zcloak",
+    "statusesCount": 3766,
+    "translatorType": "none",
+    "url": "https://t.co/lyiUVB7aes",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [
+      {
+        "iconName": "IconBriefcaseStroke",
+        "id": 713,
+        "name": "Science & Technology"
+      }
+    ],
+    "professionalType": "Creator",
+    "restId": "1618871930525990914"
+  },
+  "profileImageShape": "Circle",
+  "restId": "1163778214885351424",
+  "tipjarSettings": {
+    "ethereumHandle": "0x16665c6C1317eF159a0459897e0Fa5322B4e064e",
+    "isEnabled": true
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNjk0NjA0OTM0NzM2NzQ0NDUw",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Thu Aug 24 06:58:19 +0000 2023",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "The education hub for #Layer2s | All things about #Layer2s | Powered by @lfg_solution\n\nFor Business: https://t.co/tnjPKrfe9n",
+    "entities": {
+      "description": {
+        "urls": [
+          {
+            "display_url": "t.me/insider_jimmy",
+            "expanded_url": "http://t.me/insider_jimmy",
+            "url": "https://t.co/tnjPKrfe9n",
+            "indices": [
+              101,
+              124
+            ]
+          }
+        ]
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "youtube.com/@Layer2Insider",
+            "expanded_url": "https://www.youtube.com/@Layer2Insider",
+            "url": "https://t.co/k2qT2Ht9Mi",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 1549,
+    "followersCount": 8990,
+    "following": true,
+    "friendsCount": 249,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 26,
+    "location": "",
+    "mediaCount": 1045,
+    "name": "Layer2 Insider",
+    "normalFollowersCount": 8990,
+    "pinnedTweetIdsStr": [
+      "1877316904135832012"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1694604934736744450/1692860541",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1694606044692119552/l8med1Bo_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "layer2_insider",
+    "statusesCount": 1801,
+    "translatorType": "none",
+    "url": "https://t.co/k2qT2Ht9Mi",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "profileImageShape": "Circle",
+  "restId": "1694604934736744450",
+  "tipjarSettings": {}
+}

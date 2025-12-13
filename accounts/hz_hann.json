@@ -1,0 +1,63 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjozMTE3MjMxNDc2",
+  "isBlueVerified": false,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Mon Mar 30 14:29:34 +0000 2015",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "👀 想要的都会有，哪怕是天上的星星 🌟\n🧘‍♀️ 单币 A3，平静如卡皮巴拉\n🏂 心在路上，身在 @ipfun_ai",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "t.me/ipfunme",
+            "expanded_url": "https://t.me/ipfunme",
+            "url": "https://t.co/668nRVvpWY",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 901,
+    "followedBy": true,
+    "followersCount": 512,
+    "following": true,
+    "friendsCount": 426,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 4,
+    "location": "Hong Kong",
+    "mediaCount": 97,
+    "name": "盒子 HZ",
+    "normalFollowersCount": 512,
+    "pinnedTweetIdsStr": [
+      "1985926595534893065"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/3117231476/1763132623",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1989348459552669696/7Z3px4Mc_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "hz_hann",
+    "statusesCount": 710,
+    "translatorType": "none",
+    "url": "https://t.co/668nRVvpWY",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "profileImageShape": "Circle",
+  "restId": "3117231476",
+  "tipjarSettings": {}
+}

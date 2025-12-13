@@ -1,0 +1,62 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNTA4MjU3NDIxNjMzODA2MzM4",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Mon Mar 28 01:39:46 +0000 2022",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "Bringing trusted economic solutions onchain. Powering compliant and transparent markets on Ethereum.",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "theradius.xyz",
+            "expanded_url": "https://www.theradius.xyz/",
+            "url": "https://t.co/Em99FPyakE",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 1217,
+    "followersCount": 55899,
+    "following": true,
+    "friendsCount": 341,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 0,
+    "location": "",
+    "mediaCount": 211,
+    "name": "Radius",
+    "normalFollowersCount": 55899,
+    "pinnedTweetIdsStr": [
+      "1992881552183922714"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1508257421633806338/1753745583",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1882418734796861440/CdpGh2VS_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "radius_xyz",
+    "statusesCount": 1308,
+    "translatorType": "none",
+    "url": "https://t.co/Em99FPyakE",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "profileImageShape": "Circle",
+  "restId": "1508257421633806338",
+  "tipjarSettings": {}
+}

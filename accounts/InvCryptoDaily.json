@@ -1,0 +1,72 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjo5NTU5NDQwMjg2NzkzNjQ2MDk=",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Tue Jan 23 23:23:11 +0000 2018",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "Cryptocurrency hub strictly for traditional investors.\nIt's time to get off the sidelines",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "InvestorsCryptoDaily.com",
+            "expanded_url": "https://InvestorsCryptoDaily.com",
+            "url": "https://t.co/onP4YeevGe",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 157964,
+    "followersCount": 96463,
+    "following": true,
+    "friendsCount": 6230,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 121,
+    "location": "Sarasota, Florida",
+    "mediaCount": 744,
+    "name": "Investor's Crypto Daily",
+    "normalFollowersCount": 96463,
+    "pinnedTweetIdsStr": [],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/955944028679364609/1755903831",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1959028769303216128/ET7nj3C6_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "InvCryptoDaily",
+    "statusesCount": 2598,
+    "translatorType": "none",
+    "url": "https://t.co/onP4YeevGe",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [
+      {
+        "iconName": "IconBriefcaseStroke",
+        "id": 580,
+        "name": "Media & News Company"
+      }
+    ],
+    "professionalType": "Business",
+    "restId": "1533083955582361600"
+  },
+  "profileImageShape": "Circle",
+  "restId": "955944028679364609",
+  "superFollowEligible": true,
+  "tipjarSettings": {}
+}

@@ -1,0 +1,67 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNDcwMDUwNTUwMDgzNDY1MjE3",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Sun Dec 12 15:19:17 +0000 2021",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "28岁即将退休｜AI领域视频博主 全网60万关注 | Crypto Builder & Holder｜苏州线下开发者社群🐷理人｜前微软工程师",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "qzq.at",
+            "expanded_url": "http://qzq.at",
+            "url": "https://t.co/j5xmET2uKR",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 2812,
+    "followersCount": 19371,
+    "following": true,
+    "friendsCount": 697,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 135,
+    "location": "",
+    "mediaCount": 133,
+    "name": "DN-Samuel 🧑‍💻",
+    "normalFollowersCount": 19371,
+    "pinnedTweetIdsStr": [],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1470050550083465217/1678194113",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1633090580543676416/7nhHRLUS_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "SamuelQZQ",
+    "statusesCount": 1316,
+    "translatorType": "none",
+    "url": "https://t.co/j5xmET2uKR",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [],
+    "professionalType": "Creator",
+    "restId": "1633090143081906176"
+  },
+  "profileImageShape": "Circle",
+  "restId": "1470050550083465217",
+  "tipjarSettings": {
+    "isEnabled": true
+  }
+}

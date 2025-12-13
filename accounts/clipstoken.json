@@ -1,0 +1,72 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNjQyMzE0MjgwNDU5NzA2MzY4",
+  "isBlueVerified": false,
+  "legacy": {
+    "canDm": false,
+    "canMediaTag": true,
+    "createdAt": "Sat Apr 01 23:53:42 +0000 2023",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "$CLIPS is Capture the Flag x Memetoken\n\nListed on: MEXC, GATE IO, HOTBIT, BITGET, POLONIEX, XT and..\n\nTG: https://t.co/dLvRWzSqSL",
+    "entities": {
+      "description": {
+        "urls": [
+          {
+            "display_url": "t.me/clipscommunity",
+            "expanded_url": "https://t.me/clipscommunity",
+            "url": "https://t.co/dLvRWzSqSL",
+            "indices": [
+              106,
+              129
+            ]
+          }
+        ]
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "clipstoken.xyz",
+            "expanded_url": "https://www.clipstoken.xyz/",
+            "url": "https://t.co/WZKuoM7GVo",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 20,
+    "followersCount": 4619,
+    "following": true,
+    "friendsCount": 10,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 26,
+    "location": "Depth of the bear market",
+    "mediaCount": 29,
+    "name": "$CLIPS",
+    "normalFollowersCount": 4619,
+    "pinnedTweetIdsStr": [
+      "1655130133123207169"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1642314280459706368/1682134184",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1655314922606333953/fq91DWMx_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "clipstoken",
+    "statusesCount": 140,
+    "translatorType": "none",
+    "url": "https://t.co/WZKuoM7GVo",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "profileImageShape": "Circle",
+  "restId": "1642314280459706368",
+  "tipjarSettings": {}
+}

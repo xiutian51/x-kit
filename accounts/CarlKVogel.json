@@ -1,0 +1,66 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxMzMyNzI5MzM5MTg4ODE3OTI5",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": false,
+    "createdAt": "Sat Nov 28 16:54:38 +0000 2020",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "GP at @6thManVentures investing in crypto founders at their earliest stages.  @cryptotrenches_",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "6thman.ventures",
+            "expanded_url": "https://6thman.ventures",
+            "url": "https://t.co/hxktS6RXAu",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 14626,
+    "followersCount": 13779,
+    "following": true,
+    "friendsCount": 2624,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 227,
+    "location": "New York, NY",
+    "mediaCount": 654,
+    "name": "Crypto Carl",
+    "normalFollowersCount": 13779,
+    "pinnedTweetIdsStr": [],
+    "possiblySensitive": false,
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1971915307007500288/SjbRl7PX_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "CarlKVogel",
+    "statusesCount": 5715,
+    "translatorType": "none",
+    "url": "https://t.co/hxktS6RXAu",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [],
+    "professionalType": "Creator",
+    "restId": "1464425124292136971"
+  },
+  "profileImageShape": "Circle",
+  "restId": "1332729339188817929",
+  "tipjarSettings": {
+    "isEnabled": true
+  }
+}

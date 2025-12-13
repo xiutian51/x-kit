@@ -1,0 +1,78 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNDQyNzkzNjM2MDIyODA4NTc4",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Tue Sep 28 10:09:53 +0000 2021",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "我就是一个推油的，不搞黄不编剧，安心交易。 #OKX 钱包让你感受交易的丝滑： https://t.co/kw09kLc18l #Binance 你的数字货币购买/交易平台，就是币安 https://t.co/hK6s7JwPbd",
+    "entities": {
+      "description": {
+        "urls": [
+          {
+            "display_url": "okx.com/join/78104252",
+            "expanded_url": "https://okx.com/join/78104252",
+            "url": "https://t.co/kw09kLc18l",
+            "indices": [
+              40,
+              63
+            ]
+          },
+          {
+            "display_url": "accounts.marketwebb.club/register?ref=2…",
+            "expanded_url": "https://accounts.marketwebb.club/register?ref=21077090",
+            "url": "https://t.co/hK6s7JwPbd",
+            "indices": [
+              92,
+              115
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 19294,
+    "followersCount": 42213,
+    "following": true,
+    "friendsCount": 821,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 830,
+    "location": "",
+    "mediaCount": 1878,
+    "name": "ALERT的会所",
+    "normalFollowersCount": 42213,
+    "pinnedTweetIdsStr": [
+      "1775728787109609703"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1442793636022808578/1731046468",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1633442170303811584/bm60R1cI_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "BTC_Alert_",
+    "statusesCount": 19490,
+    "translatorType": "none",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [
+      {
+        "iconName": "IconBriefcaseStroke",
+        "id": 192,
+        "name": "Financial Services"
+      }
+    ],
+    "professionalType": "Business",
+    "restId": "1633478739316314112"
+  },
+  "profileImageShape": "Circle",
+  "restId": "1442793636022808578",
+  "tipjarSettings": {}
+}

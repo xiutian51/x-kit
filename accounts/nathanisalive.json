@@ -1,0 +1,62 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {
+    "label": {
+      "url": {
+        "url": "https://twitter.com/UseUniversalX",
+        "urlType": "DeepLink"
+      },
+      "badge": {
+        "url": "https://pbs.twimg.com/profile_images/1885153504291102720/R7usrJag_bigger.jpg"
+      },
+      "description": "UniversalX",
+      "userLabelType": "BusinessLabel",
+      "userLabelDisplayType": "Badge"
+    }
+  },
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxMzQ1NDM4ODc0NTIxMDcxNjE3",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Sat Jan 02 18:36:59 +0000 2021",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "",
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 2909,
+    "followersCount": 30934,
+    "following": true,
+    "friendsCount": 2800,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 543,
+    "location": "",
+    "mediaCount": 445,
+    "name": "Nathan",
+    "normalFollowersCount": 30934,
+    "pinnedTweetIdsStr": [],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1345438874521071617/1763494391",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1966848914428141568/tjLujKGw_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "nathanisalive",
+    "statusesCount": 7867,
+    "translatorType": "none",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "profileImageShape": "Circle",
+  "restId": "1345438874521071617",
+  "tipjarSettings": {
+    "ethereumHandle": "0x2B50b585cb928c6b06498229db8276e882DC3B6B",
+    "isEnabled": false
+  }
+}

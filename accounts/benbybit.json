@@ -1,0 +1,84 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {
+    "label": {
+      "url": {
+        "url": "https://twitter.com/Bybit_Official",
+        "urlType": "DeepLink"
+      },
+      "badge": {
+        "url": "https://pbs.twimg.com/profile_images/1894706611538530304/w9AEcEL8_bigger.jpg"
+      },
+      "description": "Bybit",
+      "userLabelType": "BusinessLabel",
+      "userLabelDisplayType": "Badge"
+    }
+  },
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxMTAwOTMyNTA2MTkzMjYwNTQ0",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Thu Feb 28 01:35:38 +0000 2019",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "co-founder and CEO of BYBIT",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "bybit.com",
+            "expanded_url": "http://www.bybit.com",
+            "url": "https://t.co/ejWQrBu1ze",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 1933,
+    "followersCount": 278161,
+    "following": true,
+    "friendsCount": 545,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 1197,
+    "location": "",
+    "mediaCount": 209,
+    "name": "Ben Zhou",
+    "normalFollowersCount": 278161,
+    "pinnedTweetIdsStr": [],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1100932506193260544/1737243990",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1883127774476730368/XIgpqEE1_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "benbybit",
+    "statusesCount": 1958,
+    "translatorType": "none",
+    "url": "https://t.co/ejWQrBu1ze",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [
+      {
+        "iconName": "IconBriefcaseStroke",
+        "id": 1094,
+        "name": "Blockchain"
+      }
+    ],
+    "professionalType": "Business",
+    "restId": "1589403009456349184"
+  },
+  "profileImageShape": "Circle",
+  "restId": "1100932506193260544",
+  "tipjarSettings": {}
+}

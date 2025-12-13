@@ -1,0 +1,64 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxODcyMTcyODUxODI4MjQ0NDgx",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Thu Dec 26 06:50:01 +0000 2024",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "Perps on BNB and Solana\nTrade with auto yield bearing $DUSD\nPublic Mainnet live now",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "StandX.com",
+            "expanded_url": "http://www.StandX.com",
+            "url": "https://t.co/L4c1Z0IluZ",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 1728,
+    "followedBy": true,
+    "followersCount": 138239,
+    "following": true,
+    "friendsCount": 203,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 226,
+    "location": "DEX",
+    "mediaCount": 242,
+    "name": "StandX",
+    "normalFollowersCount": 138239,
+    "pinnedTweetIdsStr": [
+      "1998647259953758279"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1872172851828244481/1759123887",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1872173244197040128/feNHLBvt_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "StandX_Official",
+    "statusesCount": 982,
+    "translatorType": "none",
+    "url": "https://t.co/L4c1Z0IluZ",
+    "verified": false,
+    "verifiedType": "Business",
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "profileImageShape": "Square",
+  "restId": "1872172851828244481",
+  "tipjarSettings": {}
+}

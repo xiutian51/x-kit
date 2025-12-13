@@ -1,0 +1,57 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxMzQwMTk5MzM3NzEyNzA1NTM2",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": false,
+    "createdAt": "Sat Dec 19 07:36:45 +0000 2020",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "Cofounder of @ChinaChic_NFT Member of @33daoweb3",
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 328,
+    "followersCount": 28661,
+    "following": true,
+    "friendsCount": 2801,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 647,
+    "location": "",
+    "mediaCount": 153,
+    "name": "LEE CHAN🀄️🀄️",
+    "normalFollowersCount": 28661,
+    "pinnedTweetIdsStr": [],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1340199337712705536/1755240998",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1972456225188257792/UKE_M-Ln_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "leechan1688",
+    "statusesCount": 2254,
+    "translatorType": "none",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [
+      {
+        "iconName": "IconBriefcaseStroke",
+        "id": 192,
+        "name": "Financial Services"
+      }
+    ],
+    "professionalType": "Creator",
+    "restId": "1520813849091354625"
+  },
+  "profileImageShape": "Circle",
+  "restId": "1340199337712705536",
+  "tipjarSettings": {}
+}

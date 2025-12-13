@@ -1,0 +1,67 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNDI1Mzk2Mzk4OTAwNDc3OTU2",
+  "isBlueVerified": false,
+  "legacy": {
+    "canDm": false,
+    "canMediaTag": true,
+    "createdAt": "Wed Aug 11 09:59:35 +0000 2021",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "Building # Web3.0",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "linktr.ee/cipholio",
+            "expanded_url": "https://linktr.ee/cipholio",
+            "url": "https://t.co/vjgpKEpn8L",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 265,
+    "followersCount": 3339,
+    "following": true,
+    "friendsCount": 211,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 87,
+    "location": "New York",
+    "mediaCount": 177,
+    "name": "Cipholio Ventures",
+    "normalFollowersCount": 3339,
+    "pinnedTweetIdsStr": [
+      "1787866343292702937"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1425396398900477956/1640230451",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1615327057306583040/6FSEFxxc_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "Cipholio",
+    "statusesCount": 923,
+    "translatorType": "none",
+    "url": "https://t.co/vjgpKEpn8L",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [],
+    "professionalType": "Business",
+    "restId": "1463519133518151682"
+  },
+  "profileImageShape": "Circle",
+  "restId": "1425396398900477956",
+  "tipjarSettings": {}
+}

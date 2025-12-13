@@ -1,0 +1,60 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjozMjgzMTMxNjA2",
+  "isBlueVerified": false,
+  "legacy": {
+    "canDm": false,
+    "canMediaTag": true,
+    "createdAt": "Sat Jul 18 08:48:55 +0000 2015",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "Founding Partner@Mint Ventures;    Co-Founder @ DeFinder",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "mintventures.fund",
+            "expanded_url": "https://www.mintventures.fund/",
+            "url": "https://t.co/MqMD8Uiwqn",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 61,
+    "followersCount": 1575,
+    "following": true,
+    "friendsCount": 169,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 20,
+    "location": "",
+    "mediaCount": 1,
+    "name": "Jessie Fan",
+    "normalFollowersCount": 1575,
+    "pinnedTweetIdsStr": [],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/3283131606/1625578619",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1447786481871835141/psaeStCO_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "fanyayun",
+    "statusesCount": 40,
+    "translatorType": "none",
+    "url": "https://t.co/MqMD8Uiwqn",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "profileImageShape": "Circle",
+  "restId": "3283131606",
+  "tipjarSettings": {}
+}

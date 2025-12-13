@@ -1,0 +1,63 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNjUyMDk5MzIwNDQ2MDYyNTky",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Fri Apr 28 23:56:04 +0000 2023",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "A smart vape that rewards crypto to quit nicotine. Available on @Amazonjp, Naver, and 1,000+ shops globally.",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "puffpaw.com",
+            "expanded_url": "http://puffpaw.com",
+            "url": "https://t.co/OYoQVEdpWY",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 3078,
+    "followersCount": 67409,
+    "following": true,
+    "friendsCount": 6,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 201,
+    "location": "",
+    "mediaCount": 404,
+    "name": "Puffpaw",
+    "normalFollowersCount": 67409,
+    "pinnedTweetIdsStr": [
+      "1999102126774222939"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1652099320446062592/1764930444",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1990934798576332802/o0gVlaB9_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "puffpaw",
+    "statusesCount": 1909,
+    "translatorType": "none",
+    "url": "https://t.co/OYoQVEdpWY",
+    "verified": false,
+    "verifiedType": "Business",
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "profileImageShape": "Square",
+  "restId": "1652099320446062592",
+  "tipjarSettings": {}
+}

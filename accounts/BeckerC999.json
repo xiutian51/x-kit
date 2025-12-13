@@ -1,0 +1,51 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxMzU0MzQ4NzYwOTkwNzA3NzEy",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Wed Jan 27 08:41:35 +0000 2021",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "业余K线接盘侠，德州十年松浪鱼，雪场鱼雷二十年",
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 7859,
+    "followersCount": 6131,
+    "following": true,
+    "friendsCount": 1078,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 116,
+    "location": "",
+    "mediaCount": 1106,
+    "name": "Becker",
+    "normalFollowersCount": 6131,
+    "pinnedTweetIdsStr": [],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1354348760990707712/1737403249",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1879766116395896832/H_Vql885_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "BeckerC999",
+    "statusesCount": 7758,
+    "translatorType": "none",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "profileImageShape": "Circle",
+  "restId": "1354348760990707712",
+  "tipjarSettings": {
+    "bitcoinHandle": "bc1qwt8tt4vtsv3x98vzd8q8pjv02ggz4tkq4uk4uh",
+    "ethereumHandle": "0x1a4B6f5C9E98AA1999bdd70e59b49b6d5f47F12C",
+    "isEnabled": true,
+    "venmoHandle": "Trashbecker999"
+  }
+}

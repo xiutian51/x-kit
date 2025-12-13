@@ -1,0 +1,84 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {
+    "label": {
+      "url": {
+        "url": "https://twitter.com/cryptoquant_com",
+        "urlType": "DeepLink"
+      },
+      "badge": {
+        "url": "https://pbs.twimg.com/profile_images/1420281702736269312/yfIaAbXb_bigger.png"
+      },
+      "description": "CryptoQuant.com",
+      "userLabelType": "BusinessLabel",
+      "userLabelDisplayType": "Badge"
+    }
+  },
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjozMDI1MDUzNjM=",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": false,
+    "createdAt": "Sat May 21 09:11:57 +0000 2011",
+    "defaultProfile": false,
+    "defaultProfileImage": false,
+    "description": "Founder & CEO @cryptoquant_com",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "cryptoquant.com",
+            "expanded_url": "https://cryptoquant.com",
+            "url": "https://t.co/cy0jQH4ch6",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 6331,
+    "followersCount": 424565,
+    "following": true,
+    "friendsCount": 2606,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 6033,
+    "location": "",
+    "mediaCount": 1502,
+    "name": "Ki Young Ju",
+    "normalFollowersCount": 424565,
+    "pinnedTweetIdsStr": [
+      "1996091642332545231"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/302505363/1739945765",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1940470410862100480/yDlllR4Z_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "ki_young_ju",
+    "statusesCount": 4150,
+    "translatorType": "none",
+    "url": "https://t.co/cy0jQH4ch6",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [],
+    "professionalType": "Creator",
+    "restId": "1512142771607732225"
+  },
+  "profileImageShape": "Circle",
+  "restId": "302505363",
+  "superFollowEligible": true,
+  "tipjarSettings": {
+    "bitcoinHandle": "",
+    "isEnabled": true
+  }
+}

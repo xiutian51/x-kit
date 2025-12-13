@@ -1,0 +1,47 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxMTYxNjQyNDY=",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Sun Feb 21 11:52:16 +0000 2010",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "",
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 499,
+    "followersCount": 2082,
+    "following": true,
+    "friendsCount": 404,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 50,
+    "location": "Hong Kong",
+    "mediaCount": 341,
+    "name": "Daniel Yan",
+    "normalFollowersCount": 2082,
+    "pinnedTweetIdsStr": [
+      "1975431676466802932"
+    ],
+    "possiblySensitive": false,
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1397450801153417228/PynO0UFz_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "_D_Y_A_N",
+    "statusesCount": 1185,
+    "translatorType": "none",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "profileImageShape": "Circle",
+  "restId": "116164246",
+  "tipjarSettings": {}
+}

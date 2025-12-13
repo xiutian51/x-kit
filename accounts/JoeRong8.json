@@ -1,0 +1,57 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxMjU4MzgxNzY3NDUyNDQ2NzIx",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Thu May 07 13:02:52 +0000 2020",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "Bot Expert │ Crypto Analyst │ Sharing Strategy & Growth Insights",
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 44,
+    "followedBy": true,
+    "followersCount": 84,
+    "following": true,
+    "friendsCount": 636,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 2,
+    "location": "",
+    "mediaCount": 20,
+    "name": "荣阁Trader",
+    "normalFollowersCount": 84,
+    "pinnedTweetIdsStr": [],
+    "possiblySensitive": false,
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1863603844460204032/w788UniS_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "JoeRong8",
+    "statusesCount": 52,
+    "translatorType": "none",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [
+      {
+        "iconName": "IconBriefcaseStroke",
+        "id": 192,
+        "name": "Financial Services"
+      }
+    ],
+    "professionalType": "Creator",
+    "restId": "1644358742534938625"
+  },
+  "profileImageShape": "Circle",
+  "restId": "1258381767452446721",
+  "tipjarSettings": {}
+}

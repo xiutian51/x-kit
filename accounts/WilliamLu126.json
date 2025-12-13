@@ -1,0 +1,57 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjo5MDkzNTA0MDgzMTI3MDA5Mjk=",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Sun Sep 17 09:36:47 +0000 2017",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "Crypto Utopia founder，Focus on Secondary market transcation.一个最真实的Trader",
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 10,
+    "followersCount": 12973,
+    "following": true,
+    "friendsCount": 139,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 184,
+    "location": "灣仔, 香港",
+    "mediaCount": 144,
+    "name": "晴天 William Lu",
+    "normalFollowersCount": 12973,
+    "pinnedTweetIdsStr": [],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/909350408312700929/1765209442",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1539799173653876736/U6y2FYOe_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "WilliamLu126",
+    "statusesCount": 283,
+    "translatorType": "none",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [
+      {
+        "iconName": "IconBriefcaseStroke",
+        "id": 192,
+        "name": "Financial Services"
+      }
+    ],
+    "professionalType": "Business",
+    "restId": "1590442589055950848"
+  },
+  "profileImageShape": "Circle",
+  "restId": "909350408312700929",
+  "tipjarSettings": {}
+}

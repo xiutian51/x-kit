@@ -1,0 +1,76 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {
+    "label": {
+      "url": {
+        "url": "https://twitter.com/BullpenFi",
+        "urlType": "DeepLink"
+      },
+      "badge": {
+        "url": "https://pbs.twimg.com/profile_images/1956038689152184336/UDbECykj_bigger.jpg"
+      },
+      "description": "Bullpen",
+      "userLabelType": "BusinessLabel",
+      "userLabelDisplayType": "Badge"
+    }
+  },
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjo5NzMyNjE0NzI=",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": false,
+    "canMediaTag": false,
+    "createdAt": "Tue Nov 27 04:41:51 +0000 2012",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "coldest nigga breathing",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "bullpen.fi/@ansem",
+            "expanded_url": "http://bullpen.fi/@ansem",
+            "url": "https://t.co/qttoogBbg9",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 125569,
+    "followersCount": 784095,
+    "following": true,
+    "friendsCount": 8692,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 13245,
+    "location": "onchain 🌒",
+    "mediaCount": 18124,
+    "name": "Ansem",
+    "normalFollowersCount": 784095,
+    "pinnedTweetIdsStr": [
+      "1929938927982379465"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/973261472/1650108406",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1961642107187109888/o0B468ZS_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "blknoiz06",
+    "statusesCount": 251713,
+    "translatorType": "none",
+    "url": "https://t.co/qttoogBbg9",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "profileImageShape": "Circle",
+  "restId": "973261472",
+  "superFollowEligible": true,
+  "tipjarSettings": {}
+}

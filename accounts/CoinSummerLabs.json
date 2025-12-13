@@ -1,0 +1,62 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxMDY1ODQ3NDA2NTkwMjE0MTQ2",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": false,
+    "canMediaTag": true,
+    "createdAt": "Fri Nov 23 05:59:58 +0000 2018",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "#Bitcoin maxi / Private fund / R&D labs",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "coinsummer.io",
+            "expanded_url": "https://coinsummer.io",
+            "url": "https://t.co/zkdv2Vra3Y",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 20,
+    "followersCount": 986,
+    "following": true,
+    "friendsCount": 277,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 12,
+    "location": "Singapore",
+    "mediaCount": 11,
+    "name": "CoinSummer Labs",
+    "normalFollowersCount": 986,
+    "pinnedTweetIdsStr": [
+      "1784759887727407530"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1065847406590214146/1715827675",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1083985319228190720/VpY62DBJ_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "CoinSummerLabs",
+    "statusesCount": 62,
+    "translatorType": "none",
+    "url": "https://t.co/zkdv2Vra3Y",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "profileImageShape": "Circle",
+  "restId": "1065847406590214146",
+  "tipjarSettings": {}
+}

@@ -1,0 +1,67 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNzI2NTgwNzE0OTExNTIyODE2",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Mon Nov 20 12:38:23 +0000 2023",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "Some flow. Some dark pool. Maybe a little charts sprinkled in. And a whole lot of dry humor to keep it from feeling like C-SPAN with candlesticks",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "trendspider.com/?_go=chartsrus",
+            "expanded_url": "https://trendspider.com?_go=chartsrus",
+            "url": "https://t.co/GaRZmkLSvG",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 6324,
+    "followersCount": 13460,
+    "following": true,
+    "friendsCount": 39,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 277,
+    "location": "",
+    "mediaCount": 8248,
+    "name": "Charts R Us",
+    "normalFollowersCount": 13460,
+    "pinnedTweetIdsStr": [
+      "1982462279623839843"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1726580714911522816/1757883922",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1989323401731690496/f2sqEynO_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "ChartsRUs0",
+    "statusesCount": 10070,
+    "translatorType": "none",
+    "url": "https://t.co/GaRZmkLSvG",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "profileImageShape": "Circle",
+  "restId": "1726580714911522816",
+  "tipjarSettings": {
+    "bitcoinHandle": "31mi1SW2aGjQPABjtE7QfcxsoTHn3nFxnf",
+    "cashAppHandle": "chartsrus",
+    "ethereumHandle": "0x76743abA86D9Ff40755a58A256685aaE79f91AD5",
+    "isEnabled": true
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxMjYzMzI4NTIwMjQwOTE4NTMx",
+  "isBlueVerified": false,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": false,
+    "createdAt": "Thu May 21 04:39:38 +0000 2020",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "投资呢 你以为过家家呀",
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 3373,
+    "followersCount": 4945,
+    "following": true,
+    "friendsCount": 1150,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 47,
+    "location": "",
+    "mediaCount": 269,
+    "name": "Nakamao🫡",
+    "normalFollowersCount": 4945,
+    "pinnedTweetIdsStr": [
+      "1775891907048362049"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1263328520240918531/1674364786",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1655806191715618816/IzW-VSPW_normal.jpg",
+    "profileInterstitialType": "",
+    "_protected": true,
+    "screenName": "CryptoNakamao",
+    "statusesCount": 1564,
+    "translatorType": "none",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [
+      {
+        "iconName": "IconBriefcaseStroke",
+        "id": 959,
+        "name": "Gamer"
+      }
+    ],
+    "professionalType": "Creator",
+    "restId": "1468482276833251328"
+  },
+  "profileImageShape": "Circle",
+  "restId": "1263328520240918531",
+  "tipjarSettings": {}
+}

@@ -1,0 +1,62 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNTI4NTI3MTA1OTYwNTc0OTc2",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Mon May 23 00:04:08 +0000 2022",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "$DMT",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "sanko.xyz",
+            "expanded_url": "http://sanko.xyz",
+            "url": "https://t.co/7v5Cao7g3W",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 23871,
+    "followersCount": 36181,
+    "following": true,
+    "friendsCount": 2924,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 187,
+    "location": "SANKO",
+    "mediaCount": 717,
+    "name": "Sanko GameCorp ©",
+    "normalFollowersCount": 36181,
+    "pinnedTweetIdsStr": [
+      "1935045851056841075"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1528527105960574976/1682803814",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1621902973537329153/xfnurtXf_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "SankoGameCorp",
+    "statusesCount": 5796,
+    "translatorType": "none",
+    "url": "https://t.co/7v5Cao7g3W",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "profileImageShape": "Circle",
+  "restId": "1528527105960574976",
+  "tipjarSettings": {}
+}

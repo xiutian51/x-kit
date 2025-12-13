@@ -1,0 +1,62 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNDkxODQwMDQ1NzIzOTY3NTA1",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Thu Feb 10 18:23:40 +0000 2022",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "猫窝; 创始人: @BitCloutCat 总量520，已售罄，NFT可质押获得更多权益。持有LaserCat NFT需要进微信群的加管理微信【RICK56777】 备注NFT编号",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "hub.xyz/lasercat-nft",
+            "expanded_url": "https://hub.xyz/lasercat-nft",
+            "url": "https://t.co/XXBvWJM2oc",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 175,
+    "followersCount": 83574,
+    "following": true,
+    "friendsCount": 12,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 322,
+    "location": "https://linktr.ee/lasercatnft",
+    "mediaCount": 647,
+    "name": "LaserCat",
+    "normalFollowersCount": 83574,
+    "pinnedTweetIdsStr": [
+      "1579009058669219840"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1491840045723967505/1644520752",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1491840488885735424/PRRwBt2I_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "LaserCatNFT",
+    "statusesCount": 1435,
+    "translatorType": "none",
+    "url": "https://t.co/XXBvWJM2oc",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "profileImageShape": "Circle",
+  "restId": "1491840045723967505",
+  "tipjarSettings": {}
+}

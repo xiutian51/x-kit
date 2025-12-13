@@ -1,0 +1,84 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxMDYyMzk1NzQwMzczMjk1MTA1",
+  "isBlueVerified": false,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Tue Nov 13 17:24:17 +0000 2018",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "Aztec is the Private World Computer.\nToken Sale Disclaimer: https://t.co/q0nDrBhrbD",
+    "entities": {
+      "description": {
+        "urls": [
+          {
+            "display_url": "aztec.network/token-sale-dis…",
+            "expanded_url": "https://aztec.network/token-sale-disclaimer",
+            "url": "https://t.co/q0nDrBhrbD",
+            "indices": [
+              60,
+              83
+            ]
+          }
+        ]
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "linktr.ee/aztec_network",
+            "expanded_url": "https://linktr.ee/aztec_network",
+            "url": "https://t.co/RmQLWupVmi",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 11629,
+    "followersCount": 202352,
+    "following": true,
+    "friendsCount": 243,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 1809,
+    "location": "London",
+    "mediaCount": 954,
+    "name": "Aztec",
+    "normalFollowersCount": 202352,
+    "pinnedTweetIdsStr": [
+      "1997375978536857678"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1062395740373295105/1756975658",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1974129186290782208/huSA6eSM_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "aztecnetwork",
+    "statusesCount": 6259,
+    "translatorType": "none",
+    "url": "https://t.co/RmQLWupVmi",
+    "verified": false,
+    "verifiedType": "Business",
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [
+      {
+        "iconName": "IconBriefcaseStroke",
+        "id": 1009,
+        "name": "Community"
+      }
+    ],
+    "professionalType": "Business",
+    "restId": "1471504210600476676"
+  },
+  "profileImageShape": "Square",
+  "restId": "1062395740373295105",
+  "tipjarSettings": {}
+}

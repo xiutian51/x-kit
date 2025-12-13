@@ -1,0 +1,45 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjo0NDU4Nzkx",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Fri Apr 13 05:47:02 +0000 2007",
+    "defaultProfile": false,
+    "defaultProfileImage": false,
+    "description": "Co-Founder, @YouTube.",
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 9320,
+    "followersCount": 22785,
+    "following": true,
+    "friendsCount": 1316,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 264,
+    "location": "San Francisco, CA",
+    "mediaCount": 60,
+    "name": "steve chen",
+    "normalFollowersCount": 22785,
+    "pinnedTweetIdsStr": [],
+    "possiblySensitive": false,
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1566360870/KenSax_RP-000061-1_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "stevechen",
+    "statusesCount": 520,
+    "translatorType": "none",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "profileImageShape": "Circle",
+  "restId": "4458791",
+  "tipjarSettings": {}
+}

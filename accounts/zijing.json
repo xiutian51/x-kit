@@ -1,0 +1,77 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {
+    "label": {
+      "url": {
+        "url": "https://twitter.com/0xinfini",
+        "urlType": "DeepLink"
+      },
+      "badge": {
+        "url": "https://pbs.twimg.com/profile_images/1966496740435222529/UCDLDWO2_bigger.jpg"
+      },
+      "description": "Infini",
+      "userLabelType": "BusinessLabel",
+      "userLabelDisplayType": "Badge"
+    }
+  },
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNDgyNTE4MDMzNDI0MDg0OTk2",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Sun Jan 16 01:00:23 +0000 2022",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "｜Content creator✍️\n｜Member @Solana_zh🟣\n｜HEAD CM @Element_Market\n｜CM @unisat_wallet\n｜Ambassadors @JupiterExchange @TraditioNow",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "t.me/zijingnft",
+            "expanded_url": "https://t.me/zijingnft",
+            "url": "https://t.co/viTaOfCPNE",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 88535,
+    "followersCount": 21184,
+    "following": true,
+    "friendsCount": 3817,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 115,
+    "location": "collab👉",
+    "mediaCount": 913,
+    "name": "子敬💢Σ🍊",
+    "normalFollowersCount": 21184,
+    "pinnedTweetIdsStr": [
+      "1966293894553084322"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1482518033424084996/1749504063",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1923370563353128960/566Wxa2h_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "zijing",
+    "statusesCount": 38375,
+    "translatorType": "none",
+    "url": "https://t.co/viTaOfCPNE",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "profileImageShape": "Circle",
+  "restId": "1482518033424084996",
+  "tipjarSettings": {
+    "isEnabled": true
+  }
+}

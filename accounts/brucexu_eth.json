@@ -1,0 +1,64 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNDY2Njc1Njg5NTU0MjAyNjI0",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Fri Dec 03 07:48:43 +0000 2021",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "AI x ETH | Cypherpunk-aligned | INTJ | Co-initiator @LXDAO_Official @ETHPanda_Org | Work for cool and fun | The Only TG: @brucexu_eth",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "t.me/buxiangshuo123",
+            "expanded_url": "https://t.me/buxiangshuo123",
+            "url": "https://t.co/6KuNfGYAp0",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 8023,
+    "followersCount": 6318,
+    "following": true,
+    "friendsCount": 654,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 124,
+    "location": "布想說の秘嘧 👉",
+    "mediaCount": 379,
+    "name": "brucexu.eth ❤️🐼🦇🔊",
+    "normalFollowersCount": 6318,
+    "pinnedTweetIdsStr": [
+      "1991679844481126651"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1466675689554202624/1698879851",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1906994546455822336/OEoYVc1W_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "brucexu_eth",
+    "statusesCount": 5477,
+    "translatorType": "none",
+    "url": "https://t.co/6KuNfGYAp0",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "profileImageShape": "Circle",
+  "restId": "1466675689554202624",
+  "tipjarSettings": {
+    "isEnabled": false
+  }
+}

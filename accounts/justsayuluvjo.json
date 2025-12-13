@@ -1,0 +1,75 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {
+    "label": {
+      "url": {
+        "url": "https://twitter.com/soon_svm",
+        "urlType": "DeepLink"
+      },
+      "badge": {
+        "url": "https://pbs.twimg.com/profile_images/1824061692843802624/ypS4GORQ_bigger.png"
+      },
+      "description": "SOON - Solana Optimistic Network (Mainnet Arc)",
+      "userLabelType": "BusinessLabel",
+      "userLabelDisplayType": "Badge"
+    }
+  },
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNzgyNjk4NTQ=",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Sat Aug 14 08:50:30 +0000 2010",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "Co-Founder/CEO @soon_svm, Backed by @jump_ @hack_vc @anagramxyz, Ex @Coinbase @Optimism, Host of Professionally Curious🧠 Podcast w/100 Most Insightful Founders",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "soo.network",
+            "expanded_url": "http://www.soo.network",
+            "url": "https://t.co/mIk5NGNhXf",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 4634,
+    "followersCount": 9529,
+    "following": true,
+    "friendsCount": 2890,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 108,
+    "location": "Manhattan, NY",
+    "mediaCount": 369,
+    "name": "Joanna Zeng @ SOON (🔴,💊)📍🇺🇸🗽 (Mainnet Arc)",
+    "normalFollowersCount": 9529,
+    "pinnedTweetIdsStr": [
+      "1924372685095837768"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/178269854/1733768381",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1906152456779640832/2OCP55YS_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "justsayuluvjo",
+    "statusesCount": 3586,
+    "translatorType": "none",
+    "url": "https://t.co/mIk5NGNhXf",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "profileImageShape": "Circle",
+  "restId": "178269854",
+  "tipjarSettings": {}
+}

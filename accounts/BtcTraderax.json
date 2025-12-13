@@ -1,0 +1,70 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjo3MDIxMzQ1MTE0MTc0MzAwMTc=",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Tue Feb 23 14:14:47 +0000 2016",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "🥷🏻 Web3交易员 | YouTube&B站博主 | BTC/ETH矿工 \n🌱 X用于发现热点学习研究 | 📹️ 记录币圈那点儿事 \n👉🏻 个人观点&文章分享仅供参考,不行成投资依据风险自担！",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "vlink.cc/traderax",
+            "expanded_url": "https://vlink.cc/traderax",
+            "url": "https://t.co/m91XsfgNDi",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 407,
+    "followersCount": 9310,
+    "following": true,
+    "friendsCount": 1610,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 43,
+    "location": "",
+    "mediaCount": 156,
+    "name": "阿旭TRADER",
+    "normalFollowersCount": 9310,
+    "pinnedTweetIdsStr": [
+      "1992318188751872036"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/702134511417430017/1760258856",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1953773641155719170/dumDa5EK_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "BtcTraderax",
+    "statusesCount": 1632,
+    "translatorType": "none",
+    "url": "https://t.co/m91XsfgNDi",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [],
+    "professionalType": "Creator",
+    "restId": "1898438391173406937"
+  },
+  "profileImageShape": "Circle",
+  "restId": "702134511417430017",
+  "tipjarSettings": {
+    "ethereumHandle": "0x60602d9A950Dd948c6c4c8Ba8f7ea01D08E6F694",
+    "isEnabled": true
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNDUzMDIyMjgyMDY3MDM0MTEy",
+  "isBlueVerified": false,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Tue Oct 26 15:34:57 +0000 2021",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "Shipping consumer dapps non-stop💫 \nBacked by @binancelabs @shimacapital @thespartangroup @bigbrainvc",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "sosleek.io",
+            "expanded_url": "https://sosleek.io/",
+            "url": "https://t.co/WVvuWDOZJg",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 12048,
+    "followersCount": 20541,
+    "following": true,
+    "friendsCount": 52,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 118,
+    "location": "",
+    "mediaCount": 572,
+    "name": "Sleek.",
+    "normalFollowersCount": 20541,
+    "pinnedTweetIdsStr": [
+      "1753449607596810314"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1453022282067034112/1706934332",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1754400534134734848/kCtmW_fc_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "Sleek_Labs",
+    "statusesCount": 4075,
+    "translatorType": "none",
+    "url": "https://t.co/WVvuWDOZJg",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [
+      {
+        "iconName": "IconBriefcaseStroke",
+        "id": 1009,
+        "name": "Community"
+      }
+    ],
+    "professionalType": "Business",
+    "restId": "1462892920550293507"
+  },
+  "profileImageShape": "Circle",
+  "restId": "1453022282067034112",
+  "tipjarSettings": {
+    "isEnabled": false
+  }
+}

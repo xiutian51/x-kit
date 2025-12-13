@@ -1,0 +1,62 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjo5NTMzMDAzMjMzMDg3MzI0MTc=",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": false,
+    "canMediaTag": true,
+    "createdAt": "Tue Jan 16 16:18:03 +0000 2018",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "My soul is a cat 🐱 \n加密一代，我们的唯一目标是成为“超级个体” 💎\nCrypto generation’s only target → Super Individual \n7 years in the game, no anxiety, only love ❤️",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "maosup.com",
+            "expanded_url": "http://maosup.com",
+            "url": "https://t.co/sVS6Wcfnc8",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 7528,
+    "followersCount": 28978,
+    "following": true,
+    "friendsCount": 6194,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 848,
+    "location": "Bangkok",
+    "mediaCount": 536,
+    "name": "小毛哥｜超级个体之路",
+    "normalFollowersCount": 28978,
+    "pinnedTweetIdsStr": [
+      "1981249088533516689"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/953300323308732417/1726754040",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1860976774366302208/pNirEK8k_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "porounclemao",
+    "statusesCount": 3570,
+    "translatorType": "none",
+    "url": "https://t.co/sVS6Wcfnc8",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "profileImageShape": "Circle",
+  "restId": "953300323308732417",
+  "tipjarSettings": {}
+}

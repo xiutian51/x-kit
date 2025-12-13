@@ -1,0 +1,45 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNzQ0ODYyMzY0OTkyNzUzNjY0",
+  "isBlueVerified": false,
+  "legacy": {
+    "canDm": false,
+    "canMediaTag": true,
+    "createdAt": "Tue Jan 09 23:23:22 +0000 2024",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "woof @blackwing_fi",
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 7,
+    "followersCount": 16181,
+    "following": true,
+    "friendsCount": 10,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 2,
+    "location": "",
+    "mediaCount": 0,
+    "name": "senorpapasito",
+    "normalFollowersCount": 16181,
+    "pinnedTweetIdsStr": [],
+    "possiblySensitive": false,
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1744863810291118080/IeA68CsQ_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "senorpapasito",
+    "statusesCount": 17,
+    "translatorType": "none",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "profileImageShape": "Circle",
+  "restId": "1744862364992753664",
+  "tipjarSettings": {}
+}

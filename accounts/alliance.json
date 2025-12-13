@@ -1,0 +1,78 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjo5MDk1MTM0OTg2NTIyMjU1Mzg=",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Sun Sep 17 20:24:50 +0000 2017",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "Crypto's leading accelerator & founder network. Apply: https://t.co/v29WpAluLH",
+    "entities": {
+      "description": {
+        "urls": [
+          {
+            "display_url": "alliance.xyz",
+            "expanded_url": "http://alliance.xyz",
+            "url": "https://t.co/v29WpAluLH",
+            "indices": [
+              55,
+              78
+            ]
+          }
+        ]
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "alliance.xyz",
+            "expanded_url": "https://alliance.xyz",
+            "url": "https://t.co/wvVoPrPVoQ",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 4605,
+    "followersCount": 83292,
+    "following": true,
+    "friendsCount": 18,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 1235,
+    "location": "",
+    "mediaCount": 472,
+    "name": "Alliance",
+    "normalFollowersCount": 83292,
+    "pinnedTweetIdsStr": [
+      "1960721531006493155"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/909513498652225538/1730319486",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1793062264141918208/Fs4C7O-y_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "alliance",
+    "statusesCount": 2395,
+    "translatorType": "none",
+    "url": "https://t.co/wvVoPrPVoQ",
+    "verified": false,
+    "verifiedType": "Business",
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [],
+    "professionalType": "Business",
+    "restId": "1583188846971441153"
+  },
+  "profileImageShape": "Square",
+  "restId": "909513498652225538",
+  "tipjarSettings": {}
+}

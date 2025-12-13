@@ -1,0 +1,47 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxMjA5Njc0NjQ0NzQwOTIzMzk0",
+  "isBlueVerified": false,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Wed Dec 25 03:18:18 +0000 2019",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "",
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 44,
+    "followedBy": true,
+    "followersCount": 62,
+    "following": true,
+    "friendsCount": 495,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 2,
+    "location": "Seaside",
+    "mediaCount": 6,
+    "name": "玉米加农炮",
+    "normalFollowersCount": 62,
+    "pinnedTweetIdsStr": [],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1209674644740923394/1668153525",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1998689935113801728/RgnSMPN8_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "Knox4tw",
+    "statusesCount": 109,
+    "translatorType": "none",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "profileImageShape": "Circle",
+  "restId": "1209674644740923394",
+  "tipjarSettings": {}
+}

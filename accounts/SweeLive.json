@@ -1,0 +1,62 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNjc2MDU5ODcwNjQ5NTQ4ODAw",
+  "isBlueVerified": false,
+  "legacy": {
+    "canDm": false,
+    "canMediaTag": true,
+    "createdAt": "Tue Jul 04 02:46:35 +0000 2023",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "AI for fun\nHumans for Real",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "swee.live",
+            "expanded_url": "https://swee.live",
+            "url": "https://t.co/diRqUbNJyD",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 9,
+    "followersCount": 1635,
+    "following": true,
+    "friendsCount": 10,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 0,
+    "location": "☁",
+    "mediaCount": 27,
+    "name": "Swee",
+    "normalFollowersCount": 1635,
+    "pinnedTweetIdsStr": [
+      "1702521584358142051"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1676059870649548800/1743228373",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1905864039001174016/26FIlRRr_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "SweeLive",
+    "statusesCount": 28,
+    "translatorType": "none",
+    "url": "https://t.co/diRqUbNJyD",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "profileImageShape": "Circle",
+  "restId": "1676059870649548800",
+  "tipjarSettings": {}
+}

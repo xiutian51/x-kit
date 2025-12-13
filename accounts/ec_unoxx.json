@@ -1,0 +1,86 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {
+    "label": {
+      "url": {
+        "url": "https://twitter.com/UseUniversalX",
+        "urlType": "DeepLink"
+      },
+      "badge": {
+        "url": "https://pbs.twimg.com/profile_images/1885153504291102720/R7usrJag_bigger.jpg"
+      },
+      "description": "UniversalX",
+      "userLabelType": "BusinessLabel",
+      "userLabelDisplayType": "Badge"
+    }
+  },
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjo3MzE3MTIzNTc4MTk0MjA2NzM=",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": false,
+    "createdAt": "Sun May 15 05:06:35 +0000 2016",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "🔸Half crypto degen, half 饿了么骑手\n🔸AI enthusiast by day, on-chain detective by night\n🔸Find Me 👉 https://t.co/SvLvYTaayQ",
+    "entities": {
+      "description": {
+        "urls": [
+          {
+            "display_url": "t.me/ec_unoxx",
+            "expanded_url": "https://t.me/ec_unoxx",
+            "url": "https://t.co/SvLvYTaayQ",
+            "indices": [
+              93,
+              116
+            ]
+          }
+        ]
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "dune.com/ec_unoxx",
+            "expanded_url": "https://dune.com/ec_unoxx",
+            "url": "https://t.co/PgDFXdfFqP",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 36090,
+    "followedBy": true,
+    "followersCount": 9251,
+    "following": true,
+    "friendsCount": 2381,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 329,
+    "location": "Find My Dashboard 👉",
+    "mediaCount": 463,
+    "name": "Viki_Nan.mp3",
+    "normalFollowersCount": 9251,
+    "pinnedTweetIdsStr": [
+      "1979958037466251369"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/731712357819420673/1746032740",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1889405661659930629/OalDZ1t3_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "ec_unoxx",
+    "statusesCount": 9981,
+    "translatorType": "none",
+    "url": "https://t.co/PgDFXdfFqP",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "profileImageShape": "Circle",
+  "restId": "731712357819420673",
+  "tipjarSettings": {}
+}

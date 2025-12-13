@@ -1,0 +1,80 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNDM3MDQ5NzU0ODgyNDk0NDY2",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": false,
+    "createdAt": "Sun Sep 12 13:45:47 +0000 2021",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "16年入圈的以太坊信仰者/三轮牛熊/金狗猎手/BSC版本之子\n\n近3亿用户的共同选择就在币安入口（有返佣）👇https://t.co/GkODESKccS 🤖 #BNB \n\n去有风的地方做一头猪",
+    "entities": {
+      "description": {
+        "urls": [
+          {
+            "display_url": "accounts.binance.me/zh-CN/register…",
+            "expanded_url": "https://accounts.binance.me/zh-CN/register?ref=VBVFCY62",
+            "url": "https://t.co/GkODESKccS",
+            "indices": [
+              54,
+              77
+            ]
+          }
+        ]
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "web3.binance.com/referral?ref=Y…",
+            "expanded_url": "https://web3.binance.com/referral?ref=Y30AV3KM",
+            "url": "https://t.co/ohYSWoSUJI",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 74565,
+    "followersCount": 265485,
+    "following": true,
+    "friendsCount": 2323,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 1671,
+    "location": "玩儿转链上就用币安钱包👇👇",
+    "mediaCount": 1898,
+    "name": "以太坊老张.eth",
+    "normalFollowersCount": 265485,
+    "pinnedTweetIdsStr": [
+      "1706890696932851964"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1437049754882494466/1685580470",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1560206979309510656/x9uF2NZ6_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "ytflzyyds",
+    "statusesCount": 18797,
+    "translatorType": "none",
+    "url": "https://t.co/ohYSWoSUJI",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [],
+    "professionalType": "Creator",
+    "restId": "1461520171273650181"
+  },
+  "profileImageShape": "Circle",
+  "restId": "1437049754882494466",
+  "tipjarSettings": {
+    "ethereumHandle": "0x818c3c60037244b5a17d163D0f90c731FbD41114",
+    "isEnabled": false
+  }
+}

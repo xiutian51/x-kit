@@ -1,0 +1,67 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjo5ODgzODUwNTM4MDA1MTc2MzI=",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Mon Apr 23 11:52:14 +0000 2018",
+    "defaultProfile": false,
+    "defaultProfileImage": false,
+    "description": "SlowMist is a Blockchain security firm established in 2018, providing services such as security audits, security consultants, red teaming, and more.",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "slowmist.com",
+            "expanded_url": "https://www.slowmist.com/",
+            "url": "https://t.co/IO2VWk2pae",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 3351,
+    "followersCount": 87748,
+    "following": true,
+    "friendsCount": 407,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 874,
+    "location": "",
+    "mediaCount": 1039,
+    "name": "SlowMist",
+    "normalFollowersCount": 87748,
+    "pinnedTweetIdsStr": [
+      "1997874045488971778"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/988385053800517632/1656907176",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1635467425788616705/f0L6oae__normal.png",
+    "profileInterstitialType": "",
+    "screenName": "SlowMist_Team",
+    "statusesCount": 3908,
+    "translatorType": "none",
+    "url": "https://t.co/IO2VWk2pae",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [],
+    "professionalType": "Business",
+    "restId": "1519908374368129026"
+  },
+  "profileImageShape": "Circle",
+  "restId": "988385053800517632",
+  "tipjarSettings": {}
+}

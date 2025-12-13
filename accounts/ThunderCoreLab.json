@@ -1,0 +1,83 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjo5NTAxMTA4MzYwNDI4MjU3Mjg=",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Sun Jan 07 21:04:10 +0000 2018",
+    "defaultProfile": false,
+    "defaultProfileImage": false,
+    "description": "⚡The social revolution starts on ThunderCore⚡\nhttps://t.co/WqMWXoymYr",
+    "entities": {
+      "description": {
+        "urls": [
+          {
+            "display_url": "linktr.ee/_thundercoreof…",
+            "expanded_url": "https://linktr.ee/_thundercoreofficial_",
+            "url": "https://t.co/WqMWXoymYr",
+            "indices": [
+              46,
+              69
+            ]
+          }
+        ]
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "thundercore.com",
+            "expanded_url": "https://www.thundercore.com/",
+            "url": "https://t.co/P9XhSopsXj",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 6134,
+    "followersCount": 204292,
+    "following": true,
+    "friendsCount": 74,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 272,
+    "location": "📱⚔️🏁⚡️🌍⛓️💰$TT",
+    "mediaCount": 1236,
+    "name": "ThunderCore Official ⚡️",
+    "normalFollowersCount": 204292,
+    "pinnedTweetIdsStr": [
+      "1940229661193363505"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/950110836042825728/1736491755",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1834170072363139077/ODs5jkFg_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "ThunderCoreLab",
+    "statusesCount": 4214,
+    "translatorType": "none",
+    "url": "https://t.co/P9XhSopsXj",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [
+      {
+        "iconName": "IconBriefcaseStroke",
+        "id": 713,
+        "name": "Science & Technology"
+      }
+    ],
+    "professionalType": "Business",
+    "restId": "1475350633779986435"
+  },
+  "profileImageShape": "Circle",
+  "restId": "950110836042825728",
+  "tipjarSettings": {}
+}

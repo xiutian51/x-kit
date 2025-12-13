@@ -1,0 +1,73 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNzg5OTA4OTcxOTUzNzk5MTY4",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Mon May 13 06:42:18 +0000 2024",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "The Next-Gen Perp DEX for All Traders\n\nBacked by @yzilabs\n\nhttps://t.co/EF7uEmCGFa",
+    "entities": {
+      "description": {
+        "urls": [
+          {
+            "display_url": "linktr.ee/AsterDEX",
+            "expanded_url": "http://linktr.ee/AsterDEX",
+            "url": "https://t.co/EF7uEmCGFa",
+            "indices": [
+              59,
+              82
+            ]
+          }
+        ]
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "asterdex.com",
+            "expanded_url": "https://www.asterdex.com",
+            "url": "https://t.co/3QriLxyBTn",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 767,
+    "followersCount": 298023,
+    "following": true,
+    "friendsCount": 108,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 878,
+    "location": "Universe",
+    "mediaCount": 1146,
+    "name": "Aster",
+    "normalFollowersCount": 298023,
+    "pinnedTweetIdsStr": [
+      "1997642238541852887"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1789908971953799168/1743407515",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1906615420939022336/j1PVcH8N_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "Aster_DEX",
+    "statusesCount": 2290,
+    "translatorType": "none",
+    "url": "https://t.co/3QriLxyBTn",
+    "verified": false,
+    "verifiedType": "Business",
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "profileImageShape": "Square",
+  "restId": "1789908971953799168",
+  "tipjarSettings": {}
+}

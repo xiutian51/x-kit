@@ -1,0 +1,46 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNzQ4OTg1MzI1NDk2Nzk5MjMy",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": false,
+    "canMediaTag": true,
+    "createdAt": "Sun Jan 21 08:26:23 +0000 2024",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "AI + Crosschain DeFi | Unlocking yield opportunities beyond the first curve.",
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 154,
+    "followersCount": 213634,
+    "following": true,
+    "friendsCount": 46,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 138,
+    "location": "Solana",
+    "mediaCount": 338,
+    "name": "DAPP",
+    "normalFollowersCount": 213634,
+    "pinnedTweetIdsStr": [],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1748985325496799232/1757443804",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1965487778398973952/h81VopS9_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "dappylon",
+    "statusesCount": 723,
+    "translatorType": "none",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "profileImageShape": "Circle",
+  "restId": "1748985325496799232",
+  "tipjarSettings": {}
+}

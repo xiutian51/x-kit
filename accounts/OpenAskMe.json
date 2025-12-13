@@ -1,0 +1,84 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNjI3MTE3OTIwNTI5ODI1Nzk4",
+  "isBlueVerified": false,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": false,
+    "createdAt": "Sun Feb 19 01:28:43 +0000 2023",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "Experience a seamless ask-and-pay process with our @OpenAskTo on Twitter. Plus, on https://t.co/zAokg9Grh6, ask and earn when answers get unlocked by others!",
+    "entities": {
+      "description": {
+        "urls": [
+          {
+            "display_url": "openask.me",
+            "expanded_url": "http://openask.me",
+            "url": "https://t.co/zAokg9Grh6",
+            "indices": [
+              83,
+              106
+            ]
+          }
+        ]
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "openask.me",
+            "expanded_url": "https://www.openask.me/",
+            "url": "https://t.co/E6JGrzdlaM",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 1193,
+    "followedBy": true,
+    "followersCount": 1425,
+    "following": true,
+    "friendsCount": 353,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 3,
+    "location": "San Francisco",
+    "mediaCount": 178,
+    "name": "OpenAsk",
+    "normalFollowersCount": 1425,
+    "pinnedTweetIdsStr": [
+      "1710615722639114580"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1627117920529825798/1696639186",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1711425338226728960/Q2hbViTx_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "OpenAskMe",
+    "statusesCount": 1165,
+    "translatorType": "none",
+    "url": "https://t.co/E6JGrzdlaM",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [
+      {
+        "iconName": "IconBriefcaseStroke",
+        "id": 1009,
+        "name": "Community"
+      }
+    ],
+    "professionalType": "Creator",
+    "restId": "1632287787021107201"
+  },
+  "profileImageShape": "Circle",
+  "restId": "1627117920529825798",
+  "tipjarSettings": {}
+}

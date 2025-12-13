@@ -1,0 +1,76 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNDkwNjMx",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": false,
+    "createdAt": "Mon Mar 19 11:04:33 +0000 2007",
+    "defaultProfile": false,
+    "defaultProfileImage": false,
+    "description": "你所看到的都不是真实的。",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "nocode.com",
+            "expanded_url": "https://nocode.com",
+            "url": "https://t.co/2Htk7UbDPJ",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 52056,
+    "followersCount": 209369,
+    "following": true,
+    "friendsCount": 5710,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 1925,
+    "location": "Singapore",
+    "mediaCount": 1937,
+    "name": "Fenng",
+    "normalFollowersCount": 209369,
+    "pinnedTweetIdsStr": [
+      "1972994361572069518"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1490631/1646896675",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1899444791106007040/kWQcEPwH_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "Fenng",
+    "statusesCount": 46294,
+    "translatorType": "regular",
+    "url": "https://t.co/2Htk7UbDPJ",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [
+      {
+        "iconName": "IconBriefcaseStroke",
+        "id": 713,
+        "name": "Science & Technology"
+      }
+    ],
+    "professionalType": "Creator",
+    "restId": "1461572943155064838"
+  },
+  "profileImageShape": "Circle",
+  "restId": "1490631",
+  "superFollowEligible": true,
+  "tipjarSettings": {
+    "isEnabled": true
+  }
+}

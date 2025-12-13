@@ -1,0 +1,78 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {
+    "label": {
+      "url": {
+        "url": "https://twitter.com/Sidekick_Labs",
+        "urlType": "DeepLink"
+      },
+      "badge": {
+        "url": "https://pbs.twimg.com/profile_images/1997943436050378753/6j8_E-_V_bigger.jpg"
+      },
+      "description": "Sidekick",
+      "userLabelType": "BusinessLabel",
+      "userLabelDisplayType": "Badge"
+    }
+  },
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNDc3NjU1OTYxOTA1MzAzNTU0",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Sun Jan 02 15:00:18 +0000 2022",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "不要问，我是韭菜，只玩天菜 \n打土狗就用GMGN\nhttps://t.co/m09D6AE3Qg\n\n直播间链接：https://t.co/tvzigOLPwr",
+    "entities": {
+      "description": {
+        "urls": [
+          {
+            "display_url": "gmgn.ai/referral/OjzVG…",
+            "expanded_url": "https://gmgn.ai/referral/OjzVGocA?chain=sol",
+            "url": "https://t.co/m09D6AE3Qg",
+            "indices": [
+              25,
+              48
+            ]
+          },
+          {
+            "display_url": "sidekick.fans/cmagr31dm02abj…",
+            "expanded_url": "https://sidekick.fans/cmagr31dm02abjs0moyc0pfxe",
+            "url": "https://t.co/tvzigOLPwr",
+            "indices": [
+              56,
+              79
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 1206,
+    "followersCount": 50149,
+    "following": true,
+    "friendsCount": 2330,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 251,
+    "location": "",
+    "mediaCount": 386,
+    "name": "No.17",
+    "normalFollowersCount": 50149,
+    "pinnedTweetIdsStr": [],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1477655961905303554/1745929365",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1800782324768104448/5HhU6lnD_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "CryptoHtdi",
+    "statusesCount": 3444,
+    "translatorType": "none",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "profileImageShape": "Circle",
+  "restId": "1477655961905303554",
+  "tipjarSettings": {}
+}

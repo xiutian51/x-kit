@@ -1,0 +1,76 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {
+    "label": {
+      "url": {
+        "url": "https://twitter.com/okx",
+        "urlType": "DeepLink"
+      },
+      "badge": {
+        "url": "https://pbs.twimg.com/profile_images/1968722816154345472/vEj4j3o9_bigger.jpg"
+      },
+      "description": "OKX",
+      "userLabelType": "BusinessLabel",
+      "userLabelDisplayType": "Badge"
+    }
+  },
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNzE5Njg4NjA0NTUxNzAwNDgw",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Wed Nov 01 12:11:47 +0000 2023",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "The New Money Chain. Make everything onchain. The only official X Layer channel. Engagement ≠ Endorsement.",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "web3.okx.com/xlayer",
+            "expanded_url": "https://web3.okx.com/xlayer",
+            "url": "https://t.co/C73vYlZBMF",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 396,
+    "followersCount": 151374,
+    "following": true,
+    "friendsCount": 29,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 311,
+    "location": "",
+    "mediaCount": 197,
+    "name": "X Layer",
+    "normalFollowersCount": 151374,
+    "pinnedTweetIdsStr": [
+      "1997983557189616011"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1719688604551700480/1756317468",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1961107616374865920/k_dCk5Vm_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "XLayerOfficial",
+    "statusesCount": 607,
+    "translatorType": "none",
+    "url": "https://t.co/C73vYlZBMF",
+    "verified": false,
+    "verifiedType": "Business",
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "profileImageShape": "Square",
+  "restId": "1719688604551700480",
+  "tipjarSettings": {}
+}

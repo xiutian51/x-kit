@@ -1,0 +1,45 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxOTYyMzc2OTIwMjE5Mzg5OTUy",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Mon Sep 01 04:48:45 +0000 2025",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "记录下操作",
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 162,
+    "followersCount": 19776,
+    "following": true,
+    "friendsCount": 260,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 290,
+    "location": "",
+    "mediaCount": 202,
+    "name": "Dou",
+    "normalFollowersCount": 19776,
+    "pinnedTweetIdsStr": [],
+    "possiblySensitive": false,
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1962377140219019264/l34HyVA6_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "Btc_Dou",
+    "statusesCount": 423,
+    "translatorType": "none",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "profileImageShape": "Circle",
+  "restId": "1962376920219389952",
+  "tipjarSettings": {}
+}

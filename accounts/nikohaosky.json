@@ -1,0 +1,46 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjo3MTczMTE3NjY=",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Thu Jul 26 03:33:27 +0000 2012",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "OKX Retail Trading, Welcome your feedback, Build together",
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 13,
+    "followedBy": true,
+    "followersCount": 159,
+    "following": true,
+    "friendsCount": 1109,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 4,
+    "location": "Hong Kong",
+    "mediaCount": 5,
+    "name": "Niko",
+    "normalFollowersCount": 159,
+    "pinnedTweetIdsStr": [],
+    "possiblySensitive": true,
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1627412334393319424/VO_amElf_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "nikohaosky",
+    "statusesCount": 34,
+    "translatorType": "none",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "profileImageShape": "Circle",
+  "restId": "717311766",
+  "tipjarSettings": {}
+}

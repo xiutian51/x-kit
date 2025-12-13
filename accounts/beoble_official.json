@@ -1,0 +1,48 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNDk4MTkwMjcxMjkyNzc2NDQ4",
+  "isBlueVerified": false,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Mon Feb 28 06:56:16 +0000 2022",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "The chat solution for Web3 people 💬",
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 1473,
+    "followersCount": 94096,
+    "following": true,
+    "friendsCount": 1,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 213,
+    "location": "",
+    "mediaCount": 112,
+    "name": "beoble",
+    "normalFollowersCount": 94096,
+    "pinnedTweetIdsStr": [
+      "1722516419353702575"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1498190271292776448/1699599148",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1641698622701178882/Y27-38i__normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "beoble_official",
+    "statusesCount": 519,
+    "translatorType": "none",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "profileImageShape": "Circle",
+  "restId": "1498190271292776448",
+  "tipjarSettings": {}
+}

@@ -1,0 +1,67 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNTgxNTk5ODkwNDYzMTU4Mjcz",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Sun Oct 16 10:56:25 +0000 2022",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "A PvP-AMM perpetual futures trading protocol build on @GMX_IO $GLP | Minimum transaction fee of 0.008% | Double revenue for staking $LP",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "linktr.ee/liondex",
+            "expanded_url": "http://linktr.ee/liondex",
+            "url": "https://t.co/zqWV1VqIKo",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 219,
+    "followersCount": 10883,
+    "following": true,
+    "friendsCount": 840,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 62,
+    "location": "Arbitrum (💙,🧡)",
+    "mediaCount": 104,
+    "name": "LionDEX",
+    "normalFollowersCount": 10883,
+    "pinnedTweetIdsStr": [
+      "1697536284665999858"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1581599890463158273/1684509602",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1659473048809140224/i5jAqNxp_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "LionDEXOfficial",
+    "statusesCount": 624,
+    "translatorType": "none",
+    "url": "https://t.co/zqWV1VqIKo",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [],
+    "professionalType": "Business",
+    "restId": "1625365096754200576"
+  },
+  "profileImageShape": "Circle",
+  "restId": "1581599890463158273",
+  "tipjarSettings": {}
+}

@@ -1,0 +1,101 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {
+    "label": {
+      "url": {
+        "url": "https://twitter.com/Strategy",
+        "urlType": "DeepLink"
+      },
+      "badge": {
+        "url": "https://pbs.twimg.com/profile_images/1934639177988988928/2vBrUjDh_bigger.png"
+      },
+      "description": "Strategy",
+      "userLabelType": "BusinessLabel",
+      "userLabelDisplayType": "Badge"
+    }
+  },
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoyNDQ2NDc0ODY=",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Sat Jan 29 20:11:04 +0000 2011",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "#Bitcoin is https://t.co/KbbYe745r3 | $BTC Hodler | @Strategy Founder & Chairman | bio https://t.co/9Zlq0oHqyh | $MSTR $STRC $STRD $STRE $STRF $STRK",
+    "entities": {
+      "description": {
+        "urls": [
+          {
+            "display_url": "Hope.com",
+            "expanded_url": "http://Hope.com",
+            "url": "https://t.co/KbbYe745r3",
+            "indices": [
+              12,
+              35
+            ]
+          },
+          {
+            "display_url": "michael.com",
+            "expanded_url": "http://michael.com",
+            "url": "https://t.co/9Zlq0oHqyh",
+            "indices": [
+              87,
+              110
+            ]
+          }
+        ]
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "strategy.com",
+            "expanded_url": "https://strategy.com",
+            "url": "https://t.co/jJRaLehNkH",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 9381,
+    "followersCount": 4740361,
+    "following": true,
+    "friendsCount": 776,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 26683,
+    "location": "Miami Beach, FL",
+    "mediaCount": 1982,
+    "name": "Michael Saylor",
+    "normalFollowersCount": 4740361,
+    "pinnedTweetIdsStr": [
+      "1307029562321231873"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/244647486/1738781752",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1485632175932383235/8t0DGo6V_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "saylor",
+    "statusesCount": 6925,
+    "translatorType": "none",
+    "url": "https://t.co/jJRaLehNkH",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [],
+    "professionalType": "Creator",
+    "restId": "1624566238436376577"
+  },
+  "profileImageShape": "Circle",
+  "restId": "244647486",
+  "tipjarSettings": {
+    "isEnabled": false
+  }
+}

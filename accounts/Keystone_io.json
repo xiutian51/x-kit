@@ -1,0 +1,62 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNjExNDg2MjQ0NjcxOTc5NTIx",
+  "isBlueVerified": false,
+  "legacy": {
+    "canDm": false,
+    "canMediaTag": true,
+    "createdAt": "Fri Jan 06 22:14:13 +0000 2023",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "Socializing the future of gaming ecosystems.",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "keystonefoundation.io",
+            "expanded_url": "http://www.keystonefoundation.io",
+            "url": "https://t.co/J0hvrsihCV",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 223,
+    "followersCount": 4642,
+    "following": true,
+    "friendsCount": 64,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 99,
+    "location": "",
+    "mediaCount": 28,
+    "name": "Keystone Foundation",
+    "normalFollowersCount": 4642,
+    "pinnedTweetIdsStr": [
+      "1834631734522212366"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1611486244671979521/1717090053",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1792658714962321408/xUiuN_qM_normal.png",
+    "profileInterstitialType": "",
+    "screenName": "Keystone_io",
+    "statusesCount": 56,
+    "translatorType": "none",
+    "url": "https://t.co/J0hvrsihCV",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "profileImageShape": "Circle",
+  "restId": "1611486244671979521",
+  "tipjarSettings": {}
+}

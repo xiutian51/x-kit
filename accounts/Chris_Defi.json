@@ -1,0 +1,108 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {
+    "label": {
+      "url": {
+        "url": "https://twitter.com/Sidekick_Labs",
+        "urlType": "DeepLink"
+      },
+      "badge": {
+        "url": "https://pbs.twimg.com/profile_images/1997943436050378753/6j8_E-_V_bigger.jpg"
+      },
+      "description": "Sidekick",
+      "userLabelType": "BusinessLabel",
+      "userLabelDisplayType": "Badge"
+    }
+  },
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxMjY4ODQ2ODUxMjUzMzY2Nzg0",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Fri Jun 05 10:07:34 +0000 2020",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "Web3｜玄学🔮｜占卜🎲｜周易☯️｜ 加密占卜｜玄学金融｜金融占星｜ 宗教哲学｜TG玄学群：@0xChris_defi OKX交易所：🔗 https://t.co/GVmnimj0zv ValueScan：https://t.co/j04US2fT2a",
+    "entities": {
+      "description": {
+        "urls": [
+          {
+            "display_url": "okx.com/join/6269334",
+            "expanded_url": "https://okx.com/join/6269334",
+            "url": "https://t.co/GVmnimj0zv",
+            "indices": [
+              69,
+              92
+            ]
+          },
+          {
+            "display_url": "valuescan.io/login?inviteCo…",
+            "expanded_url": "https://www.valuescan.io/login?inviteCode=CNKJ3Y",
+            "url": "https://t.co/j04US2fT2a",
+            "indices": [
+              103,
+              126
+            ]
+          }
+        ]
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "t.me/Chris_6699",
+            "expanded_url": "https://t.me/Chris_6699",
+            "url": "https://t.co/JStIYsk0qF",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 1323,
+    "followersCount": 111030,
+    "following": true,
+    "friendsCount": 4249,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 2219,
+    "location": "☯️🟨🟩🟦🟥🟫☯️",
+    "mediaCount": 698,
+    "name": "匿名博士",
+    "normalFollowersCount": 111030,
+    "pinnedTweetIdsStr": [
+      "1905779439511982243"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1268846851253366784/1651311257",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1559594596111228928/PIS0hee7_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "Chris_Defi",
+    "statusesCount": 2729,
+    "translatorType": "none",
+    "url": "https://t.co/JStIYsk0qF",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [
+      {
+        "iconName": "IconBriefcaseStroke",
+        "id": 530,
+        "name": "Astrologist"
+      }
+    ],
+    "professionalType": "Creator",
+    "restId": "1487069583315927040"
+  },
+  "profileImageShape": "Circle",
+  "restId": "1268846851253366784",
+  "tipjarSettings": {
+    "ethereumHandle": "0x49F7C899Ce95A1C3b5Bbe1b2d516f3b3227901aD",
+    "isEnabled": true
+  }
+}

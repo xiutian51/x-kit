@@ -1,0 +1,81 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxODAwMTMxNjkwMTM4MDg3NDI1",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Mon Jun 10 11:43:45 +0000 2024",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "Curated crypto trading indicators, delivering real-time trading alpha!\n⚡ Start your 14-day free trial: https://t.co/1SkhbifDb7",
+    "entities": {
+      "description": {
+        "urls": [
+          {
+            "display_url": "coinkarma.pse.is/7wsxnl",
+            "expanded_url": "http://coinkarma.pse.is/7wsxnl",
+            "url": "https://t.co/1SkhbifDb7",
+            "indices": [
+              103,
+              126
+            ]
+          }
+        ]
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "coinkarma.co",
+            "expanded_url": "https://coinkarma.co",
+            "url": "https://t.co/p6SjkRJ0nJ",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 137,
+    "followersCount": 5969,
+    "following": true,
+    "friendsCount": 12,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 115,
+    "location": "",
+    "mediaCount": 303,
+    "name": "CoinKarma",
+    "normalFollowersCount": 5969,
+    "pinnedTweetIdsStr": [],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1800131690138087425/1718587881",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1801446030657142784/K0YAwUJw_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "coinkarma_",
+    "statusesCount": 513,
+    "translatorType": "none",
+    "url": "https://t.co/p6SjkRJ0nJ",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [
+      {
+        "iconName": "IconBriefcaseStroke",
+        "id": 1040,
+        "name": "Financial Tech Company"
+      }
+    ],
+    "professionalType": "Business",
+    "restId": "1801475162602410085"
+  },
+  "profileImageShape": "Circle",
+  "restId": "1800131690138087425",
+  "tipjarSettings": {}
+}

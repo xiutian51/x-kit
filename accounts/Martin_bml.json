@@ -1,0 +1,76 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoyMzkwMzcyMzYw",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Sat Mar 15 04:11:01 +0000 2014",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "I write for me only. Not investment advice.",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "discord.gg/cKCdFz6WPY",
+            "expanded_url": "https://discord.gg/cKCdFz6WPY",
+            "url": "https://t.co/2L9YJPbFWc",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 23374,
+    "followersCount": 105084,
+    "following": true,
+    "friendsCount": 1502,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 496,
+    "location": "https://blackmamba.ventures",
+    "mediaCount": 3139,
+    "name": "Martin",
+    "normalFollowersCount": 105084,
+    "pinnedTweetIdsStr": [],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/2390372360/1679844662",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1851081793212190720/5w-46ZVd_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "Martin_bml",
+    "statusesCount": 10107,
+    "translatorType": "none",
+    "url": "https://t.co/2L9YJPbFWc",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [
+      {
+        "iconName": "IconBriefcaseStroke",
+        "id": 934,
+        "name": "Social Media Influencer"
+      }
+    ],
+    "professionalType": "Creator",
+    "restId": "1514448795014426632"
+  },
+  "profileImageShape": "Circle",
+  "restId": "2390372360",
+  "superFollowEligible": true,
+  "tipjarSettings": {
+    "bitcoinHandle": "bc1q5j480jj4tws7gmsm6jzl3j0ngxyt5dugjnlhfx",
+    "ethereumHandle": "0xE5ceF250102d4336994a5639d14519895A092F9C",
+    "isEnabled": false
+  }
+}

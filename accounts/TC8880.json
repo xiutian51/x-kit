@@ -1,0 +1,63 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNTc3Mzk3Mzc0OTUxMjU2MDY0",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": false,
+    "createdAt": "Tue Oct 04 20:37:04 +0000 2022",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "古典韭菜｜94/312/519幸存者｜MEME爱好新手｜梦想成为【庄家噩梦，散户的王】",
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 1230,
+    "followersCount": 19544,
+    "following": true,
+    "friendsCount": 1010,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 150,
+    "location": "北京",
+    "mediaCount": 416,
+    "name": "TC",
+    "normalFollowersCount": 19544,
+    "pinnedTweetIdsStr": [
+      "1886623030937575882"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1577397374951256064/1712954945",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1894292608647675904/1wgSFRa__normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "TC8880",
+    "statusesCount": 3059,
+    "translatorType": "none",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [
+      {
+        "iconName": "IconBriefcaseStroke",
+        "id": 192,
+        "name": "Financial Services"
+      }
+    ],
+    "professionalType": "Creator",
+    "restId": "1653690793474011136"
+  },
+  "profileImageShape": "Circle",
+  "restId": "1577397374951256064",
+  "tipjarSettings": {
+    "bitcoinHandle": "bc1q4ygty6pwe7tdzzle3uc5y5asypwvtwac0eulak",
+    "ethereumHandle": "0x9F58a2b428bAefE3c59afa78c7A88DA9E2829122",
+    "isEnabled": true
+  }
+}

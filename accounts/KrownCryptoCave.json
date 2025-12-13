@@ -1,0 +1,51 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjo4MDcwMjI4Mzc3NzcyMDMyMDE=",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": false,
+    "canMediaTag": false,
+    "createdAt": "Fri Dec 09 00:43:33 +0000 2016",
+    "defaultProfile": false,
+    "defaultProfileImage": false,
+    "description": "",
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 35160,
+    "followersCount": 111385,
+    "following": true,
+    "friendsCount": 768,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 1493,
+    "location": "",
+    "mediaCount": 2729,
+    "name": "Krown",
+    "normalFollowersCount": 111385,
+    "pinnedTweetIdsStr": [],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/807022837777203201/1548833193",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1903714193653514240/870Pb24X_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "KrownCryptoCave",
+    "statusesCount": 8460,
+    "translatorType": "none",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [],
+    "professionalType": "Creator",
+    "restId": "1589540220533350401"
+  },
+  "profileImageShape": "Circle",
+  "restId": "807022837777203201",
+  "tipjarSettings": {}
+}

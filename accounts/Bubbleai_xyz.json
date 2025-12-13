@@ -1,0 +1,71 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNjY2NDcyNTE5MjEyMzU1NTg0",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Wed Jun 07 15:49:53 +0000 2023",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "Your Gateway to Uncovering Web3's Hidden Signs. Stay ahead with real-time, off-chain transaction insights, putting the power of informed trading at your finger.",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "linktr.ee/BubbleAI",
+            "expanded_url": "https://linktr.ee/BubbleAI",
+            "url": "https://t.co/WzhtqjckXK",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 590,
+    "followersCount": 15406,
+    "following": true,
+    "friendsCount": 242,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 31,
+    "location": "",
+    "mediaCount": 221,
+    "name": "bubbleai.xyz",
+    "normalFollowersCount": 15406,
+    "pinnedTweetIdsStr": [],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1666472519212355584/1691034639",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1679776780004241408/ETBzdLfv_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "Bubbleai_xyz",
+    "statusesCount": 395,
+    "translatorType": "none",
+    "url": "https://t.co/WzhtqjckXK",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [
+      {
+        "iconName": "IconBriefcaseStroke",
+        "id": 713,
+        "name": "Science & Technology"
+      }
+    ],
+    "professionalType": "Business",
+    "restId": "1777930348992819523"
+  },
+  "profileImageShape": "Circle",
+  "restId": "1666472519212355584",
+  "tipjarSettings": {}
+}

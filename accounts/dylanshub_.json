@@ -1,0 +1,47 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNDk0MzY4OTcyNTUyMjEyNDgw",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": false,
+    "canMediaTag": false,
+    "createdAt": "Thu Feb 17 17:52:42 +0000 2022",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "Investor | Founder | Libertarian",
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 10469,
+    "followersCount": 7459,
+    "following": true,
+    "friendsCount": 8215,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 42,
+    "location": "",
+    "mediaCount": 857,
+    "name": "Dylan Shub",
+    "normalFollowersCount": 7459,
+    "pinnedTweetIdsStr": [],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1494368972552212480/1709772650",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1787574238439694336/9XTHEShD_normal.jpg",
+    "profileInterstitialType": "",
+    "_protected": true,
+    "screenName": "dylanshub_",
+    "statusesCount": 4279,
+    "translatorType": "none",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "profileImageShape": "Circle",
+  "restId": "1494368972552212480",
+  "tipjarSettings": {}
+}

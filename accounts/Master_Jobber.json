@@ -1,0 +1,50 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNTgwMDQyODcxMDE2NTIxNzI4",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Wed Oct 12 03:49:27 +0000 2022",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "在找工作。",
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 1004,
+    "followersCount": 4209,
+    "following": true,
+    "friendsCount": 296,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 70,
+    "location": "",
+    "mediaCount": 217,
+    "name": "召北",
+    "normalFollowersCount": 4209,
+    "pinnedTweetIdsStr": [
+      "1995648933041946868"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1580042871016521728/1741756852",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1580043789111943170/0aTDk7ck_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "Master_Jobber",
+    "statusesCount": 1163,
+    "translatorType": "none",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "profileImageShape": "Circle",
+  "restId": "1580042871016521728",
+  "tipjarSettings": {
+    "isEnabled": false
+  }
+}

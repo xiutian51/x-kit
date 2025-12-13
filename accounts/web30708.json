@@ -1,0 +1,59 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNzI2NTM2NzIwODMxODc3MTIw",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Mon Nov 20 09:43:36 +0000 2023",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "🧠 One-stop AI & Web3 directory – https://t.co/D25UgF1FC8",
+    "entities": {
+      "description": {
+        "urls": [
+          {
+            "display_url": "aiweb3atlas.com",
+            "expanded_url": "https://aiweb3atlas.com",
+            "url": "https://t.co/D25UgF1FC8",
+            "indices": [
+              33,
+              56
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 1165,
+    "followedBy": true,
+    "followersCount": 759,
+    "following": true,
+    "friendsCount": 1267,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 14,
+    "location": "",
+    "mediaCount": 117,
+    "name": "HP",
+    "normalFollowersCount": 759,
+    "pinnedTweetIdsStr": [
+      "1874394946154930305"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1726536720831877120/1760255133",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1726537642144321536/sBjOKSUp_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "web30708",
+    "statusesCount": 2069,
+    "translatorType": "none",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "profileImageShape": "Circle",
+  "restId": "1726536720831877120",
+  "tipjarSettings": {}
+}

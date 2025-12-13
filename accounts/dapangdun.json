@@ -1,0 +1,79 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxMzAxMDcwNTk3NDg1NTU1NzEy",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": false,
+    "createdAt": "Wed Sep 02 08:13:06 +0000 2020",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "❤️不靠谱研究员，我写的东西可能是错的\n💚不接推广，如果我感兴趣，免费写\n💙下一阶段：潜心学习BTC技术、做长期布道\n🎯Co-founder of @Alpha_alabs\n☎️唯一TG群组：https://t.co/rHk7XpC4bo",
+    "entities": {
+      "description": {
+        "urls": [
+          {
+            "display_url": "t.me/+0gSCPQufhHtjY…",
+            "expanded_url": "https://t.me/+0gSCPQufhHtjYmE1",
+            "url": "https://t.co/rHk7XpC4bo",
+            "indices": [
+              96,
+              119
+            ]
+          }
+        ]
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "alphalabs.app",
+            "expanded_url": "https://alphalabs.app/",
+            "url": "https://t.co/8kc6cRkNNW",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 5974,
+    "followersCount": 31828,
+    "following": true,
+    "friendsCount": 321,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 945,
+    "location": "China",
+    "mediaCount": 431,
+    "name": "DaPangDun",
+    "normalFollowersCount": 31828,
+    "pinnedTweetIdsStr": [
+      "1944363269667664241"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1301070597485555712/1675299945",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1662358869442711552/e-JculZC_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "dapangdun",
+    "statusesCount": 7469,
+    "translatorType": "none",
+    "url": "https://t.co/8kc6cRkNNW",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [],
+    "professionalType": "Creator",
+    "restId": "1505163745177137157"
+  },
+  "profileImageShape": "Circle",
+  "restId": "1301070597485555712",
+  "tipjarSettings": {
+    "isEnabled": true
+  }
+}

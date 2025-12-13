@@ -1,0 +1,62 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxODE0MTY4MzM3NTQwNDM1OTY4",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Fri Jul 19 05:20:25 +0000 2024",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "Part-time Trader•Ph.D.｜Not Financial Advise｜Our free Community https://t.co/sQlCkImeTz",
+    "entities": {
+      "description": {
+        "urls": [
+          {
+            "display_url": "discord.gg/7MDsGC6HcM",
+            "expanded_url": "https://discord.gg/7MDsGC6HcM",
+            "url": "https://t.co/sQlCkImeTz",
+            "indices": [
+              63,
+              86
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 1185,
+    "followersCount": 17453,
+    "following": true,
+    "friendsCount": 141,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 258,
+    "location": "Texas, USA",
+    "mediaCount": 701,
+    "name": "Balder 猫哥",
+    "normalFollowersCount": 17453,
+    "pinnedTweetIdsStr": [
+      "1887160680085864806"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1814168337540435968/1763232661",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1891012617319411712/Ikv_y_or_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "Balder13946731",
+    "statusesCount": 6024,
+    "translatorType": "none",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "profileImageShape": "Circle",
+  "restId": "1814168337540435968",
+  "tipjarSettings": {
+    "cashAppHandle": "",
+    "isEnabled": true,
+    "venmoHandle": "Balder0405"
+  }
+}

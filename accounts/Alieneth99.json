@@ -1,0 +1,83 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNDcxMTM3NjI5OTQxMTUzNzky",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Wed Dec 15 15:18:52 +0000 2021",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "早期ETH持有者 ｜全职交易员 | 忽略噪音 | 推特当朋友圈发｜频道：https://t.co/OUlork1Wwe",
+    "entities": {
+      "description": {
+        "urls": [
+          {
+            "display_url": "t.me/Alieneth99Lucky",
+            "expanded_url": "https://t.me/Alieneth99Lucky",
+            "url": "https://t.co/OUlork1Wwe",
+            "indices": [
+              36,
+              59
+            ]
+          }
+        ]
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "t.me/Alieneth99",
+            "expanded_url": "https://t.me/Alieneth99",
+            "url": "https://t.co/1atzDri18Q",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 7793,
+    "followersCount": 15528,
+    "following": true,
+    "friendsCount": 1138,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 189,
+    "location": "有事请TG留言👉",
+    "mediaCount": 742,
+    "name": "阿琳Lucky",
+    "normalFollowersCount": 15528,
+    "pinnedTweetIdsStr": [
+      "1935171091179471088"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1471137629941153792/1721294709",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1948497510114230272/Xof0owT5_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "Alieneth99",
+    "statusesCount": 6666,
+    "translatorType": "none",
+    "url": "https://t.co/1atzDri18Q",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [
+      {
+        "iconName": "IconBriefcaseStroke",
+        "id": 192,
+        "name": "Financial Services"
+      }
+    ],
+    "professionalType": "Creator",
+    "restId": "1590358041580699649"
+  },
+  "profileImageShape": "Circle",
+  "restId": "1471137629941153792",
+  "tipjarSettings": {}
+}

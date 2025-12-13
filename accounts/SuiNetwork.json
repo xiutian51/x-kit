@@ -1,0 +1,68 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNDI4ODcyOTI2MzYzNzU0NDk3",
+  "isBlueVerified": false,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Sat Aug 21 00:14:09 +0000 2021",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "Layer 1 blockchain designed to make digital asset ownership fast, private, secure, and accessible to everyone. Twitter by @SuiFoundation. RT ≠ endorsement.",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "sui.io",
+            "expanded_url": "https://sui.io",
+            "url": "https://t.co/RPtmDNb3Yh",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 6301,
+    "followersCount": 1117259,
+    "following": true,
+    "friendsCount": 681,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 4234,
+    "location": "",
+    "mediaCount": 1088,
+    "name": "Sui",
+    "normalFollowersCount": 1117259,
+    "pinnedTweetIdsStr": [
+      "1996588287918784610"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1428872926363754497/1758032716",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1966183924880572416/__KrQPZP_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "SuiNetwork",
+    "statusesCount": 6689,
+    "translatorType": "none",
+    "url": "https://t.co/RPtmDNb3Yh",
+    "verified": false,
+    "verifiedType": "Business",
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [],
+    "professionalType": "Business",
+    "restId": "1584452886192431104"
+  },
+  "profileImageShape": "Square",
+  "restId": "1428872926363754497",
+  "tipjarSettings": {}
+}

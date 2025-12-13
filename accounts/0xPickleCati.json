@@ -1,0 +1,58 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNjUxOTYxNzgyMjA4OTU0Mzcz",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Fri Apr 28 14:49:23 +0000 2023",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "A cat who took the red pill and respawned as a chaotic green pickle 🥒 | Degen trader since 2013 (from Reddit) | Trades 👉 https://t.co/DZBDEnfLqU",
+    "entities": {
+      "description": {
+        "urls": [
+          {
+            "display_url": "t.me/picklecati",
+            "expanded_url": "https://t.me/picklecati",
+            "url": "https://t.co/DZBDEnfLqU",
+            "indices": [
+              121,
+              144
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 15921,
+    "followersCount": 33531,
+    "following": true,
+    "friendsCount": 926,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 465,
+    "location": "My Human Doesn’t Know I’m Here",
+    "mediaCount": 296,
+    "name": "Pickle Cat",
+    "normalFollowersCount": 33531,
+    "pinnedTweetIdsStr": [
+      "1997222059168944228"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1651961782208954373/1741424243",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1879537340080869376/PV5A5sD2_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "0xPickleCati",
+    "statusesCount": 3600,
+    "translatorType": "none",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "profileImageShape": "Circle",
+  "restId": "1651961782208954373",
+  "tipjarSettings": {}
+}

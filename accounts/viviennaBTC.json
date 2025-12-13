@@ -1,0 +1,73 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNDY4MTE2OTY3NTQyMjUxNTIy",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": false,
+    "createdAt": "Tue Dec 07 07:15:54 +0000 2021",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "Macroeconomics | Bitcoin-er since 2017 | Prev. Defi researcher @huobiglobal | INTJ",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "callup.luffa.im/c/VHRkTQwyrAr",
+            "expanded_url": "https://callup.luffa.im/c/VHRkTQwyrAr",
+            "url": "https://t.co/1t3SnW1cJW",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 4660,
+    "followersCount": 26895,
+    "following": true,
+    "friendsCount": 368,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 583,
+    "location": "",
+    "mediaCount": 552,
+    "name": "vivienna.btc",
+    "normalFollowersCount": 26895,
+    "pinnedTweetIdsStr": [
+      "1840923110192922684"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1468116967542251522/1746075994",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1992889163495174144/vhVliipj_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "viviennaBTC",
+    "statusesCount": 4082,
+    "translatorType": "none",
+    "url": "https://t.co/1t3SnW1cJW",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [
+      {
+        "iconName": "IconBriefcaseStroke",
+        "id": 192,
+        "name": "Financial Services"
+      }
+    ],
+    "professionalType": "Creator",
+    "restId": "1574584304923209730"
+  },
+  "profileImageShape": "Circle",
+  "restId": "1468116967542251522",
+  "tipjarSettings": {}
+}

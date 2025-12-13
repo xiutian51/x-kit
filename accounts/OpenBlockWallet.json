@@ -1,0 +1,70 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNTIyMDUzODc1MDQxMTI4NDQ4",
+  "isBlueVerified": false,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Thu May 05 03:22:32 +0000 2022",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "No seed-phrase. No private key. Enjoy seamless Web3 experience at OpenBlock MPC Wallet. Linktree: https://t.co/qsq4CwqRA1",
+    "entities": {
+      "description": {
+        "urls": [
+          {
+            "display_url": "linktr.ee/openblockopera…",
+            "expanded_url": "http://linktr.ee/openblockoperation",
+            "url": "https://t.co/qsq4CwqRA1",
+            "indices": [
+              98,
+              121
+            ]
+          }
+        ]
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "openblock.com",
+            "expanded_url": "http://openblock.com",
+            "url": "https://t.co/Wu8renzOZk",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 628,
+    "followersCount": 7320,
+    "following": true,
+    "friendsCount": 257,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 41,
+    "location": "Decentralized",
+    "mediaCount": 247,
+    "name": "OpenBlock",
+    "normalFollowersCount": 7320,
+    "pinnedTweetIdsStr": [],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1522053875041128448/1668071032",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1640275977350836224/YM4_BG42_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "OpenBlockWallet",
+    "statusesCount": 574,
+    "translatorType": "none",
+    "url": "https://t.co/Wu8renzOZk",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "profileImageShape": "Circle",
+  "restId": "1522053875041128448",
+  "tipjarSettings": {}
+}

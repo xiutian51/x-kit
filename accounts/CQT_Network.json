@@ -1,0 +1,62 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNjc4ODA5MDg5NzY4NTc0OTc3",
+  "isBlueVerified": false,
+  "legacy": {
+    "canDm": false,
+    "canMediaTag": true,
+    "createdAt": "Tue Jul 11 16:55:58 +0000 2023",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "🌐 Ethereum's indispensable ally in ensuring blockchain long-term data availability without reliance on intermediaries.\n\nFollow @covalent_hq for latest updates.",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "covalentnetwork.org",
+            "expanded_url": "https://covalentnetwork.org/",
+            "url": "https://t.co/LvNsDKTcY9",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 55,
+    "followersCount": 1612,
+    "following": true,
+    "friendsCount": 3,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 12,
+    "location": "Vancouver",
+    "mediaCount": 2,
+    "name": "Covalent Network",
+    "normalFollowersCount": 1612,
+    "pinnedTweetIdsStr": [
+      "1779812984694464719"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1678809089768574977/1699385710",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1721974887169048576/wNtGqQ0l_normal.png",
+    "profileInterstitialType": "",
+    "screenName": "CQT_Network",
+    "statusesCount": 8,
+    "translatorType": "none",
+    "url": "https://t.co/LvNsDKTcY9",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "profileImageShape": "Circle",
+  "restId": "1678809089768574977",
+  "tipjarSettings": {}
+}

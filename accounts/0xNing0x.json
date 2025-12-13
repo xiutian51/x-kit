@@ -1,0 +1,63 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxMTc0MjM4NjM1MjMyODQ1ODI1",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Wed Sep 18 08:28:12 +0000 2019",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "独立研究员 |@Web3Caff_ZH 高级研究员 | @Immutable Advocator| @Aptos Collective\n全世界自由意志主义者联合起来！\n\n我的Youtube频道：https://t.co/2dSUkOGEBd\n\n观点是我自己的，非投资建议。",
+    "entities": {
+      "description": {
+        "urls": [
+          {
+            "display_url": "m.youtube.com/@0xNing0x",
+            "expanded_url": "https://m.youtube.com/@0xNing0x",
+            "url": "https://t.co/2dSUkOGEBd",
+            "indices": [
+              97,
+              120
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 38525,
+    "followersCount": 30518,
+    "following": true,
+    "friendsCount": 2915,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 979,
+    "location": "Web3World",
+    "mediaCount": 2454,
+    "name": "NingNing",
+    "normalFollowersCount": 30518,
+    "pinnedTweetIdsStr": [
+      "1744350282509631590"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1174238635232845825/1674121690",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1963095881525428225/Sz3UVSzb_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "0xNing0x",
+    "statusesCount": 17485,
+    "translatorType": "none",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [],
+    "professionalType": "Creator",
+    "restId": "1516305408708980743"
+  },
+  "profileImageShape": "Circle",
+  "restId": "1174238635232845825",
+  "tipjarSettings": {}
+}

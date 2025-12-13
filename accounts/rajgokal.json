@@ -1,0 +1,89 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {
+    "label": {
+      "url": {
+        "url": "https://twitter.com/solanalabs",
+        "urlType": "DeepLink"
+      },
+      "badge": {
+        "url": "https://pbs.twimg.com/profile_images/1468225297703223311/QRZZdxtn_bigger.jpg"
+      },
+      "description": "Solana Labs",
+      "userLabelType": "BusinessLabel",
+      "userLabelDisplayType": "Badge"
+    }
+  },
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxMDE4MzMxNTA=",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Mon Jan 04 18:45:39 +0000 2010",
+    "defaultProfile": false,
+    "defaultProfileImage": false,
+    "description": "@solana accelerationist. giga-techno-optimist. bad jokes are my own. rt's and likes are not endorsements. do your own research.",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "solana.com",
+            "expanded_url": "https://solana.com",
+            "url": "https://t.co/xTgioXcXFV",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 2838,
+    "followersCount": 348423,
+    "following": true,
+    "friendsCount": 2386,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 2929,
+    "location": "Milky Way",
+    "mediaCount": 1027,
+    "name": "raj 🖤",
+    "normalFollowersCount": 348423,
+    "pinnedTweetIdsStr": [
+      "1922412710312001635"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/101833150/1752436750",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1984256809427955712/H9T9bSeV_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "rajgokal",
+    "statusesCount": 10795,
+    "translatorType": "none",
+    "url": "https://t.co/xTgioXcXFV",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [
+      {
+        "iconName": "IconBriefcaseStroke",
+        "id": 958,
+        "name": "Entrepreneur"
+      }
+    ],
+    "professionalType": "Creator",
+    "restId": "1591658045330706432"
+  },
+  "profileImageShape": "Circle",
+  "restId": "101833150",
+  "superFollowEligible": true,
+  "tipjarSettings": {
+    "isEnabled": true
+  }
+}

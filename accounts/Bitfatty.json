@@ -1,0 +1,85 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxMzk3NzI4Nzc2OTE4NzY1NTY4",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Thu May 27 01:38:13 +0000 2021",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "🇨🇳 CNM 点个关注啊\n📺频道：https://t.co/q9OLuYB5BV 晚上直播\n我的亏钱基地 @bnbbzj \n\n ✉️DM for collab",
+    "entities": {
+      "description": {
+        "urls": [
+          {
+            "display_url": "youtube.com/@bitfatty",
+            "expanded_url": "https://www.youtube.com/@bitfatty",
+            "url": "https://t.co/q9OLuYB5BV",
+            "indices": [
+              17,
+              40
+            ]
+          }
+        ]
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "discord.gg/btc100000",
+            "expanded_url": "https://discord.gg/btc100000",
+            "url": "https://t.co/wMJ0QF8WOy",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 6297,
+    "followersCount": 70689,
+    "following": true,
+    "friendsCount": 70,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 1055,
+    "location": "群在这里",
+    "mediaCount": 4670,
+    "name": "比特肥 || Bitfatty (🍀,🍀)",
+    "normalFollowersCount": 70689,
+    "pinnedTweetIdsStr": [
+      "1854395332383350881"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1397728776918765568/1656596564",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1525287875876913152/ToCxWImL_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "Bitfatty",
+    "statusesCount": 12253,
+    "translatorType": "none",
+    "url": "https://t.co/wMJ0QF8WOy",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [
+      {
+        "iconName": "IconBriefcaseStroke",
+        "id": 144,
+        "name": "Education"
+      }
+    ],
+    "professionalType": "Creator",
+    "restId": "1597595476030902274"
+  },
+  "profileImageShape": "Circle",
+  "restId": "1397728776918765568",
+  "tipjarSettings": {
+    "isEnabled": true
+  }
+}

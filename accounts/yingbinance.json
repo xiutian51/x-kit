@@ -1,0 +1,85 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNDUzNTQ4MDc2MjI5MDA1MzEz",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Thu Oct 28 02:24:23 +0000 2021",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "#binance 用币安交易，用广场发声 ｜ENTJ｜2018年入圈但还没财富自由的网络喷子，真诚且清醒｜BNB Holder｜负责广场相关的问题可以随时提供支持｜ 币安广场 ·中文频道➡️https://t.co/AyEn4y7Z1v",
+    "entities": {
+      "description": {
+        "urls": [
+          {
+            "display_url": "t.me/BinanceSquareC…",
+            "expanded_url": "http://t.me/BinanceSquareCN1",
+            "url": "https://t.co/AyEn4y7Z1v",
+            "indices": [
+              95,
+              118
+            ]
+          }
+        ]
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "binance.com/zh-CN/square",
+            "expanded_url": "https://www.binance.com/zh-CN/square",
+            "url": "https://t.co/RzTyN5MEFi",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 3712,
+    "followersCount": 33734,
+    "following": true,
+    "friendsCount": 1895,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 187,
+    "location": "币安保安部",
+    "mediaCount": 453,
+    "name": "滢哥捡到一个BNB🌖",
+    "normalFollowersCount": 33734,
+    "pinnedTweetIdsStr": [
+      "1847685251331473848"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1453548076229005313/1660213307",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1993620623466323968/1cCEY77Q_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "yingbinance",
+    "statusesCount": 5051,
+    "translatorType": "none",
+    "url": "https://t.co/RzTyN5MEFi",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [
+      {
+        "iconName": "IconBriefcaseStroke",
+        "id": 192,
+        "name": "Financial Services"
+      }
+    ],
+    "professionalType": "Creator",
+    "restId": "1490901539505926149"
+  },
+  "profileImageShape": "Circle",
+  "restId": "1453548076229005313",
+  "tipjarSettings": {
+    "isEnabled": true
+  }
+}

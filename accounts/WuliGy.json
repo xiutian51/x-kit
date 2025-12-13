@@ -1,0 +1,48 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNDgxNTc2OTU0ODkzODQ4NTc4",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Thu Jan 13 10:40:56 +0000 2022",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "闻道似悟 遇境则迷",
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 422,
+    "followersCount": 2702,
+    "following": true,
+    "friendsCount": 285,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 119,
+    "location": "",
+    "mediaCount": 104,
+    "name": "wuliGy",
+    "normalFollowersCount": 2702,
+    "pinnedTweetIdsStr": [
+      "1655055717441892355"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1481576954893848578/1683044898",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1592527065894383622/6K26qnLd_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "WuliGy",
+    "statusesCount": 352,
+    "translatorType": "none",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "profileImageShape": "Circle",
+  "restId": "1481576954893848578",
+  "tipjarSettings": {}
+}

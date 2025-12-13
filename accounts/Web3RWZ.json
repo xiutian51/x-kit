@@ -1,0 +1,58 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNDMxMDk5ODIzOTkwNjYxMTIw",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Fri Aug 27 03:42:42 +0000 2021",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "人物志初衷：采访100位行业KOL、基金、创业者、建设者背后的故事。输出高认知、强经验的个人访谈内容！\n全媒体平台链接：https://t.co/vQcsDlAIR8",
+    "entities": {
+      "description": {
+        "urls": [
+          {
+            "display_url": "linktr.ee/web3_rwz",
+            "expanded_url": "https://linktr.ee/web3_rwz",
+            "url": "https://t.co/vQcsDlAIR8",
+            "indices": [
+              60,
+              83
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 611,
+    "followersCount": 16218,
+    "following": true,
+    "friendsCount": 2386,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 59,
+    "location": "",
+    "mediaCount": 82,
+    "name": "Web3人物志",
+    "normalFollowersCount": 16218,
+    "pinnedTweetIdsStr": [
+      "1965737393044283556"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1431099823990661120/1698742511",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1641711955143696385/h9WixVP6_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "Web3RWZ",
+    "statusesCount": 1096,
+    "translatorType": "none",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "profileImageShape": "Circle",
+  "restId": "1431099823990661120",
+  "tipjarSettings": {}
+}

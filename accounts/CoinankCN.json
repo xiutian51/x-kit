@@ -1,0 +1,84 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {
+    "label": {
+      "url": {
+        "url": "https://twitter.com/CoinAnk",
+        "urlType": "DeepLink"
+      },
+      "badge": {
+        "url": "https://pbs.twimg.com/profile_images/1989168765964283909/AoIN2JnA_bigger.jpg"
+      },
+      "description": "CoinAnk",
+      "userLabelType": "BusinessLabel",
+      "userLabelDisplayType": "Badge"
+    }
+  },
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjozOTQ4NjA2MDk=",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Thu Oct 20 18:57:18 +0000 2011",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "專注於加密貨幣衍生品的數據分析平台，專業提供訂單流分析。\n免费提供与市场上多种专业付费工具相竞争的功能，透過官方網站、App和Telegram Bot來實現。\n社交媒體導航: https://t.co/N272qWXx5E",
+    "entities": {
+      "description": {
+        "urls": [
+          {
+            "display_url": "linktr.ee/coinank",
+            "expanded_url": "https://linktr.ee/coinank",
+            "url": "https://t.co/N272qWXx5E",
+            "indices": [
+              88,
+              111
+            ]
+          }
+        ]
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "coinank.com",
+            "expanded_url": "https://coinank.com/",
+            "url": "https://t.co/5C0sIJihva",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 476,
+    "followersCount": 6216,
+    "following": true,
+    "friendsCount": 125,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 94,
+    "location": "",
+    "mediaCount": 1384,
+    "name": "CoinAnk中文",
+    "normalFollowersCount": 6216,
+    "pinnedTweetIdsStr": [],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/394860609/1702266939",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1989462720958402561/ua3BJx4q_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "CoinankCN",
+    "statusesCount": 2373,
+    "translatorType": "none",
+    "url": "https://t.co/5C0sIJihva",
+    "verified": false,
+    "verifiedType": "Business",
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "profileImageShape": "Square",
+  "restId": "394860609",
+  "tipjarSettings": {}
+}

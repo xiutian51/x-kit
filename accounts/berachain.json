@@ -1,0 +1,74 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNDcxOTE3OTk0NzYyNjcwMDgx",
+  "isBlueVerified": false,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Fri Dec 17 18:59:41 +0000 2021",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "Accelerating applications and rewarding users through Proof of Liquidity. Backed by @bhdigitalassets, @hiFramework, @Polychain & @Hack_VC",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "berachain.com",
+            "expanded_url": "http://berachain.com",
+            "url": "https://t.co/Y4cY2PJXBH",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 1660,
+    "followersCount": 891189,
+    "following": true,
+    "friendsCount": 27,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 2641,
+    "location": "Cayman Islands",
+    "mediaCount": 533,
+    "name": "Berachain Foundation 🐻⛓",
+    "normalFollowersCount": 891189,
+    "pinnedTweetIdsStr": [
+      "1988749591517294797"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1471917994762670081/1739059747",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1944830323931459584/oAnROtNJ_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "berachain",
+    "statusesCount": 1262,
+    "translatorType": "none",
+    "url": "https://t.co/Y4cY2PJXBH",
+    "verified": false,
+    "verifiedType": "Business",
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [
+      {
+        "iconName": "IconBriefcaseStroke",
+        "id": 715,
+        "name": "Software Company"
+      }
+    ],
+    "professionalType": "Business",
+    "restId": "1503858905713037315"
+  },
+  "profileImageShape": "Square",
+  "restId": "1471917994762670081",
+  "tipjarSettings": {}
+}

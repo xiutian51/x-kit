@@ -1,0 +1,62 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjo3MjA1NDcy",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Mon Jul 02 13:48:38 +0000 2007",
+    "defaultProfile": false,
+    "defaultProfileImage": false,
+    "description": "A real cyborg vibe coder | Study @ChainFeedsxyz | ex Research @ChainNewscom, @MyToken, @IBM | Holding and accumulating BTC since 2011.",
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 13321,
+    "followersCount": 42060,
+    "following": true,
+    "friendsCount": 3031,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 1310,
+    "location": "Singapore",
+    "mediaCount": 341,
+    "name": "Zhixiong Pan",
+    "normalFollowersCount": 42060,
+    "pinnedTweetIdsStr": [
+      "1995123181057917032"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/7205472/1635481643",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1453941987833368578/KT-m8rBf_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "nake13",
+    "statusesCount": 6308,
+    "translatorType": "none",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [
+      {
+        "iconName": "IconBriefcaseStroke",
+        "id": 718,
+        "name": "Information Technology Company"
+      }
+    ],
+    "professionalType": "Creator",
+    "restId": "1643154267572957192"
+  },
+  "profileImageShape": "Circle",
+  "restId": "7205472",
+  "tipjarSettings": {
+    "ethereumHandle": "0x00000000000044525E7b56CB316054665F8a2EDF",
+    "isEnabled": true
+  }
+}

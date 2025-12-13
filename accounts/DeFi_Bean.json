@@ -1,0 +1,59 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxMjM3NjkxODM1ODk3NjcxNjgw",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Wed Mar 11 10:48:29 +0000 2020",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "🔬 Crypto Researcher $BTC $AAVE $PENDLE 第一性原理 ＞ 逻辑 ＞ 模式 ＞ 知识",
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 4411,
+    "followedBy": true,
+    "followersCount": 5553,
+    "following": true,
+    "friendsCount": 2170,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 254,
+    "location": "",
+    "mediaCount": 431,
+    "name": "Crypto 豆 🌱",
+    "normalFollowersCount": 5553,
+    "pinnedTweetIdsStr": [
+      "1983756322630987991"
+    ],
+    "possiblySensitive": false,
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1911099819600310272/1P4ZVxm1_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "DeFi_Bean",
+    "statusesCount": 5309,
+    "translatorType": "none",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [
+      {
+        "iconName": "IconBriefcaseStroke",
+        "id": 1094,
+        "name": "Blockchain"
+      }
+    ],
+    "professionalType": "Business",
+    "restId": "1586297457205399552"
+  },
+  "profileImageShape": "Circle",
+  "restId": "1237691835897671680",
+  "tipjarSettings": {}
+}

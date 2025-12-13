@@ -1,0 +1,62 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNjkxODUwMzIyNzQ5MDc5NTUy",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Wed Aug 16 16:32:17 +0000 2023",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "The most advanced Raid Bot for real community engagement. Gamify your raids with an integrated leaderboard and automated #Raid2Earn airdrops!\n\nBacked by $SHARX",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "t.me/RaidSharksEntry",
+            "expanded_url": "https://t.me/RaidSharksEntry",
+            "url": "https://t.co/REB3Ywd04f",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 10421,
+    "followersCount": 9932,
+    "following": true,
+    "friendsCount": 175,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 11,
+    "location": "raidsharksbot.com",
+    "mediaCount": 542,
+    "name": "RaidSharks",
+    "normalFollowersCount": 9932,
+    "pinnedTweetIdsStr": [
+      "1995558705153085762"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1691850322749079552/1749724335",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1956138218383912964/dTUWMoqM_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "RaidSharks",
+    "statusesCount": 2380,
+    "translatorType": "none",
+    "url": "https://t.co/REB3Ywd04f",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "profileImageShape": "Circle",
+  "restId": "1691850322749079552",
+  "tipjarSettings": {}
+}

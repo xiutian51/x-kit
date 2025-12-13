@@ -1,0 +1,47 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNDU2MzQ0Nzc2MjE5ODg5NjY0",
+  "isBlueVerified": false,
+  "legacy": {
+    "canDm": false,
+    "canMediaTag": true,
+    "createdAt": "Thu Nov 04 19:37:36 +0000 2021",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "",
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 74,
+    "followersCount": 94,
+    "following": true,
+    "friendsCount": 584,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 1,
+    "location": "",
+    "mediaCount": 15,
+    "name": "loveen",
+    "normalFollowersCount": 94,
+    "pinnedTweetIdsStr": [],
+    "possiblySensitive": false,
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1737715077829300224/D8suncnD_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "lovenftbtceth",
+    "statusesCount": 277,
+    "translatorType": "none",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "profileImageShape": "Circle",
+  "restId": "1456344776219889664",
+  "tipjarSettings": {
+    "isEnabled": true
+  }
+}

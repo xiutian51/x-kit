@@ -1,0 +1,64 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxMzY5MzY2ODg5Njk3MzI1MDY5",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Tue Mar 09 19:18:09 +0000 2021",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "Research/Investing @stratosxyz",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "stratos.xyz",
+            "expanded_url": "http://stratos.xyz",
+            "url": "https://t.co/KF6aupOdMz",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 4222,
+    "followersCount": 2148,
+    "following": true,
+    "friendsCount": 1816,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 66,
+    "location": "",
+    "mediaCount": 58,
+    "name": "Eli Nuss",
+    "normalFollowersCount": 2148,
+    "pinnedTweetIdsStr": [],
+    "possiblySensitive": false,
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1763828236432134144/GXLF_VXS_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "nuss_eli",
+    "statusesCount": 714,
+    "translatorType": "none",
+    "url": "https://t.co/KF6aupOdMz",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [],
+    "professionalType": "Creator",
+    "restId": "1487315561910468613"
+  },
+  "profileImageShape": "Circle",
+  "restId": "1369366889697325069",
+  "tipjarSettings": {}
+}

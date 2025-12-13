@@ -1,0 +1,68 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxMzc3ODIyODY0NjM2NzQ3Nzgx",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": false,
+    "createdAt": "Fri Apr 02 03:19:13 +0000 2021",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "记录投资思考，AI赋能媒体，新闻交易 @followin_io",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "t.me/FWalpha",
+            "expanded_url": "https://t.me/FWalpha",
+            "url": "https://t.co/E3R5rApmwZ",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 3938,
+    "followedBy": true,
+    "followersCount": 11095,
+    "following": true,
+    "friendsCount": 760,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 143,
+    "location": "",
+    "mediaCount": 499,
+    "name": "Will Yang",
+    "normalFollowersCount": 11095,
+    "pinnedTweetIdsStr": [
+      "1990303403277468144"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1377822864636747781/1746004361",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1746877213197389824/M-dxwqv1_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "Will_followin",
+    "statusesCount": 2725,
+    "translatorType": "none",
+    "url": "https://t.co/E3R5rApmwZ",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [],
+    "professionalType": "Creator",
+    "restId": "1459457718758961152"
+  },
+  "profileImageShape": "Circle",
+  "restId": "1377822864636747781",
+  "tipjarSettings": {}
+}

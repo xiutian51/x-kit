@@ -1,0 +1,97 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {
+    "label": {
+      "url": {
+        "url": "https://twitter.com/Tessera_PE",
+        "urlType": "DeepLink"
+      },
+      "badge": {
+        "url": "https://pbs.twimg.com/profile_images/1978823387888644096/-3Q72kcf_bigger.jpg"
+      },
+      "description": "Tessera Lab",
+      "userLabelType": "BusinessLabel",
+      "userLabelDisplayType": "Badge"
+    }
+  },
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNTE5MTMzNQ==",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": false,
+    "createdAt": "Sat Jun 21 17:45:52 +0000 2008",
+    "defaultProfile": false,
+    "defaultProfileImage": false,
+    "description": "HODLer, Trader (aka 韭菜),  Entrepreneur, Creator, Podcaster @SeaTalk_ \n◦ 最好用的 OKX 钱包 https://t.co/H7nSwjf3wn \n◦ 三亿人用的币安 https://t.co/VcwyhGDh5g",
+    "entities": {
+      "description": {
+        "urls": [
+          {
+            "display_url": "t.ly/PpEPc",
+            "expanded_url": "https://t.ly/PpEPc",
+            "url": "https://t.co/H7nSwjf3wn",
+            "indices": [
+              84,
+              107
+            ]
+          },
+          {
+            "display_url": "t.ly/3sg8u",
+            "expanded_url": "https://t.ly/3sg8u",
+            "url": "https://t.co/VcwyhGDh5g",
+            "indices": [
+              119,
+              142
+            ]
+          }
+        ]
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "linktr.ee/SeaTalk",
+            "expanded_url": "https://linktr.ee/SeaTalk",
+            "url": "https://t.co/h0hJJpLFSn",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 5761,
+    "followersCount": 48685,
+    "following": true,
+    "friendsCount": 830,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 1049,
+    "location": "所有链接 →",
+    "mediaCount": 1057,
+    "name": "SΞA 🐸",
+    "normalFollowersCount": 48685,
+    "pinnedTweetIdsStr": [
+      "1813586455069151419"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/15191335/1693052984",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1914322023565963264/kK4wIKSG_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "Sea_Bitcoin",
+    "statusesCount": 10268,
+    "translatorType": "regular",
+    "url": "https://t.co/h0hJJpLFSn",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "profileImageShape": "Circle",
+  "restId": "15191335",
+  "tipjarSettings": {
+    "ethereumHandle": "0x4F9f7e5cE597899B6249Ee527842c7B7CA760775",
+    "isEnabled": true
+  }
+}

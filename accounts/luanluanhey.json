@@ -1,0 +1,48 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNTc2NDk0MzcwNzczNDIyMDgx",
+  "isBlueVerified": false,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Sun Oct 02 08:48:57 +0000 2022",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "枪学大师｜trader not holder｜ 无群无广 纯纯交易做题家 懂点代码 简单嘴臭极致享受",
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 536,
+    "followersCount": 2711,
+    "following": true,
+    "friendsCount": 745,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 21,
+    "location": "",
+    "mediaCount": 194,
+    "name": "luanluan（量化版）",
+    "normalFollowersCount": 2711,
+    "pinnedTweetIdsStr": [
+      "1745286160350335244"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1576494370773422081/1705033594",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1979487767290650624/09N-uFbU_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "luanluanhey",
+    "statusesCount": 1775,
+    "translatorType": "none",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "profileImageShape": "Circle",
+  "restId": "1576494370773422081",
+  "tipjarSettings": {}
+}

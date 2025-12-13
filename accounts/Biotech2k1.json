@@ -1,0 +1,49 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxMjQ0NzgxNzQ5NDU4MTUzNDgw",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Tue Mar 31 00:23:14 +0000 2020",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "Combining 30 years of investing experience, data driven strategy and AI to invest in biotech.",
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 56740,
+    "followersCount": 33120,
+    "following": true,
+    "friendsCount": 1125,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 568,
+    "location": "",
+    "mediaCount": 5175,
+    "muting": true,
+    "name": "Biotech2k",
+    "normalFollowersCount": 33120,
+    "pinnedTweetIdsStr": [
+      "1997076537238274542"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1244781749458153480/1734287304",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1868360326128803840/gJZsPse7_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "Biotech2k1",
+    "statusesCount": 71968,
+    "translatorType": "none",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "profileImageShape": "Circle",
+  "restId": "1244781749458153480",
+  "tipjarSettings": {}
+}

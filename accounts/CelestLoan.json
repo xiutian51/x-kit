@@ -1,0 +1,79 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxMjkxNjg2OTk1NTQ3MzQ4OTky",
+  "isBlueVerified": false,
+  "legacy": {
+    "canDm": false,
+    "canMediaTag": true,
+    "createdAt": "Fri Aug 07 10:46:09 +0000 2020",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "A defi staking and lending tools based on the Celestia🚀\nTIA➡️cTIA➡️Unlimited DeFi protocol\n🔗🌳: https://t.co/8yTFPZEZ2O\n📍: https://t.co/EjL4YGpFQp",
+    "entities": {
+      "description": {
+        "urls": [
+          {
+            "display_url": "linktr.ee/CelestLoan",
+            "expanded_url": "https://linktr.ee/CelestLoan",
+            "url": "https://t.co/8yTFPZEZ2O",
+            "indices": [
+              95,
+              118
+            ]
+          },
+          {
+            "display_url": "mirror.xyz/0x1BdDfdB9",
+            "expanded_url": "https://mirror.xyz/0x1BdDfdB9",
+            "url": "https://t.co/EjL4YGpFQp",
+            "indices": [
+              122,
+              145
+            ]
+          }
+        ]
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "celestloan.com",
+            "expanded_url": "https://www.celestloan.com/",
+            "url": "https://t.co/uaxAo8c0yk",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 48,
+    "followersCount": 6162,
+    "following": true,
+    "friendsCount": 23,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 7,
+    "location": "TIAverse",
+    "mediaCount": 44,
+    "name": "CelestLoan",
+    "normalFollowersCount": 6162,
+    "pinnedTweetIdsStr": [],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1291686995547348992/1702740591",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1736045978086707200/xZvU45ZV_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "CelestLoan",
+    "statusesCount": 108,
+    "translatorType": "none",
+    "url": "https://t.co/uaxAo8c0yk",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "profileImageShape": "Circle",
+  "restId": "1291686995547348992",
+  "tipjarSettings": {}
+}

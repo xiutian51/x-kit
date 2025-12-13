@@ -1,0 +1,79 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxMzk1NTkyNzA1MTYyNDQ0ODA1",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Fri May 21 04:10:12 +0000 2021",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "@CryptoCitytw 主編\nMember/Contributor @AvaxTeam1\n2012 進場的區塊鏈研究員\n@Bitcoin、@ethereum、@avax 信仰者\n\n看過 500u 的 #BTC 嗎？",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "soaringcrowz.substack.com",
+            "expanded_url": "https://soaringcrowz.substack.com/",
+            "url": "https://t.co/LE1a8ypcou",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 19807,
+    "followedBy": true,
+    "followersCount": 4028,
+    "following": true,
+    "friendsCount": 1662,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 67,
+    "location": "Crowverse",
+    "mediaCount": 2548,
+    "name": "小烏鴉Ma𝕏 ｜🔺🌊📘",
+    "normalFollowersCount": 4028,
+    "pinnedTweetIdsStr": [
+      "1633701991758315520"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1395592705162444805/1707798742",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1960897158007414785/KHqmbOnz_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "soaringcrowz",
+    "statusesCount": 15158,
+    "translatorType": "none",
+    "url": "https://t.co/LE1a8ypcou",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [
+      {
+        "iconName": "IconBriefcaseStroke",
+        "id": 933,
+        "name": "Media Personality"
+      }
+    ],
+    "professionalType": "Creator",
+    "restId": "1653339984760553472"
+  },
+  "profileImageShape": "Circle",
+  "restId": "1395592705162444805",
+  "tipjarSettings": {
+    "bitcoinHandle": "3DgxQ29zRb7GwXDiQfhRtru3BUiJ6bbTG3",
+    "ethereumHandle": "0x2583336E58CEb06Eb4864E9021F091057EEAE3ab",
+    "isEnabled": true,
+    "patreonHandle": ""
+  }
+}

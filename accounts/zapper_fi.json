@@ -1,0 +1,84 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxMjA4MDc2MjQyMzY2MjgzNzc2",
+  "isBlueVerified": false,
+  "legacy": {
+    "canDm": false,
+    "canMediaTag": true,
+    "createdAt": "Fri Dec 20 17:29:26 +0000 2019",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "Illuminating the onchain world for all ⚡️\n\nTrack your DeFi and NFT portfolio. Discover new onchain opportunities.\n\nOfficial links: https://t.co/QE92cmPt1G",
+    "entities": {
+      "description": {
+        "urls": [
+          {
+            "display_url": "link3.to/zapper",
+            "expanded_url": "http://link3.to/zapper",
+            "url": "https://t.co/QE92cmPt1G",
+            "indices": [
+              131,
+              154
+            ]
+          }
+        ]
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "zapper.xyz",
+            "expanded_url": "http://zapper.xyz",
+            "url": "https://t.co/S52yzljaUb",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 8139,
+    "followersCount": 181520,
+    "following": true,
+    "friendsCount": 266,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 2071,
+    "location": "Ethereum",
+    "mediaCount": 1156,
+    "name": "Zapper ⚡️",
+    "normalFollowersCount": 181520,
+    "pinnedTweetIdsStr": [
+      "1999185967324758222"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1208076242366283776/1704754033",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1910102391891902464/YfzVuCOe_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "zapper_fi",
+    "statusesCount": 4329,
+    "translatorType": "none",
+    "url": "https://t.co/S52yzljaUb",
+    "verified": false,
+    "verifiedType": "Business",
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [
+      {
+        "iconName": "IconBriefcaseStroke",
+        "id": 715,
+        "name": "Software Company"
+      }
+    ],
+    "professionalType": "Business",
+    "restId": "1586464565881184256"
+  },
+  "profileImageShape": "Square",
+  "restId": "1208076242366283776",
+  "tipjarSettings": {}
+}

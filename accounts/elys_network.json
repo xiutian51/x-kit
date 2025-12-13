@@ -1,0 +1,73 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNjA3MDI3OTMxNjAzNDA2ODUw",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Sun Dec 25 14:58:23 +0000 2022",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "One Investing App. Every market. Built for everyone\nPowered by Elys v2.",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "linktr.ee/elysnetwork",
+            "expanded_url": "https://linktr.ee/elysnetwork",
+            "url": "https://t.co/PXkTaQlruX",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 3999,
+    "followersCount": 133310,
+    "following": true,
+    "friendsCount": 700,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 214,
+    "location": "Soon on Base",
+    "mediaCount": 760,
+    "name": "Elys Network",
+    "normalFollowersCount": 133310,
+    "pinnedTweetIdsStr": [
+      "1986822092826767776"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1607027931603406850/1755891681",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1731847599370420224/qCiGEbe0_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "elys_network",
+    "statusesCount": 4351,
+    "translatorType": "none",
+    "url": "https://t.co/PXkTaQlruX",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [
+      {
+        "iconName": "IconBriefcaseStroke",
+        "id": 713,
+        "name": "Science & Technology"
+      }
+    ],
+    "professionalType": "Business",
+    "restId": "1645940104882692096"
+  },
+  "profileImageShape": "Circle",
+  "restId": "1607027931603406850",
+  "tipjarSettings": {}
+}

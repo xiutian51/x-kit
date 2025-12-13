@@ -1,0 +1,87 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxMzcxMjYzMTc3Mjg4MTMwNTYx",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": false,
+    "createdAt": "Mon Mar 15 00:53:19 +0000 2021",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "相信相信的力量 🧲 | NOT Financial Advice  |  TG: https://t.co/nD5hOffXMO 無小群，無收費群，無微信，只有 NFT 群跟大群，小心詐騙私訊 \nhttps://t.co/opHtThCPAs",
+    "entities": {
+      "description": {
+        "urls": [
+          {
+            "display_url": "t.me/D11111D1",
+            "expanded_url": "http://t.me/D11111D1",
+            "url": "https://t.co/nD5hOffXMO",
+            "indices": [
+              41,
+              64
+            ]
+          },
+          {
+            "display_url": "gmgn.ai/?ref=HGyVKcKb",
+            "expanded_url": "https://gmgn.ai/?ref=HGyVKcKb",
+            "url": "https://t.co/opHtThCPAs",
+            "indices": [
+              98,
+              121
+            ]
+          }
+        ]
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "linktr.ee/1000xCryptoD",
+            "expanded_url": "https://linktr.ee/1000xCryptoD",
+            "url": "https://t.co/qpyqnHfce3",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 17039,
+    "followersCount": 85272,
+    "following": true,
+    "friendsCount": 2733,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 1704,
+    "location": "https://www.1000xgem.fun/",
+    "mediaCount": 1052,
+    "name": "CryptoD | 1000X GEM",
+    "normalFollowersCount": 85272,
+    "pinnedTweetIdsStr": [],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1371263177288130561/1761071001",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1865314120993771524/Pln6jtx-_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "CryptoDevinL",
+    "statusesCount": 6041,
+    "translatorType": "none",
+    "url": "https://t.co/qpyqnHfce3",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [],
+    "professionalType": "Creator",
+    "restId": "1479008717979160580"
+  },
+  "profileImageShape": "Circle",
+  "restId": "1371263177288130561",
+  "tipjarSettings": {
+    "ethereumHandle": "0x937eDDBdE9710843f79Be27fa5A85686f9427277",
+    "isEnabled": false
+  }
+}

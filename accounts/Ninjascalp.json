@@ -1,0 +1,70 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjo5NDM5NTg5ODc1NTY1MDc2NTM=",
+  "isBlueVerified": false,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": false,
+    "createdAt": "Thu Dec 21 21:38:55 +0000 2017",
+    "defaultProfile": false,
+    "defaultProfileImage": false,
+    "description": "mm whisperer | aim for mastery",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "discord.gg/YE4USyg6zZ",
+            "expanded_url": "https://discord.gg/YE4USyg6zZ",
+            "url": "https://t.co/7PYSMlVTeH",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 58474,
+    "followersCount": 261194,
+    "following": true,
+    "friendsCount": 299,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 2958,
+    "location": "",
+    "mediaCount": 15465,
+    "name": "Ninja",
+    "normalFollowersCount": 261194,
+    "pinnedTweetIdsStr": [
+      "1950028793088713074"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/943958987556507653/1741333435",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1541698302231601152/UOfICVts_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "Ninjascalp",
+    "statusesCount": 24456,
+    "translatorType": "none",
+    "url": "https://t.co/7PYSMlVTeH",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [],
+    "professionalType": "Creator",
+    "restId": "1514969439464304641"
+  },
+  "profileImageShape": "Circle",
+  "restId": "943958987556507653",
+  "tipjarSettings": {
+    "bitcoinHandle": "bc1qzygrluym4zywwmna3atunthjnd3f50ghn9q80k",
+    "isEnabled": true
+  }
+}

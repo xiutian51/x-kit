@@ -1,0 +1,58 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNDY5Njg1Njc2NTA1Mzk1MjA1",
+  "isBlueVerified": false,
+  "legacy": {
+    "canDm": false,
+    "canMediaTag": true,
+    "createdAt": "Sat Dec 11 15:09:36 +0000 2021",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "〰️随机漫步的Coder｜⛓On-chain Analysis｜🧗DYOR｜Cook Crypto👉https://t.co/5QF0RRHrrY",
+    "entities": {
+      "description": {
+        "urls": [
+          {
+            "display_url": "dune.com/d0m999",
+            "expanded_url": "https://dune.com/d0m999",
+            "url": "https://t.co/5QF0RRHrrY",
+            "indices": [
+              50,
+              73
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 1170,
+    "followersCount": 984,
+    "following": true,
+    "friendsCount": 417,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 37,
+    "location": "mempool",
+    "mediaCount": 349,
+    "name": "memp∆w🐾",
+    "normalFollowersCount": 984,
+    "pinnedTweetIdsStr": [
+      "1828446677864448181"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1469685676505395205/1736370285",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1901276307528507392/733eeC2g_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "mempAw_LONG",
+    "statusesCount": 1821,
+    "translatorType": "none",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "profileImageShape": "Circle",
+  "restId": "1469685676505395205",
+  "tipjarSettings": {}
+}

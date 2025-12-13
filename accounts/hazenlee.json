@@ -1,0 +1,78 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoyNzM5MDgwODQ0",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": false,
+    "createdAt": "Sun Aug 17 05:47:55 +0000 2014",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "𝙀／𝘼𝙘𝙘｜十年𝙊𝙂 伪𝙏𝙧𝙖𝙙𝙚𝙧真𝙃𝙤𝙙𝙡𝙚𝙧 ｜ 加密信仰传教士已𝘼𝙇𝙇 𝙄𝙉 ₿𝙏𝘾+𝘼𝙄 ｜ 观点明确 从不马后炮 模棱两可｜致力于科技金融投资交易科普｜抽象派行为艺术大师｜多轮牛熊转换趋势吹号手｜𝙇𝙋𝙋𝙇(老婆跑了)模型代言人",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "youtube.com/@hazenlee",
+            "expanded_url": "https://youtube.com/@hazenlee",
+            "url": "https://t.co/1EwW72IIK3",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 36062,
+    "followersCount": 56999,
+    "following": true,
+    "friendsCount": 3433,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 904,
+    "location": "距离你384400km 🌕 🚪520/999/1314",
+    "mediaCount": 3414,
+    "name": "𝙃𝘼𝙕𝙀𝙉𝙇𝙀𝙀",
+    "normalFollowersCount": 56999,
+    "pinnedTweetIdsStr": [
+      "1997058094594203930"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/2739080844/1724282491",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1896132624940191744/h18Fvuz6_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "hazenlee",
+    "statusesCount": 29877,
+    "translatorType": "none",
+    "url": "https://t.co/1EwW72IIK3",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [
+      {
+        "iconName": "IconBriefcaseStroke",
+        "id": 1040,
+        "name": "Financial Tech Company"
+      }
+    ],
+    "professionalType": "Creator",
+    "restId": "1488749711138131968"
+  },
+  "profileImageShape": "Circle",
+  "restId": "2739080844",
+  "superFollowEligible": true,
+  "tipjarSettings": {
+    "bitcoinHandle": "18T7PEQjUkcf5CFRKp22puacVsJox8pNiW",
+    "ethereumHandle": "0xc09bfb73a77cdabf11f839a0c75e40b08b4e23bf",
+    "isEnabled": true
+  }
+}

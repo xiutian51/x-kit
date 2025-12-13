@@ -1,0 +1,90 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {
+    "label": {
+      "url": {
+        "url": "https://twitter.com/0xinfini",
+        "urlType": "DeepLink"
+      },
+      "badge": {
+        "url": "https://pbs.twimg.com/profile_images/1966496740435222529/UCDLDWO2_bigger.jpg"
+      },
+      "description": "Infini",
+      "userLabelType": "BusinessLabel",
+      "userLabelDisplayType": "Badge"
+    }
+  },
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNDc1MTA0NTIyODU5MzE1MjAy",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": false,
+    "createdAt": "Sun Dec 26 14:01:48 +0000 2021",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "Content Creator | Cooking @MocaClub @Moca_Network 👁️ | @Backpack Elite 🎒 | @moonbirds 🦉@megaeth_labs holder 🐰",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "t.me/brucelolzz",
+            "expanded_url": "https://t.me/brucelolzz",
+            "url": "https://t.co/2iKP2uAQon",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 85999,
+    "followersCount": 6925,
+    "following": true,
+    "friendsCount": 3152,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 85,
+    "location": "Taipei City, Taiwan",
+    "mediaCount": 1778,
+    "name": "Bruce.edge 🦭",
+    "normalFollowersCount": 6925,
+    "pinnedTweetIdsStr": [
+      "1993614052627779682"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1475104522859315202/1750576572",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1989701407872851968/tA5CPyKR_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "brucelolzz",
+    "statusesCount": 42662,
+    "translatorType": "none",
+    "url": "https://t.co/2iKP2uAQon",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [
+      {
+        "iconName": "IconBriefcaseStroke",
+        "id": 1094,
+        "name": "Blockchain"
+      }
+    ],
+    "professionalType": "Creator",
+    "restId": "1673019824161841153"
+  },
+  "profileImageShape": "Circle",
+  "restId": "1475104522859315202",
+  "tipjarSettings": {
+    "bitcoinHandle": "3HUhtp8fyz7AasVzwYGYRfanSaxQtzPvqj",
+    "ethereumHandle": "0x780dED412E072A56bbCB7249Acba42290bA4262d",
+    "isEnabled": true
+  }
+}

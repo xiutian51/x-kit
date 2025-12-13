@@ -1,0 +1,62 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNTIxNjMwNzA2ODYxOTQwNzM3",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": false,
+    "canMediaTag": true,
+    "createdAt": "Tue May 03 23:20:21 +0000 2022",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "Canto is a next generation L1 designed to deliver on the promise of DeFi 🌪️🚢 Accessibility, Transparency and Decentralization.",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "canto.io",
+            "expanded_url": "https://canto.io",
+            "url": "https://t.co/8A0KvvNE4h",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 3135,
+    "followersCount": 48279,
+    "following": true,
+    "friendsCount": 811,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 431,
+    "location": "",
+    "mediaCount": 254,
+    "name": "Canto",
+    "normalFollowersCount": 48279,
+    "pinnedTweetIdsStr": [
+      "1836438952254837098"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1521630706861940737/1721211812",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1770854968255270912/qfiv7sgb_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "CantoPublic",
+    "statusesCount": 1427,
+    "translatorType": "none",
+    "url": "https://t.co/8A0KvvNE4h",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "profileImageShape": "Circle",
+  "restId": "1521630706861940737",
+  "tipjarSettings": {}
+}

@@ -1,0 +1,81 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {
+    "label": {
+      "url": {
+        "url": "https://twitter.com/Aster_DEX",
+        "urlType": "DeepLink"
+      },
+      "badge": {
+        "url": "https://pbs.twimg.com/profile_images/1906615420939022336/j1PVcH8N_bigger.jpg"
+      },
+      "description": "Aster",
+      "userLabelType": "BusinessLabel",
+      "userLabelDisplayType": "Badge"
+    }
+  },
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNjIzNDk2Mzg3OTkxMzE0NDMz",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Thu Feb 09 01:38:09 +0000 2023",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "🤯 Unhinged Cheerleader @Aster_DEX \n🪐 Prev @UseUniversalX @Mint_Ventures @pku1898\n🎤 Lydia Asks — Hard Questions Onchain\n\n法书上如是说... 但我告诉你",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "asterdex.com/en/referral/1C…",
+            "expanded_url": "https://www.asterdex.com/en/referral/1C1E7e",
+            "url": "https://t.co/py66XfPqcI",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 11935,
+    "followedBy": true,
+    "followersCount": 8680,
+    "following": true,
+    "friendsCount": 1576,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 155,
+    "location": "认准 aster 啦啦队长🥇链接 ",
+    "mediaCount": 436,
+    "name": "HelloLydia¹³",
+    "normalFollowersCount": 8680,
+    "pinnedTweetIdsStr": [
+      "1995160765238767661"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1623496387991314433/1702570099",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1927342294887227392/EAl0hFCq_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "HelloLydia13",
+    "statusesCount": 4608,
+    "translatorType": "none",
+    "url": "https://t.co/py66XfPqcI",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [],
+    "professionalType": "Creator",
+    "restId": "1829898652544090233"
+  },
+  "profileImageShape": "Circle",
+  "restId": "1623496387991314433",
+  "tipjarSettings": {}
+}

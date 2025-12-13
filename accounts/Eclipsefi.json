@@ -1,0 +1,77 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNDg4OTA5MDM2MjI1NDAwODMz",
+  "isBlueVerified": false,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Wed Feb 02 16:16:48 +0000 2022",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "We’re now focused on building @OrbitEarn a plug-and-play yield layer for Web3 and fintech. \n\nhttps://t.co/3u3gLZFXIO",
+    "entities": {
+      "description": {
+        "urls": [
+          {
+            "display_url": "t.me/Orbitearn",
+            "expanded_url": "https://t.me/Orbitearn",
+            "url": "https://t.co/3u3gLZFXIO",
+            "indices": [
+              93,
+              116
+            ]
+          }
+        ]
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "linktr.ee/eclipsefi",
+            "expanded_url": "https://linktr.ee/eclipsefi",
+            "url": "https://t.co/QPJAf4hAoi",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 13956,
+    "followersCount": 174198,
+    "following": true,
+    "friendsCount": 853,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 254,
+    "location": "",
+    "mediaCount": 1353,
+    "name": "Eclipse Fi",
+    "normalFollowersCount": 174198,
+    "pinnedTweetIdsStr": [
+      "1912127092222996723"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1488909036225400833/1734602836",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1874513878278901760/fWntyXte_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "Eclipsefi",
+    "statusesCount": 7593,
+    "translatorType": "none",
+    "url": "https://t.co/QPJAf4hAoi",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [],
+    "professionalType": "Business",
+    "restId": "1493500486363848707"
+  },
+  "profileImageShape": "Circle",
+  "restId": "1488909036225400833",
+  "tipjarSettings": {}
+}

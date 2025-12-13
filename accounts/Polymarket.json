@@ -1,0 +1,84 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxMjYxMzM1NTQ5MjE1OTg5NzYw",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Fri May 15 16:40:13 +0000 2020",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "The world's largest prediction market. Trade politics, news, culture, sports & tech. Discord: https://t.co/tzKrbDf7dZ Tag @AskPolymarket for live odds.",
+    "entities": {
+      "description": {
+        "urls": [
+          {
+            "display_url": "polymarket.com/r/discord",
+            "expanded_url": "http://polymarket.com/r/discord",
+            "url": "https://t.co/tzKrbDf7dZ",
+            "indices": [
+              94,
+              117
+            ]
+          }
+        ]
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "polymarket.com",
+            "expanded_url": "https://polymarket.com/",
+            "url": "https://t.co/tO2XOjEYHw",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 71921,
+    "followersCount": 837688,
+    "following": true,
+    "friendsCount": 5541,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 4040,
+    "location": "",
+    "mediaCount": 4884,
+    "name": "Polymarket",
+    "normalFollowersCount": 837688,
+    "pinnedTweetIdsStr": [
+      "1996231420117688701"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1261335549215989760/1762818012",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1965851729825546240/fLHeW0Ji_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "Polymarket",
+    "statusesCount": 20175,
+    "translatorType": "none",
+    "url": "https://t.co/tO2XOjEYHw",
+    "verified": false,
+    "verifiedType": "Business",
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [
+      {
+        "iconName": "IconBriefcaseStroke",
+        "id": 713,
+        "name": "Science & Technology"
+      }
+    ],
+    "professionalType": "Business",
+    "restId": "1641109297236004865"
+  },
+  "profileImageShape": "Square",
+  "restId": "1261335549215989760",
+  "tipjarSettings": {}
+}

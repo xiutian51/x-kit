@@ -1,0 +1,60 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNzY2MDcxMTk1ODQwMjUzOTUy",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Fri Mar 08 11:59:28 +0000 2024",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "一个努力提升交易能力的老韭菜。\n水平很菜，重新学习和构建适合自己的投资体系。",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "t.me/XLayer100x",
+            "expanded_url": "https://t.me/XLayer100x",
+            "url": "https://t.co/nF0GwjDtEg",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 5037,
+    "followersCount": 3302,
+    "following": true,
+    "friendsCount": 1001,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 43,
+    "location": "X Layer",
+    "mediaCount": 359,
+    "name": "几米",
+    "normalFollowersCount": 3302,
+    "pinnedTweetIdsStr": [],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1766071195840253952/1763723483",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1988888682544447488/h3m-or3k_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "thlm_jimi",
+    "statusesCount": 3335,
+    "translatorType": "none",
+    "url": "https://t.co/nF0GwjDtEg",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "profileImageShape": "Circle",
+  "restId": "1766071195840253952",
+  "tipjarSettings": {}
+}

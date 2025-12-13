@@ -1,0 +1,65 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNjgzNDQ1NTAyMDk5MjA2MTQ1",
+  "isBlueVerified": false,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Mon Jul 24 11:54:33 +0000 2023",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "🟧#BTC #Layer2 #BRC20 #Ordinals Decentralized Financial Ecology\n🟧#Inscribe #OrderBook #Swap #LaunchPad #NFT Publication & #Marketplace\nBRC20Token: $HOTX",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "linktr.ee/HOTFI",
+            "expanded_url": "https://linktr.ee/HOTFI",
+            "url": "https://t.co/O6f1d8qOuS",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 1705,
+    "followersCount": 36961,
+    "following": true,
+    "friendsCount": 280,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 79,
+    "location": "BITCOIN NETWORK",
+    "mediaCount": 713,
+    "name": "HOTFI || BTC Layer 2 & DEFI Ecology",
+    "normalFollowersCount": 36961,
+    "pinnedTweetIdsStr": [],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1683445502099206145/1701932523",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1760625626585989120/jUk4o72q_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "HOTFI_",
+    "statusesCount": 2074,
+    "translatorType": "none",
+    "url": "https://t.co/O6f1d8qOuS",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [],
+    "professionalType": "Business",
+    "restId": "1687371894474129408"
+  },
+  "profileImageShape": "Circle",
+  "restId": "1683445502099206145",
+  "tipjarSettings": {}
+}

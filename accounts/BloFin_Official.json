@@ -1,0 +1,74 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNjEwNDY1ODc4NzEzNDU0NTky",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Wed Jan 04 02:39:35 +0000 2023",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "Where whales are made. | #BloFin offers premium perps & futures #trading with over 500+ USDT-M trading pairs | @BloFin_Listing for updates.",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "blofin.com",
+            "expanded_url": "http://blofin.com",
+            "url": "https://t.co/xfmEeP1yxm",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 6072,
+    "followersCount": 113808,
+    "following": true,
+    "friendsCount": 358,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 124,
+    "location": "",
+    "mediaCount": 4389,
+    "name": "BloFin Exchange",
+    "normalFollowersCount": 113808,
+    "pinnedTweetIdsStr": [
+      "1996236661424808199"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1610465878713454592/1756291666",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1985641997068009472/bFd8JPC1_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "BloFin_Official",
+    "statusesCount": 8451,
+    "translatorType": "none",
+    "url": "https://t.co/xfmEeP1yxm",
+    "verified": false,
+    "verifiedType": "Business",
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [
+      {
+        "iconName": "IconBriefcaseStroke",
+        "id": 192,
+        "name": "Financial Services"
+      }
+    ],
+    "professionalType": "Business",
+    "restId": "1622503733702840325"
+  },
+  "profileImageShape": "Square",
+  "restId": "1610465878713454592",
+  "tipjarSettings": {}
+}

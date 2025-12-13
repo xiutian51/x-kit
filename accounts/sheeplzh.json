@@ -1,0 +1,58 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNDc3NjAzNTM4OTI2NTkyMDAw",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": false,
+    "canMediaTag": true,
+    "createdAt": "Sun Jan 02 11:32:19 +0000 2022",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "程序员，alpha猎人，专注打新/defi/项目研究/理财，不构成投资建议。\nbn交易大赛数据及预测：https://t.co/qU76wYrdkX",
+    "entities": {
+      "description": {
+        "urls": [
+          {
+            "display_url": "trading-form.sheepl.xyz",
+            "expanded_url": "https://trading-form.sheepl.xyz",
+            "url": "https://t.co/qU76wYrdkX",
+            "indices": [
+              51,
+              74
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 928,
+    "followersCount": 5059,
+    "following": true,
+    "friendsCount": 507,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 86,
+    "location": "",
+    "mediaCount": 348,
+    "name": "0x.绵羊",
+    "normalFollowersCount": 5059,
+    "pinnedTweetIdsStr": [
+      "1992425432671821934"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1477603538926592000/1763906288",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1992592847254753280/8PUoV7KP_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "sheeplzh",
+    "statusesCount": 2689,
+    "translatorType": "none",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "profileImageShape": "Circle",
+  "restId": "1477603538926592000",
+  "tipjarSettings": {}
+}

@@ -1,0 +1,63 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxMzA0OTg2NTA4NjEzNDEwODE2",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": false,
+    "createdAt": "Sun Sep 13 03:33:38 +0000 2020",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "@kunluninstitute kunluninstitute Principal Investigator.Economic liberal, cultural conservative. cooperation on academic research: kunluninstitute@gmail.com",
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 19935,
+    "followersCount": 75396,
+    "following": true,
+    "friendsCount": 779,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 362,
+    "location": "",
+    "mediaCount": 6109,
+    "name": "KUNLUN昆侖",
+    "normalFollowersCount": 75396,
+    "pinnedTweetIdsStr": [
+      "1997455280771334165"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1304986508613410816/1730091131",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1913468760067117056/iSn-pEjB_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "Kunluntalk",
+    "statusesCount": 23683,
+    "translatorType": "none",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [
+      {
+        "iconName": "IconBriefcaseStroke",
+        "id": 957,
+        "name": "Author"
+      }
+    ],
+    "professionalType": "Creator",
+    "restId": "1492031320649658371"
+  },
+  "profileImageShape": "Circle",
+  "restId": "1304986508613410816",
+  "superFollowEligible": true,
+  "tipjarSettings": {
+    "cashAppHandle": "kunluninstitute",
+    "isEnabled": true
+  }
+}

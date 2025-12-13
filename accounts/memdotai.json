@@ -1,0 +1,63 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxMzE2NDk1ODQzNjIxNTExMTY4",
+  "isBlueVerified": false,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Wed Oct 14 21:47:30 +0000 2020",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "Mem is the AI Thought Partner that captures your ideas, meetings, and research—and brings them back to you exactly when you need them.",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "mem.ai",
+            "expanded_url": "https://mem.ai",
+            "url": "https://t.co/oTXY3TZQuZ",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 708,
+    "followersCount": 68342,
+    "following": true,
+    "friendsCount": 25,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 719,
+    "location": "San Francisco, CA",
+    "mediaCount": 225,
+    "name": "Mem",
+    "normalFollowersCount": 68342,
+    "pinnedTweetIdsStr": [
+      "1973388560435904911"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1316495843621511168/1759320329",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1973358604347645952/WTIfpeqf_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "memdotai",
+    "statusesCount": 878794,
+    "translatorType": "none",
+    "url": "https://t.co/oTXY3TZQuZ",
+    "verified": false,
+    "verifiedType": "Business",
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "profileImageShape": "Square",
+  "restId": "1316495843621511168",
+  "tipjarSettings": {}
+}

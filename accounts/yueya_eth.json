@@ -1,0 +1,67 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxMzk0MTc1OTQ1NTMyMDU1NTU0",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": false,
+    "createdAt": "Mon May 17 06:20:43 +0000 2021",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "Cooking @FOMO_v & @Flywheel_DAO｜@Memeland MVP-co founder｜Trader｜Prev: @Defiapp @Stepnofficial ｜",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "t.me/yueya_fnf",
+            "expanded_url": "https://t.me/yueya_fnf",
+            "url": "https://t.co/67XV2heppX",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 37284,
+    "followersCount": 40899,
+    "following": true,
+    "friendsCount": 5034,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 902,
+    "location": "moon",
+    "mediaCount": 1311,
+    "name": "yueya",
+    "normalFollowersCount": 40899,
+    "pinnedTweetIdsStr": [
+      "1998776945689911396"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1394175945532055554/1762794366",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1988218227391176704/nCUlB1Mc_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "yueya_eth",
+    "statusesCount": 19534,
+    "translatorType": "none",
+    "url": "https://t.co/67XV2heppX",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "profileImageShape": "Circle",
+  "restId": "1394175945532055554",
+  "superFollowEligible": true,
+  "tipjarSettings": {
+    "bitcoinHandle": "1NWgjop3oNcppC3X7XsJBAxc3SCnLqxETL",
+    "ethereumHandle": "0xd01A73bef8D17Aa02466754FE43E99342AE30043",
+    "isEnabled": true
+  }
+}

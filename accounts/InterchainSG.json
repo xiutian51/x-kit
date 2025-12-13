@@ -1,0 +1,73 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNDUyNzI1Nzg0MjU1MzM2NDUw",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Mon Oct 25 19:56:58 +0000 2021",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "Providing first-class customer support and dedicated community management in Web3 • For solutions: contact@isg.zone",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "isg.zone",
+            "expanded_url": "http://isg.zone",
+            "url": "https://t.co/dbAQFdLGhx",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 10120,
+    "followersCount": 23779,
+    "following": true,
+    "friendsCount": 670,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 181,
+    "location": "Interchain",
+    "mediaCount": 462,
+    "name": "ISG",
+    "normalFollowersCount": 23779,
+    "pinnedTweetIdsStr": [
+      "1888336557108867415"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1452725784255336450/1757178672",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1964408236234461187/dHjq9zcq_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "InterchainSG",
+    "statusesCount": 2691,
+    "translatorType": "none",
+    "url": "https://t.co/dbAQFdLGhx",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [
+      {
+        "iconName": "IconBriefcaseStroke",
+        "id": 1009,
+        "name": "Community"
+      }
+    ],
+    "professionalType": "Creator",
+    "restId": "1538780081014726656"
+  },
+  "profileImageShape": "Circle",
+  "restId": "1452725784255336450",
+  "tipjarSettings": {}
+}

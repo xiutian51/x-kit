@@ -1,0 +1,71 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": false,
+  "id": "VXNlcjoxOTUyMDY4NDY1OTgyMTAzNTUy",
+  "isBlueVerified": false,
+  "legacy": {
+    "canDm": false,
+    "canMediaTag": true,
+    "createdAt": "Sun Aug 03 18:06:14 +0000 2025",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "Realest",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "t.me/binancesignal_…",
+            "expanded_url": "https://t.me/binancesignal_trades",
+            "url": "https://t.co/34G3wo0lEk",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 175,
+    "followersCount": 94,
+    "following": true,
+    "friendsCount": 56,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 0,
+    "location": "",
+    "mediaCount": 24,
+    "name": "Jackson",
+    "normalFollowersCount": 94,
+    "pinnedTweetIdsStr": [],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1952068465982103552/1764109521",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1995783541058154496/yvRSDFDd_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "binancetrade_s",
+    "statusesCount": 115,
+    "translatorType": "none",
+    "url": "https://t.co/34G3wo0lEk",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [
+      {
+        "iconName": "IconBriefcaseStroke",
+        "id": 1009,
+        "name": "Community"
+      }
+    ],
+    "professionalType": "Business",
+    "restId": "1974715825140687011"
+  },
+  "profileImageShape": "Circle",
+  "restId": "1952068465982103552",
+  "tipjarSettings": {}
+}

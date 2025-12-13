@@ -1,0 +1,101 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNTQ5MzU1NjMwNjQwNTgyNjU2",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Tue Jul 19 11:29:22 +0000 2022",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "PermaDAO 是一个扎根于永久存储生态的协作型 DAO，\n聚合全球建设者，共同探索陌生人之间的去信任化协作。\n\nⓐ 欢迎登船，加入我们 | 主页: https://t.co/2hfNlibvM5 | 登船链接: https://t.co/Zd9rbfzy9s | TG：https://t.co/MDlpqY7FfX",
+    "entities": {
+      "description": {
+        "urls": [
+          {
+            "display_url": "permadao.com",
+            "expanded_url": "http://permadao.com",
+            "url": "https://t.co/2hfNlibvM5",
+            "indices": [
+              76,
+              99
+            ]
+          },
+          {
+            "display_url": "onboard.permadao.com",
+            "expanded_url": "http://onboard.permadao.com",
+            "url": "https://t.co/Zd9rbfzy9s",
+            "indices": [
+              108,
+              131
+            ]
+          },
+          {
+            "display_url": "t.me/PermaDao_ar",
+            "expanded_url": "http://t.me/PermaDao_ar",
+            "url": "https://t.co/MDlpqY7FfX",
+            "indices": [
+              137,
+              160
+            ]
+          }
+        ]
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "linktr.ee/permadao",
+            "expanded_url": "https://linktr.ee/permadao",
+            "url": "https://t.co/72d8muuxEL",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 1685,
+    "followersCount": 3157,
+    "following": true,
+    "friendsCount": 305,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 43,
+    "location": "Singapore",
+    "mediaCount": 724,
+    "name": "PermaDAO中文🐘",
+    "normalFollowersCount": 3157,
+    "pinnedTweetIdsStr": [
+      "1994278273539559604"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1549355630640582656/1699888245",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1636326532376596480/U2GS4OvW_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "perma_daoCN",
+    "statusesCount": 3077,
+    "translatorType": "none",
+    "url": "https://t.co/72d8muuxEL",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [
+      {
+        "iconName": "IconBriefcaseStroke",
+        "id": 37,
+        "name": "Event Venue"
+      }
+    ],
+    "professionalType": "Business",
+    "restId": "1556543354971705344"
+  },
+  "profileImageShape": "Circle",
+  "restId": "1549355630640582656",
+  "tipjarSettings": {}
+}

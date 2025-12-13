@@ -1,0 +1,60 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxMzQwMjc4MDY=",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": false,
+    "canMediaTag": false,
+    "createdAt": "Sat Apr 17 07:43:43 +0000 2010",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "币圈｜美股｜交易",
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 5752,
+    "followersCount": 4254,
+    "following": true,
+    "friendsCount": 2858,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 140,
+    "location": "",
+    "mediaCount": 1076,
+    "name": "Zhao 老赵",
+    "normalFollowersCount": 4254,
+    "pinnedTweetIdsStr": [],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/134027806/1730910797",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1854199511209680896/4rnzSgwd_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "mrzhaoeth",
+    "statusesCount": 7213,
+    "translatorType": "none",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [
+      {
+        "iconName": "IconBriefcaseStroke",
+        "id": 192,
+        "name": "Financial Services"
+      }
+    ],
+    "professionalType": "Business",
+    "restId": "1590581394316500992"
+  },
+  "profileImageShape": "Circle",
+  "restId": "134027806",
+  "tipjarSettings": {
+    "ethereumHandle": "0x5D9Eefc99C72ef25BA9D7105774Afe714907EF22",
+    "isEnabled": true
+  }
+}

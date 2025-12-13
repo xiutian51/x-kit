@@ -1,0 +1,59 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxMzgwNTg5ODQ0ODM4MDU1OTM3",
+  "isBlueVerified": false,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Fri Apr 09 18:34:29 +0000 2021",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "A Community of Vibing and Thriving Changemakers | fka BanklessDAO",
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 4353,
+    "followersCount": 56953,
+    "following": true,
+    "friendsCount": 148,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 1151,
+    "location": "Metaverse",
+    "mediaCount": 1426,
+    "name": "Black Flag DAO 🏴",
+    "normalFollowersCount": 56953,
+    "pinnedTweetIdsStr": [
+      "1913018584609243361"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1380589844838055937/1732279269",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1859940175490826240/yijWXwI-_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "BlackFlagDAO",
+    "statusesCount": 6902,
+    "translatorType": "none",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [
+      {
+        "iconName": "IconBriefcaseStroke",
+        "id": 1009,
+        "name": "Community"
+      }
+    ],
+    "professionalType": "Business",
+    "restId": "1644228920206827523"
+  },
+  "profileImageShape": "Circle",
+  "restId": "1380589844838055937",
+  "tipjarSettings": {}
+}

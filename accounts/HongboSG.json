@@ -1,0 +1,57 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxMTc3OTQxMDg=",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": false,
+    "canMediaTag": true,
+    "createdAt": "Fri Feb 26 16:50:45 +0000 2010",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "#Ethereum #DeFi #Web3",
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 1065,
+    "followersCount": 2506,
+    "following": true,
+    "friendsCount": 385,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 49,
+    "location": "Singapore",
+    "mediaCount": 34,
+    "name": "HB",
+    "normalFollowersCount": 2506,
+    "pinnedTweetIdsStr": [],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/117794108/1650248858",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1661533992997502976/BAZopYrh_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "HongboSG",
+    "statusesCount": 391,
+    "translatorType": "none",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [
+      {
+        "iconName": "IconBriefcaseStroke",
+        "id": 144,
+        "name": "Education"
+      }
+    ],
+    "professionalType": "Creator",
+    "restId": "1484355837716221955"
+  },
+  "profileImageShape": "Circle",
+  "restId": "117794108",
+  "tipjarSettings": {}
+}

@@ -1,0 +1,67 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNDY3ODIxNjExNzM0NjgzNjQ4",
+  "isBlueVerified": false,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Mon Dec 06 11:43:29 +0000 2021",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "原火币官方商家培训导师‖币安OTC初始八大商家之一‖Hashkey出入金大使‖2017年入行至今零冻结‖交易所本人实名支付-冻结包赔‖出金+v:otcxiaoxiao\n有需要讨论的也可以加 telegram群： https://t.co/Km4P7nRYix",
+    "entities": {
+      "description": {
+        "urls": [
+          {
+            "display_url": "t.me/otcxiao",
+            "expanded_url": "https://t.me/otcxiao",
+            "url": "https://t.co/Km4P7nRYix",
+            "indices": [
+              106,
+              129
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 939,
+    "followersCount": 38423,
+    "following": true,
+    "friendsCount": 424,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 271,
+    "location": "Seoul",
+    "mediaCount": 122,
+    "name": "OTC潇潇",
+    "normalFollowersCount": 38423,
+    "pinnedTweetIdsStr": [],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1467821611734683648/1652081506",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1722533459108007936/Rq3FVC_L_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "OTCxiaoxiao",
+    "statusesCount": 2351,
+    "translatorType": "none",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [
+      {
+        "iconName": "IconBriefcaseStroke",
+        "id": 15,
+        "name": "Entertainment & Recreation"
+      }
+    ],
+    "professionalType": "Creator",
+    "restId": "1467843172202074114"
+  },
+  "profileImageShape": "Circle",
+  "restId": "1467821611734683648",
+  "tipjarSettings": {}
+}

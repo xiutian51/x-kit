@@ -1,0 +1,59 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoyOTA5NjgzOTg4",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Tue Nov 25 05:50:52 +0000 2014",
+    "defaultProfile": false,
+    "defaultProfileImage": false,
+    "description": "#Bitcoin 交易员/观察员【Trader】 言论非财务建议 【No Financial Advice】 请确保你是独立做出任何决定 【Please make sure you are making any decisions independently】",
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 2965,
+    "followersCount": 41645,
+    "following": true,
+    "friendsCount": 526,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 732,
+    "location": "Global Village",
+    "mediaCount": 251,
+    "name": "欧阳拽白",
+    "normalFollowersCount": 41645,
+    "pinnedTweetIdsStr": [
+      "1637047007952121856"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/2909683988/1679728879",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1646473598335582209/eQuv2Q25_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "OuYangZhuaiBai",
+    "statusesCount": 1184,
+    "translatorType": "none",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [
+      {
+        "iconName": "IconBriefcaseStroke",
+        "id": 1094,
+        "name": "Blockchain"
+      }
+    ],
+    "professionalType": "Creator",
+    "restId": "1587619170765922305"
+  },
+  "profileImageShape": "Circle",
+  "restId": "2909683988",
+  "tipjarSettings": {}
+}

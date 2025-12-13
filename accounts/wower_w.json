@@ -1,0 +1,79 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjozMDIzODQ4OTI2",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Tue Feb 17 12:33:05 +0000 2015",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "加密货币期权数据分析 | @Greekslive期权数据分析师 | 期权衍生品交易分析\n格致中文期权交流群：https://t.co/4jPmPJG84y\nOKX期权交流群：https://t.co/yUh3K9jGqc",
+    "entities": {
+      "description": {
+        "urls": [
+          {
+            "display_url": "t.me/greekslivecn",
+            "expanded_url": "http://t.me/greekslivecn",
+            "url": "https://t.co/4jPmPJG84y",
+            "indices": [
+              54,
+              77
+            ]
+          },
+          {
+            "display_url": "t.me/OKXGLVoptionsCN",
+            "expanded_url": "http://t.me/OKXGLVoptionsCN",
+            "url": "https://t.co/yUh3K9jGqc",
+            "indices": [
+              87,
+              110
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 290,
+    "followersCount": 3390,
+    "following": true,
+    "friendsCount": 4860,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 133,
+    "location": "",
+    "mediaCount": 395,
+    "name": "wower",
+    "normalFollowersCount": 3390,
+    "pinnedTweetIdsStr": [],
+    "possiblySensitive": false,
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1691904382072160256/yvpCuml6_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "wower_w",
+    "statusesCount": 1177,
+    "translatorType": "none",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [
+      {
+        "iconName": "IconBriefcaseStroke",
+        "id": 37,
+        "name": "Event Venue"
+      }
+    ],
+    "professionalType": "Business",
+    "restId": "1627023615840620544"
+  },
+  "profileImageShape": "Circle",
+  "restId": "3023848926",
+  "tipjarSettings": {
+    "bitcoinHandle": "39rXcDHxM7fzE7A5kfVr9bSDFnDUbkPYDU",
+    "ethereumHandle": "0xb07ad102f4c4e171c15976b4afb2ebf2038d807d",
+    "isEnabled": true
+  }
+}

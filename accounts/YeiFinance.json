@@ -1,0 +1,82 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNzc2MTgxODk3NDM1MTg1MTUy",
+  "isBlueVerified": false,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Fri Apr 05 09:36:22 +0000 2024",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "Building Clovis: cross-chain liquidity layer with Yield Stacking. \n\nYeiBridge, YeiLend, and YeiSwap on Sei.\n\nJoin the community: https://t.co/Xky8BWjaHK",
+    "entities": {
+      "description": {
+        "urls": [
+          {
+            "display_url": "discord.gg/yei",
+            "expanded_url": "http://discord.gg/yei",
+            "url": "https://t.co/Xky8BWjaHK",
+            "indices": [
+              129,
+              152
+            ]
+          }
+        ]
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "yei.finance",
+            "expanded_url": "http://yei.finance",
+            "url": "https://t.co/k8zf7CfJKc",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 11423,
+    "followersCount": 52777,
+    "following": true,
+    "friendsCount": 202,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 104,
+    "location": "Sei ",
+    "mediaCount": 1205,
+    "name": "Yei Finance",
+    "normalFollowersCount": 52777,
+    "pinnedTweetIdsStr": [],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1776181897435185152/1756399153",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1959153542423617537/aPIUGIBX_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "YeiFinance",
+    "statusesCount": 4170,
+    "translatorType": "none",
+    "url": "https://t.co/k8zf7CfJKc",
+    "verified": false,
+    "verifiedType": "Business",
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [
+      {
+        "iconName": "IconBriefcaseStroke",
+        "id": 1094,
+        "name": "Blockchain"
+      }
+    ],
+    "professionalType": "Business",
+    "restId": "1780453444668833908"
+  },
+  "profileImageShape": "Square",
+  "restId": "1776181897435185152",
+  "tipjarSettings": {}
+}

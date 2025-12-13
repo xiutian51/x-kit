@@ -1,0 +1,62 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxMTM0NzEyMg==",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": false,
+    "canMediaTag": true,
+    "createdAt": "Wed Dec 19 19:53:42 +0000 2007",
+    "defaultProfile": false,
+    "defaultProfileImage": false,
+    "description": "Husband to @JenSiebelNewsom and father. 40th Governor of California. Host of podcast This is Gavin Newsom.",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "linktr.ee/govgavinnewsom",
+            "expanded_url": "https://linktr.ee/govgavinnewsom",
+            "url": "https://t.co/teG3D1RNPE",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 5127,
+    "followersCount": 2753301,
+    "following": true,
+    "friendsCount": 20596,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 11515,
+    "location": "California",
+    "mediaCount": 2804,
+    "name": "Gavin Newsom",
+    "normalFollowersCount": 2753301,
+    "pinnedTweetIdsStr": [
+      "1998428299501126016"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/11347122/1623858803",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1405191782984413184/AJ3ar-ad_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "GavinNewsom",
+    "statusesCount": 18196,
+    "translatorType": "none",
+    "url": "https://t.co/teG3D1RNPE",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "profileImageShape": "Circle",
+  "restId": "11347122",
+  "tipjarSettings": {}
+}

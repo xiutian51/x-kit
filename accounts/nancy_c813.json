@@ -1,0 +1,95 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjo3OTg3ODU1ODgwNDg0NzAwMTc=",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Wed Nov 16 07:11:39 +0000 2016",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "空投撸毛｜MeMe｜不拉人头｜#OKXWallet ：https://t.co/Yc6eAmrdrY｜买美股到麦通：https://t.co/DLOJpgSapL｜ YouTube：#遇見Nancy | #所有文章皆不是投资建议",
+    "entities": {
+      "description": {
+        "urls": [
+          {
+            "display_url": "reurl.cc/0WavlY",
+            "expanded_url": "https://reurl.cc/0WavlY",
+            "url": "https://t.co/Yc6eAmrdrY",
+            "indices": [
+              27,
+              50
+            ]
+          },
+          {
+            "display_url": "reurl.cc/7VxAx1",
+            "expanded_url": "https://reurl.cc/7VxAx1",
+            "url": "https://t.co/DLOJpgSapL",
+            "indices": [
+              58,
+              81
+            ]
+          }
+        ]
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "linktr.ee/nancy.c813",
+            "expanded_url": "https://linktr.ee/nancy.c813",
+            "url": "https://t.co/B2uiQgIxzv",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 99413,
+    "followersCount": 102745,
+    "following": true,
+    "friendsCount": 4948,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 466,
+    "location": "Web3",
+    "mediaCount": 3840,
+    "name": "Nancy",
+    "normalFollowersCount": 102745,
+    "pinnedTweetIdsStr": [],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/798785588048470017/1750064705",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1860955176582193152/eYu8UpXp_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "nancy_c813",
+    "statusesCount": 29147,
+    "translatorType": "none",
+    "url": "https://t.co/B2uiQgIxzv",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [
+      {
+        "iconName": "IconBriefcaseStroke",
+        "id": 573,
+        "name": "Child Care Services"
+      }
+    ],
+    "professionalType": "Business",
+    "restId": "1591036312232300546"
+  },
+  "profileImageShape": "Circle",
+  "restId": "798785588048470017",
+  "superFollowEligible": true,
+  "tipjarSettings": {
+    "bitcoinHandle": "1JGvx28i4jHr3uvdW1Kf12Tst4fZkH9VGG",
+    "ethereumHandle": "0x49b8cf5843a8829b811933bae7738bc08d8a560c",
+    "isEnabled": true
+  }
+}

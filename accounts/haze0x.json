@@ -1,0 +1,78 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {
+    "label": {
+      "url": {
+        "url": "https://twitter.com/gmgnai",
+        "urlType": "DeepLink"
+      },
+      "badge": {
+        "url": "https://pbs.twimg.com/profile_images/1998601173205659657/8noZT-3I_bigger.jpg"
+      },
+      "description": "GMGN.Ai",
+      "userLabelType": "BusinessLabel",
+      "userLabelDisplayType": "Badge"
+    }
+  },
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjo5NTkyOTE1OTc2MjI4ODY0MDA=",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": false,
+    "createdAt": "Fri Feb 02 05:05:14 +0000 2018",
+    "defaultProfile": false,
+    "defaultProfileImage": false,
+    "description": "Cooking https://t.co/NVpkvmmdWB\n\nDon't copy trade my wallet, I will sell it at any time.\n\nI have no reason for my trade, just testing the product.",
+    "entities": {
+      "description": {
+        "urls": [
+          {
+            "display_url": "gmgn.ai",
+            "expanded_url": "http://gmgn.ai",
+            "url": "https://t.co/NVpkvmmdWB",
+            "indices": [
+              8,
+              31
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 1822,
+    "followersCount": 136951,
+    "following": true,
+    "friendsCount": 2057,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 2326,
+    "location": "Onchain",
+    "mediaCount": 1213,
+    "name": "Haze 𝓰𝓶𝓰𝓷𝓪𝓲",
+    "normalFollowersCount": 136951,
+    "pinnedTweetIdsStr": [
+      "1886091671361982500"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/959291597622886400/1751467280",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1940293487993208832/pji9dIoA_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "haze0x",
+    "statusesCount": 9594,
+    "translatorType": "none",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [],
+    "professionalType": "Creator",
+    "restId": "1460825753453404168"
+  },
+  "profileImageShape": "Circle",
+  "restId": "959291597622886400",
+  "tipjarSettings": {
+    "isEnabled": false
+  }
+}

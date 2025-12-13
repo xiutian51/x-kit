@@ -1,0 +1,83 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNTYzODczNzQyOTYyNDM0MDQ5",
+  "isBlueVerified": false,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Sun Aug 28 12:59:13 +0000 2022",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "High-end crypto alerts.\n\nStart setting up comprehensive, personalized alerts for free with https://t.co/X873lKyEKZ.",
+    "entities": {
+      "description": {
+        "urls": [
+          {
+            "display_url": "Coinact.gg",
+            "expanded_url": "http://Coinact.gg",
+            "url": "https://t.co/X873lKyEKZ",
+            "indices": [
+              91,
+              114
+            ]
+          }
+        ]
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "coinact.gg",
+            "expanded_url": "http://coinact.gg",
+            "url": "https://t.co/gT1P0Gpd4s",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 121,
+    "followersCount": 4703,
+    "following": true,
+    "friendsCount": 55,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 157,
+    "location": "",
+    "mediaCount": 46,
+    "name": "Coinact - Open Interest Variations",
+    "normalFollowersCount": 4703,
+    "pinnedTweetIdsStr": [
+      "1768234964858920979"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1563873742962434049/1693752302",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1745027544988999680/aQNg5wFJ_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "OIAlertBot",
+    "statusesCount": 12304,
+    "translatorType": "none",
+    "url": "https://t.co/gT1P0Gpd4s",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [
+      {
+        "iconName": "IconBriefcaseStroke",
+        "id": 192,
+        "name": "Financial Services"
+      }
+    ],
+    "professionalType": "Business",
+    "restId": "1589199696752517120"
+  },
+  "profileImageShape": "Circle",
+  "restId": "1563873742962434049",
+  "tipjarSettings": {}
+}

@@ -1,0 +1,65 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNDM2MzYzNzI3MTU5MzY1NjM3",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": false,
+    "createdAt": "Fri Sep 10 16:19:44 +0000 2021",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "We're builders, partners, and traders, inspired by the possibilities of open, trustless, and composable environments.",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "jumpcrypto.com",
+            "expanded_url": "https://jumpcrypto.com",
+            "url": "https://t.co/3lvQdDV4Vs",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 1712,
+    "followersCount": 93659,
+    "following": true,
+    "friendsCount": 47,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 1377,
+    "location": "@jump_pit",
+    "mediaCount": 107,
+    "name": "Jump Crypto 🔥💃🏻",
+    "normalFollowersCount": 93659,
+    "pinnedTweetIdsStr": [],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1436363727159365637/1686068439",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1661067740306718770/WJw813Iy_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "jump_",
+    "statusesCount": 994,
+    "translatorType": "none",
+    "url": "https://t.co/3lvQdDV4Vs",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [],
+    "professionalType": "Business",
+    "restId": "1489382347250311168"
+  },
+  "profileImageShape": "Circle",
+  "restId": "1436363727159365637",
+  "tipjarSettings": {}
+}

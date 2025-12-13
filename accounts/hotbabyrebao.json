@@ -1,0 +1,93 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNjQ1NDAyNTE5NzM5NDY5ODI0",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": false,
+    "createdAt": "Mon Apr 10 12:25:15 +0000 2023",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "爱好meme/合约｜Web3+AI｜币圈认知升级 💰超好用Crydit U卡：https://t.co/Q32QOqRIJs 最好用的交易所🔗 #火币HTX 🔥 👉🏻 https://t.co/WJBMFwNKwS 👉🏻SPT 扫链工具https://t.co/XtfEYO2OkS",
+    "entities": {
+      "description": {
+        "urls": [
+          {
+            "display_url": "b.u6v.cn/5OcNUY",
+            "expanded_url": "http://b.u6v.cn/5OcNUY",
+            "url": "https://t.co/Q32QOqRIJs",
+            "indices": [
+              39,
+              62
+            ]
+          },
+          {
+            "display_url": "bit.ly/4n9LPGm",
+            "expanded_url": "https://bit.ly/4n9LPGm",
+            "url": "https://t.co/WJBMFwNKwS",
+            "indices": [
+              84,
+              107
+            ]
+          },
+          {
+            "display_url": "bit.ly/4qdZn6i",
+            "expanded_url": "https://bit.ly/4qdZn6i",
+            "url": "https://t.co/XtfEYO2OkS",
+            "indices": [
+              118,
+              141
+            ]
+          }
+        ]
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "t.me/rebaohotbaby",
+            "expanded_url": "http://t.me/rebaohotbaby",
+            "url": "https://t.co/HwQICXkjJV",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 1119,
+    "followersCount": 70163,
+    "following": true,
+    "friendsCount": 1422,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 266,
+    "location": "商务合作👉🏻",
+    "mediaCount": 1771,
+    "name": "web3热宝💢",
+    "normalFollowersCount": 70163,
+    "pinnedTweetIdsStr": [
+      "1991029375043842210"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1645402519739469824/1738166525",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1963916711624572928/LmF0uT-X_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "hotbabyrebao",
+    "statusesCount": 15551,
+    "translatorType": "none",
+    "url": "https://t.co/HwQICXkjJV",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "profileImageShape": "Circle",
+  "restId": "1645402519739469824",
+  "tipjarSettings": {
+    "ethereumHandle": "0x525c7202c34a63ba745e297ea75ad22902542e59",
+    "isEnabled": true
+  }
+}

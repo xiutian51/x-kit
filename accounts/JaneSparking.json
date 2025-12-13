@@ -1,0 +1,60 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxODk0ODk4Njk4MDYyMzA3MzMw",
+  "isBlueVerified": false,
+  "legacy": {
+    "canDm": false,
+    "canMediaTag": true,
+    "createdAt": "Wed Feb 26 23:54:33 +0000 2025",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "Lifelong learner & investor. General Partner at YZi Labs. We invest and make impact.",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "yzilabs.com",
+            "expanded_url": "http://yzilabs.com",
+            "url": "https://t.co/m2hO6Wxu4t",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 22,
+    "followersCount": 3263,
+    "following": true,
+    "friendsCount": 47,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 54,
+    "location": "",
+    "mediaCount": 0,
+    "name": "Jane",
+    "normalFollowersCount": 3263,
+    "pinnedTweetIdsStr": [],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1894898698062307330/1741029450",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1899021763071381505/coyYfY_h_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "JaneSparking",
+    "statusesCount": 17,
+    "translatorType": "none",
+    "url": "https://t.co/m2hO6Wxu4t",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "profileImageShape": "Circle",
+  "restId": "1894898698062307330",
+  "tipjarSettings": {}
+}

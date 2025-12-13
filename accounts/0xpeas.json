@@ -1,0 +1,73 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxMjcyOTgxMjY4MTMzNTgwODAw",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Tue Jun 16 19:56:09 +0000 2020",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "慢就是快，真诚是最大的必杀计，长期主义是好东西。build @drhashclub，新人首选 #OKX : https://t.co/LqRk6gDsGj",
+    "entities": {
+      "description": {
+        "urls": [
+          {
+            "display_url": "reurl.cc/eM5DLb",
+            "expanded_url": "http://reurl.cc/eM5DLb",
+            "url": "https://t.co/LqRk6gDsGj",
+            "indices": [
+              54,
+              77
+            ]
+          }
+        ]
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "t.me/peas0x",
+            "expanded_url": "http://t.me/peas0x",
+            "url": "https://t.co/Q4PsyRx4Ss",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 3251,
+    "followersCount": 17454,
+    "following": true,
+    "friendsCount": 625,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 132,
+    "location": "",
+    "mediaCount": 269,
+    "name": "虚拟豆 🫛",
+    "normalFollowersCount": 17454,
+    "pinnedTweetIdsStr": [],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1272981268133580800/1761246855",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1968799807130189825/Qb0QLpHk_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "0xpeas",
+    "statusesCount": 2077,
+    "translatorType": "none",
+    "url": "https://t.co/Q4PsyRx4Ss",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "profileImageShape": "Circle",
+  "restId": "1272981268133580800",
+  "tipjarSettings": {
+    "ethereumHandle": "0xd1A1d8A683877eb11e1108e7e199e7af17c2821d",
+    "isEnabled": true
+  }
+}

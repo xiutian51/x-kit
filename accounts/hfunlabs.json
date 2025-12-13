@@ -1,0 +1,62 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNzg3NDU5NzE4NTM0ODc3MTg0",
+  "isBlueVerified": false,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Mon May 06 12:30:17 +0000 2024",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "The fastest telegram trading bot & launchpad for Hyperliquid",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "hypurr.fun",
+            "expanded_url": "http://hypurr.fun",
+            "url": "https://t.co/Lqz66mn9r1",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 68,
+    "followersCount": 17541,
+    "following": true,
+    "friendsCount": 8,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 274,
+    "location": "",
+    "mediaCount": 26,
+    "name": "Hfun Labs",
+    "normalFollowersCount": 17541,
+    "pinnedTweetIdsStr": [
+      "1849795229496250730"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1787459718534877184/1717757588",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1988562603841290240/iu3raydZ_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "hfunlabs",
+    "statusesCount": 135,
+    "translatorType": "none",
+    "url": "https://t.co/Lqz66mn9r1",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "profileImageShape": "Circle",
+  "restId": "1787459718534877184",
+  "tipjarSettings": {}
+}

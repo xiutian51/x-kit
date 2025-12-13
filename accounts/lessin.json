@@ -1,0 +1,84 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoyOTcwNTEx",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Fri Mar 30 13:22:33 +0000 2007",
+    "defaultProfile": false,
+    "defaultProfileImage": false,
+    "description": "Intern @theinformation. GP @slow. Fmr VP Product FB. co-founder dropio & fin. Seed investor solana, venmo, openphone, teamshares, sublime. https://t.co/N6JqjBvF1o",
+    "entities": {
+      "description": {
+        "urls": [
+          {
+            "display_url": "wless.in",
+            "expanded_url": "https://wless.in",
+            "url": "https://t.co/N6JqjBvF1o",
+            "indices": [
+              139,
+              162
+            ]
+          }
+        ]
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "wless.in",
+            "expanded_url": "https://wless.in",
+            "url": "https://t.co/N6JqjBvF1o",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 12603,
+    "followersCount": 117703,
+    "following": true,
+    "friendsCount": 548,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 1416,
+    "location": "San Francisco, CA",
+    "mediaCount": 2502,
+    "name": "sam lessin 🏴‍☠️",
+    "normalFollowersCount": 117703,
+    "pinnedTweetIdsStr": [
+      "1914450043425427506"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/2970511/1543272987",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1484753905456062467/17Q-Nv6N_normal.png",
+    "profileInterstitialType": "",
+    "screenName": "lessin",
+    "statusesCount": 13647,
+    "translatorType": "none",
+    "url": "https://t.co/N6JqjBvF1o",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [
+      {
+        "iconName": "IconBriefcaseStroke",
+        "id": 579,
+        "name": "Media & News"
+      }
+    ],
+    "professionalType": "Creator",
+    "restId": "1463260667473924097"
+  },
+  "profileImageShape": "Circle",
+  "restId": "2970511",
+  "superFollowEligible": true,
+  "tipjarSettings": {}
+}

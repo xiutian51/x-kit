@@ -1,0 +1,57 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjo1Mzk0NDAwMg==",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Sun Jul 05 16:28:51 +0000 2009",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "",
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 1566,
+    "followersCount": 1523,
+    "following": true,
+    "friendsCount": 1786,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 34,
+    "location": "Singapore",
+    "mediaCount": 44,
+    "name": "Robbie",
+    "normalFollowersCount": 1523,
+    "pinnedTweetIdsStr": [],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/53944002/1634502636",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1534852499035025414/waYLRgZp_normal.png",
+    "profileInterstitialType": "",
+    "screenName": "RobbieLiu",
+    "statusesCount": 381,
+    "translatorType": "none",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [
+      {
+        "iconName": "IconBriefcaseStroke",
+        "id": 192,
+        "name": "Financial Services"
+      }
+    ],
+    "professionalType": "Creator",
+    "restId": "1607361508794634240"
+  },
+  "profileImageShape": "Circle",
+  "restId": "53944002",
+  "tipjarSettings": {}
+}

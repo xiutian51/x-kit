@@ -1,0 +1,86 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {
+    "label": {
+      "url": {
+        "url": "https://twitter.com/UseUniversalX",
+        "urlType": "DeepLink"
+      },
+      "badge": {
+        "url": "https://pbs.twimg.com/profile_images/1885153504291102720/R7usrJag_bigger.jpg"
+      },
+      "description": "UniversalX",
+      "userLabelType": "BusinessLabel",
+      "userLabelDisplayType": "Badge"
+    }
+  },
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNTcyNzc5NjQ1ODI4OTk3MTIw",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": false,
+    "createdAt": "Thu Sep 22 02:47:56 +0000 2022",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "| ex-VC\n| 大红项目寻血猎犬+项目拆解\n| 《祛魅理论》作者\n| 社区 👉🏻 https://t.co/WYuaF4p7cV\n| 做币圈永远的学生，做有质量的文章\n| 关注我，别错过我定期更新的项目分析调研",
+    "entities": {
+      "description": {
+        "urls": [
+          {
+            "display_url": "linktr.ee/cryptoHowe",
+            "expanded_url": "https://linktr.ee/cryptoHowe",
+            "url": "https://t.co/WYuaF4p7cV",
+            "indices": [
+              43,
+              66
+            ]
+          }
+        ]
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "t.me/cryptohowe_tre…",
+            "expanded_url": "https://t.me/cryptohowe_treasure",
+            "url": "https://t.co/FrtXy8KrYf",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 17624,
+    "followedBy": true,
+    "followersCount": 7740,
+    "following": true,
+    "friendsCount": 1116,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 266,
+    "location": "",
+    "mediaCount": 425,
+    "name": "Howe 祛魅 | 𝟎𝐱𝐔💢",
+    "normalFollowersCount": 7740,
+    "pinnedTweetIdsStr": [
+      "1929023602017579174"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1572779645828997120/1746934548",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1938548521906663424/owPx0QUF_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "0xcryptoHowe",
+    "statusesCount": 6589,
+    "translatorType": "none",
+    "url": "https://t.co/FrtXy8KrYf",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "profileImageShape": "Circle",
+  "restId": "1572779645828997120",
+  "tipjarSettings": {}
+}

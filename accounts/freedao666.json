@@ -1,0 +1,48 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoyNTkxMzg4NzU4",
+  "isBlueVerified": false,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Fri Jun 27 13:38:54 +0000 2014",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "Asia's largest trading organization $btc #freedao 微博:FreeDao中文",
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 562,
+    "followersCount": 18461,
+    "following": true,
+    "friendsCount": 4,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 314,
+    "location": "",
+    "mediaCount": 202,
+    "name": "Free Dao",
+    "normalFollowersCount": 18461,
+    "pinnedTweetIdsStr": [
+      "1714595072300523605"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/2591388758/1692180030",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1691751772925448192/PtYLkF2L_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "freedao666",
+    "statusesCount": 369,
+    "translatorType": "none",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "profileImageShape": "Circle",
+  "restId": "2591388758",
+  "tipjarSettings": {}
+}

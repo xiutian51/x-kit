@@ -1,0 +1,78 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNTM5NjgxMDExNjk2NjAzMTM3",
+  "isBlueVerified": false,
+  "legacy": {
+    "canDm": false,
+    "canMediaTag": true,
+    "createdAt": "Wed Jun 22 18:45:49 +0000 2022",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "We back bold entrepreneurs building the next internet. \nPosts are not investment advice or an advertisement for investment services. See https://t.co/CrY32IX80W 👇",
+    "entities": {
+      "description": {
+        "urls": [
+          {
+            "display_url": "a16z.com/disclosures",
+            "expanded_url": "http://a16z.com/disclosures",
+            "url": "https://t.co/CrY32IX80W",
+            "indices": [
+              137,
+              160
+            ]
+          }
+        ]
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "a16zcrypto.com",
+            "expanded_url": "https://a16zcrypto.com/",
+            "url": "https://t.co/xCadR0qWxO",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 20061,
+    "followersCount": 177157,
+    "following": true,
+    "friendsCount": 512,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 2140,
+    "location": "",
+    "mediaCount": 1001,
+    "name": "a16z crypto",
+    "normalFollowersCount": 177157,
+    "pinnedTweetIdsStr": [
+      "1999142266666156104"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1539681011696603137/1666109780",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1582168997134422016/HcmVyKwV_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "a16zcrypto",
+    "statusesCount": 7083,
+    "translatorType": "none",
+    "url": "https://t.co/xCadR0qWxO",
+    "verified": false,
+    "verifiedType": "Business",
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [],
+    "professionalType": "Business",
+    "restId": "1540014265918177280"
+  },
+  "profileImageShape": "Square",
+  "restId": "1539681011696603137",
+  "tipjarSettings": {}
+}

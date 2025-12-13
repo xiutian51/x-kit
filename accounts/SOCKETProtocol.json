@@ -1,0 +1,78 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxMzk1NzU0MTQxMzQ4MDI4NDE2",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Fri May 21 14:51:51 +0000 2021",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "The First Chain Abstraction Protocol that allows devs to compose with any app, user, and asset across 100+ rollups. Join us: https://t.co/glt2LrGaVi",
+    "entities": {
+      "description": {
+        "urls": [
+          {
+            "display_url": "discord.gg/socketsociety",
+            "expanded_url": "https://discord.gg/socketsociety",
+            "url": "https://t.co/glt2LrGaVi",
+            "indices": [
+              125,
+              148
+            ]
+          }
+        ]
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "linktr.ee/socketprotocol",
+            "expanded_url": "https://linktr.ee/socketprotocol",
+            "url": "https://t.co/XgUT6WYLQI",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 6781,
+    "followersCount": 51442,
+    "following": true,
+    "friendsCount": 35,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 484,
+    "location": "",
+    "mediaCount": 845,
+    "name": "SOCKET (mainnet arc)",
+    "normalFollowersCount": 51442,
+    "pinnedTweetIdsStr": [
+      "1962880596859859243"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1395754141348028416/1725469520",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1932868613285019648/z3Di0hQQ_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "SOCKETProtocol",
+    "statusesCount": 3741,
+    "translatorType": "none",
+    "url": "https://t.co/XgUT6WYLQI",
+    "verified": false,
+    "verifiedType": "Business",
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [],
+    "professionalType": "Business",
+    "restId": "1528762329525293062"
+  },
+  "profileImageShape": "Square",
+  "restId": "1395754141348028416",
+  "tipjarSettings": {}
+}

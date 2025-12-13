@@ -1,0 +1,70 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjo0NjU3NDk3Nw==",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": false,
+    "canMediaTag": true,
+    "createdAt": "Fri Jun 12 03:55:58 +0000 2009",
+    "defaultProfile": false,
+    "defaultProfileImage": false,
+    "description": "感谢您关注华尔街日报中文网。我们有上千位专业记者与资深编辑遍布全球，为读者提供24小时最可靠、即时和深入的市场动向，政商时事，科技趋势和前沿思潮。欢迎阅读并分享见解。\n\n尽管全球局势瞬息万变，可靠的信息来源仍能助您洞悉全局，运筹帷幄。前往https://t.co/Ay39I3A0HH成为会员，尽享赢得全球核心决策者信赖的独到见解和深入分析。",
+    "entities": {
+      "description": {
+        "urls": [
+          {
+            "display_url": "cn.wsj.com",
+            "expanded_url": "http://cn.wsj.com",
+            "url": "https://t.co/Ay39I3A0HH",
+            "indices": [
+              119,
+              142
+            ]
+          }
+        ]
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "cn.wsj.com",
+            "expanded_url": "https://cn.wsj.com/",
+            "url": "https://t.co/YEMZVdznen",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 8,
+    "followersCount": 3259237,
+    "following": true,
+    "friendsCount": 498,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 9216,
+    "location": "China",
+    "mediaCount": 5973,
+    "name": "华尔街日报中文网",
+    "normalFollowersCount": 3259237,
+    "pinnedTweetIdsStr": [],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/46574977/1722989773",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1037219311130234880/KXlUBc9N_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "ChineseWSJ",
+    "statusesCount": 90050,
+    "translatorType": "none",
+    "url": "https://t.co/YEMZVdznen",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "profileImageShape": "Circle",
+  "restId": "46574977",
+  "tipjarSettings": {}
+}

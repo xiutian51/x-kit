@@ -1,0 +1,59 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNDE1MzA0NTQ0MjM0MzExNjgy",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Wed Jul 14 13:38:04 +0000 2021",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "",
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 64,
+    "followersCount": 6801,
+    "following": true,
+    "friendsCount": 465,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 104,
+    "location": "",
+    "mediaCount": 111,
+    "name": "神之一手笑",
+    "normalFollowersCount": 6801,
+    "pinnedTweetIdsStr": [],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1415304544234311682/1744397920",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1933417095964078081/nloL91UU_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "PeakZeroX",
+    "statusesCount": 315,
+    "translatorType": "none",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [
+      {
+        "iconName": "IconBriefcaseStroke",
+        "id": 192,
+        "name": "Financial Services"
+      }
+    ],
+    "professionalType": "Creator",
+    "restId": "1520057552079269888"
+  },
+  "profileImageShape": "Circle",
+  "restId": "1415304544234311682",
+  "tipjarSettings": {
+    "isEnabled": true
+  }
+}

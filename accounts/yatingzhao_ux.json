@@ -1,0 +1,71 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxMjU1NDcxMjY3MTk4NzgzNDk1",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Wed Apr 29 12:17:38 +0000 2020",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "Helping founders design products people actually want | Running a solo design agency @BrewpotDesign | Trusted by 19 teams | Open to DMs",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "cal.com/yating-zhao/15…",
+            "expanded_url": "https://cal.com/yating-zhao/15min",
+            "url": "https://t.co/92LxMiq6Zw",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 1295,
+    "followersCount": 9466,
+    "following": true,
+    "friendsCount": 3925,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 82,
+    "location": "Los Angeles, CA",
+    "mediaCount": 171,
+    "name": "Yating Zhao",
+    "normalFollowersCount": 9466,
+    "pinnedTweetIdsStr": [],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1255471267198783495/1719212025",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1805131800106385408/X_1s5Zr3_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "yatingzhao_ux",
+    "statusesCount": 521,
+    "translatorType": "none",
+    "url": "https://t.co/92LxMiq6Zw",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [
+      {
+        "iconName": "IconBriefcaseStroke",
+        "id": 1020,
+        "name": "Product Designer"
+      }
+    ],
+    "professionalType": "Creator",
+    "restId": "1807951251965202779"
+  },
+  "profileImageShape": "Circle",
+  "restId": "1255471267198783495",
+  "tipjarSettings": {}
+}

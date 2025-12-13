@@ -1,0 +1,80 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjo3MjI4NDgwNDYzMjE1MDgzNTI=",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": false,
+    "createdAt": "Wed Apr 20 18:02:58 +0000 2016",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "Christian/British Patriot/Conservatives/中国叛逃公职人员/YT：https://t.co/GrFL00gP7a Discord：https://t.co/f0Zs060Gmm 投稿邮箱：lundunbagong@gmail.com",
+    "entities": {
+      "description": {
+        "urls": [
+          {
+            "display_url": "youtube.com/@woyongdehuawei",
+            "expanded_url": "http://www.youtube.com/@woyongdehuawei",
+            "url": "https://t.co/GrFL00gP7a",
+            "indices": [
+              52,
+              75
+            ]
+          },
+          {
+            "display_url": "discord.gg/GKP2WG7ABx",
+            "expanded_url": "https://discord.gg/GKP2WG7ABx",
+            "url": "https://t.co/f0Zs060Gmm",
+            "indices": [
+              84,
+              107
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 24613,
+    "followersCount": 80481,
+    "following": true,
+    "friendsCount": 826,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 356,
+    "location": "London, England",
+    "mediaCount": 6771,
+    "name": "清丝老师谈治国理政",
+    "normalFollowersCount": 80481,
+    "pinnedTweetIdsStr": [
+      "1744308099131871366"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/722848046321508352/1698954296",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1829410849577938944/lduE7qLO_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "woyongdehuawei",
+    "statusesCount": 25805,
+    "translatorType": "none",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [
+      {
+        "iconName": "IconBriefcaseStroke",
+        "id": 934,
+        "name": "Social Media Influencer"
+      }
+    ],
+    "professionalType": "Creator",
+    "restId": "1721633294842778029"
+  },
+  "profileImageShape": "Circle",
+  "restId": "722848046321508352",
+  "tipjarSettings": {
+    "isEnabled": true
+  }
+}

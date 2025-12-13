@@ -1,0 +1,77 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjo3NjY2Nzg1NzQ=",
+  "isBlueVerified": false,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Sun Aug 19 01:14:21 +0000 2012",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "The more I learn, the more I realize how much I don’t know.",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "t.me/dylaneth",
+            "expanded_url": "https://t.me/dylaneth",
+            "url": "https://t.co/nhPM0WZsC1",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 17355,
+    "followersCount": 6303,
+    "following": true,
+    "friendsCount": 3046,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 83,
+    "location": "",
+    "mediaCount": 1186,
+    "name": "迪伦Dylan",
+    "normalFollowersCount": 6303,
+    "pinnedTweetIdsStr": [
+      "1899880968095490446"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/766678574/1696579330",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1932284145742602240/0UH4pv5A_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "0xDy_eth",
+    "statusesCount": 7025,
+    "translatorType": "none",
+    "url": "https://t.co/nhPM0WZsC1",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [
+      {
+        "iconName": "IconBriefcaseStroke",
+        "id": 1009,
+        "name": "Community"
+      }
+    ],
+    "professionalType": "Creator",
+    "restId": "1473828006334386176"
+  },
+  "profileImageShape": "Circle",
+  "restId": "766678574",
+  "tipjarSettings": {
+    "bitcoinHandle": "37sarx3Hd54M6xRnTsk5mSEnqjzpe9H3h4",
+    "ethereumHandle": "0x4Bc42289b5002F4BD9c1BaE81c0bd85a4A95E52A",
+    "isEnabled": true
+  }
+}

@@ -1,0 +1,94 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {
+    "label": {
+      "url": {
+        "url": "https://twitter.com/0xinfini",
+        "urlType": "DeepLink"
+      },
+      "badge": {
+        "url": "https://pbs.twimg.com/profile_images/1966496740435222529/UCDLDWO2_bigger.jpg"
+      },
+      "description": "Infini",
+      "userLabelType": "BusinessLabel",
+      "userLabelDisplayType": "Badge"
+    }
+  },
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjo4NTIwMDQwNjg4OTM0NDYxNDY=",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Wed Apr 12 03:42:54 +0000 2017",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "美食博主勇闯WEB3.0⛳️公链/项目明星大使@JupiterExchange @sentient_zh @zetachain @trondao @TONEastAsia @Polyinsiders @chipchipgame 🔑｜🥚交易：https://t.co/nNJpSk3uzL 🍳",
+    "entities": {
+      "description": {
+        "urls": [
+          {
+            "display_url": "okx.com/join/FUGUI8",
+            "expanded_url": "https://www.okx.com/join/FUGUI8",
+            "url": "https://t.co/nNJpSk3uzL",
+            "indices": [
+              120,
+              143
+            ]
+          }
+        ]
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "t.me/fuguimima",
+            "expanded_url": "https://t.me/fuguimima",
+            "url": "https://t.co/cxLpluJQbj",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 63879,
+    "followedBy": true,
+    "followersCount": 30892,
+    "following": true,
+    "friendsCount": 7473,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 141,
+    "location": "唯一TG：@HKFUGUI8📬頻道👉",
+    "mediaCount": 5450,
+    "name": "香港王富贵| 🧠SENT",
+    "normalFollowersCount": 30892,
+    "pinnedTweetIdsStr": [],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/852004068893446146/1745247394",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1989525532321705984/7TnLwuLC_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "fugui8",
+    "statusesCount": 28331,
+    "translatorType": "none",
+    "url": "https://t.co/cxLpluJQbj",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [],
+    "professionalType": "Creator",
+    "restId": "1506450837064675332"
+  },
+  "profileImageShape": "Circle",
+  "restId": "852004068893446146",
+  "superFollowEligible": true,
+  "tipjarSettings": {
+    "bitcoinHandle": "357a3So9CbsNfBBgFYACGvxxS6tMaDoa1P",
+    "ethereumHandle": "0x6C7C73Aef66836A1Eeb524376E13E71cFb52D3EC",
+    "isEnabled": true
+  }
+}

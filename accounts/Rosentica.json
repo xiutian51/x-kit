@@ -1,0 +1,85 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNTgxNTQ5NTUwNzE1NTU5OTM2",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Sun Oct 16 07:36:20 +0000 2022",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "Onchain IP Universe & IP RWA Infrastructure ⚜️ 1st Single「Fine」feat. @biya1024: https://t.co/U9H0qQ8Zgk🦋 Manga on @Jump_henshubu 🌻 Novel: https://t.co/wJVdaL14oa",
+    "entities": {
+      "description": {
+        "urls": [
+          {
+            "display_url": "youtu.be/zN9-WAgDSLM",
+            "expanded_url": "http://youtu.be/zN9-WAgDSLM",
+            "url": "https://t.co/U9H0qQ8Zgk",
+            "indices": [
+              80,
+              103
+            ]
+          },
+          {
+            "display_url": "rosentica.jp/novel",
+            "expanded_url": "http://rosentica.jp/novel",
+            "url": "https://t.co/wJVdaL14oa",
+            "indices": [
+              138,
+              161
+            ]
+          }
+        ]
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "bio.to/rosentica",
+            "expanded_url": "https://bio.to/rosentica",
+            "url": "https://t.co/kSqrCYPjxP",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 9176,
+    "followersCount": 27337,
+    "following": true,
+    "friendsCount": 36,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 82,
+    "location": "Tokyo-to, Japan",
+    "mediaCount": 258,
+    "name": "Rosentica ®",
+    "normalFollowersCount": 27337,
+    "pinnedTweetIdsStr": [],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1581549550715559936/1669478393",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1867840509521408003/Cij6uQwV_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "Rosentica",
+    "statusesCount": 981,
+    "translatorType": "none",
+    "url": "https://t.co/kSqrCYPjxP",
+    "verified": false,
+    "verifiedType": "Business",
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [],
+    "professionalType": "Business",
+    "restId": "1632018774626033665"
+  },
+  "profileImageShape": "Square",
+  "restId": "1581549550715559936",
+  "tipjarSettings": {}
+}

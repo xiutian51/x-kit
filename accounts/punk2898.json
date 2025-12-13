@@ -1,0 +1,70 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoyNDQ2ODk2Njc5",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": false,
+    "createdAt": "Wed Apr 16 09:33:51 +0000 2014",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "Vibe Coding Enthusiast ｜定居新加坡 ｜ Web3 入口一个就够 ⬇️",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "web3.okx.com/ul/joindex?ref…",
+            "expanded_url": "https://web3.okx.com/ul/joindex?ref=PUNK2898",
+            "url": "https://t.co/BRvw1wxRA1",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 12963,
+    "followedBy": true,
+    "followersCount": 80418,
+    "following": true,
+    "friendsCount": 1010,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 957,
+    "location": "🇸🇬 新加坡",
+    "mediaCount": 1425,
+    "name": "Punk（2898 🙌💎）",
+    "normalFollowersCount": 80418,
+    "pinnedTweetIdsStr": [
+      "1999263763875397833"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/2446896679/1760095684",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1578724430536388613/mmTYRTbf_normal.png",
+    "profileInterstitialType": "",
+    "screenName": "punk2898",
+    "statusesCount": 6502,
+    "translatorType": "none",
+    "url": "https://t.co/BRvw1wxRA1",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [],
+    "professionalType": "Creator",
+    "restId": "1504347260125007874"
+  },
+  "profileImageShape": "Circle",
+  "restId": "2446896679",
+  "tipjarSettings": {
+    "isEnabled": true
+  }
+}

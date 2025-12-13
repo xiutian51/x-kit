@@ -1,0 +1,71 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxMjY2MTc1NTU5Mzg3NTgyNDY0",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Fri May 29 01:12:43 +0000 2020",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "@DeribitOfficial 亚太商务负责人| BTC ETH 期权交易 | 剑桥07数学系 CQF持证｜ 费率优惠请telegram: toLinChen ｜微信 ：LCHENHZ 非投资建议",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "deribit.com",
+            "expanded_url": "https://www.deribit.com/",
+            "url": "https://t.co/Bln4H9GLUf",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 1838,
+    "followersCount": 19239,
+    "following": true,
+    "friendsCount": 340,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 397,
+    "location": "",
+    "mediaCount": 1540,
+    "name": "Lin姐@Deribit",
+    "normalFollowersCount": 19239,
+    "pinnedTweetIdsStr": [],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1266175559387582464/1756431622",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1597793128039137280/NztbKxnH_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "LinChen91162689",
+    "statusesCount": 3483,
+    "translatorType": "none",
+    "url": "https://t.co/Bln4H9GLUf",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [
+      {
+        "iconName": "IconBriefcaseStroke",
+        "id": 192,
+        "name": "Financial Services"
+      }
+    ],
+    "professionalType": "Creator",
+    "restId": "1782655981861969974"
+  },
+  "profileImageShape": "Circle",
+  "restId": "1266175559387582464",
+  "tipjarSettings": {}
+}

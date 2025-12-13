@@ -1,0 +1,83 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxMDUwNTcwNTM0ODYwMTU2OTI4",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Fri Oct 12 02:15:08 +0000 2018",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "Chinese Crypto Media  \\Long Web3\\NFA\\ DM OPEN\n\nEN Brother @BlockFlow_News\n\n订阅频道 https://t.co/kgUk5EApj5",
+    "entities": {
+      "description": {
+        "urls": [
+          {
+            "display_url": "t.me/TechFlowDaily",
+            "expanded_url": "http://t.me/TechFlowDaily",
+            "url": "https://t.co/kgUk5EApj5",
+            "indices": [
+              80,
+              103
+            ]
+          }
+        ]
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "techflowpost.com",
+            "expanded_url": "https://www.techflowpost.com/",
+            "url": "https://t.co/rlSyJKZpL0",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 4765,
+    "followersCount": 164157,
+    "following": true,
+    "friendsCount": 6312,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 2867,
+    "location": "HongKong",
+    "mediaCount": 2143,
+    "name": "TechFlow 深潮｜APP 已上线",
+    "normalFollowersCount": 164157,
+    "pinnedTweetIdsStr": [],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1050570534860156928/1701255702",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1642733537152610306/wWtDXcl2_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "TechFlowPost",
+    "statusesCount": 5567,
+    "translatorType": "none",
+    "url": "https://t.co/rlSyJKZpL0",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [
+      {
+        "iconName": "IconBriefcaseStroke",
+        "id": 580,
+        "name": "Media & News Company"
+      }
+    ],
+    "professionalType": "Creator",
+    "restId": "1590545385344290817"
+  },
+  "profileImageShape": "Circle",
+  "restId": "1050570534860156928",
+  "tipjarSettings": {
+    "isEnabled": true
+  }
+}

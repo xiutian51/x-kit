@@ -1,0 +1,73 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNTAxOTQxNzIzNTg0MzM1ODcz",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Thu Mar 10 15:23:21 +0000 2022",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "A crypto tracking and compliance platform for everyone. Built by @SlowMist_Team",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "MistTrack.io",
+            "expanded_url": "http://MistTrack.io",
+            "url": "https://t.co/zgZTbTVasH",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 2078,
+    "followersCount": 25434,
+    "following": true,
+    "friendsCount": 232,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 306,
+    "location": "Web3 Security",
+    "mediaCount": 950,
+    "name": "MistTrack🕵️",
+    "normalFollowersCount": 25434,
+    "pinnedTweetIdsStr": [
+      "1880302800581923162"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1501941723584335873/1648786823",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1508291998125821963/kU_DfIxj_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "MistTrack_io",
+    "statusesCount": 2472,
+    "translatorType": "none",
+    "url": "https://t.co/zgZTbTVasH",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [
+      {
+        "iconName": "IconBriefcaseStroke",
+        "id": 713,
+        "name": "Science & Technology"
+      }
+    ],
+    "professionalType": "Business",
+    "restId": "1519267991963467776"
+  },
+  "profileImageShape": "Circle",
+  "restId": "1501941723584335873",
+  "tipjarSettings": {}
+}

@@ -1,0 +1,61 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNzY3MTIzNjQ3NjI4NDg4NzA0",
+  "isBlueVerified": false,
+  "legacy": {
+    "canDm": false,
+    "canMediaTag": true,
+    "createdAt": "Mon Mar 11 09:41:31 +0000 2024",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "dymond dog from another Dymension 💎🐶 $DGM",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "portal.dymension.xyz/rollapps/dogmo…",
+            "expanded_url": "https://portal.dymension.xyz/rollapps/dogmond_174394-1/dashboard",
+            "url": "https://t.co/zRFthnmYfJ",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 526,
+    "followersCount": 8670,
+    "following": true,
+    "friendsCount": 2,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 74,
+    "location": "Dymension",
+    "mediaCount": 24,
+    "name": "dogmond",
+    "normalFollowersCount": 8670,
+    "pinnedTweetIdsStr": [
+      "1925166237887197322"
+    ],
+    "possiblySensitive": false,
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1793179173395050496/5TnS0x37_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "dogmondcoin",
+    "statusesCount": 79,
+    "translatorType": "none",
+    "url": "https://t.co/zRFthnmYfJ",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "profileImageShape": "Circle",
+  "restId": "1767123647628488704",
+  "tipjarSettings": {}
+}

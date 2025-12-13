@@ -1,0 +1,62 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNDkxOTMwNDk0NzIzOTMyMTc1",
+  "isBlueVerified": false,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": false,
+    "createdAt": "Fri Feb 11 00:22:42 +0000 2022",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "Bringing data transparency to #defi. Made by @krayzfi",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "defiwars.xyz",
+            "expanded_url": "https://defiwars.xyz",
+            "url": "https://t.co/z3xAfS74d6",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 529,
+    "followersCount": 3555,
+    "following": true,
+    "friendsCount": 194,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 100,
+    "location": "Defi",
+    "mediaCount": 274,
+    "name": "Defi Wars",
+    "normalFollowersCount": 3555,
+    "pinnedTweetIdsStr": [],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1491930494723932175/1666723035",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1526999675102015488/7gGc3Yqg_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "defiwars_",
+    "statusesCount": 695,
+    "translatorType": "none",
+    "url": "https://t.co/z3xAfS74d6",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "profileImageShape": "Circle",
+  "restId": "1491930494723932175",
+  "tipjarSettings": {
+    "isEnabled": false
+  }
+}

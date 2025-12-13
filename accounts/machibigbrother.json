@@ -1,0 +1,45 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjo5NzAwMTQ3ODIxMzU4NDQ4NjQ=",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": false,
+    "canMediaTag": false,
+    "createdAt": "Sat Mar 03 19:15:20 +0000 2018",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "",
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 120825,
+    "followersCount": 207558,
+    "following": true,
+    "friendsCount": 876,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 1464,
+    "location": "",
+    "mediaCount": 332,
+    "name": "Machi Big Brother",
+    "normalFollowersCount": 207558,
+    "pinnedTweetIdsStr": [],
+    "possiblySensitive": false,
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1610342982187900928/84eyMoam_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "machibigbrother",
+    "statusesCount": 3361,
+    "translatorType": "none",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "profileImageShape": "Circle",
+  "restId": "970014782135844864",
+  "tipjarSettings": {}
+}

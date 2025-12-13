@@ -1,0 +1,76 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {
+    "label": {
+      "url": {
+        "url": "https://twitter.com/BuildOnCyber",
+        "urlType": "DeepLink"
+      },
+      "badge": {
+        "url": "https://pbs.twimg.com/profile_images/1882438963014901760/84PrUnNr_bigger.jpg"
+      },
+      "description": "Cyber",
+      "userLabelType": "BusinessLabel",
+      "userLabelDisplayType": "Badge"
+    }
+  },
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxOTE2ODY4MzE4NjcxMDUyODAw",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Mon Apr 28 14:53:27 +0000 2025",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "Making crypto investing as easy as asking. \n\nPowered by @BuildOnCyber.",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "asksurf.ai",
+            "expanded_url": "http://asksurf.ai",
+            "url": "https://t.co/lWoWd3wcio",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 2109,
+    "followersCount": 138811,
+    "following": true,
+    "friendsCount": 75,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 239,
+    "location": "NFA",
+    "mediaCount": 323,
+    "name": "Surf",
+    "normalFollowersCount": 138811,
+    "pinnedTweetIdsStr": [
+      "1998784949307191686"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1916868318671052800/1762012253",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1984649351948341248/GM_lqnBd_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "SurfAI",
+    "statusesCount": 1207,
+    "translatorType": "none",
+    "url": "https://t.co/lWoWd3wcio",
+    "verified": false,
+    "verifiedType": "Business",
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "profileImageShape": "Square",
+  "restId": "1916868318671052800",
+  "tipjarSettings": {}
+}

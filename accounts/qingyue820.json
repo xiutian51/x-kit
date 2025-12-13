@@ -1,0 +1,83 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNzQ2NDcwMDU4NzYxODg3NzQ0",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Sun Jan 14 09:51:44 +0000 2024",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "撸毛/资讯/投研/币圈一站式教学/\n币安链接https://t.co/fElNBcefCy🎉\nYouTube：https://t.co/DdJaRiqwQq\n油管正在更新区块链/经济/历史/文学/投资/游戏/杂谈/读书\n微信挂在公众号：清月已经不困",
+    "entities": {
+      "description": {
+        "urls": [
+          {
+            "display_url": "marketwebb.net/join?ref=QINGY…",
+            "expanded_url": "https://www.marketwebb.net/join?ref=QINGYUE",
+            "url": "https://t.co/fElNBcefCy",
+            "indices": [
+              22,
+              45
+            ]
+          },
+          {
+            "display_url": "youtube.com/@qingyuex",
+            "expanded_url": "https://youtube.com/@qingyuex",
+            "url": "https://t.co/DdJaRiqwQq",
+            "indices": [
+              55,
+              78
+            ]
+          }
+        ]
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "youtube.com/@qingyuex",
+            "expanded_url": "https://www.youtube.com/@qingyuex",
+            "url": "https://t.co/b8jhPrINkf",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 21,
+    "followersCount": 35803,
+    "following": true,
+    "friendsCount": 91,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 111,
+    "location": "清月星球",
+    "mediaCount": 138,
+    "name": "清月已经不困了",
+    "normalFollowersCount": 35803,
+    "pinnedTweetIdsStr": [],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1746470058761887744/1735252095",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1872408779700264961/olmDhjmy_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "qingyue820",
+    "statusesCount": 912,
+    "translatorType": "none",
+    "url": "https://t.co/b8jhPrINkf",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "profileImageShape": "Circle",
+  "restId": "1746470058761887744",
+  "tipjarSettings": {
+    "bitcoinHandle": "1EAhb8PCEjrcEZS4CHBYNqKWAgtrq7oXJJ",
+    "ethereumHandle": "0x3aa3bd5bb93d476a6f8d514bf59cd726b17f4a52",
+    "isEnabled": true
+  }
+}

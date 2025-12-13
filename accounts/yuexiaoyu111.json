@@ -1,0 +1,61 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNTgwMTE1NzE0MDcyOTI0MTYx",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": false,
+    "createdAt": "Wed Oct 12 08:39:01 +0000 2022",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "Web3 产品经理｜项目投研｜经验分享 🧐 \n前阿里巴巴产品经理 🚀 \n本硕博计算机专业 🧑‍🎓 \n微信公众号【岳小鱼】，持续输出累计100万字 💪",
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 10929,
+    "followersCount": 21121,
+    "following": true,
+    "friendsCount": 762,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 371,
+    "location": "Hong Kong",
+    "mediaCount": 501,
+    "name": "岳小鱼",
+    "normalFollowersCount": 21121,
+    "pinnedTweetIdsStr": [
+      "1876237874468999523"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1580115714072924161/1670297130",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1599968111871938560/Jj3oKslC_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "yuexiaoyu111",
+    "statusesCount": 5528,
+    "translatorType": "none",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [
+      {
+        "iconName": "IconBriefcaseStroke",
+        "id": 713,
+        "name": "Science & Technology"
+      }
+    ],
+    "professionalType": "Creator",
+    "restId": "1836284756318916959"
+  },
+  "profileImageShape": "Circle",
+  "restId": "1580115714072924161",
+  "tipjarSettings": {
+    "isEnabled": true
+  }
+}

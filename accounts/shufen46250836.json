@@ -1,0 +1,58 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNjExMjQyODc3MzU0NjY4MDMy",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Fri Jan 06 06:07:20 +0000 2023",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "美股 | Crypto | 宏观 | 努力进化，早日发财| 所有观点非财务建议&美股自由哔哔群：https://t.co/ocZnp0WQYY",
+    "entities": {
+      "description": {
+        "urls": [
+          {
+            "display_url": "t.me/+Woo9FnLDCRk1Z…",
+            "expanded_url": "https://t.me/+Woo9FnLDCRk1ZmM1",
+            "url": "https://t.co/ocZnp0WQYY",
+            "indices": [
+              48,
+              71
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 620,
+    "followersCount": 60348,
+    "following": true,
+    "friendsCount": 96,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 1044,
+    "location": "",
+    "mediaCount": 297,
+    "name": "shu fen",
+    "normalFollowersCount": 60348,
+    "pinnedTweetIdsStr": [
+      "1974819555211178397"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1611242877354668032/1731826965",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1858043016646410240/z6SCItoL_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "shufen46250836",
+    "statusesCount": 1866,
+    "translatorType": "none",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "profileImageShape": "Circle",
+  "restId": "1611242877354668032",
+  "tipjarSettings": {}
+}

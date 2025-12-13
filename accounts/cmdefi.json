@@ -1,0 +1,76 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjo5NzEyMDEwODc3NjcwNjg2NzI=",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": false,
+    "createdAt": "Wed Mar 07 01:49:18 +0000 2018",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "陈默 DeFi OG.\nCore LUNAtics. \n// DeFi Research and Practice.",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "cmdefi.io",
+            "expanded_url": "https://www.cmdefi.io",
+            "url": "https://t.co/MKMNZd1WFG",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 9056,
+    "followersCount": 54287,
+    "following": true,
+    "friendsCount": 3597,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 2152,
+    "location": "",
+    "mediaCount": 704,
+    "name": "CM",
+    "normalFollowersCount": 54287,
+    "pinnedTweetIdsStr": [
+      "1439768655038844931"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/971201087767068672/1666076416",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1580556182292684801/ix3h_YCE_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "cmdefi",
+    "statusesCount": 7960,
+    "translatorType": "none",
+    "url": "https://t.co/MKMNZd1WFG",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [
+      {
+        "iconName": "IconBriefcaseStroke",
+        "id": 713,
+        "name": "Science & Technology"
+      }
+    ],
+    "professionalType": "Creator",
+    "restId": "1499952920866930690"
+  },
+  "profileImageShape": "Circle",
+  "restId": "971201087767068672",
+  "tipjarSettings": {
+    "bitcoinHandle": "3FVV5firBxPTsyLi6ec2Qugqoz67yAFp6H",
+    "isEnabled": true
+  }
+}

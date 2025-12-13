@@ -1,0 +1,74 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNDI3MTM0MDk0MzQxNjc3MDYx",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Mon Aug 16 05:04:32 +0000 2021",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "Sonic SVM is the programmable Attention Network on @Solana, bridging on-chain activity and off-chain signals to build transparent Attention Capital Markets",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "SonicSVM.org",
+            "expanded_url": "http://SonicSVM.org",
+            "url": "https://t.co/M6QSqEvew7",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 5619,
+    "followersCount": 474813,
+    "following": true,
+    "friendsCount": 1058,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 475,
+    "location": "",
+    "mediaCount": 1096,
+    "name": "Sonic SVM ✈️ Solana Breakpoint",
+    "normalFollowersCount": 474813,
+    "pinnedTweetIdsStr": [
+      "1967940643113816177"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1427134094341677061/1758182625",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1968586723623051264/YLMMNwnn_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "SonicSVM",
+    "statusesCount": 3723,
+    "translatorType": "none",
+    "url": "https://t.co/M6QSqEvew7",
+    "verified": false,
+    "verifiedType": "Business",
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [
+      {
+        "iconName": "IconBriefcaseStroke",
+        "id": 1094,
+        "name": "Blockchain"
+      }
+    ],
+    "professionalType": "Business",
+    "restId": "1501034448338694146"
+  },
+  "profileImageShape": "Square",
+  "restId": "1427134094341677061",
+  "tipjarSettings": {}
+}

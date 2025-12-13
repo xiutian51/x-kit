@@ -1,0 +1,75 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjo5MDI5MjY5NDE0MTM0NTM4MjQ=",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": false,
+    "canMediaTag": true,
+    "createdAt": "Wed Aug 30 16:12:13 +0000 2017",
+    "defaultProfile": false,
+    "defaultProfileImage": false,
+    "description": "@BNBchain\n@YZiLabs\n@GiggleAcademy\n@binance",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "binance.com",
+            "expanded_url": "http://www.binance.com",
+            "url": "https://t.co/zlvCSBIFGA",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 17569,
+    "followersCount": 10564351,
+    "following": true,
+    "friendsCount": 1206,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 39313,
+    "location": "",
+    "mediaCount": 933,
+    "name": "CZ 🔶 BNB",
+    "normalFollowersCount": 10564351,
+    "pinnedTweetIdsStr": [
+      "1981404850832494666"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/902926941413453824/1597864552",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1961440580279336960/PiiIs8Lh_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "cz_binance",
+    "statusesCount": 7575,
+    "translatorType": "none",
+    "url": "https://t.co/zlvCSBIFGA",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [
+      {
+        "iconName": "IconBriefcaseStroke",
+        "id": 713,
+        "name": "Science & Technology"
+      }
+    ],
+    "professionalType": "Creator",
+    "restId": "1545517037472153601"
+  },
+  "profileImageShape": "Circle",
+  "restId": "902926941413453824",
+  "tipjarSettings": {
+    "isEnabled": true
+  }
+}

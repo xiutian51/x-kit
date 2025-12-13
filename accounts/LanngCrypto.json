@@ -1,0 +1,61 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNzk0NjQ1MjQ0NDE3NjI2MTEy",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Sun May 26 08:22:39 +0000 2024",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "8年交易所品牌、营销、运营、增长 | #web3赏花大赛 职业经理人 | 言论仅代表个人观点 | 不构成任何投资建议",
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 3213,
+    "followedBy": true,
+    "followersCount": 10023,
+    "following": true,
+    "friendsCount": 1588,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 59,
+    "location": "1公里以内",
+    "mediaCount": 276,
+    "name": "浪老湿",
+    "normalFollowersCount": 10023,
+    "pinnedTweetIdsStr": [],
+    "possiblySensitive": false,
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1794645661943791616/bEaIK4oF_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "LanngCrypto",
+    "statusesCount": 2906,
+    "translatorType": "none",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [
+      {
+        "iconName": "IconBriefcaseStroke",
+        "id": 994,
+        "name": "Content Publisher"
+      }
+    ],
+    "professionalType": "Business",
+    "restId": "1887036956972081394"
+  },
+  "profileImageShape": "Circle",
+  "restId": "1794645244417626112",
+  "tipjarSettings": {
+    "bitcoinHandle": "31im8gHYzpEiZhvB859kxpn3CPmePkKHeW",
+    "ethereumHandle": "0x6d749a9d556c685db9eb74dd0003d9d4575c3052",
+    "isEnabled": true
+  }
+}

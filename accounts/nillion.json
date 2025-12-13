@@ -1,0 +1,68 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxMzcyMjIwNTI4NTE4Mzk3OTU1",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Wed Mar 17 16:17:32 +0000 2021",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "Humanity's first blind computer.\n\nThe internet’s base layer for all private data.",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Nillion.com",
+            "expanded_url": "http://Nillion.com",
+            "url": "https://t.co/oS8TKT9Upd",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 1305,
+    "followersCount": 210679,
+    "following": true,
+    "friendsCount": 19,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 956,
+    "location": "",
+    "mediaCount": 1454,
+    "name": "Nillion",
+    "normalFollowersCount": 210679,
+    "pinnedTweetIdsStr": [
+      "1989326542216806769"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1372220528518397955/1711985400",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1464770850293534720/AdOJJAHw_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "nillion",
+    "statusesCount": 3394,
+    "translatorType": "none",
+    "url": "https://t.co/oS8TKT9Upd",
+    "verified": false,
+    "verifiedType": "Business",
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [],
+    "professionalType": "Business",
+    "restId": "1469375360294862849"
+  },
+  "profileImageShape": "Square",
+  "restId": "1372220528518397955",
+  "tipjarSettings": {}
+}

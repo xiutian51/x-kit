@@ -1,0 +1,66 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxMzU1NTMwOTU3MjE4OTc1NzQ1",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Sat Jan 30 14:59:07 +0000 2021",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "全力梭哈币安人生\n币安注册 https://t.co/X13tAsrz3O\n币安钱包邀请码 GQZO42F3\nok钱包 https://t.co/yFdN1ckInt",
+    "entities": {
+      "description": {
+        "urls": [
+          {
+            "display_url": "accounts.maxweb.red/register?ref=M…",
+            "expanded_url": "https://accounts.maxweb.red/register?ref=MLIU13",
+            "url": "https://t.co/X13tAsrz3O",
+            "indices": [
+              14,
+              37
+            ]
+          },
+          {
+            "display_url": "web3.okx.com/join/MINGLAU",
+            "expanded_url": "https://web3.okx.com/join/MINGLAU",
+            "url": "https://t.co/yFdN1ckInt",
+            "indices": [
+              60,
+              83
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 47,
+    "followersCount": 21120,
+    "following": true,
+    "friendsCount": 1224,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 393,
+    "location": "",
+    "mediaCount": 526,
+    "name": "ming_lau",
+    "normalFollowersCount": 21120,
+    "pinnedTweetIdsStr": [
+      "1989109853172957605"
+    ],
+    "possiblySensitive": false,
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1868326100621000704/qUtDgzr5_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "minglaugodel",
+    "statusesCount": 13446,
+    "translatorType": "none",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "profileImageShape": "Circle",
+  "restId": "1355530957218975745",
+  "tipjarSettings": {}
+}

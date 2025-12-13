@@ -1,0 +1,62 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxMjQ5MzMwMDgyNjc5ODY5NDQw",
+  "isBlueVerified": false,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Sun Apr 12 13:34:45 +0000 2020",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "Sekai Dao",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "sekaidao.com",
+            "expanded_url": "https://sekaidao.com/",
+            "url": "https://t.co/sJfUdlveD6",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 316,
+    "followersCount": 1112,
+    "following": true,
+    "friendsCount": 22,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 3,
+    "location": "Tokyo, Japan",
+    "mediaCount": 69,
+    "name": "Sekai DAO",
+    "normalFollowersCount": 1112,
+    "pinnedTweetIdsStr": [
+      "1795183882322452576"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1249330082679869440/1710595861",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1760920265247059968/0Sck9PAX_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "Sekai_DAO",
+    "statusesCount": 173,
+    "translatorType": "none",
+    "url": "https://t.co/sJfUdlveD6",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "profileImageShape": "Circle",
+  "restId": "1249330082679869440",
+  "tipjarSettings": {}
+}

@@ -1,0 +1,67 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjo4ODc5MjgxMTMzMTI2Nzc4ODk=",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Thu Jul 20 06:52:13 +0000 2017",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "Co-founder @In2ventures,build @InSquareDAO\n\n这一路走来，都是老师和朋友，没有敌人",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "insqvc.com",
+            "expanded_url": "https://www.insqvc.com/",
+            "url": "https://t.co/WZCDIMK3gX",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 4036,
+    "followersCount": 38798,
+    "following": true,
+    "friendsCount": 5453,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 643,
+    "location": "Italy",
+    "mediaCount": 1234,
+    "name": "BILI",
+    "normalFollowersCount": 38798,
+    "pinnedTweetIdsStr": [
+      "1766026812755427493"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/887928113312677889/1653752644",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1872906682554277888/c3OkiyTc_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "BiliSquare",
+    "statusesCount": 6111,
+    "translatorType": "none",
+    "url": "https://t.co/WZCDIMK3gX",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [],
+    "professionalType": "Creator",
+    "restId": "1518281461006487552"
+  },
+  "profileImageShape": "Circle",
+  "restId": "887928113312677889",
+  "tipjarSettings": {}
+}

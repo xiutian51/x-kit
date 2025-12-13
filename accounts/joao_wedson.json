@@ -1,0 +1,77 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxMjEwMzAzNDU3MTUzOTk4ODYx",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Thu Dec 26 20:57:02 +0000 2019",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "💎Founder & CEO of @Alphractal\n🏅Verified Author at @CryptoQuant_com & @CoinMarketCap\n⚙MSc in Data Science & AI\n🦾Engineer in Robotics & Automation\n\n₿itcoin OG",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "alphractal.com",
+            "expanded_url": "http://alphractal.com",
+            "url": "https://t.co/qGAxb6MwB0",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 7166,
+    "followersCount": 12766,
+    "following": true,
+    "friendsCount": 631,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 241,
+    "location": "Alpha",
+    "mediaCount": 1970,
+    "name": "Joao Wedson",
+    "normalFollowersCount": 12766,
+    "pinnedTweetIdsStr": [
+      "1978861184343220540"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1210303457153998861/1752445111",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1908284230041206784/zdCf3Nbq_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "joao_wedson",
+    "statusesCount": 4553,
+    "translatorType": "none",
+    "url": "https://t.co/qGAxb6MwB0",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [
+      {
+        "iconName": "IconBriefcaseStroke",
+        "id": 958,
+        "name": "Entrepreneur"
+      }
+    ],
+    "professionalType": "Creator",
+    "restId": "1493587100951846913"
+  },
+  "profileImageShape": "Circle",
+  "restId": "1210303457153998861",
+  "tipjarSettings": {
+    "bitcoinHandle": "bc1qehw5ly5seuwz3tk088fd22rhfmp436qmksnh06",
+    "ethereumHandle": "0x4f13c7ba143f789f39df0134328fd81e4515a1f3",
+    "isEnabled": true
+  }
+}

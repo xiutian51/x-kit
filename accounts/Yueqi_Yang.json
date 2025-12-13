@@ -1,0 +1,62 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxODgxODIzMjMx",
+  "isBlueVerified": false,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Thu Sep 19 03:43:52 +0000 2013",
+    "defaultProfile": false,
+    "defaultProfileImage": false,
+    "description": "Crypto reporter @theinformation. Ex-Bloomberg. yueqi@theinformation.com.  Verify my X account from my official author page.",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "theinformation.com/u/yueqiyang4e2…",
+            "expanded_url": "https://www.theinformation.com/u/yueqiyang4e219w",
+            "url": "https://t.co/u7iX2cul1N",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 4620,
+    "followersCount": 7119,
+    "following": true,
+    "friendsCount": 2076,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 192,
+    "location": "New York, USA",
+    "mediaCount": 247,
+    "name": "Yueqi Yang",
+    "normalFollowersCount": 7119,
+    "pinnedTweetIdsStr": [
+      "1773078082741514715"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1881823231/1494172624",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1981373628676501504/CqVtUtTE_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "Yueqi_Yang",
+    "statusesCount": 2827,
+    "translatorType": "none",
+    "url": "https://t.co/u7iX2cul1N",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "profileImageShape": "Circle",
+  "restId": "1881823231",
+  "tipjarSettings": {}
+}

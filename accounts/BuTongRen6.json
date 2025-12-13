@@ -1,0 +1,62 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNjI5MDg5NTI3ODQ2NTQ3NDU2",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": false,
+    "createdAt": "Fri Feb 24 12:03:12 +0000 2023",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "摸鱼式尽调，先干为敬你随意",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "butongren.art",
+            "expanded_url": "http://www.butongren.art",
+            "url": "https://t.co/qNt0w0V43w",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 20196,
+    "followersCount": 10070,
+    "following": true,
+    "friendsCount": 3389,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 161,
+    "location": "",
+    "mediaCount": 642,
+    "name": "BuTongRen",
+    "normalFollowersCount": 10070,
+    "pinnedTweetIdsStr": [
+      "1930446195257975082"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1629089527846547456/1760002628",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1995133001248952320/E3DgCJrF_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "BuTongRen6",
+    "statusesCount": 17221,
+    "translatorType": "none",
+    "url": "https://t.co/qNt0w0V43w",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "profileImageShape": "Circle",
+  "restId": "1629089527846547456",
+  "tipjarSettings": {}
+}

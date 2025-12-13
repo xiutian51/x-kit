@@ -1,0 +1,86 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoyNjM3NzQ3OA==",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": false,
+    "createdAt": "Wed Mar 25 00:40:59 +0000 2009",
+    "defaultProfile": false,
+    "defaultProfileImage": false,
+    "description": "Crypto journalist 🎧 Host @unchained_pod 📚 Author, The Cryptopians 💌 Sign up https://t.co/gf90Q5GrXy Ads sponsorships@unchainedcrypto.com",
+    "entities": {
+      "description": {
+        "urls": [
+          {
+            "display_url": "unchainedcrypto.com/newsletters/",
+            "expanded_url": "https://unchainedcrypto.com/newsletters/",
+            "url": "https://t.co/gf90Q5GrXy",
+            "indices": [
+              76,
+              99
+            ]
+          }
+        ]
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "unchainedcrypto.com",
+            "expanded_url": "https://unchainedcrypto.com/",
+            "url": "https://t.co/AWeODPDslk",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 82416,
+    "followersCount": 281105,
+    "following": true,
+    "friendsCount": 4975,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 6759,
+    "location": "Crypto Twitter",
+    "mediaCount": 4163,
+    "name": "Laura Shin",
+    "normalFollowersCount": 281105,
+    "pinnedTweetIdsStr": [
+      "1999159898588971276"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/26377478/1671869519",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1539462748173746176/hxR80FYT_normal.png",
+    "profileInterstitialType": "",
+    "screenName": "laurashin",
+    "statusesCount": 38227,
+    "translatorType": "none",
+    "url": "https://t.co/AWeODPDslk",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [
+      {
+        "iconName": "IconBriefcaseStroke",
+        "id": 955,
+        "name": "Journalist"
+      }
+    ],
+    "professionalType": "Creator",
+    "restId": "1458985294515085313"
+  },
+  "profileImageShape": "Circle",
+  "restId": "26377478",
+  "tipjarSettings": {
+    "isEnabled": true,
+    "venmoHandle": "laura-shin"
+  }
+}

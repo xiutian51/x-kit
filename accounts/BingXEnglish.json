@@ -1,0 +1,89 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {
+    "label": {
+      "url": {
+        "url": "https://twitter.com/BingXOfficial",
+        "urlType": "DeepLink"
+      },
+      "badge": {
+        "url": "https://pbs.twimg.com/profile_images/1927213403673636867/fAXIdHr__bigger.jpg"
+      },
+      "description": "BingX",
+      "userLabelType": "BusinessLabel",
+      "userLabelDisplayType": "Badge"
+    }
+  },
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxMjAxMzgzNDE5NTc1Mjk2MDAw",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Mon Dec 02 06:12:18 +0000 2019",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "Trade Crypto, Forex & Indices with Confidence\nYour global platform for smarter trading | Partner of @ChelseaFC\n📲 Join our Telegram: https://t.co/ktBjyn09QZ",
+    "entities": {
+      "description": {
+        "urls": [
+          {
+            "display_url": "t.me/BingXEnglish",
+            "expanded_url": "http://t.me/BingXEnglish",
+            "url": "https://t.co/ktBjyn09QZ",
+            "indices": [
+              132,
+              155
+            ]
+          }
+        ]
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "bingx.com/invite/global",
+            "expanded_url": "https://bingx.com/invite/global",
+            "url": "https://t.co/saY7dLRyde",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 872,
+    "followersCount": 32559,
+    "following": true,
+    "friendsCount": 211,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 81,
+    "location": "",
+    "mediaCount": 1435,
+    "name": "BingX",
+    "normalFollowersCount": 32559,
+    "pinnedTweetIdsStr": [],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1201383419575296000/1753240392",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1814138866208845824/3WFnbrLE_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "BingXEnglish",
+    "statusesCount": 2450,
+    "translatorType": "none",
+    "url": "https://t.co/saY7dLRyde",
+    "verified": false,
+    "verifiedType": "Business",
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [],
+    "professionalType": "Business",
+    "restId": "1460850688716869633"
+  },
+  "profileImageShape": "Square",
+  "restId": "1201383419575296000",
+  "tipjarSettings": {}
+}

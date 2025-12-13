@@ -1,0 +1,66 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjo4ODk2ODAzODc5NjE2NTEyMDA=",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": false,
+    "createdAt": "Tue Jul 25 02:55:08 +0000 2017",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "蓝牌良好 绿牌优秀 黄牌危险 红牌退场，抽卡ドロー！\n此后币圈再无书童，只有发牌大师！\nTG频道:https://t.co/J6fEdTi29r",
+    "entities": {
+      "description": {
+        "urls": [
+          {
+            "display_url": "t.me/shu_tong",
+            "expanded_url": "http://t.me/shu_tong",
+            "url": "https://t.co/J6fEdTi29r",
+            "indices": [
+              49,
+              72
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 2263,
+    "followedBy": true,
+    "followersCount": 8218,
+    "following": true,
+    "friendsCount": 1481,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 284,
+    "location": "WuHan",
+    "mediaCount": 149,
+    "name": "发牌大师 书童",
+    "normalFollowersCount": 8218,
+    "pinnedTweetIdsStr": [
+      "1948215285418508703"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/889680387961651200/1698334252",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1949700376258859008/jiFPx_fm_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "cheng_shutong",
+    "statusesCount": 1371,
+    "translatorType": "none",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [],
+    "professionalType": "Creator",
+    "restId": "1519264270244282369"
+  },
+  "profileImageShape": "Circle",
+  "restId": "889680387961651200",
+  "tipjarSettings": {
+    "isEnabled": true
+  }
+}

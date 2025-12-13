@@ -1,0 +1,57 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNTY0ODY2MjAzOTE0NzQzODA4",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": false,
+    "createdAt": "Wed Aug 31 06:42:51 +0000 2022",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "认知本身并不创造财富，具体的行动才会创造财富。 撸毛 | 二级 | 投研 | 吹牛 都是一家之言，如有意见，你说得都对",
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 14992,
+    "followersCount": 67356,
+    "following": true,
+    "friendsCount": 968,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 832,
+    "location": "Satoshi Nakamoto",
+    "mediaCount": 1390,
+    "name": "A9樱木",
+    "normalFollowersCount": 67356,
+    "pinnedTweetIdsStr": [],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1564866203914743808/1747966203",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1925735712080408576/1lJgoiai_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "0xSilver_Time",
+    "statusesCount": 4096,
+    "translatorType": "none",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [
+      {
+        "iconName": "IconBriefcaseStroke",
+        "id": 1094,
+        "name": "Blockchain"
+      }
+    ],
+    "professionalType": "Creator",
+    "restId": "1570078109344608256"
+  },
+  "profileImageShape": "Circle",
+  "restId": "1564866203914743808",
+  "tipjarSettings": {}
+}

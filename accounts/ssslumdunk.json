@@ -1,0 +1,94 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjozODQ4NTA1ODY=",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Tue Oct 04 12:55:28 +0000 2011",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "微博百万粉丝，电竞解说，创业纳斯达克IPO已躺期权牛散\n\n币圈期权最强工具Signalplus注册 \nhttps://t.co/DVeF6V1KUo\n\nokx手续费减免20%\nhttps://t.co/E8IrXnBmwI",
+    "entities": {
+      "description": {
+        "urls": [
+          {
+            "display_url": "t.signalplus.com/user/register?…",
+            "expanded_url": "http://t.signalplus.com/user/register?ref=22f3b",
+            "url": "https://t.co/DVeF6V1KUo",
+            "indices": [
+              51,
+              74
+            ]
+          },
+          {
+            "display_url": "okx.com/join/ABC868",
+            "expanded_url": "https://www.okx.com/join/ABC868",
+            "url": "https://t.co/E8IrXnBmwI",
+            "indices": [
+              88,
+              111
+            ]
+          }
+        ]
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "linktr.ee/longxinyan",
+            "expanded_url": "https://linktr.ee/longxinyan",
+            "url": "https://t.co/9ZrJ8r4CVm",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 3666,
+    "followersCount": 11092,
+    "following": true,
+    "friendsCount": 1229,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 224,
+    "location": "CHINA",
+    "mediaCount": 5054,
+    "name": "龙心盐",
+    "normalFollowersCount": 11092,
+    "pinnedTweetIdsStr": [
+      "1998573021662163118"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/384850586/1763374503",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1463758640595480576/vw0gtzya_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "ssslumdunk",
+    "statusesCount": 10284,
+    "translatorType": "none",
+    "url": "https://t.co/9ZrJ8r4CVm",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [
+      {
+        "iconName": "IconBriefcaseStroke",
+        "id": 192,
+        "name": "Financial Services"
+      }
+    ],
+    "professionalType": "Creator",
+    "restId": "1463759015150714886"
+  },
+  "profileImageShape": "Circle",
+  "restId": "384850586",
+  "tipjarSettings": {
+    "isEnabled": true
+  }
+}

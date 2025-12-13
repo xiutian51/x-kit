@@ -1,0 +1,62 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": false,
+  "id": "VXNlcjozMDY5MDMwODE=",
+  "isBlueVerified": false,
+  "legacy": {
+    "canDm": false,
+    "canMediaTag": false,
+    "createdAt": "Sat May 28 17:05:32 +0000 2011",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "Journalist | Editor | Audio producer. \nFormerly Balkans-based. \n📻/📝: BBC, Guardian, Politico, Whistledown, etc.",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "jackpbutcher.com",
+            "expanded_url": "https://www.jackpbutcher.com/",
+            "url": "https://t.co/FuiExOjAJu",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 1038,
+    "followersCount": 985,
+    "following": true,
+    "friendsCount": 839,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 30,
+    "location": "Berlin, Germany",
+    "mediaCount": 73,
+    "name": "Jack Butcher",
+    "normalFollowersCount": 985,
+    "pinnedTweetIdsStr": [
+      "1942904926629228802"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/306903081/1752059694",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1590358285005295619/pf0g7gG9_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "jackpbutcher",
+    "statusesCount": 942,
+    "translatorType": "none",
+    "url": "https://t.co/FuiExOjAJu",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "profileImageShape": "Circle",
+  "restId": "306903081",
+  "tipjarSettings": {}
+}

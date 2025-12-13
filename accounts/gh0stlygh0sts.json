@@ -1,0 +1,58 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNTA4NTMyMjcxNDYwMTA2MjQy",
+  "isBlueVerified": false,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Mon Mar 28 19:52:29 +0000 2022",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "7,710 Gh0stly Gh0sts emerge from The C0ld Sp0t...\n1st 0mnichain NFT 0n @LayerZero_Labs. cc0.\n\nhttps://t.co/Vbj87SMY8y\n\ngg",
+    "entities": {
+      "description": {
+        "urls": [
+          {
+            "display_url": "linktr.ee/gh0stlygh0sts",
+            "expanded_url": "http://linktr.ee/gh0stlygh0sts",
+            "url": "https://t.co/Vbj87SMY8y",
+            "indices": [
+              94,
+              117
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 805,
+    "followersCount": 15284,
+    "following": true,
+    "friendsCount": 96,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 143,
+    "location": "",
+    "mediaCount": 92,
+    "name": "Gh0stly Gh0sts",
+    "normalFollowersCount": 15284,
+    "pinnedTweetIdsStr": [
+      "1510921759809277953"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1508532271460106242/1648735980",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1510795141300338693/2dGYrXVo_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "gh0stlygh0sts",
+    "statusesCount": 518,
+    "translatorType": "none",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "profileImageShape": "Circle",
+  "restId": "1508532271460106242",
+  "tipjarSettings": {}
+}

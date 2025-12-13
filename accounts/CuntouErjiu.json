@@ -1,0 +1,56 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxMTQ0MzExMDE5",
+  "isBlueVerified": false,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Sun Feb 03 05:42:09 +0000 2013",
+    "defaultProfile": false,
+    "defaultProfileImage": false,
+    "description": "",
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 295,
+    "followersCount": 980,
+    "following": true,
+    "friendsCount": 1577,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 36,
+    "location": "Edmonton, Canada",
+    "mediaCount": 54,
+    "name": "村头二旧",
+    "normalFollowersCount": 980,
+    "pinnedTweetIdsStr": [],
+    "possiblySensitive": false,
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1801546794360520705/InIjo4W4_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "CuntouErjiu",
+    "statusesCount": 470,
+    "translatorType": "none",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [
+      {
+        "iconName": "IconBriefcaseStroke",
+        "id": 920,
+        "name": "Other"
+      }
+    ],
+    "professionalType": "Creator",
+    "restId": "1663716997933436929"
+  },
+  "profileImageShape": "Circle",
+  "restId": "1144311019",
+  "tipjarSettings": {}
+}

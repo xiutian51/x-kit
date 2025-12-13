@@ -1,0 +1,62 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNTI2Nzc4MTM2MzE4NDIzMDQw",
+  "isBlueVerified": false,
+  "legacy": {
+    "canDm": false,
+    "canMediaTag": true,
+    "createdAt": "Wed May 18 04:14:46 +0000 2022",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "Sea Talk 是一档由 @Sea_Bitcoin 主理的、访谈对话类 Web3 播客节目，以人为本，邀请 Web3 局内人和从业者聊天，挖掘他们关于技术、产品与投资的洞察，传播观点与共识。",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "linktr.ee/SeaTalk",
+            "expanded_url": "https://linktr.ee/SeaTalk",
+            "url": "https://t.co/oYkbQCqEaV",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 1039,
+    "followersCount": 1994,
+    "following": true,
+    "friendsCount": 24,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 27,
+    "location": "所有链接 →",
+    "mediaCount": 10,
+    "name": "Sea Talk 🎙️ Web3 播客",
+    "normalFollowersCount": 1994,
+    "pinnedTweetIdsStr": [
+      "1707081175091863829"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1526778136318423040/1695696955",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1706328032892657664/wrNz8zIq_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "SeaTalk_",
+    "statusesCount": 166,
+    "translatorType": "none",
+    "url": "https://t.co/oYkbQCqEaV",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "profileImageShape": "Circle",
+  "restId": "1526778136318423040",
+  "tipjarSettings": {}
+}

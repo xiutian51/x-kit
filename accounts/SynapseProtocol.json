@@ -1,0 +1,91 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {
+    "label": {
+      "url": {
+        "url": "https://twitter.com/Cortex_Protocol",
+        "urlType": "DeepLink"
+      },
+      "badge": {
+        "url": "https://pbs.twimg.com/profile_images/1887810895205523456/hn8vAWZQ_bigger.png"
+      },
+      "description": "cortexprotocol.hl",
+      "userLabelType": "BusinessLabel",
+      "userLabelDisplayType": "Badge"
+    }
+  },
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxMzYzODg1OTUzOTI5MTQyMjc4",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Mon Feb 22 16:19:28 +0000 2021",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "Synapse is the largest cross-chain intent network for AI agents. Over $55B in volume & 2.5M users. \n\nBuilding the future of options at https://t.co/Yc4gnEFcVY",
+    "entities": {
+      "description": {
+        "urls": [
+          {
+            "display_url": "hypercall.xyz",
+            "expanded_url": "https://hypercall.xyz/",
+            "url": "https://t.co/Yc4gnEFcVY",
+            "indices": [
+              135,
+              158
+            ]
+          }
+        ]
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "synapseprotocol.com",
+            "expanded_url": "http://synapseprotocol.com",
+            "url": "https://t.co/qJNzkQGOx9",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 4006,
+    "followersCount": 71785,
+    "following": true,
+    "friendsCount": 168,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 1069,
+    "location": "",
+    "mediaCount": 340,
+    "name": "Synapse Labs",
+    "normalFollowersCount": 71785,
+    "pinnedTweetIdsStr": [
+      "1993054780437205498"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1363885953929142278/1658756725",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1692635184837836800/uZB0CnEG_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "SynapseProtocol",
+    "statusesCount": 1783,
+    "translatorType": "none",
+    "url": "https://t.co/qJNzkQGOx9",
+    "verified": false,
+    "verifiedType": "Business",
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [],
+    "professionalType": "Business",
+    "restId": "1464108926354534412"
+  },
+  "profileImageShape": "Square",
+  "restId": "1363885953929142278",
+  "tipjarSettings": {}
+}

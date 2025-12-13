@@ -1,0 +1,70 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNTk3NzYyOTQxMDU4NjU4MzA0",
+  "isBlueVerified": false,
+  "legacy": {
+    "canDm": false,
+    "canMediaTag": true,
+    "createdAt": "Wed Nov 30 01:22:51 +0000 2022",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "Build https://t.co/Vv4120dWCb\nSolidity/Huff/Cairo/Taproot engineer",
+    "entities": {
+      "description": {
+        "urls": [
+          {
+            "display_url": "web3list.t.me",
+            "expanded_url": "http://web3list.t.me",
+            "url": "https://t.co/Vv4120dWCb",
+            "indices": [
+              6,
+              29
+            ]
+          }
+        ]
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "blog.wssh.dev",
+            "expanded_url": "https://blog.wssh.dev",
+            "url": "https://t.co/yfK6Gtl0JG",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 3637,
+    "followersCount": 5016,
+    "following": true,
+    "friendsCount": 527,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 120,
+    "location": "",
+    "mediaCount": 211,
+    "name": "WongSSH",
+    "normalFollowersCount": 5016,
+    "pinnedTweetIdsStr": [],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1597762941058658304/1669771610",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1597763275432767488/tcAnHMSV_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "wong_ssh",
+    "statusesCount": 689,
+    "translatorType": "none",
+    "url": "https://t.co/yfK6Gtl0JG",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "profileImageShape": "Circle",
+  "restId": "1597762941058658304",
+  "tipjarSettings": {}
+}

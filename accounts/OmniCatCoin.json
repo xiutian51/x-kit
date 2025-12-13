@@ -1,0 +1,101 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNzM2OTYwMTgyNzc5ODA1Njk2",
+  "isBlueVerified": false,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": false,
+    "createdAt": "Tue Dec 19 04:03:14 +0000 2023",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "The first omnichain memecoin, powered by LayerZero.\n\nDiscord: https://t.co/ObDxNqzZVF\nTG: https://t.co/1WdsA7YGGV \nWeb: https://t.co/UBgK9qh0YL",
+    "entities": {
+      "description": {
+        "urls": [
+          {
+            "display_url": "discord.gg/P2Wd4wJPJQ",
+            "expanded_url": "https://discord.gg/P2Wd4wJPJQ",
+            "url": "https://t.co/ObDxNqzZVF",
+            "indices": [
+              62,
+              85
+            ]
+          },
+          {
+            "display_url": "t.me/OmniCat_CTO",
+            "expanded_url": "https://t.me/OmniCat_CTO",
+            "url": "https://t.co/1WdsA7YGGV",
+            "indices": [
+              90,
+              113
+            ]
+          },
+          {
+            "display_url": "omnicat.wtf",
+            "expanded_url": "http://omnicat.wtf",
+            "url": "https://t.co/UBgK9qh0YL",
+            "indices": [
+              120,
+              143
+            ]
+          }
+        ]
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "omnicat.wtf",
+            "expanded_url": "https://omnicat.wtf",
+            "url": "https://t.co/Bzl3GtqA6J",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 2048,
+    "followersCount": 21778,
+    "following": true,
+    "friendsCount": 31,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 72,
+    "location": "$OMNI",
+    "mediaCount": 534,
+    "name": "OmniCat",
+    "normalFollowersCount": 21778,
+    "pinnedTweetIdsStr": [
+      "1882447776572657899"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1736960182779805696/1739382949",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1889735531992412160/RNF8sy7g_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "OmniCatCoin",
+    "statusesCount": 1222,
+    "translatorType": "none",
+    "url": "https://t.co/Bzl3GtqA6J",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [
+      {
+        "iconName": "IconBriefcaseStroke",
+        "id": 1094,
+        "name": "Blockchain"
+      }
+    ],
+    "professionalType": "Business",
+    "restId": "1739029305521246484"
+  },
+  "profileImageShape": "Circle",
+  "restId": "1736960182779805696",
+  "tipjarSettings": {}
+}

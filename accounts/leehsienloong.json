@@ -1,0 +1,61 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjozNDU2ODY3Mw==",
+  "isBlueVerified": false,
+  "legacy": {
+    "canDm": false,
+    "canMediaTag": false,
+    "createdAt": "Thu Apr 23 08:39:15 +0000 2009",
+    "defaultProfile": false,
+    "defaultProfileImage": false,
+    "description": "Senior Minister in the Prime Minister’s Office and Member of Parliament for Ang Mo Kio GRC. I sign off my own posts with my initials LHL.",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "facebook.com/leehsienloong",
+            "expanded_url": "https://www.facebook.com/leehsienloong",
+            "url": "https://t.co/AOEzHd8WMv",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 53,
+    "followersCount": 828039,
+    "following": true,
+    "friendsCount": 29,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 1755,
+    "location": "",
+    "mediaCount": 3743,
+    "name": "leehsienloong",
+    "normalFollowersCount": 828039,
+    "pinnedTweetIdsStr": [],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/34568673/1765332134",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1998573934846087169/cldi5Ncd_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "leehsienloong",
+    "statusesCount": 5447,
+    "translatorType": "none",
+    "url": "https://t.co/AOEzHd8WMv",
+    "verified": false,
+    "verifiedType": "Government",
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "profileImageShape": "Circle",
+  "restId": "34568673",
+  "tipjarSettings": {}
+}

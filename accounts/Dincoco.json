@@ -1,0 +1,83 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {
+    "label": {
+      "url": {
+        "url": "https://twitter.com/printr",
+        "urlType": "DeepLink"
+      },
+      "badge": {
+        "url": "https://pbs.twimg.com/profile_images/1986450682095017986/Hr7GTg2x_bigger.jpg"
+      },
+      "description": "Printr (mainnet arc)",
+      "userLabelType": "BusinessLabel",
+      "userLabelDisplayType": "Badge"
+    }
+  },
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNDM1MTE1NjY1MTc0NTgxMjUx",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": false,
+    "createdAt": "Tue Sep 07 05:40:26 +0000 2021",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "情緒是最好的生產力 在幣圈最重要的是抓熱點 ————我給你們情緒 你們給我價值 好嗎",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "t.me/dincocoiscool",
+            "expanded_url": "https://t.me/dincocoiscool",
+            "url": "https://t.co/n0m0wBTAZH",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 11470,
+    "followersCount": 15862,
+    "following": true,
+    "friendsCount": 7151,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 407,
+    "location": "Printr",
+    "mediaCount": 3124,
+    "name": "Dincoco-罡門 (八方來財版)",
+    "normalFollowersCount": 15862,
+    "pinnedTweetIdsStr": [
+      "1866067239021261247"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1435115665174581251/1740803554",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1999015303582461956/kzRDmhrW_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "Dincoco",
+    "statusesCount": 27174,
+    "translatorType": "none",
+    "url": "https://t.co/n0m0wBTAZH",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [],
+    "professionalType": "Creator",
+    "restId": "1487442072034418692"
+  },
+  "profileImageShape": "Circle",
+  "restId": "1435115665174581251",
+  "tipjarSettings": {
+    "ethereumHandle": "0x60E483cdCf8Ca76Cb83594675caD74fe3D6F97eC",
+    "isEnabled": true
+  }
+}

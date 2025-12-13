@@ -1,0 +1,132 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNDAzODgxMTMwODAyMjI1MTUy",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": false,
+    "createdAt": "Sun Jun 13 01:05:28 +0000 2021",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "币圈宝典 https://t.co/EIMVhaC9IM\n\n💰省手续费注册交易所\n币安 https://t.co/ko3kej3ziu\n钱包 https://t.co/9M9a33fyFj\n\nOK  https://t.co/RxSNyyuxow\n钱包 https://t.co/OZPyv05YMc\n\n✈️免费投资频道\nhttps://t.co/f4KWsBAbzT",
+    "entities": {
+      "description": {
+        "urls": [
+          {
+            "display_url": "dayu.xyz",
+            "expanded_url": "http://dayu.xyz",
+            "url": "https://t.co/EIMVhaC9IM",
+            "indices": [
+              5,
+              28
+            ]
+          },
+          {
+            "display_url": "bit.ly/dy789",
+            "expanded_url": "http://bit.ly/dy789",
+            "url": "https://t.co/ko3kej3ziu",
+            "indices": [
+              44,
+              67
+            ]
+          },
+          {
+            "display_url": "web3.binance.com/referral?ref=D…",
+            "expanded_url": "http://web3.binance.com/referral?ref=DY789",
+            "url": "https://t.co/9M9a33fyFj",
+            "indices": [
+              71,
+              94
+            ]
+          },
+          {
+            "display_url": "okx.com/join/dy789",
+            "expanded_url": "http://okx.com/join/dy789",
+            "url": "https://t.co/RxSNyyuxow",
+            "indices": [
+              100,
+              123
+            ]
+          },
+          {
+            "display_url": "web3.okx.com/join/dy789",
+            "expanded_url": "http://web3.okx.com/join/dy789",
+            "url": "https://t.co/OZPyv05YMc",
+            "indices": [
+              127,
+              150
+            ]
+          },
+          {
+            "display_url": "t.me/BTCdayu2",
+            "expanded_url": "http://t.me/BTCdayu2",
+            "url": "https://t.co/f4KWsBAbzT",
+            "indices": [
+              161,
+              184
+            ]
+          }
+        ]
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "forms.gle/fqcwMDdxVHizeW…",
+            "expanded_url": "https://forms.gle/fqcwMDdxVHizeWQw8",
+            "url": "https://t.co/ezDy9BJXAE",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 4650,
+    "followedBy": true,
+    "followersCount": 287169,
+    "following": true,
+    "friendsCount": 3885,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 4511,
+    "location": "收费群1688U/年，点链接",
+    "mediaCount": 2578,
+    "name": "大宇",
+    "normalFollowersCount": 287169,
+    "pinnedTweetIdsStr": [
+      "1597415699109990402"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1403881130802225152/1739255404",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1862767252400967680/mjEMe7kp_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "BTCdayu",
+    "statusesCount": 19407,
+    "translatorType": "none",
+    "url": "https://t.co/ezDy9BJXAE",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [
+      {
+        "iconName": "IconBriefcaseStroke",
+        "id": 1009,
+        "name": "Community"
+      }
+    ],
+    "professionalType": "Creator",
+    "restId": "1461143421335261193"
+  },
+  "profileImageShape": "Circle",
+  "restId": "1403881130802225152",
+  "superFollowEligible": true,
+  "tipjarSettings": {
+    "isEnabled": true
+  }
+}

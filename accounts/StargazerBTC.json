@@ -1,0 +1,63 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjo1OTU3NjExOTk=",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Thu May 31 19:28:53 +0000 2012",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "欧洲投行Quant｜炒币赎身｜财富自由倒计时｜#BTC Cycle Analyst｜Tg: https://t.co/HH24rtymUt",
+    "entities": {
+      "description": {
+        "urls": [
+          {
+            "display_url": "t.me/stargazerbtc",
+            "expanded_url": "http://t.me/stargazerbtc",
+            "url": "https://t.co/HH24rtymUt",
+            "indices": [
+              46,
+              69
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 1869,
+    "followersCount": 6068,
+    "following": true,
+    "friendsCount": 197,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 113,
+    "location": "",
+    "mediaCount": 83,
+    "name": "简简",
+    "normalFollowersCount": 6068,
+    "pinnedTweetIdsStr": [],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/595761199/1714392316",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1963032187848060928/YbCS4qtn_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "StargazerBTC",
+    "statusesCount": 1039,
+    "translatorType": "none",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [],
+    "professionalType": "Creator",
+    "restId": "1655415833785450496"
+  },
+  "profileImageShape": "Circle",
+  "restId": "595761199",
+  "tipjarSettings": {
+    "isEnabled": false
+  }
+}

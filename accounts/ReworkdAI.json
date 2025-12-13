@@ -1,0 +1,73 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNjU3MDQ3Mzk3Mjc1Njg0ODY0",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": false,
+    "canMediaTag": true,
+    "createdAt": "Fri May 12 15:38:13 +0000 2023",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "Extract web data at scale with multimodal codegen || YC S23 + AI Grant 3",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "reworkd.ai",
+            "expanded_url": "https://reworkd.ai/",
+            "url": "https://t.co/GknQ2m8HCC",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 167,
+    "followersCount": 4949,
+    "following": true,
+    "friendsCount": 3,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 89,
+    "location": "",
+    "mediaCount": 25,
+    "name": "Reworkd",
+    "normalFollowersCount": 4949,
+    "pinnedTweetIdsStr": [
+      "1776365776175583369"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1657047397275684864/1734020815",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1867244748064567296/8FqLbpzN_normal.png",
+    "profileInterstitialType": "",
+    "screenName": "ReworkdAI",
+    "statusesCount": 87,
+    "translatorType": "none",
+    "url": "https://t.co/GknQ2m8HCC",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [
+      {
+        "iconName": "IconBriefcaseStroke",
+        "id": 713,
+        "name": "Science & Technology"
+      }
+    ],
+    "professionalType": "Business",
+    "restId": "1657049895361183745"
+  },
+  "profileImageShape": "Circle",
+  "restId": "1657047397275684864",
+  "tipjarSettings": {}
+}

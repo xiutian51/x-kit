@@ -1,0 +1,46 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoyNTE1NzM3OTQ4",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Thu May 22 15:55:50 +0000 2014",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "$ETH Holder & Quant",
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 192,
+    "followersCount": 1438,
+    "following": true,
+    "friendsCount": 1996,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 3,
+    "location": "",
+    "mediaCount": 7,
+    "name": "Bruce",
+    "normalFollowersCount": 1438,
+    "pinnedTweetIdsStr": [],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/2515737948/1703515348",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1935346087579004928/20Ib_3wh_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "Bruceinweb3",
+    "statusesCount": 2600,
+    "translatorType": "none",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "profileImageShape": "Circle",
+  "restId": "2515737948",
+  "tipjarSettings": {}
+}

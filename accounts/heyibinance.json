@@ -1,0 +1,89 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {
+    "label": {
+      "url": {
+        "url": "https://twitter.com/binance",
+        "urlType": "DeepLink"
+      },
+      "badge": {
+        "url": "https://pbs.twimg.com/profile_images/1940131561103347712/f5y2qENu_bigger.jpg"
+      },
+      "description": "Binance",
+      "userLabelType": "BusinessLabel",
+      "userLabelDisplayType": "Badge"
+    }
+  },
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxMDAzODQwMzA5MTY2MzY2NzIx",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Tue Jun 05 03:25:54 +0000 2018",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "Co-Founder & Chief Customer Service Officer @Binance  \nHolder of #BNB",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "binance.com",
+            "expanded_url": "http://binance.com",
+            "url": "https://t.co/cAe7RYbdrS",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 2272,
+    "followedBy": true,
+    "followersCount": 547216,
+    "following": true,
+    "friendsCount": 1161,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 3573,
+    "location": "Mars",
+    "mediaCount": 314,
+    "name": "Yi He",
+    "normalFollowersCount": 547216,
+    "pinnedTweetIdsStr": [
+      "1996318378282328320"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1003840309166366721/1607445425",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1974520590410170369/q2Q0S0fa_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "heyibinance",
+    "statusesCount": 4505,
+    "translatorType": "none",
+    "url": "https://t.co/cAe7RYbdrS",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [
+      {
+        "iconName": "IconBriefcaseStroke",
+        "id": 958,
+        "name": "Entrepreneur"
+      }
+    ],
+    "professionalType": "Creator",
+    "restId": "1531315876917821440"
+  },
+  "profileImageShape": "Circle",
+  "restId": "1003840309166366721",
+  "tipjarSettings": {
+    "isEnabled": true
+  }
+}

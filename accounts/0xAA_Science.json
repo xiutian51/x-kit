@@ -1,0 +1,96 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNDU2MTIyOTQxMTkyNjA1NzA1",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": false,
+    "createdAt": "Thu Nov 04 04:55:50 +0000 2021",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "Neuroscience PhD, x402 lover @WTFAcademy_ @ourRescuETH @The_PeopleDAO ｜启程Web3，就在币安: https://t.co/k5E2804y9X ｜新人首选，安全简单。一站式链上链下交易平台OKX https://t.co/Kwxe2KTZlu",
+    "entities": {
+      "description": {
+        "urls": [
+          {
+            "display_url": "binance.com",
+            "expanded_url": "http://binance.com",
+            "url": "https://t.co/k5E2804y9X",
+            "indices": [
+              84,
+              107
+            ]
+          },
+          {
+            "display_url": "web3.okx.com",
+            "expanded_url": "https://web3.okx.com/",
+            "url": "https://t.co/Kwxe2KTZlu",
+            "indices": [
+              134,
+              157
+            ]
+          }
+        ]
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "wtf.academy",
+            "expanded_url": "https://wtf.academy",
+            "url": "https://t.co/Ct4TQCaRIh",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 26002,
+    "followersCount": 169050,
+    "following": true,
+    "friendsCount": 1479,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 1965,
+    "location": "Dark Forest",
+    "mediaCount": 3675,
+    "name": "0xAA",
+    "normalFollowersCount": 169050,
+    "pinnedTweetIdsStr": [
+      "1607583265728401408"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1456122941192605705/1743759569",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1909791942961250308/nPZLMciH_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "0xAA_Science",
+    "statusesCount": 15972,
+    "translatorType": "none",
+    "url": "https://t.co/Ct4TQCaRIh",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [
+      {
+        "iconName": "IconBriefcaseStroke",
+        "id": 713,
+        "name": "Science & Technology"
+      }
+    ],
+    "professionalType": "Creator",
+    "restId": "1508097776516677635"
+  },
+  "profileImageShape": "Circle",
+  "restId": "1456122941192605705",
+  "tipjarSettings": {
+    "bitcoinHandle": "194QCf3vGNNxqtJtkPpnfDTMkA7qZ5nsEU",
+    "ethereumHandle": "0x25df6DA2f4e5C178DdFF45038378C0b08E0Bce54",
+    "isEnabled": true
+  }
+}

@@ -1,0 +1,102 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {
+    "label": {
+      "url": {
+        "url": "https://twitter.com/gmgnai",
+        "urlType": "DeepLink"
+      },
+      "badge": {
+        "url": "https://pbs.twimg.com/profile_images/1998601173205659657/8noZT-3I_bigger.jpg"
+      },
+      "description": "GMGN.Ai",
+      "userLabelType": "BusinessLabel",
+      "userLabelDisplayType": "Badge"
+    }
+  },
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxMzczMDgxNzE5ODM0Nzc1NTU0",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": false,
+    "createdAt": "Sat Mar 20 01:19:34 +0000 2021",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "不被定义，头衔太多就不写了｜新人用ok: https://t.co/TK8emaVHwN｜链上神器：https://t.co/xvbIuw6kZn ｜四亿用户在币安：https://t.co/KRQiw7CCjb",
+    "entities": {
+      "description": {
+        "urls": [
+          {
+            "display_url": "ouxyi.io/ul/6CngT5?chan…",
+            "expanded_url": "http://www.ouxyi.io/ul/6CngT5?channelId=2639000",
+            "url": "https://t.co/TK8emaVHwN",
+            "indices": [
+              21,
+              44
+            ]
+          },
+          {
+            "display_url": "gmgn.ai/?ref=GkIepNoR",
+            "expanded_url": "https://gmgn.ai/?ref=GkIepNoR",
+            "url": "https://t.co/xvbIuw6kZn",
+            "indices": [
+              50,
+              73
+            ]
+          },
+          {
+            "display_url": "binance.com/register?ref=L…",
+            "expanded_url": "http://binance.com/register?ref=LVOUJVVE",
+            "url": "https://t.co/KRQiw7CCjb",
+            "indices": [
+              83,
+              106
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 899,
+    "followersCount": 125568,
+    "following": true,
+    "friendsCount": 1606,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 2270,
+    "location": "moon",
+    "mediaCount": 1429,
+    "name": "潜水观察员🇨🇳",
+    "normalFollowersCount": 125568,
+    "pinnedTweetIdsStr": [
+      "1925981646181847075"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1373081719834775554/1655043945",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1976253355694641152/b6dgsb5A_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "connectfarm1",
+    "statusesCount": 12493,
+    "translatorType": "none",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [
+      {
+        "iconName": "IconBriefcaseStroke",
+        "id": 713,
+        "name": "Science & Technology"
+      }
+    ],
+    "professionalType": "Creator",
+    "restId": "1484401639255465987"
+  },
+  "profileImageShape": "Circle",
+  "restId": "1373081719834775554",
+  "tipjarSettings": {
+    "isEnabled": true
+  }
+}

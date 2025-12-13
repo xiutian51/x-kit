@@ -1,0 +1,47 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNjU1NDg0NDk3NDExMDY3OTEw",
+  "isBlueVerified": false,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Mon May 08 08:07:35 +0000 2023",
+    "defaultProfile": true,
+    "defaultProfileImage": true,
+    "description": "",
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 143,
+    "followersCount": 12382,
+    "following": true,
+    "friendsCount": 0,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 30,
+    "location": "Australia",
+    "mediaCount": 137,
+    "name": "Francis Pineda",
+    "normalFollowersCount": 12382,
+    "pinnedTweetIdsStr": [
+      "1753295470095737197"
+    ],
+    "possiblySensitive": false,
+    "profileImageUrlHttps": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+    "profileInterstitialType": "",
+    "screenName": "pineda71061",
+    "statusesCount": 378,
+    "translatorType": "none",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "profileImageShape": "Circle",
+  "restId": "1655484497411067910",
+  "tipjarSettings": {}
+}

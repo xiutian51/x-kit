@@ -1,0 +1,63 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNDI5Mzk1NTI5NzYzNTkwMTUw",
+  "isBlueVerified": false,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": false,
+    "createdAt": "Sun Aug 22 10:50:33 +0000 2021",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "BTC-Holder、Commodity Trader",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "medium.com/@arrowgo2mars",
+            "expanded_url": "https://medium.com/@arrowgo2mars",
+            "url": "https://t.co/el0EjWYZoF",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 4259,
+    "followedBy": true,
+    "followersCount": 4038,
+    "following": true,
+    "friendsCount": 3723,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 68,
+    "location": "San Francisco, CA",
+    "mediaCount": 228,
+    "name": "Arrow",
+    "normalFollowersCount": 4038,
+    "pinnedTweetIdsStr": [],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1429395529763590150/1697982982",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1716091116658040832/u69vDNFG_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "ArrowCrypto_eth",
+    "statusesCount": 1833,
+    "translatorType": "none",
+    "url": "https://t.co/el0EjWYZoF",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "profileImageShape": "Circle",
+  "restId": "1429395529763590150",
+  "tipjarSettings": {
+    "isEnabled": true
+  }
+}

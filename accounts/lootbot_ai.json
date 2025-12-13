@@ -1,0 +1,60 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNTU1NDMxNjg5NzczNDA0MTYw",
+  "isBlueVerified": false,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Fri Aug 05 05:53:29 +0000 2022",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "LootBot is rebranding -  Coming soon",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "link3.to/lootbot",
+            "expanded_url": "https://link3.to/lootbot",
+            "url": "https://t.co/27qAQXMfg3",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 959,
+    "followersCount": 18550,
+    "following": true,
+    "friendsCount": 290,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 146,
+    "location": "",
+    "mediaCount": 326,
+    "name": "LootBot",
+    "normalFollowersCount": 18550,
+    "pinnedTweetIdsStr": [],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1555431689773404160/1692176148",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1689735451786235904/VuAetuWj_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "lootbot_ai",
+    "statusesCount": 1024,
+    "translatorType": "none",
+    "url": "https://t.co/27qAQXMfg3",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "profileImageShape": "Circle",
+  "restId": "1555431689773404160",
+  "tipjarSettings": {}
+}

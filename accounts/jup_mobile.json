@@ -1,0 +1,74 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {
+    "label": {
+      "url": {
+        "url": "https://twitter.com/JupiterExchange",
+        "urlType": "DeepLink"
+      },
+      "badge": {
+        "url": "https://pbs.twimg.com/profile_images/1944921381168099328/mVkHxhxy_bigger.jpg"
+      },
+      "description": "Jupiter (🐱, 🐐)",
+      "userLabelType": "BusinessLabel",
+      "userLabelDisplayType": "Badge"
+    }
+  },
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxODY0MjI0OTEwNTcyNDQxNjAw",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Wed Dec 04 08:28:09 +0000 2024",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "The DeFi Superapp, powered by @JupiterExchange. Trade up to 10x faster and 8x cheaper than any other wallet.",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "jup.ag/mobile",
+            "expanded_url": "https://jup.ag/mobile",
+            "url": "https://t.co/9DTOlqllM3",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 14053,
+    "followersCount": 55480,
+    "following": true,
+    "friendsCount": 154,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 157,
+    "location": "Jupiter",
+    "mediaCount": 1153,
+    "name": "Jupiter Mobile (Trencher Arc ⚡️)",
+    "normalFollowersCount": 55480,
+    "pinnedTweetIdsStr": [],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1864224910572441600/1761467066",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1982361203847442432/v2yYIp8M_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "jup_mobile",
+    "statusesCount": 6296,
+    "translatorType": "none",
+    "url": "https://t.co/9DTOlqllM3",
+    "verified": false,
+    "verifiedType": "Business",
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "profileImageShape": "Square",
+  "restId": "1864224910572441600",
+  "tipjarSettings": {}
+}

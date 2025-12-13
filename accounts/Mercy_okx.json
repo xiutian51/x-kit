@@ -1,0 +1,73 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxODE4NDkyMzI4ODkxNjA0OTky",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Wed Jul 31 03:42:59 +0000 2024",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "#OKX ｜努力成为大家身边的 ☀️｜产品问题&用户反馈DM 👉 https://t.co/Xy7q4tHFG9",
+    "entities": {
+      "description": {
+        "urls": [
+          {
+            "display_url": "t.me/mercyokx",
+            "expanded_url": "https://t.me/mercyokx",
+            "url": "https://t.co/Xy7q4tHFG9",
+            "indices": [
+              33,
+              56
+            ]
+          }
+        ]
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "okx.com",
+            "expanded_url": "http://okx.com",
+            "url": "https://t.co/HeIHsEjnms",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 16303,
+    "followedBy": true,
+    "followersCount": 39161,
+    "following": true,
+    "friendsCount": 1440,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 250,
+    "location": "",
+    "mediaCount": 650,
+    "name": "Mercy",
+    "normalFollowersCount": 39161,
+    "pinnedTweetIdsStr": [
+      "1992850275212898734"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1818492328891604992/1743416263",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1854461470979039232/_3AAZ5ng_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "Mercy_okx",
+    "statusesCount": 7073,
+    "translatorType": "none",
+    "url": "https://t.co/HeIHsEjnms",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "profileImageShape": "Circle",
+  "restId": "1818492328891604992",
+  "tipjarSettings": {}
+}

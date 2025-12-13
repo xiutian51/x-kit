@@ -1,0 +1,48 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxMTM4MDMzNDM0",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Thu Jan 31 22:09:00 +0000 2013",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "Shephard @mechanismcap Not investment advice",
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 24122,
+    "followersCount": 404984,
+    "following": true,
+    "friendsCount": 4358,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 8376,
+    "location": "",
+    "mediaCount": 1881,
+    "name": "Andrew Kang",
+    "normalFollowersCount": 404984,
+    "pinnedTweetIdsStr": [
+      "1967752568882266485"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1138033434/1674336891",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1929878475739107328/80DEpCOa_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "Rewkang",
+    "statusesCount": 8627,
+    "translatorType": "none",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "profileImageShape": "Circle",
+  "restId": "1138033434",
+  "tipjarSettings": {}
+}

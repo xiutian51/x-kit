@@ -1,0 +1,73 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNjQwODIxNzM4NjI2ODYzMTA0",
+  "isBlueVerified": false,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Tue Mar 28 21:03:11 +0000 2023",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "Create your own AI Virtual Girlfriend and bring her to life with the DreamGF AI app! The Ultimate AI Companion Generator - Your Gateway to Virtual Love! ✨",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "dreamgf.ai",
+            "expanded_url": "http://dreamgf.ai",
+            "url": "https://t.co/ri4tDcLsXS",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 219,
+    "followersCount": 3083,
+    "following": true,
+    "friendsCount": 11,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 16,
+    "location": "",
+    "mediaCount": 442,
+    "name": "DreamGF AI",
+    "normalFollowersCount": 3083,
+    "pinnedTweetIdsStr": [
+      "1831023345279885329"
+    ],
+    "possiblySensitive": true,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1640821738626863104/1720772797",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1670124562565193728/fPZoBmUF_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "dreamgf_ai",
+    "statusesCount": 611,
+    "translatorType": "none",
+    "url": "https://t.co/ri4tDcLsXS",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [
+      {
+        "iconName": "IconBriefcaseStroke",
+        "id": 15,
+        "name": "Entertainment & Recreation"
+      }
+    ],
+    "professionalType": "Business",
+    "restId": "1654436948889444353"
+  },
+  "profileImageShape": "Circle",
+  "restId": "1640821738626863104",
+  "tipjarSettings": {}
+}

@@ -1,0 +1,58 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoyNTQ5MDIwNzQ=",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Sun Feb 20 07:11:07 +0000 2011",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "running @genventurecap @BAIcapital_ w/$4bn AUM；building @SuperReturnAI",
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 7054,
+    "followersCount": 12081,
+    "following": true,
+    "friendsCount": 5628,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 226,
+    "location": "Hong Kong",
+    "mediaCount": 189,
+    "name": "Will Wang",
+    "normalFollowersCount": 12081,
+    "pinnedTweetIdsStr": [
+      "1927739018856608173"
+    ],
+    "possiblySensitive": false,
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1882389748700086272/P9wXzriy_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "willwangtf",
+    "statusesCount": 2881,
+    "translatorType": "none",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [
+      {
+        "iconName": "IconBriefcaseStroke",
+        "id": 1039,
+        "name": "Venture Capital"
+      }
+    ],
+    "professionalType": "Business",
+    "restId": "1488767412887437313"
+  },
+  "profileImageShape": "Circle",
+  "restId": "254902074",
+  "tipjarSettings": {}
+}

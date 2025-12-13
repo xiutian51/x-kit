@@ -1,0 +1,73 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNTA3MjI1ODUyNzIzMjEyMjky",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Fri Mar 25 05:20:38 +0000 2022",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "Next-Gen Esports powered by AI, redefining the MOBA games on @SuiNetwork .  $E4C \nFounder-@Johnson_ambrus",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "linktr.ee/ambrusstudio",
+            "expanded_url": "https://linktr.ee/ambrusstudio",
+            "url": "https://t.co/UHsuuUIhdN",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 1168,
+    "followersCount": 372788,
+    "following": true,
+    "friendsCount": 93,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 182,
+    "location": "E4Cverse",
+    "mediaCount": 728,
+    "name": "E4C: Final Salvation",
+    "normalFollowersCount": 372788,
+    "pinnedTweetIdsStr": [
+      "1933090469506154945"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1507225852723212292/1702959428",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1736963838669688832/Nwh3ZJZy_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "AmbrusStudio",
+    "statusesCount": 1573,
+    "translatorType": "none",
+    "url": "https://t.co/UHsuuUIhdN",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [
+      {
+        "iconName": "IconBriefcaseStroke",
+        "id": 1009,
+        "name": "Community"
+      }
+    ],
+    "professionalType": "Business",
+    "restId": "1541259958091907074"
+  },
+  "profileImageShape": "Circle",
+  "restId": "1507225852723212292",
+  "tipjarSettings": {}
+}

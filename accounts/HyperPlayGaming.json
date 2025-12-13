@@ -1,0 +1,68 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNTUxNjE5MTY2MjQ2OTQ0Nzcw",
+  "isBlueVerified": false,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Mon Jul 25 17:24:00 +0000 2022",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "A web3-native game store. Bring your wallet, tokens, and NFTs into every game. Download now.",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "linktr.ee/HyperPlayGaming",
+            "expanded_url": "https://linktr.ee/HyperPlayGaming",
+            "url": "https://t.co/QyNPoz9MyE",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 9239,
+    "followersCount": 29555,
+    "following": true,
+    "friendsCount": 492,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 152,
+    "location": "Start The Adventure 👉",
+    "mediaCount": 836,
+    "name": "HyperPlay",
+    "normalFollowersCount": 29555,
+    "pinnedTweetIdsStr": [
+      "1946006138396271075"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1551619166246944770/1752159584",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1789064906685480960/bxYl2Ckp_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "HyperPlayGaming",
+    "statusesCount": 5763,
+    "translatorType": "none",
+    "url": "https://t.co/QyNPoz9MyE",
+    "verified": false,
+    "verifiedType": "Business",
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [],
+    "professionalType": "Business",
+    "restId": "1576178310781890565"
+  },
+  "profileImageShape": "Square",
+  "restId": "1551619166246944770",
+  "tipjarSettings": {}
+}

@@ -1,0 +1,60 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNDU0NDkwNjM1MDkyNzE3NTcy",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Sat Oct 30 16:49:39 +0000 2021",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "",
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 7460,
+    "followersCount": 54870,
+    "following": true,
+    "friendsCount": 1444,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 60,
+    "location": "",
+    "mediaCount": 445,
+    "name": "saku",
+    "normalFollowersCount": 54870,
+    "pinnedTweetIdsStr": [
+      "1917109964751179888"
+    ],
+    "possiblySensitive": false,
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1740609616101429248/8t-vcmp6_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "saku_web3",
+    "statusesCount": 3037,
+    "translatorType": "none",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [
+      {
+        "iconName": "IconBriefcaseStroke",
+        "id": 1037,
+        "name": "Game Developer"
+      }
+    ],
+    "professionalType": "Creator",
+    "restId": "1584138594062864385"
+  },
+  "profileImageShape": "Circle",
+  "restId": "1454490635092717572",
+  "tipjarSettings": {
+    "isEnabled": true
+  }
+}

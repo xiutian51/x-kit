@@ -1,0 +1,77 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxMDI0MjIwMTMy",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": false,
+    "canMediaTag": true,
+    "createdAt": "Thu Dec 20 13:05:51 +0000 2012",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "BCH（BitcoinCash）to the moon\nIf there is no Satoshi Nakamoto, I will be Satoshi Nakamoto. \nIf there is no @JihanWu , I will be Wu Jihan. \n反求诸己，承担责任，改善世界，爱我中华",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "ord.io/45986330",
+            "expanded_url": "http://ord.io/45986330",
+            "url": "https://t.co/xhs2XyfU5a",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 63292,
+    "followersCount": 8451,
+    "following": true,
+    "friendsCount": 4522,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 64,
+    "location": "北京, 中华人民共和国",
+    "mediaCount": 2419,
+    "name": "朱啸虎.BTC BCH Belief Community Hero 绿色比特币",
+    "normalFollowersCount": 8451,
+    "pinnedTweetIdsStr": [
+      "1812159719039222206"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1024220132/1640341226",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1750183265506660352/kl4yAXbJ_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "ilizhi",
+    "statusesCount": 36690,
+    "translatorType": "none",
+    "url": "https://t.co/xhs2XyfU5a",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [
+      {
+        "iconName": "IconBriefcaseStroke",
+        "id": 192,
+        "name": "Financial Services"
+      }
+    ],
+    "professionalType": "Creator",
+    "restId": "1474723834267795456"
+  },
+  "profileImageShape": "Circle",
+  "restId": "1024220132",
+  "tipjarSettings": {
+    "bitcoinHandle": "1BRUYL934atWDbbsD9MQdCpdmgjM7eBaiB",
+    "ethereumHandle": "0x860990aba8d1b861c0d98e6cccbb2250070a1109",
+    "isEnabled": true
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxMzIxNTg1NjEwNjU0Njg3MjQx",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": false,
+    "createdAt": "Wed Oct 28 22:52:25 +0000 2020",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "Open and transparent DeFi analytics. @DLNews for news\n\nFor support: https://t.co/skXWYXnpK4",
+    "entities": {
+      "description": {
+        "urls": [
+          {
+            "display_url": "defillama.com/support",
+            "expanded_url": "http://defillama.com/support",
+            "url": "https://t.co/skXWYXnpK4",
+            "indices": [
+              68,
+              91
+            ]
+          }
+        ]
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "defillama.com",
+            "expanded_url": "https://defillama.com/",
+            "url": "https://t.co/WE8Bph6asb",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 2060,
+    "followersCount": 362157,
+    "following": true,
+    "friendsCount": 24,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 4579,
+    "location": "",
+    "mediaCount": 11088,
+    "name": "DefiLlama.com",
+    "normalFollowersCount": 362157,
+    "pinnedTweetIdsStr": [
+      "1986811630143811949"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1321585610654687241/1745393440",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1915756547705036800/rAeLzZqs_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "DefiLlama",
+    "statusesCount": 13362,
+    "translatorType": "none",
+    "url": "https://t.co/WE8Bph6asb",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "profileImageShape": "Circle",
+  "restId": "1321585610654687241",
+  "tipjarSettings": {}
+}

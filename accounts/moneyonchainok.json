@@ -1,0 +1,75 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjo5NzQxMzQ0MTE1NTcwNDAxMjg=",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Thu Mar 15 04:05:17 +0000 2018",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "We are Money On Chain Community. A #Bitcoin-backed Stablecoin Protocol.\n\nJoin us! https://t.co/V6LIRETJ3C",
+    "entities": {
+      "description": {
+        "urls": [
+          {
+            "display_url": "t.me/MoneyOnChainCo…",
+            "expanded_url": "http://t.me/MoneyOnChainCommunity",
+            "url": "https://t.co/V6LIRETJ3C",
+            "indices": [
+              82,
+              105
+            ]
+          }
+        ]
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "moneyonchain.com",
+            "expanded_url": "http://moneyonchain.com/",
+            "url": "https://t.co/WezqJR88U4",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 5663,
+    "followersCount": 6620,
+    "following": true,
+    "friendsCount": 353,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 137,
+    "location": "Bitcoin Layer 2",
+    "mediaCount": 1246,
+    "name": "MoneyOnChain.com 🚀",
+    "normalFollowersCount": 6620,
+    "pinnedTweetIdsStr": [],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/974134411557040128/1691583866",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1691104005324173313/izRHk7es_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "moneyonchainok",
+    "statusesCount": 3995,
+    "translatorType": "none",
+    "url": "https://t.co/WezqJR88U4",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [],
+    "professionalType": "Business",
+    "restId": "1466095753525436417"
+  },
+  "profileImageShape": "Circle",
+  "restId": "974134411557040128",
+  "tipjarSettings": {}
+}

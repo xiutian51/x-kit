@@ -1,0 +1,84 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {
+    "label": {
+      "url": {
+        "url": "https://twitter.com/HuobiGlobal",
+        "urlType": "DeepLink"
+      },
+      "badge": {
+        "url": "https://pbs.twimg.com/profile_images/1683300506406645762/JjHq6ff4_bigger.jpg"
+      },
+      "description": "火币HTX",
+      "userLabelType": "BusinessLabel",
+      "userLabelDisplayType": "Badge"
+    }
+  },
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNTQ2NDI3NDc3MDk4MzgxMzEy",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Mon Jul 11 09:33:52 +0000 2022",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "#火币HTX 营销中心负责人 | HTXDAO 大使｜Head of HTX MO Center | HTXDAO Ambassador",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "htx.com",
+            "expanded_url": "https://www.htx.com",
+            "url": "https://t.co/kFnPilESz4",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 26469,
+    "followersCount": 37184,
+    "following": true,
+    "friendsCount": 1005,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 138,
+    "location": "注册👉",
+    "mediaCount": 971,
+    "name": "火币HTX六爷",
+    "normalFollowersCount": 37184,
+    "pinnedTweetIdsStr": [],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1546427477098381312/1755052209",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1996589619882938368/vKkSLwrG_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "HTX_Molly",
+    "statusesCount": 12804,
+    "translatorType": "none",
+    "url": "https://t.co/kFnPilESz4",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [
+      {
+        "iconName": "IconBriefcaseStroke",
+        "id": 1094,
+        "name": "Blockchain"
+      }
+    ],
+    "professionalType": "Creator",
+    "restId": "1582382291753787393"
+  },
+  "profileImageShape": "Circle",
+  "restId": "1546427477098381312",
+  "tipjarSettings": {}
+}

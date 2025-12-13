@@ -1,0 +1,85 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNjkwNjEzNzUwODE3MzE2ODY0",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Sun Aug 13 06:38:43 +0000 2023",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "OKX钱包20%返佣邀请码：AAA888\n注册链接：https://t.co/GbbMaAE8N4\n\n3亿用户的选择， #Binance https://t.co/vvT2ocR4nH",
+    "entities": {
+      "description": {
+        "urls": [
+          {
+            "display_url": "web3.okx.com/ul/joindex?ref…",
+            "expanded_url": "https://web3.okx.com/ul/joindex?ref=AAA888",
+            "url": "https://t.co/GbbMaAE8N4",
+            "indices": [
+              26,
+              49
+            ]
+          },
+          {
+            "display_url": "binance.com",
+            "expanded_url": "http://binance.com",
+            "url": "https://t.co/vvT2ocR4nH",
+            "indices": [
+              69,
+              92
+            ]
+          }
+        ]
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "web3.okx.com/ul/joindex?ref…",
+            "expanded_url": "https://web3.okx.com/ul/joindex?ref=AAA888",
+            "url": "https://t.co/GbbMaAE8N4",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 190804,
+    "followedBy": true,
+    "followersCount": 101163,
+    "following": true,
+    "friendsCount": 1832,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 827,
+    "location": "",
+    "mediaCount": 1967,
+    "name": "福禄寿 UV DAO",
+    "normalFollowersCount": 101163,
+    "pinnedTweetIdsStr": [
+      "1965644655581933743"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1690613750817316864/1713659674",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1719646947592765440/Uk0rbIMz_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "FLS_OTC",
+    "statusesCount": 64624,
+    "translatorType": "none",
+    "url": "https://t.co/GbbMaAE8N4",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "profileImageShape": "Circle",
+  "restId": "1690613750817316864",
+  "superFollowEligible": true,
+  "tipjarSettings": {
+    "isEnabled": true
+  }
+}

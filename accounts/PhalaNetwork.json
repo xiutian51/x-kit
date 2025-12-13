@@ -1,0 +1,84 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {
+    "label": {
+      "url": {
+        "url": "https://twitter.com/HashforestTech",
+        "urlType": "DeepLink"
+      },
+      "badge": {
+        "url": "https://pbs.twimg.com/profile_images/1778109699285721093/EtqfLk90_bigger.jpg"
+      },
+      "description": "Hashforest Technology",
+      "userLabelType": "BusinessLabel",
+      "userLabelDisplayType": "Badge"
+    }
+  },
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxMTY2MjczMTA1NDU2NTc4NTYx",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Tue Aug 27 08:56:03 +0000 2019",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "Empowering 10,000 builders and companies to build scalable, private, and safe intelligence.",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "phala.com",
+            "expanded_url": "https://phala.com",
+            "url": "https://t.co/wM4FVl3CUk",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 7364,
+    "followersCount": 142954,
+    "following": true,
+    "friendsCount": 839,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 1328,
+    "location": "San Francisco, CA",
+    "mediaCount": 1748,
+    "name": "Phala",
+    "normalFollowersCount": 142954,
+    "pinnedTweetIdsStr": [
+      "1961067964620226697"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1166273105456578561/1754413904",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1952779565048446978/NiMQKNgD_normal.png",
+    "profileInterstitialType": "",
+    "screenName": "PhalaNetwork",
+    "statusesCount": 5996,
+    "translatorType": "none",
+    "url": "https://t.co/wM4FVl3CUk",
+    "verified": false,
+    "verifiedType": "Business",
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [],
+    "professionalType": "Business",
+    "restId": "1456238895566188555"
+  },
+  "profileImageShape": "Square",
+  "restId": "1166273105456578561",
+  "tipjarSettings": {
+    "bitcoinHandle": "34Wi7Kk6uYdgmmziCPTmVKvZzXVv5cDtV3",
+    "isEnabled": true
+  }
+}

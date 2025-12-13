@@ -1,0 +1,86 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {
+    "label": {
+      "url": {
+        "url": "https://twitter.com/TanssiNetwork",
+        "urlType": "DeepLink"
+      },
+      "badge": {
+        "url": "https://pbs.twimg.com/profile_images/1874826799311413248/rvV9cqF3_bigger.jpg"
+      },
+      "description": "Tanssi",
+      "userLabelType": "BusinessLabel",
+      "userLabelDisplayType": "Badge"
+    }
+  },
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxODEwMzM4ODM2NzcxMzk3NjMy",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": false,
+    "canMediaTag": true,
+    "createdAt": "Mon Jul 08 15:43:30 +0000 2024",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "The Tanssi Foundation supports the @TanssiNetwork ecosystem, striving to make blockchain technology as intuitive as the web today.",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "tanssi.foundation",
+            "expanded_url": "https://www.tanssi.foundation/",
+            "url": "https://t.co/6UWntrkQB8",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 746,
+    "followersCount": 31490,
+    "following": true,
+    "friendsCount": 1,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 10,
+    "location": "",
+    "mediaCount": 44,
+    "name": "Tanssi Foundation",
+    "normalFollowersCount": 31490,
+    "pinnedTweetIdsStr": [
+      "1942904446150676543"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1810338836771397632/1721833416",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1810372452712652800/MseSbkwx_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "TanssiFdn",
+    "statusesCount": 212,
+    "translatorType": "none",
+    "url": "https://t.co/6UWntrkQB8",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [
+      {
+        "iconName": "IconBriefcaseStroke",
+        "id": 1094,
+        "name": "Blockchain"
+      }
+    ],
+    "professionalType": "Business",
+    "restId": "1810372247175180773"
+  },
+  "profileImageShape": "Circle",
+  "restId": "1810338836771397632",
+  "tipjarSettings": {}
+}

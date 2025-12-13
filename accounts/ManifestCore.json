@@ -1,0 +1,48 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNDc2ODY5ODc1OTk4MDY4NzM4",
+  "isBlueVerified": false,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Fri Dec 31 10:59:58 +0000 2021",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "Redacted history",
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 2738,
+    "followersCount": 31733,
+    "following": true,
+    "friendsCount": 0,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 245,
+    "location": "",
+    "mediaCount": 0,
+    "name": "OnlyOne",
+    "normalFollowersCount": 31733,
+    "pinnedTweetIdsStr": [
+      "1991798785052393773"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1476869875998068738/1763179933",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1989551746755006464/2eiPOI89_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "ManifestCore",
+    "statusesCount": 6,
+    "translatorType": "none",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "profileImageShape": "Circle",
+  "restId": "1476869875998068738",
+  "tipjarSettings": {}
+}

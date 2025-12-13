@@ -1,0 +1,115 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {
+    "label": {
+      "url": {
+        "url": "https://twitter.com/SuiNetwork",
+        "urlType": "DeepLink"
+      },
+      "badge": {
+        "url": "https://pbs.twimg.com/profile_images/1966183924880572416/__KrQPZP_bigger.jpg"
+      },
+      "description": "Sui",
+      "userLabelType": "BusinessLabel",
+      "userLabelDisplayType": "Badge"
+    }
+  },
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNjc0NjkxNDc5Mjk2Njg0MDMy",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Fri Jun 30 08:09:16 +0000 2023",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "@SuiNetwork 官方中文，Sui 是基于第一原理重新设计和构建而成的L1公有链，旨在为创作者和开发者提供能够承载 Web3 中下一个十亿用户的开发平台。\n\n官网 https://t.co/J0ezsmsdgJ\nDC 🔗https://t.co/jKJcZuSFxw \n公众号🔗https://t.co/mmV2JmXeJ7",
+    "entities": {
+      "description": {
+        "urls": [
+          {
+            "display_url": "sui.io",
+            "expanded_url": "http://sui.io",
+            "url": "https://t.co/J0ezsmsdgJ",
+            "indices": [
+              85,
+              108
+            ]
+          },
+          {
+            "display_url": "discord.gg/sui",
+            "expanded_url": "http://discord.gg/sui",
+            "url": "https://t.co/jKJcZuSFxw",
+            "indices": [
+              113,
+              136
+            ]
+          },
+          {
+            "display_url": "shorturl.asia/Erizv",
+            "expanded_url": "https://shorturl.asia/Erizv",
+            "url": "https://t.co/mmV2JmXeJ7",
+            "indices": [
+              142,
+              165
+            ]
+          }
+        ]
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "linktr.ee/sui_apac",
+            "expanded_url": "https://linktr.ee/sui_apac",
+            "url": "https://t.co/MrUIJC9Ecl",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 2632,
+    "followersCount": 18963,
+    "following": true,
+    "friendsCount": 388,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 81,
+    "location": "Sui",
+    "mediaCount": 357,
+    "name": "💧Sui Network - 官方中文账号",
+    "normalFollowersCount": 18963,
+    "pinnedTweetIdsStr": [
+      "1988622343577473394"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1674691479296684032/1748743095",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1966317487928336384/zWFgTU98_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "SuiNetworkCN",
+    "statusesCount": 3247,
+    "translatorType": "none",
+    "url": "https://t.co/MrUIJC9Ecl",
+    "verified": false,
+    "verifiedType": "Business",
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [
+      {
+        "iconName": "IconBriefcaseStroke",
+        "id": 37,
+        "name": "Event Venue"
+      }
+    ],
+    "professionalType": "Creator",
+    "restId": "1906594051991945463"
+  },
+  "profileImageShape": "Square",
+  "restId": "1674691479296684032",
+  "tipjarSettings": {}
+}

@@ -1,0 +1,73 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {
+    "label": {
+      "url": {
+        "url": "https://twitter.com/MagicEden",
+        "urlType": "DeepLink"
+      },
+      "badge": {
+        "url": "https://pbs.twimg.com/profile_images/1996986750833442816/ff9vuZNQ_bigger.jpg"
+      },
+      "description": "Magic Eden 🪄",
+      "userLabelType": "BusinessLabel",
+      "userLabelDisplayType": "Badge"
+    }
+  },
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNDUwODA1NTE3MTg2NTE5MDQ0",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": false,
+    "canMediaTag": true,
+    "createdAt": "Wed Oct 20 12:46:18 +0000 2021",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "CEO & Co-Founder at @MagicEden - on a mission to make digital ownership universal",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "magiceden.io",
+            "expanded_url": "http://www.magiceden.io",
+            "url": "https://t.co/vFbEnTZi2q",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 6995,
+    "followersCount": 33323,
+    "following": true,
+    "friendsCount": 1252,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 286,
+    "location": "",
+    "mediaCount": 156,
+    "name": "Jack",
+    "normalFollowersCount": 33323,
+    "pinnedTweetIdsStr": [],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1450805517186519044/1645432060",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1750442984552726528/j90Xu917_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "0xLeoInRio",
+    "statusesCount": 2094,
+    "translatorType": "none",
+    "url": "https://t.co/vFbEnTZi2q",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "profileImageShape": "Circle",
+  "restId": "1450805517186519044",
+  "tipjarSettings": {}
+}

@@ -1,0 +1,45 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNzI2MDk0MA==",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Sat Nov 08 23:17:44 +0000 2008",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "",
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 5112,
+    "followersCount": 38013,
+    "following": true,
+    "friendsCount": 78,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 805,
+    "location": "",
+    "mediaCount": 45,
+    "name": "dannyryan",
+    "normalFollowersCount": 38013,
+    "pinnedTweetIdsStr": [],
+    "possiblySensitive": false,
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/869016575839539200/Eh7zVsBa_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "dannyryan",
+    "statusesCount": 2431,
+    "translatorType": "none",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "profileImageShape": "Circle",
+  "restId": "17260940",
+  "tipjarSettings": {}
+}

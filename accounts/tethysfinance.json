@@ -1,0 +1,86 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNDUyOTM3MjEyODQ1MTY2NjEx",
+  "isBlueVerified": false,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Tue Oct 26 09:56:56 +0000 2021",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "Next-gen perpetual decentralized exchange + yield leverage protocol powered by $METIS Andromeda 🌿 https://t.co/swF3rUlTqM https://t.co/IjHZWrTzwO",
+    "entities": {
+      "description": {
+        "urls": [
+          {
+            "display_url": "discord.gg/AnQSc3VEAt",
+            "expanded_url": "https://discord.gg/AnQSc3VEAt",
+            "url": "https://t.co/swF3rUlTqM",
+            "indices": [
+              98,
+              121
+            ]
+          },
+          {
+            "display_url": "t.me/tethysswap",
+            "expanded_url": "http://t.me/tethysswap",
+            "url": "https://t.co/IjHZWrTzwO",
+            "indices": [
+              122,
+              145
+            ]
+          }
+        ]
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "tethys.finance",
+            "expanded_url": "https://tethys.finance",
+            "url": "https://t.co/yeLYp31CWU",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 1438,
+    "followersCount": 11631,
+    "following": true,
+    "friendsCount": 7,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 157,
+    "location": "Andromeda",
+    "mediaCount": 441,
+    "name": "Tethys Finance",
+    "normalFollowersCount": 11631,
+    "pinnedTweetIdsStr": [
+      "1864962720040186341"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1452937212845166611/1642068722",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1616833341608558592/4OI15Btn_normal.png",
+    "profileInterstitialType": "",
+    "screenName": "tethysfinance",
+    "statusesCount": 1985,
+    "translatorType": "none",
+    "url": "https://t.co/yeLYp31CWU",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [],
+    "professionalType": "Business",
+    "restId": "1490696770963349508"
+  },
+  "profileImageShape": "Circle",
+  "restId": "1452937212845166611",
+  "tipjarSettings": {}
+}

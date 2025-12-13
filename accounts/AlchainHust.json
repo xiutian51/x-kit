@@ -1,0 +1,70 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoyMzI1MTk1Mjk=",
+  "isBlueVerified": false,
+  "legacy": {
+    "canDm": false,
+    "canMediaTag": true,
+    "createdAt": "Fri Dec 31 11:18:07 +0000 2010",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "🤖AI Native Coder：「小猫补光灯」「拍照学单词」\n🎥经营20万+粉丝的YouTube/B站频道：AI进化论-花生\n💡AI编程知识星球：https://t.co/qkSYGBzeRw\n小红书：花叔（只工作不上班版\n公众号：花叔\n即刻：Alchian花生",
+    "entities": {
+      "description": {
+        "urls": [
+          {
+            "display_url": "t.zsxq.com/BFTPI",
+            "expanded_url": "https://t.zsxq.com/BFTPI",
+            "url": "https://t.co/qkSYGBzeRw",
+            "indices": [
+              74,
+              97
+            ]
+          }
+        ]
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "huasheng.ai",
+            "expanded_url": "https://huasheng.ai/",
+            "url": "https://t.co/NIIcBAncvh",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 626,
+    "followersCount": 19948,
+    "following": true,
+    "friendsCount": 282,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 225,
+    "location": "",
+    "mediaCount": 212,
+    "name": "AI进化论-花生",
+    "normalFollowersCount": 19948,
+    "pinnedTweetIdsStr": [],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/232519529/1740280664",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1851546452184752128/koJVfNWf_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "AlchainHust",
+    "statusesCount": 835,
+    "translatorType": "none",
+    "url": "https://t.co/NIIcBAncvh",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "profileImageShape": "Circle",
+  "restId": "232519529",
+  "tipjarSettings": {}
+}

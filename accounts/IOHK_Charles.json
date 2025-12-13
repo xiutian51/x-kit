@@ -1,0 +1,62 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxMzc2MTYxODk4",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": false,
+    "canMediaTag": true,
+    "createdAt": "Wed Apr 24 04:28:32 +0000 2013",
+    "defaultProfile": false,
+    "defaultProfileImage": false,
+    "description": "Dire Wolf Mode | Sateré-Mawé Warrior | Honorary Berkutchi\n\n8830 AC64 17F2 5164 195C 05DE 21E3 E377 13E1 5586 | CEO of IOG and King of the Rats",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "iog.io",
+            "expanded_url": "http://iog.io",
+            "url": "https://t.co/BsRXeIhPIi",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 12538,
+    "followersCount": 1070894,
+    "following": true,
+    "friendsCount": 1568,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 6717,
+    "location": "Boulder, Colorado",
+    "mediaCount": 6476,
+    "name": "Charles Hoskinson",
+    "normalFollowersCount": 1070894,
+    "pinnedTweetIdsStr": [
+      "1944934622980080011"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1376161898/1758974715",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1998879879736311808/zIqwzHbJ_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "IOHK_Charles",
+    "statusesCount": 29663,
+    "translatorType": "none",
+    "url": "https://t.co/BsRXeIhPIi",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "profileImageShape": "Circle",
+  "restId": "1376161898",
+  "tipjarSettings": {}
+}

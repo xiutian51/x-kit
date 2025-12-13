@@ -1,0 +1,59 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxOTExMzQ1MTU3OTEzNjA0MDk3",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Sun Apr 13 09:06:30 +0000 2025",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "Wallets. Positions. Builders. Data. Hyperliquid\n\n🔗👇🏼\nhttps://t.co/4Y3b1AmkJK\n\nPowered by @coinmarketman",
+    "entities": {
+      "description": {
+        "urls": [
+          {
+            "display_url": "HyperTracker.io",
+            "expanded_url": "https://HyperTracker.io",
+            "url": "https://t.co/4Y3b1AmkJK",
+            "indices": [
+              53,
+              76
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 23590,
+    "followersCount": 6232,
+    "following": true,
+    "friendsCount": 387,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 104,
+    "location": "HyperLiquid",
+    "mediaCount": 435,
+    "name": "HyperTracker",
+    "normalFollowersCount": 6232,
+    "pinnedTweetIdsStr": [
+      "1998892413373526058"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1911345157913604097/1745399014",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1921840039191076864/MQL-3EMg_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "CMMHyperTracker",
+    "statusesCount": 785,
+    "translatorType": "none",
+    "verified": false,
+    "verifiedType": "Business",
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "profileImageShape": "Square",
+  "restId": "1911345157913604097",
+  "tipjarSettings": {}
+}

@@ -1,0 +1,87 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNjI3Mjc2MDcwOTIyODg3MTcw",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Sun Feb 19 11:57:21 +0000 2023",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "10,000 timeless frog collectibles stored on Bitcoin blockchain. Chat: https://t.co/s6tG2QpYSQ. Market: https://t.co/CLkBgGbbcf",
+    "entities": {
+      "description": {
+        "urls": [
+          {
+            "display_url": "discord.gg/PfGq3z2Xtn",
+            "expanded_url": "http://discord.gg/PfGq3z2Xtn",
+            "url": "https://t.co/s6tG2QpYSQ",
+            "indices": [
+              70,
+              93
+            ]
+          },
+          {
+            "display_url": "magiceden.io/ordinals/marke…",
+            "expanded_url": "http://magiceden.io/ordinals/marketplace/bitcoin-frogs",
+            "url": "https://t.co/CLkBgGbbcf",
+            "indices": [
+              103,
+              126
+            ]
+          }
+        ]
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "bitcoinfrogs.com",
+            "expanded_url": "http://bitcoinfrogs.com",
+            "url": "https://t.co/iTMY9T40WS",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 21558,
+    "followedBy": true,
+    "followersCount": 65382,
+    "following": true,
+    "friendsCount": 36475,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 267,
+    "location": "",
+    "mediaCount": 820,
+    "name": "Bitcoin Frogs 比特蛙",
+    "normalFollowersCount": 65382,
+    "pinnedTweetIdsStr": [
+      "1711247365271928894"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1627276070922887170/1711647492",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1635725529604136963/es4S6UqQ_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "BitcoinFrogs",
+    "statusesCount": 18755,
+    "translatorType": "none",
+    "url": "https://t.co/iTMY9T40WS",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [],
+    "professionalType": "Business",
+    "restId": "1696934762026512809"
+  },
+  "profileImageShape": "Circle",
+  "restId": "1627276070922887170",
+  "tipjarSettings": {}
+}

@@ -1,0 +1,63 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNzU5NDQzODQ0ODg0NTIwOTYw",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Mon Feb 19 05:04:56 +0000 2024",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "Chain Signature protocol facing the users. Seamless web3 access, seamless cross-chain transactions, seamless gas covering. Betanet is live 🔥",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "hot-labs.org",
+            "expanded_url": "https://hot-labs.org/",
+            "url": "https://t.co/Gv3ApJeFYe",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 774,
+    "followersCount": 739745,
+    "following": true,
+    "friendsCount": 171,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 166,
+    "location": "web3",
+    "mediaCount": 658,
+    "name": "HOT Protocol 🔥",
+    "normalFollowersCount": 739745,
+    "pinnedTweetIdsStr": [
+      "1962844138782540219"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1759443844884520960/1729014458",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1869162563981746176/_vYKHFMJ_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "hotdao_",
+    "statusesCount": 1274,
+    "translatorType": "none",
+    "url": "https://t.co/Gv3ApJeFYe",
+    "verified": false,
+    "verifiedType": "Business",
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "profileImageShape": "Square",
+  "restId": "1759443844884520960",
+  "tipjarSettings": {}
+}

@@ -1,0 +1,78 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNTQyOTQ3OTE4NzA5MDgwMDY1",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Fri Jul 01 19:07:51 +0000 2022",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "Powering the world with Verifiable AI.\n\nFrom apps to agents to systems.\n\nBuild Anything. Verify Everything.\n\nGet started today: https://t.co/Dg3fYtOEBT",
+    "entities": {
+      "description": {
+        "urls": [
+          {
+            "display_url": "linktr.ee/eigenlabs",
+            "expanded_url": "https://linktr.ee/eigenlabs",
+            "url": "https://t.co/Dg3fYtOEBT",
+            "indices": [
+              128,
+              151
+            ]
+          }
+        ]
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "eigencloud.xyz",
+            "expanded_url": "https://www.eigencloud.xyz/",
+            "url": "https://t.co/V0IKHo8Wg3",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 9547,
+    "followersCount": 317111,
+    "following": true,
+    "friendsCount": 400,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 2210,
+    "location": "Ethereum",
+    "mediaCount": 795,
+    "name": "EigenCloud",
+    "normalFollowersCount": 317111,
+    "pinnedTweetIdsStr": [
+      "1999163805964890161"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1542947918709080065/1750273371",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1944794158931095552/R98nm3La_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "eigencloud",
+    "statusesCount": 7565,
+    "translatorType": "none",
+    "url": "https://t.co/V0IKHo8Wg3",
+    "verified": false,
+    "verifiedType": "Business",
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [],
+    "professionalType": "Business",
+    "restId": "1542948429759885312"
+  },
+  "profileImageShape": "Square",
+  "restId": "1542947918709080065",
+  "tipjarSettings": {}
+}

@@ -1,0 +1,70 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxMzcyMTk2OTAxOTM2ODQ4OTAx",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Wed Mar 17 14:43:35 +0000 2021",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "Invest in the unexpected || Founder of @AltCryptoCast, @AltCryptoTalk & @KollectAgency || DM for Business Enquiries💰",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "linktr.ee/altcryptogems",
+            "expanded_url": "https://linktr.ee/altcryptogems",
+            "url": "https://t.co/WHyZ2nZlm2",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 94938,
+    "followersCount": 477030,
+    "following": true,
+    "friendsCount": 1898,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 2334,
+    "location": "Dubai",
+    "mediaCount": 31674,
+    "name": "Sjuul | AltCryptoGems",
+    "normalFollowersCount": 477030,
+    "pinnedTweetIdsStr": [
+      "1999196725672653032"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1372196901936848901/1753880667",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1950543002721533952/y0gABDyF_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "AltCryptoGems",
+    "statusesCount": 174944,
+    "translatorType": "none",
+    "url": "https://t.co/WHyZ2nZlm2",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [],
+    "professionalType": "Creator",
+    "restId": "1480565099530276869"
+  },
+  "profileImageShape": "Circle",
+  "restId": "1372196901936848901",
+  "tipjarSettings": {
+    "bitcoinHandle": "3MWsUdMbskixWWSyxFbGYJFQfqozwrJVdD",
+    "isEnabled": true
+  }
+}

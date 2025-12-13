@@ -1,0 +1,62 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoyNjY2NTA4ODQx",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Mon Jul 21 16:55:36 +0000 2014",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "觉者，感受着空气的流动，水的滋润，阳光照耀，感知着你的心，感悟着世间沧桑，妄念自己为“哆囉夜多”，能照亮众生的心灵，让人们摆脱痛苦，得到真正的幸福。",
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 53079,
+    "followersCount": 66648,
+    "following": true,
+    "friendsCount": 545,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 571,
+    "location": "New York, USA",
+    "mediaCount": 1985,
+    "name": "老张🤟与神对话",
+    "normalFollowersCount": 66648,
+    "pinnedTweetIdsStr": [
+      "1989907624255787249"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/2666508841/1656843382",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1636998250354843648/BDj2gX3H_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "zhang_bj_",
+    "statusesCount": 21928,
+    "translatorType": "none",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [
+      {
+        "iconName": "IconBriefcaseStroke",
+        "id": 192,
+        "name": "Financial Services"
+      }
+    ],
+    "professionalType": "Creator",
+    "restId": "1497300663604477952"
+  },
+  "profileImageShape": "Circle",
+  "restId": "2666508841",
+  "superFollowEligible": true,
+  "tipjarSettings": {
+    "isEnabled": true
+  }
+}

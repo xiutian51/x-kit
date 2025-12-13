@@ -1,0 +1,86 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNDQ4ODM5Mzk4MTI5MjI1NzI5",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Fri Oct 15 02:33:34 +0000 2021",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "18年 #Crypto 从业者 | 健身达人 | 有鱼有饭社区 YouTube https://t.co/geiNQJZQat",
+    "entities": {
+      "description": {
+        "urls": [
+          {
+            "display_url": "youtube.com/@0xYuFan622",
+            "expanded_url": "http://youtube.com/@0xYuFan622",
+            "url": "https://t.co/geiNQJZQat",
+            "indices": [
+              40,
+              63
+            ]
+          }
+        ]
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "linktr.ee/0xYuFan622",
+            "expanded_url": "https://linktr.ee/0xYuFan622",
+            "url": "https://t.co/kyWjm34xz0",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 8294,
+    "followersCount": 29399,
+    "following": true,
+    "friendsCount": 1044,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 206,
+    "location": "Hong Kong",
+    "mediaCount": 898,
+    "name": "大鱼🔶BNB",
+    "normalFollowersCount": 29399,
+    "pinnedTweetIdsStr": [
+      "1891366439564755191"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1448839398129225729/1759976242",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1975186532429606912/2dFuA_e1_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "ShuYu622",
+    "statusesCount": 9418,
+    "translatorType": "none",
+    "url": "https://t.co/kyWjm34xz0",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [
+      {
+        "iconName": "IconBriefcaseStroke",
+        "id": 934,
+        "name": "Social Media Influencer"
+      }
+    ],
+    "professionalType": "Creator",
+    "restId": "1562621323628916736"
+  },
+  "profileImageShape": "Circle",
+  "restId": "1448839398129225729",
+  "tipjarSettings": {
+    "ethereumHandle": "0xbb8574Ad63A1159aa774e79D73d18804DDEa2F9C",
+    "isEnabled": true
+  }
+}

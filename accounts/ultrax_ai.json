@@ -1,0 +1,83 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNzAzODA3MTYyNzk3OTMyNTQ0",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Mon Sep 18 16:24:27 +0000 2023",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "Best All-in-one Dex https://t.co/oiWVetBiBJ",
+    "entities": {
+      "description": {
+        "urls": [
+          {
+            "display_url": "t.me/dex6551_offici…",
+            "expanded_url": "https://t.me/dex6551_official",
+            "url": "https://t.co/oiWVetBiBJ",
+            "indices": [
+              20,
+              43
+            ]
+          }
+        ]
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "6551.io",
+            "expanded_url": "https://6551.io/",
+            "url": "https://t.co/rcsQYg7xxw",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 214,
+    "followersCount": 17633,
+    "following": true,
+    "friendsCount": 4,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 184,
+    "location": "",
+    "mediaCount": 62,
+    "name": "6551Dex",
+    "normalFollowersCount": 17633,
+    "pinnedTweetIdsStr": [
+      "1916967832329588909"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1703807162797932544/1745223564",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1912861502627033088/iOXZihRb_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "ultrax_ai",
+    "statusesCount": 357,
+    "translatorType": "none",
+    "url": "https://t.co/rcsQYg7xxw",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [
+      {
+        "iconName": "IconBriefcaseStroke",
+        "id": 986,
+        "name": "Software Application"
+      }
+    ],
+    "professionalType": "Business",
+    "restId": "1920804245936501184"
+  },
+  "profileImageShape": "Circle",
+  "restId": "1703807162797932544",
+  "tipjarSettings": {}
+}

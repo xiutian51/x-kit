@@ -1,0 +1,59 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNTE5NTgzNjUxMTcyMDY5Mzc2",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Thu Apr 28 07:45:59 +0000 2022",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "Founder of Mango Labs\nGlobal Assets to Global People\nNBC + Goldman + Foxconn + Citadel = ?",
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 5178,
+    "followersCount": 27786,
+    "following": true,
+    "friendsCount": 2137,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 468,
+    "location": "CyberSpace",
+    "mediaCount": 303,
+    "name": "Dov",
+    "normalFollowersCount": 27786,
+    "pinnedTweetIdsStr": [
+      "1885921770622140720"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1519583651172069376/1765385056",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1874785526903140352/-0niYltv_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "dov_wo",
+    "statusesCount": 3210,
+    "translatorType": "none",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [
+      {
+        "iconName": "IconBriefcaseStroke",
+        "id": 1039,
+        "name": "Venture Capital"
+      }
+    ],
+    "professionalType": "Creator",
+    "restId": "1608471699770703872"
+  },
+  "profileImageShape": "Circle",
+  "restId": "1519583651172069376",
+  "tipjarSettings": {}
+}

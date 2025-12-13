@@ -1,0 +1,73 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxMzk2MTA0NDcwMzcxNjUxNTg1",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Sat May 22 14:03:50 +0000 2021",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "Former Research Analyst for a VC | Curatooor & Threadooor | Alpha Channel 💎 https://t.co/lcWgGa421B | Working w/ @GREEND0TS",
+    "entities": {
+      "description": {
+        "urls": [
+          {
+            "display_url": "t.me/shiroalpha",
+            "expanded_url": "http://t.me/shiroalpha",
+            "url": "https://t.co/lcWgGa421B",
+            "indices": [
+              76,
+              99
+            ]
+          }
+        ]
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "linktr.ee/cryptoshiro",
+            "expanded_url": "https://linktr.ee/cryptoshiro",
+            "url": "https://t.co/g6t4KCSNu1",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 33826,
+    "followersCount": 68926,
+    "following": true,
+    "friendsCount": 1682,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 2514,
+    "location": "More Alpha, Newsletter & TG ➡️",
+    "mediaCount": 986,
+    "name": "Shiro",
+    "normalFollowersCount": 68926,
+    "pinnedTweetIdsStr": [
+      "1984994816090939621"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1396104470371651585/1744707098",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1574396331895947264/UItJeDTe_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "CryptoShiro_",
+    "statusesCount": 12325,
+    "translatorType": "none",
+    "url": "https://t.co/g6t4KCSNu1",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "profileImageShape": "Circle",
+  "restId": "1396104470371651585",
+  "superFollowEligible": true,
+  "tipjarSettings": {}
+}

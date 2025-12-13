@@ -1,0 +1,67 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjo5MjgyMzQxNw==",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Thu Nov 26 19:54:45 +0000 2009",
+    "defaultProfile": false,
+    "defaultProfileImage": false,
+    "description": "Institutional Bitcoin research for serious investors • @CryptoQuant_com Verified Author • On-chain • Futures • ETFs • Macro • 10 min/week • Zero guesswork.",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "adlerinsight.com",
+            "expanded_url": "https://adlerinsight.com",
+            "url": "https://t.co/lBcmKRSUce",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 3775,
+    "followersCount": 28421,
+    "following": true,
+    "friendsCount": 447,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 708,
+    "location": "📍 Start →",
+    "mediaCount": 2730,
+    "name": "Axel 💎🙌 Adler Jr",
+    "normalFollowersCount": 28421,
+    "pinnedTweetIdsStr": [
+      "1997672281900814496"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/92823417/1762372489",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1845142050733195265/AK18DLQW_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "AxelAdlerJr",
+    "statusesCount": 5689,
+    "translatorType": "none",
+    "url": "https://t.co/lBcmKRSUce",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [],
+    "professionalType": "Creator",
+    "restId": "1490368788570718218"
+  },
+  "profileImageShape": "Circle",
+  "restId": "92823417",
+  "tipjarSettings": {}
+}

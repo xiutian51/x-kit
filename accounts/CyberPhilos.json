@@ -1,0 +1,87 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {
+    "label": {
+      "url": {
+        "url": "https://twitter.com/UseUniversalX",
+        "urlType": "DeepLink"
+      },
+      "badge": {
+        "url": "https://pbs.twimg.com/profile_images/1885153504291102720/R7usrJag_bigger.jpg"
+      },
+      "description": "UniversalX",
+      "userLabelType": "BusinessLabel",
+      "userLabelDisplayType": "Badge"
+    }
+  },
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNTEyNDA0NTAwMTM2NzQyOTE5",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": false,
+    "createdAt": "Fri Apr 08 12:18:42 +0000 2022",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "频道: https://t.co/nkaRd28lUC",
+    "entities": {
+      "description": {
+        "urls": [
+          {
+            "display_url": "t.me/SigmaHunter7",
+            "expanded_url": "https://t.me/SigmaHunter7",
+            "url": "https://t.co/nkaRd28lUC",
+            "indices": [
+              4,
+              27
+            ]
+          }
+        ]
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "t.me/SigmaHunter7",
+            "expanded_url": "https://t.me/SigmaHunter7",
+            "url": "https://t.co/nkaRd28lUC",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 17447,
+    "followersCount": 29956,
+    "following": true,
+    "friendsCount": 2097,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 574,
+    "location": "Join Sigma Hunter 👉",
+    "mediaCount": 31,
+    "name": "赛博哲学家",
+    "normalFollowersCount": 29956,
+    "pinnedTweetIdsStr": [
+      "1998613885771985051"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1512404500136742919/1746110030",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1915367685137063936/nIEYsC_Q_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "CyberPhilos",
+    "statusesCount": 486,
+    "translatorType": "none",
+    "url": "https://t.co/nkaRd28lUC",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "profileImageShape": "Circle",
+  "restId": "1512404500136742919",
+  "tipjarSettings": {
+    "isEnabled": true
+  }
+}

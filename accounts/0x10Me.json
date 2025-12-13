@@ -1,0 +1,98 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNjU5OTYxMzk1OTA2MjUyODAx",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Sat May 20 16:37:00 +0000 2023",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "我是 𝟏𝟎，将持续分享科普与投研！合作请私信：https://t.co/JgWZ0u51sv\n\n#OKX Web3 入口一个就够 - 欧易：👉 https://t.co/1iXYfqiAp6\n\n#Binance 加入全球最大交易所 - 币安：👉 https://t.co/Cr3BMvpE3F",
+    "entities": {
+      "description": {
+        "urls": [
+          {
+            "display_url": "t.me/ZenoFi",
+            "expanded_url": "http://t.me/ZenoFi",
+            "url": "https://t.co/JgWZ0u51sv",
+            "indices": [
+              23,
+              46
+            ]
+          },
+          {
+            "display_url": "okx.com/join/59564904",
+            "expanded_url": "http://okx.com/join/59564904",
+            "url": "https://t.co/1iXYfqiAp6",
+            "indices": [
+              72,
+              95
+            ]
+          },
+          {
+            "display_url": "binance.com/join?ref=LP637",
+            "expanded_url": "http://binance.com/join?ref=LP637",
+            "url": "https://t.co/Cr3BMvpE3F",
+            "indices": [
+              123,
+              146
+            ]
+          }
+        ]
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "t.me/Builder_86",
+            "expanded_url": "http://t.me/Builder_86",
+            "url": "https://t.co/cyXr8x6dKQ",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 50632,
+    "followersCount": 28698,
+    "following": true,
+    "friendsCount": 1638,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 150,
+    "location": " #Binance 广场创作者  |  动物园社区 👉 ",
+    "mediaCount": 724,
+    "name": "0xZeno ☼ MemeMax ⚡️",
+    "normalFollowersCount": 28698,
+    "pinnedTweetIdsStr": [
+      "1751179772229808421"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1659961395906252801/1712399335",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1987041776205717504/zNCPwex4_normal.png",
+    "profileInterstitialType": "",
+    "screenName": "0x10Me",
+    "statusesCount": 34717,
+    "translatorType": "none",
+    "url": "https://t.co/cyXr8x6dKQ",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [],
+    "professionalType": "Creator",
+    "restId": "1701497758040105330"
+  },
+  "profileImageShape": "Circle",
+  "restId": "1659961395906252801",
+  "tipjarSettings": {
+    "ethereumHandle": "0x3df064432cf3376ec7f874f858170682ba3e7429",
+    "isEnabled": false
+  }
+}

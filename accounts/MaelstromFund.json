@@ -1,0 +1,63 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNjE3OTY0NTcxNTk1MjY4MDk2",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Tue Jan 24 19:16:42 +0000 2023",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "The family office of @CryptoHayes - investing in products, infra and services building the trustless decentralization of everything | Not investment advice",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "maelstrom.fund",
+            "expanded_url": "https://www.maelstrom.fund",
+            "url": "https://t.co/AUnVMmiXCR",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 67,
+    "followersCount": 29375,
+    "following": true,
+    "friendsCount": 4,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 339,
+    "location": "",
+    "mediaCount": 43,
+    "name": "Maelstrom",
+    "normalFollowersCount": 29375,
+    "pinnedTweetIdsStr": [
+      "1979259954428023010"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1617964571595268096/1677275343",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1681072260243660807/vlRimfGZ_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "MaelstromFund",
+    "statusesCount": 374,
+    "translatorType": "none",
+    "url": "https://t.co/AUnVMmiXCR",
+    "verified": false,
+    "verifiedType": "Business",
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "profileImageShape": "Square",
+  "restId": "1617964571595268096",
+  "tipjarSettings": {}
+}

@@ -1,0 +1,80 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxMzkxNzQ0ODI4OTY3MjUxOTcz",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Mon May 10 13:20:08 +0000 2021",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "hello web3｜3亿用户的共同选择，出入金安全  #BINANCE  注册链接：https://t.co/LEzTQOFMdX",
+    "entities": {
+      "description": {
+        "urls": [
+          {
+            "display_url": "marketwebb.cc/join?ref=H6PFJ…",
+            "expanded_url": "https://www.marketwebb.cc/join?ref=H6PFJNEL",
+            "url": "https://t.co/LEzTQOFMdX",
+            "indices": [
+              43,
+              66
+            ]
+          }
+        ]
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "t.me/+luQ_KocnTrYxY…",
+            "expanded_url": "https://t.me/+luQ_KocnTrYxYzBl",
+            "url": "https://t.co/UqLI3qpI6s",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 15960,
+    "followersCount": 52417,
+    "following": true,
+    "friendsCount": 1060,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 327,
+    "location": "我的tg社群",
+    "mediaCount": 2429,
+    "name": "luckybb",
+    "normalFollowersCount": 52417,
+    "pinnedTweetIdsStr": [
+      "1970102421566435693"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1391744828967251973/1665933129",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1720110493120274432/5MR3BNHL_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "luckybb88",
+    "statusesCount": 16744,
+    "translatorType": "none",
+    "url": "https://t.co/UqLI3qpI6s",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [],
+    "professionalType": "Creator",
+    "restId": "1543192171519660034"
+  },
+  "profileImageShape": "Circle",
+  "restId": "1391744828967251973",
+  "tipjarSettings": {
+    "ethereumHandle": "0x95724798d703E87196375Be5f8FBf136D862f033",
+    "isEnabled": true
+  }
+}

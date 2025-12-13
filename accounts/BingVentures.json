@@ -1,0 +1,85 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNDY2MzAyMjIzOTY1NTgxMzEz",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Thu Dec 02 07:04:35 +0000 2021",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "#Crypto / #Web3 #VC fund \nSupporting next-gen #blockchain innovations\n\nFollow 👉 https://t.co/bjcyaQDIDJ\nSubmit: pitchofficial@bing-ventures.com",
+    "entities": {
+      "description": {
+        "urls": [
+          {
+            "display_url": "linktr.ee/bingventures",
+            "expanded_url": "https://linktr.ee/bingventures",
+            "url": "https://t.co/bjcyaQDIDJ",
+            "indices": [
+              80,
+              103
+            ]
+          }
+        ]
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "bing-ventures.com",
+            "expanded_url": "https://www.bing-ventures.com/",
+            "url": "https://t.co/CzViIaMv7I",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 413,
+    "followersCount": 22901,
+    "following": true,
+    "friendsCount": 141,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 45,
+    "location": "Global",
+    "mediaCount": 540,
+    "name": "Bing Ventures",
+    "normalFollowersCount": 22901,
+    "pinnedTweetIdsStr": [
+      "1913077740603084958"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1466302223965581313/1730692078",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1853286330379501568/iDNgOL7s_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "BingVentures",
+    "statusesCount": 1260,
+    "translatorType": "none",
+    "url": "https://t.co/CzViIaMv7I",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [
+      {
+        "iconName": "IconBriefcaseStroke",
+        "id": 192,
+        "name": "Financial Services"
+      }
+    ],
+    "professionalType": "Business",
+    "restId": "1603346713745367041"
+  },
+  "profileImageShape": "Circle",
+  "restId": "1466302223965581313",
+  "tipjarSettings": {
+    "isEnabled": true
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNjMyNTA0NDMyNzQ2MTkyODk2",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Sun Mar 05 22:14:10 +0000 2023",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "The People's Chain, powered by Move",
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 2461,
+    "followersCount": 681846,
+    "following": true,
+    "friendsCount": 30,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 988,
+    "location": "",
+    "mediaCount": 943,
+    "name": "The Movement",
+    "normalFollowersCount": 681846,
+    "pinnedTweetIdsStr": [
+      "1999147321641332885"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1632504432746192896/1711047198",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1744477796301496320/z7AIB7_W_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "movement_xyz",
+    "statusesCount": 3948,
+    "translatorType": "none",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "profileImageShape": "Circle",
+  "restId": "1632504432746192896",
+  "tipjarSettings": {}
+}

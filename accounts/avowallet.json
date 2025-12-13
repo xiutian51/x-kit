@@ -1,0 +1,65 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNjE0MDI4MjEyODg3MDgwOTYw",
+  "isBlueVerified": false,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Fri Jan 13 22:39:22 +0000 2023",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "Your Web3 Superwallet: Simple, Secure, On-the-Go! Personal & Multisig wallets live now 🥑 Wallet by @Instadapp",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "avocado.instadapp.io",
+            "expanded_url": "https://avocado.instadapp.io/",
+            "url": "https://t.co/LsBa06aZpI",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 178,
+    "followersCount": 4877,
+    "following": true,
+    "friendsCount": 1,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 33,
+    "location": "",
+    "mediaCount": 36,
+    "name": "Avocado 🥑",
+    "normalFollowersCount": 4877,
+    "pinnedTweetIdsStr": [],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1614028212887080960/1695227844",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1705212558523936768/KlhqvpUZ_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "avowallet",
+    "statusesCount": 143,
+    "translatorType": "none",
+    "url": "https://t.co/LsBa06aZpI",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [],
+    "professionalType": "Business",
+    "restId": "1681710358736535561"
+  },
+  "profileImageShape": "Circle",
+  "restId": "1614028212887080960",
+  "tipjarSettings": {}
+}

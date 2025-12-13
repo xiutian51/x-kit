@@ -1,0 +1,57 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxMzU0ODY4MzMxNzc4NTEwODUx",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Thu Jan 28 19:06:02 +0000 2021",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "不扯是非，仓位即观点\n期权交易推荐Deribit，欢迎使用我的链接注册获得佣金折扣：https://t.co/aH20shxELq",
+    "entities": {
+      "description": {
+        "urls": [
+          {
+            "display_url": "deribit.com/?reg=11899.6183",
+            "expanded_url": "https://deribit.com/?reg=11899.6183",
+            "url": "https://t.co/aH20shxELq",
+            "indices": [
+              42,
+              65
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 337,
+    "followersCount": 4696,
+    "following": true,
+    "friendsCount": 80,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 161,
+    "location": "",
+    "mediaCount": 68,
+    "name": "BitCow",
+    "normalFollowersCount": 4696,
+    "pinnedTweetIdsStr": [
+      "1719020436720361894"
+    ],
+    "possiblySensitive": false,
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1354868418290180096/Fk2UOF-h_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "Yanakz3",
+    "statusesCount": 361,
+    "translatorType": "none",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "profileImageShape": "Circle",
+  "restId": "1354868331778510851",
+  "tipjarSettings": {}
+}

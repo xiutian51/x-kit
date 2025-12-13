@@ -1,0 +1,51 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNTU4NjM0MTA5ODkwODc1Mzky",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Sun Aug 14 01:58:43 +0000 2022",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "On a mission to make onchain data digestible",
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 6379,
+    "followersCount": 72013,
+    "following": true,
+    "friendsCount": 529,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 1839,
+    "location": "Check it out 👉",
+    "mediaCount": 3146,
+    "name": "The Data Nerd",
+    "normalFollowersCount": 72013,
+    "pinnedTweetIdsStr": [],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1558634109890875392/1677678647",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1630953046346973189/EDDLOQZd_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "OnchainDataNerd",
+    "statusesCount": 5034,
+    "translatorType": "none",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "profileImageShape": "Circle",
+  "restId": "1558634109890875392",
+  "tipjarSettings": {
+    "bitcoinHandle": "bc1qlxapk29cv75qq9jj3qhjfyvv3pxs09prvtztpx",
+    "ethereumHandle": "0xd9F14bE151d6e9492CAAb2C345aCF8547Cd7B09F",
+    "isEnabled": true,
+    "patreonHandle": ""
+  }
+}

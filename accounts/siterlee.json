@@ -1,0 +1,59 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNjc5MDExNzkxMTY1MzI1MzEz",
+  "isBlueVerified": false,
+  "legacy": {
+    "canDm": false,
+    "canMediaTag": true,
+    "createdAt": "Wed Jul 12 06:16:42 +0000 2023",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "自由交易者 獨立分析 主要專注費城半導體 標普 納指指數 #SOXX #QQQ #SPY #IWM 個人獨自量化數據與指標系統 非主流指引",
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 24,
+    "followersCount": 1131,
+    "following": true,
+    "friendsCount": 38,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 7,
+    "location": "",
+    "mediaCount": 1386,
+    "name": "詩攳 股票日記 美股 投資 SOXL SOXS SPY QQQ TNA",
+    "normalFollowersCount": 1131,
+    "pinnedTweetIdsStr": [
+      "1964557132860363232"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1679011791165325313/1709022755",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1833578223827034112/j8PThcCq_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "siterlee",
+    "statusesCount": 4584,
+    "translatorType": "none",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [
+      {
+        "iconName": "IconBriefcaseStroke",
+        "id": 713,
+        "name": "Science & Technology"
+      }
+    ],
+    "professionalType": "Creator",
+    "restId": "1786338889256575168"
+  },
+  "profileImageShape": "Circle",
+  "restId": "1679011791165325313",
+  "tipjarSettings": {}
+}

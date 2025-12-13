@@ -1,0 +1,62 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNDU4Mzk5MTg1NDkwMDQ2OTc3",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": false,
+    "createdAt": "Wed Nov 10 11:40:50 +0000 2021",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "Until death, all defeat is psychological.",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "t.me/sleepingclub0",
+            "expanded_url": "https://t.me/sleepingclub0",
+            "url": "https://t.co/BtMtMROMkO",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 21783,
+    "followersCount": 28124,
+    "following": true,
+    "friendsCount": 3830,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 1202,
+    "location": "Bitcoin",
+    "mediaCount": 2380,
+    "name": "雨中狂睡SleepintheRain",
+    "normalFollowersCount": 28124,
+    "pinnedTweetIdsStr": [
+      "1997278583375511913"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1458399185490046977/1762670324",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1995365068872245249/n9tO5bnO_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "0xSleepinRain",
+    "statusesCount": 17065,
+    "translatorType": "none",
+    "url": "https://t.co/BtMtMROMkO",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "profileImageShape": "Circle",
+  "restId": "1458399185490046977",
+  "tipjarSettings": {}
+}

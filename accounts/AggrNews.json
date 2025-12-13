@@ -1,0 +1,73 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxODE0MzMxMjI5MTY2MDAyMTc3",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Fri Jul 19 16:07:40 +0000 2024",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "Delivering the latest and most significant updates from your favorite news outlets.\n\nAggregated from @TreeNewsFeed and internal sources",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "t.me/AggrNewswire",
+            "expanded_url": "https://t.me/AggrNewswire",
+            "url": "https://t.co/fzOXmip7dZ",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 708,
+    "followersCount": 30666,
+    "following": true,
+    "friendsCount": 814,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 554,
+    "location": "",
+    "mediaCount": 103,
+    "name": "Aggr News",
+    "normalFollowersCount": 30666,
+    "pinnedTweetIdsStr": [
+      "1915103667000103117"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1814331229166002177/1753827999",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1950322098632568833/mpUcJgH6_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "AggrNews",
+    "statusesCount": 692,
+    "translatorType": "none",
+    "url": "https://t.co/fzOXmip7dZ",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [
+      {
+        "iconName": "IconBriefcaseStroke",
+        "id": 579,
+        "name": "Media & News"
+      }
+    ],
+    "professionalType": "Business",
+    "restId": "1905356592138064052"
+  },
+  "profileImageShape": "Circle",
+  "restId": "1814331229166002177",
+  "tipjarSettings": {}
+}

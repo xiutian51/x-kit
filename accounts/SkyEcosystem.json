@@ -1,0 +1,81 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjozMTkwODY1NTkx",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Tue Apr 21 13:51:12 +0000 2015",
+    "defaultProfile": false,
+    "defaultProfileImage": false,
+    "description": "Sky enables users to get rewarded for non-custodial saving with USDS.\nJoin the community: https://t.co/eUuzNfR3wu\n\nTerms of Use: https://t.co/TWkUuaOZ1I",
+    "entities": {
+      "description": {
+        "urls": [
+          {
+            "display_url": "discord.gg/skyecosystem",
+            "expanded_url": "https://discord.gg/skyecosystem",
+            "url": "https://t.co/eUuzNfR3wu",
+            "indices": [
+              90,
+              113
+            ]
+          },
+          {
+            "display_url": "docs.sky.money",
+            "expanded_url": "http://docs.sky.money/",
+            "url": "https://t.co/TWkUuaOZ1I",
+            "indices": [
+              129,
+              152
+            ]
+          }
+        ]
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "sky.money",
+            "expanded_url": "http://sky.money",
+            "url": "https://t.co/z2JY5TacuP",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 5196,
+    "followersCount": 294274,
+    "following": true,
+    "friendsCount": 122,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 4288,
+    "location": "",
+    "mediaCount": 2318,
+    "name": "Sky",
+    "normalFollowersCount": 294274,
+    "pinnedTweetIdsStr": [
+      "1999093003835802006"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/3190865591/1724760240",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1828469202753122304/i8YRkB4A_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "SkyEcosystem",
+    "statusesCount": 9880,
+    "translatorType": "none",
+    "url": "https://t.co/z2JY5TacuP",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "profileImageShape": "Circle",
+  "restId": "3190865591",
+  "tipjarSettings": {}
+}

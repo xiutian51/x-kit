@@ -1,0 +1,76 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNzk3MTA3MTQwMDk3NjM4NDAw",
+  "isBlueVerified": false,
+  "legacy": {
+    "canDm": false,
+    "canMediaTag": true,
+    "createdAt": "Sun Jun 02 03:25:25 +0000 2024",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "Explorer for Hyperliquid L1\nhttps://t.co/J2TkhB97TH\nhttps://t.co/x2Fu5xpspS\nhttps://t.co/LSVDAM34oe",
+    "entities": {
+      "description": {
+        "urls": [
+          {
+            "display_url": "Hypurrscan.io",
+            "expanded_url": "https://Hypurrscan.io",
+            "url": "https://t.co/J2TkhB97TH",
+            "indices": [
+              28,
+              51
+            ]
+          },
+          {
+            "display_url": "t.me/HypurrScan",
+            "expanded_url": "https://t.me/HypurrScan",
+            "url": "https://t.co/x2Fu5xpspS",
+            "indices": [
+              52,
+              75
+            ]
+          },
+          {
+            "display_url": "app.hyperliquid.xyz/join/HYPURRSCAN",
+            "expanded_url": "https://app.hyperliquid.xyz/join/HYPURRSCAN",
+            "url": "https://t.co/LSVDAM34oe",
+            "indices": [
+              76,
+              99
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 106,
+    "followersCount": 4745,
+    "following": true,
+    "friendsCount": 8,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 106,
+    "location": "HyperLiquid",
+    "mediaCount": 8,
+    "name": "HypurrScan",
+    "normalFollowersCount": 4745,
+    "pinnedTweetIdsStr": [
+      "1826398417641463842"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1797107140097638400/1717299038",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1859964342466207744/lPYHxw87_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "HypurrScan",
+    "statusesCount": 27,
+    "translatorType": "none",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "profileImageShape": "Circle",
+  "restId": "1797107140097638400",
+  "tipjarSettings": {}
+}

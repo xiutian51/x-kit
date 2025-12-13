@@ -1,0 +1,46 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNzQ3NzUwNzQ0OTk4OTg5ODI0",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": false,
+    "canMediaTag": true,
+    "createdAt": "Wed Jan 17 22:40:50 +0000 2024",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "underpaid @blackwing_fi intern 🐦‍⬛ send me food",
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 374,
+    "followersCount": 24485,
+    "following": true,
+    "friendsCount": 54,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 4,
+    "location": "NYC",
+    "mediaCount": 10,
+    "name": "Maverick",
+    "normalFollowersCount": 24485,
+    "pinnedTweetIdsStr": [],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1747750744998989824/1715298722",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1785014836868288513/KkD6VIa0_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "maverick_0x",
+    "statusesCount": 89,
+    "translatorType": "none",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "profileImageShape": "Circle",
+  "restId": "1747750744998989824",
+  "tipjarSettings": {}
+}

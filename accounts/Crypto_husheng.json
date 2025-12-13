@@ -1,0 +1,51 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNDgyNjgyMzY3MTM5NDgzNjUw",
+  "isBlueVerified": false,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Sun Jan 16 11:53:24 +0000 2022",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "All in crypto | 穷则独善其身，达则兼济天下",
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 282,
+    "followedBy": true,
+    "followersCount": 115,
+    "following": true,
+    "friendsCount": 761,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 4,
+    "location": "Metaverse",
+    "mediaCount": 23,
+    "name": "husheng.eth",
+    "normalFollowersCount": 115,
+    "pinnedTweetIdsStr": [
+      "1811790219429212545"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1482682367139483650/1670919366",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1532553548914827264/B62I4ubS_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "Crypto_husheng",
+    "statusesCount": 141,
+    "translatorType": "none",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "profileImageShape": "Circle",
+  "restId": "1482682367139483650",
+  "tipjarSettings": {
+    "isEnabled": true
+  }
+}

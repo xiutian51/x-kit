@@ -1,0 +1,89 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNDcyMDYzNjE2",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Fri May 31 12:52:30 +0000 2013",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "Building AI x learning products. Harvard’17. Side project: https://t.co/7YG514BCOO YouTube: https://t.co/8xzbGWtf6w Substack: https://t.co/dDPEWGiuBW",
+    "entities": {
+      "description": {
+        "urls": [
+          {
+            "display_url": "longcut.ai",
+            "expanded_url": "http://longcut.ai",
+            "url": "https://t.co/7YG514BCOO",
+            "indices": [
+              59,
+              82
+            ]
+          },
+          {
+            "display_url": "youtube.com/@ZaraZhangg",
+            "expanded_url": "https://www.youtube.com/@ZaraZhangg",
+            "url": "https://t.co/8xzbGWtf6w",
+            "indices": [
+              92,
+              115
+            ]
+          },
+          {
+            "display_url": "zarazhang.substack.com",
+            "expanded_url": "https://zarazhang.substack.com",
+            "url": "https://t.co/dDPEWGiuBW",
+            "indices": [
+              126,
+              149
+            ]
+          }
+        ]
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "zarazhang.com",
+            "expanded_url": "http://www.zarazhang.com",
+            "url": "https://t.co/wpbOL9dTDA",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 1422,
+    "followersCount": 26301,
+    "following": true,
+    "friendsCount": 1344,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 304,
+    "location": "San Jose, CA",
+    "mediaCount": 250,
+    "name": "Zara Zhang",
+    "normalFollowersCount": 26301,
+    "pinnedTweetIdsStr": [
+      "1995268767522378095"
+    ],
+    "possiblySensitive": false,
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1742369596534067200/Ts-5zSJ6_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "zarazhangrui",
+    "statusesCount": 1299,
+    "translatorType": "none",
+    "url": "https://t.co/wpbOL9dTDA",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "profileImageShape": "Circle",
+  "restId": "1472063616",
+  "tipjarSettings": {}
+}

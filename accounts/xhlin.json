@@ -1,0 +1,60 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNjIxNzM0MA==",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": false,
+    "canMediaTag": true,
+    "createdAt": "Wed Sep 10 05:48:15 +0000 2008",
+    "defaultProfile": false,
+    "defaultProfileImage": false,
+    "description": "Coin, Token, and NFT",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "deerfi.com",
+            "expanded_url": "https://deerfi.com",
+            "url": "https://t.co/aI1Y2jxGbV",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 381,
+    "followersCount": 3118,
+    "following": true,
+    "friendsCount": 462,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 74,
+    "location": "Continue Capital HQ",
+    "mediaCount": 129,
+    "name": "Xiahong (吓) Lin",
+    "normalFollowersCount": 3118,
+    "pinnedTweetIdsStr": [],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/16217340/1629691975",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1637543422923010048/TwgniV5Z_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "xhlin",
+    "statusesCount": 2150,
+    "translatorType": "none",
+    "url": "https://t.co/aI1Y2jxGbV",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "profileImageShape": "Circle",
+  "restId": "16217340",
+  "tipjarSettings": {}
+}

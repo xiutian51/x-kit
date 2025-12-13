@@ -1,0 +1,48 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNjkwMDExMzAzMTAyODU3MjE4",
+  "isBlueVerified": false,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": false,
+    "createdAt": "Fri Aug 11 14:44:55 +0000 2023",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "",
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 796,
+    "followersCount": 4534,
+    "following": true,
+    "friendsCount": 7,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 21,
+    "location": "",
+    "mediaCount": 102,
+    "name": "ALLiN GAMING",
+    "normalFollowersCount": 4534,
+    "pinnedTweetIdsStr": [
+      "1898353029985800474"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1690011303102857218/1727333790",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1876533019093168128/afWDXNhk_normal.png",
+    "profileInterstitialType": "",
+    "screenName": "allingamingxyz",
+    "statusesCount": 267,
+    "translatorType": "none",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "profileImageShape": "Circle",
+  "restId": "1690011303102857218",
+  "tipjarSettings": {}
+}

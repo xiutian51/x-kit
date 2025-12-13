@@ -1,0 +1,59 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNTY3MTU0NjM1MDU5ODg4MTMx",
+  "isBlueVerified": false,
+  "legacy": {
+    "canDm": false,
+    "canMediaTag": true,
+    "createdAt": "Tue Sep 06 14:16:05 +0000 2022",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "| Web3游民 | DeFi 研究员 | 铭文爱好者 | 工具分享 | 比特币生态科普 | Foresight News个人专栏：Coffee Research 兼听则明 偏信则暗 所言皆是投资建议，但请对自己的钱包负责 以往碎碎念和教程在亮点中",
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 3508,
+    "followersCount": 6776,
+    "following": true,
+    "friendsCount": 1733,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 53,
+    "location": "黑暗森林",
+    "mediaCount": 414,
+    "name": "常温咖啡_D/ACC",
+    "normalFollowersCount": 6776,
+    "pinnedTweetIdsStr": [
+      "1774327487973236909"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1567154635059888131/1707309166",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1726082802620530688/2HZ5MKXK_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "changwenkafei",
+    "statusesCount": 2612,
+    "translatorType": "none",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [
+      {
+        "iconName": "IconBriefcaseStroke",
+        "id": 1094,
+        "name": "Blockchain"
+      }
+    ],
+    "professionalType": "Creator",
+    "restId": "1650150339105144832"
+  },
+  "profileImageShape": "Circle",
+  "restId": "1567154635059888131",
+  "tipjarSettings": {}
+}

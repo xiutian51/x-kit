@@ -1,0 +1,56 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoyNjAyMTQ0MDQ2",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Thu Jul 03 19:29:32 +0000 2014",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "https://t.co/pKoMkkMmmZ is an innovative platform for launching and trading AI Agents—virtual lifeforms with unique personalities, appearances, voices, and skills.",
+    "entities": {
+      "description": {
+        "urls": [
+          {
+            "display_url": "BuzzAI.fun",
+            "expanded_url": "http://BuzzAI.fun",
+            "url": "https://t.co/pKoMkkMmmZ",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 53,
+    "followersCount": 47588,
+    "following": true,
+    "friendsCount": 242,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 22,
+    "location": "",
+    "mediaCount": 0,
+    "name": "BuzzAI",
+    "normalFollowersCount": 47588,
+    "pinnedTweetIdsStr": [],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/2602144046/1733126245",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1863493265326260224/opvv-fhv_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "BuzzAIfun",
+    "statusesCount": 849,
+    "translatorType": "none",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "profileImageShape": "Circle",
+  "restId": "2602144046",
+  "tipjarSettings": {}
+}

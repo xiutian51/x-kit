@@ -1,0 +1,72 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNTgyMDI4NDAwMTMwMDE5MzI4",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Mon Oct 17 15:19:07 +0000 2022",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "主业打假 副业交易 炒币12年有余，现已自由，追求自洽，如果想了解币圈交易/注册/安装相关请点击：https://t.co/mjazQJTQCk",
+    "entities": {
+      "description": {
+        "urls": [
+          {
+            "display_url": "vlink.cc/traderxiaoxia",
+            "expanded_url": "https://vlink.cc/traderxiaoxia",
+            "url": "https://t.co/mjazQJTQCk",
+            "indices": [
+              49,
+              72
+            ]
+          }
+        ]
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "vlink.cc/traderxiaoxia",
+            "expanded_url": "https://vlink.cc/traderxiaoxia",
+            "url": "https://t.co/mjazQJTQCk",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 15,
+    "followersCount": 56107,
+    "following": true,
+    "friendsCount": 125,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 331,
+    "location": "油尖旺, 香港",
+    "mediaCount": 192,
+    "name": "小侠",
+    "normalFollowersCount": 56107,
+    "pinnedTweetIdsStr": [
+      "1895887292801384543"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1582028400130019328/1707215085",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1974684378321321984/etRIXI2O_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "traderxiaoxia",
+    "statusesCount": 386,
+    "translatorType": "none",
+    "url": "https://t.co/mjazQJTQCk",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "profileImageShape": "Circle",
+  "restId": "1582028400130019328",
+  "tipjarSettings": {}
+}

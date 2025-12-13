@@ -1,0 +1,73 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjo5MDQ3MDA1Mjk5ODg4MjA5OTI=",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": false,
+    "createdAt": "Mon Sep 04 13:39:49 +0000 2017",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "for #Bitcoin, #BTC, $BTC; for Health: @ChrisMMHealth",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "youtube.com/mmcryptotube",
+            "expanded_url": "http://youtube.com/mmcryptotube",
+            "url": "https://t.co/TO9peIM2Pm",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 11777,
+    "followersCount": 1772680,
+    "following": true,
+    "friendsCount": 2809,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 6021,
+    "location": "United Arab Emirates",
+    "mediaCount": 4672,
+    "name": "MMCrypto",
+    "normalFollowersCount": 1772680,
+    "pinnedTweetIdsStr": [
+      "1464550677091438592"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/904700529988820992/1563496525",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1961007339777208320/jscP_kQg_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "MMCrypto",
+    "statusesCount": 14796,
+    "translatorType": "none",
+    "url": "https://t.co/TO9peIM2Pm",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [
+      {
+        "iconName": "IconBriefcaseStroke",
+        "id": 144,
+        "name": "Education"
+      }
+    ],
+    "professionalType": "Creator",
+    "restId": "1469434522718638086"
+  },
+  "profileImageShape": "Circle",
+  "restId": "904700529988820992",
+  "tipjarSettings": {}
+}

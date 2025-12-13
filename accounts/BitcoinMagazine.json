@@ -1,0 +1,89 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjozNjEyODk0OTk=",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": false,
+    "canMediaTag": true,
+    "createdAt": "Wed Aug 24 15:14:54 +0000 2011",
+    "defaultProfile": false,
+    "defaultProfileImage": false,
+    "description": "The Most Trusted Voice In #Bitcoin 🟠 • Find us https://t.co/X4mXn4fvYQ",
+    "entities": {
+      "description": {
+        "urls": [
+          {
+            "display_url": "linktr.ee/btcinc",
+            "expanded_url": "http://linktr.ee/btcinc",
+            "url": "https://t.co/X4mXn4fvYQ",
+            "indices": [
+              47,
+              70
+            ]
+          }
+        ]
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "BitcoinMagazine.com",
+            "expanded_url": "http://BitcoinMagazine.com",
+            "url": "https://t.co/UPj0DCrpdu",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 42977,
+    "followersCount": 3851129,
+    "following": true,
+    "friendsCount": 1196,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 20456,
+    "location": "Nashville, TN",
+    "mediaCount": 18559,
+    "name": "Bitcoin Magazine",
+    "normalFollowersCount": 3851129,
+    "pinnedTweetIdsStr": [
+      "1998354601515667730"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/361289499/1764628168",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1444022922377576453/AzvXYXGr_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "BitcoinMagazine",
+    "statusesCount": 43232,
+    "translatorType": "regular",
+    "url": "https://t.co/UPj0DCrpdu",
+    "verified": false,
+    "verifiedType": "Business",
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [
+      {
+        "iconName": "IconBriefcaseStroke",
+        "id": 580,
+        "name": "Media & News Company"
+      }
+    ],
+    "professionalType": "Business",
+    "restId": "1539690895368388612"
+  },
+  "profileImageShape": "Square",
+  "restId": "361289499",
+  "superFollowEligible": true,
+  "tipjarSettings": {
+    "bitcoinHandle": "",
+    "cashAppHandle": "",
+    "isEnabled": false
+  }
+}

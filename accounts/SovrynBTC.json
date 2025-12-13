@@ -1,0 +1,74 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxMjkyNzcxODYxNTEyNjM0MzY4",
+  "isBlueVerified": false,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Mon Aug 10 10:36:56 +0000 2020",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "DeFi dApp: Trading, Lending, Liquidity Mining. Now Incubating BitcoinOS - The Bitcoin Superlayer.",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "sovryn.com",
+            "expanded_url": "https://www.sovryn.com",
+            "url": "https://t.co/sktXYbLpoQ",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 13089,
+    "followersCount": 69195,
+    "following": true,
+    "friendsCount": 981,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 849,
+    "location": "Bitcoin",
+    "mediaCount": 3833,
+    "name": "Sovryn | DeFi for Bitcoin",
+    "normalFollowersCount": 69195,
+    "pinnedTweetIdsStr": [
+      "1983504527450890532"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1292771861512634368/1720186597",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1623656658244145156/mw5Npm_B_normal.png",
+    "profileInterstitialType": "",
+    "screenName": "SovrynBTC",
+    "statusesCount": 12613,
+    "translatorType": "none",
+    "url": "https://t.co/sktXYbLpoQ",
+    "verified": false,
+    "verifiedType": "Business",
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [
+      {
+        "iconName": "IconBriefcaseStroke",
+        "id": 192,
+        "name": "Financial Services"
+      }
+    ],
+    "professionalType": "Business",
+    "restId": "1456172810540396544"
+  },
+  "profileImageShape": "Square",
+  "restId": "1292771861512634368",
+  "tipjarSettings": {}
+}

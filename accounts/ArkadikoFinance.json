@@ -1,0 +1,99 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxMzg3NDgzODQxOTYzNjk2MTMw",
+  "isBlueVerified": false,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Wed Apr 28 19:09:02 +0000 2021",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "Your favorite stablecoin on @Stacks\n\nTG: https://t.co/YhAkH8f8pQ\nDiscord: https://t.co/jo5NH7IkR7\n\nhttps://t.co/vwUko1EtKx\nhttps://t.co/SKsfREpDCW",
+    "entities": {
+      "description": {
+        "urls": [
+          {
+            "display_url": "t.me/arkadikofin",
+            "expanded_url": "http://t.me/arkadikofin",
+            "url": "https://t.co/YhAkH8f8pQ",
+            "indices": [
+              41,
+              64
+            ]
+          },
+          {
+            "display_url": "discord.gg/rQzhr9FxTE",
+            "expanded_url": "http://discord.gg/rQzhr9FxTE",
+            "url": "https://t.co/jo5NH7IkR7",
+            "indices": [
+              74,
+              97
+            ]
+          },
+          {
+            "display_url": "app.arkadiko.finance",
+            "expanded_url": "http://app.arkadiko.finance",
+            "url": "https://t.co/vwUko1EtKx",
+            "indices": [
+              99,
+              122
+            ]
+          },
+          {
+            "display_url": "info.arkadiko.finance",
+            "expanded_url": "http://info.arkadiko.finance",
+            "url": "https://t.co/SKsfREpDCW",
+            "indices": [
+              123,
+              146
+            ]
+          }
+        ]
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "arkadiko.finance",
+            "expanded_url": "http://arkadiko.finance",
+            "url": "https://t.co/y92F97SEji",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 2014,
+    "followersCount": 12062,
+    "following": true,
+    "friendsCount": 109,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 248,
+    "location": "/dev/null",
+    "mediaCount": 317,
+    "name": "Arkadiko Protocol 🟧🗿",
+    "normalFollowersCount": 12062,
+    "pinnedTweetIdsStr": [
+      "1970476734915944641"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1387483841963696130/1722860033",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1913577671356817408/aXS-J_Vv_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "ArkadikoFinance",
+    "statusesCount": 1423,
+    "translatorType": "none",
+    "url": "https://t.co/y92F97SEji",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "profileImageShape": "Circle",
+  "restId": "1387483841963696130",
+  "tipjarSettings": {}
+}

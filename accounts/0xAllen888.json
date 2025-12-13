@@ -1,0 +1,69 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoyMjUwNTk4NTEz",
+  "isBlueVerified": false,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Tue Dec 17 15:44:01 +0000 2013",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "15年老IT，安全行业裸辞全职Web3，专注Defi、投研，坚持长期主义  | 🏁Crypto入口，Web3必选工具 #OKX  https://t.co/o2cIV8SrYF",
+    "entities": {
+      "description": {
+        "urls": [
+          {
+            "display_url": "web3.okx.com",
+            "expanded_url": "http://web3.okx.com",
+            "url": "https://t.co/o2cIV8SrYF",
+            "indices": [
+              65,
+              88
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 7468,
+    "followersCount": 37659,
+    "following": true,
+    "friendsCount": 1768,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 834,
+    "location": "📌分享所有内容不构成投资建议",
+    "mediaCount": 2843,
+    "name": "0xAllen",
+    "normalFollowersCount": 37659,
+    "pinnedTweetIdsStr": [],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/2250598513/1741681354",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1932237760435478528/7Qtx48xK_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "0xAllen888",
+    "statusesCount": 19695,
+    "translatorType": "none",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [
+      {
+        "iconName": "IconBriefcaseStroke",
+        "id": 192,
+        "name": "Financial Services"
+      }
+    ],
+    "professionalType": "Creator",
+    "restId": "1596513270546006017"
+  },
+  "profileImageShape": "Circle",
+  "restId": "2250598513",
+  "tipjarSettings": {
+    "isEnabled": true
+  }
+}

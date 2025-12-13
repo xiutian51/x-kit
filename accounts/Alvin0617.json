@@ -1,0 +1,83 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjo3NjIyMDU5MzAxNzE2NzA1Mjg=",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": false,
+    "createdAt": "Sun Aug 07 08:37:09 +0000 2016",
+    "defaultProfile": false,
+    "defaultProfileImage": false,
+    "description": "Building @CryptoWesearch I Crypto ‘17 I Dive into new narratives 💎 ⚙️ 新一代合規交易所 🎒 https://t.co/Arc1yjCrbS",
+    "entities": {
+      "description": {
+        "urls": [
+          {
+            "display_url": "backpack.exchange/refer/cryptowe…",
+            "expanded_url": "https://backpack.exchange/refer/cryptowesearch",
+            "url": "https://t.co/Arc1yjCrbS",
+            "indices": [
+              81,
+              104
+            ]
+          }
+        ]
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "t.me/searching_alph…",
+            "expanded_url": "http://t.me/searching_alpha_2025",
+            "url": "https://t.co/FiEv5EcruW",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 48171,
+    "followersCount": 21613,
+    "following": true,
+    "friendsCount": 11138,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 838,
+    "location": "cryptowesearch.com",
+    "mediaCount": 1611,
+    "name": "alvin617.eth 🦇🔊",
+    "normalFollowersCount": 21613,
+    "pinnedTweetIdsStr": [
+      "1903479034824257768"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/762205930171670528/1672324939",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1949101146012086272/lxA6QPbF_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "Alvin0617",
+    "statusesCount": 25573,
+    "translatorType": "none",
+    "url": "https://t.co/FiEv5EcruW",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [
+      {
+        "iconName": "IconBriefcaseStroke",
+        "id": 144,
+        "name": "Education"
+      }
+    ],
+    "professionalType": "Creator",
+    "restId": "1480786179708850177"
+  },
+  "profileImageShape": "Circle",
+  "restId": "762205930171670528",
+  "tipjarSettings": {}
+}

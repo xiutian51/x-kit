@@ -1,0 +1,80 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxMzU2NDEyNjY2MTM5NDc1OTY4",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Tue Feb 02 01:22:43 +0000 2021",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "Engineer & Investment @yzilabs | Happy-Sci @BNBCHAIN: DM for $200 Researcher Happy-Funding, thanks our great supporters! https://t.co/2rRkwBOmaY  | Married",
+    "entities": {
+      "description": {
+        "urls": [
+          {
+            "display_url": "happysci.xyz",
+            "expanded_url": "http://happysci.xyz",
+            "url": "https://t.co/2rRkwBOmaY",
+            "indices": [
+              121,
+              144
+            ]
+          }
+        ]
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "github.com/hsyodyssey",
+            "expanded_url": "https://github.com/hsyodyssey",
+            "url": "https://t.co/zqppZN5b2T",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 27064,
+    "followersCount": 12258,
+    "following": true,
+    "friendsCount": 758,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 221,
+    "location": "",
+    "mediaCount": 855,
+    "name": "Siyuan",
+    "normalFollowersCount": 12258,
+    "pinnedTweetIdsStr": [
+      "1871007638861037961"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1356412666139475968/1670163650",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1935388804073869312/TBrVsbPQ_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "cyodyssey",
+    "statusesCount": 5449,
+    "translatorType": "none",
+    "url": "https://t.co/zqppZN5b2T",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [],
+    "professionalType": "Creator",
+    "restId": "1507688293856538627"
+  },
+  "profileImageShape": "Circle",
+  "restId": "1356412666139475968",
+  "tipjarSettings": {
+    "ethereumHandle": "0x3cD792bF93D079617158Ce70eD540E7F368Ba541",
+    "isEnabled": true
+  }
+}

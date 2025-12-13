@@ -1,0 +1,51 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNDUwMTYxMTcwOTE3MzQ3MzI5",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": false,
+    "createdAt": "Mon Oct 18 18:05:57 +0000 2021",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "🌐 Researcher / Follow for daily threads / Open for your suggestions 🌐 \n\n🧵 DeFi & Web3 Alpha | Tweets are NFA 🧵",
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 18627,
+    "followersCount": 29361,
+    "following": true,
+    "friendsCount": 258,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 479,
+    "location": "",
+    "mediaCount": 2633,
+    "name": "Kemiks 🍀",
+    "normalFollowersCount": 29361,
+    "pinnedTweetIdsStr": [],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1450161170917347329/1690565990",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1641912456065822724/zdV_9QjJ_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "kem1ks",
+    "statusesCount": 11448,
+    "translatorType": "none",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [],
+    "professionalType": "Creator",
+    "restId": "1538649932705550341"
+  },
+  "profileImageShape": "Circle",
+  "restId": "1450161170917347329",
+  "tipjarSettings": {}
+}

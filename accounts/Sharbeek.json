@@ -1,0 +1,62 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNTUzMDkwNjQxMTM1MDc5NDI2",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": false,
+    "canMediaTag": true,
+    "createdAt": "Fri Jul 29 18:50:50 +0000 2022",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "bee&bee / bnb = 1 memerush day 1 tick: 0x44446aa38738bd62220bf9f1ebb5995a72a536b6",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "web3.binance.com/en/token/bsc/0…",
+            "expanded_url": "https://web3.binance.com/en/token/bsc/0x44446aa38738bd62220bf9f1ebb5995a72a536b6",
+            "url": "https://t.co/Rtr4KGSwDu",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 73,
+    "followersCount": 370,
+    "following": true,
+    "friendsCount": 51,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 1,
+    "location": "bnb",
+    "mediaCount": 171,
+    "name": "Bee&Bee",
+    "normalFollowersCount": 370,
+    "pinnedTweetIdsStr": [
+      "1976234858499481891"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1553090641135079426/1759842612",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1966074333564121091/-5wZZunn_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "Sharbeek",
+    "statusesCount": 261,
+    "translatorType": "none",
+    "url": "https://t.co/Rtr4KGSwDu",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "profileImageShape": "Circle",
+  "restId": "1553090641135079426",
+  "tipjarSettings": {}
+}

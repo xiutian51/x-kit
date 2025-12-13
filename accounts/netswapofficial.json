@@ -1,0 +1,72 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNDM3MzI5OTYyODQ4MDMwNzIy",
+  "isBlueVerified": false,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Mon Sep 13 08:19:15 +0000 2021",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "🏆 First DEX on @MetisL2 🏆  \n\nSwap | Farm | Stake | Launchpad | Discover 🧑‍🌾\n\n$NETT #Nebo https://t.co/sqODYxDngQ",
+    "entities": {
+      "description": {
+        "urls": [
+          {
+            "display_url": "linktr.ee/netswap_offici…",
+            "expanded_url": "https://linktr.ee/netswap_official",
+            "url": "https://t.co/sqODYxDngQ",
+            "indices": [
+              89,
+              112
+            ]
+          }
+        ]
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "netswap.io",
+            "expanded_url": "https://netswap.io",
+            "url": "https://t.co/vf5TPp1zFC",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 3654,
+    "followersCount": 23531,
+    "following": true,
+    "friendsCount": 182,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 163,
+    "location": "Metisverse",
+    "mediaCount": 793,
+    "name": "Netswap",
+    "normalFollowersCount": 23531,
+    "pinnedTweetIdsStr": [
+      "1785303735805120908"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1437329962848030722/1660721119",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1597824355009961988/4N2FVYMy_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "netswapofficial",
+    "statusesCount": 3166,
+    "translatorType": "none",
+    "url": "https://t.co/vf5TPp1zFC",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "profileImageShape": "Circle",
+  "restId": "1437329962848030722",
+  "tipjarSettings": {}
+}

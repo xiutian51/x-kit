@@ -1,0 +1,77 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNDkxNzU5NjUzODEzODQxOTIx",
+  "isBlueVerified": false,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Thu Feb 10 13:03:19 +0000 2022",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "Long-termist.",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "youtube.com/@RexonBlockcha…",
+            "expanded_url": "http://youtube.com/@RexonBlockchain",
+            "url": "https://t.co/dTK0nR7E9S",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 336,
+    "followersCount": 2252,
+    "following": true,
+    "friendsCount": 42,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 39,
+    "location": "",
+    "mediaCount": 9,
+    "name": "Rex",
+    "normalFollowersCount": 2252,
+    "pinnedTweetIdsStr": [
+      "1691064628334264320"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1491759653813841921/1664846047",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1548553826474475521/x-yr591S_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "RexonBlockchain",
+    "statusesCount": 96,
+    "translatorType": "none",
+    "url": "https://t.co/dTK0nR7E9S",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [
+      {
+        "iconName": "IconBriefcaseStroke",
+        "id": 713,
+        "name": "Science & Technology"
+      }
+    ],
+    "professionalType": "Creator",
+    "restId": "1634525338859638785"
+  },
+  "profileImageShape": "Circle",
+  "restId": "1491759653813841921",
+  "tipjarSettings": {
+    "bitcoinHandle": "bc1q4ajknl9v6qapf8zc7p40f2cn875ehkrlgzxnln",
+    "ethereumHandle": "0x8c4A662711AeDD22Bca4a562987BBcC99a640604",
+    "isEnabled": true
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNTg4NDU1NzA4MjIzMDk4ODgw",
+  "isBlueVerified": false,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Fri Nov 04 08:58:55 +0000 2022",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "®️独立研究员丨➠项目评级丨偶尔技术分析📈丨Build @ICEer_CN 丨  #Binance  广场作者 ‖ 🧾ISTJ / 近3亿用户的共同选择，出入金安全，启程Web3，就在币安：https://t.co/jbvO8J39TD",
+    "entities": {
+      "description": {
+        "urls": [
+          {
+            "display_url": "binance.com/join?ref=69633…",
+            "expanded_url": "http://www.binance.com/join?ref=69633959",
+            "url": "https://t.co/jbvO8J39TD",
+            "indices": [
+              95,
+              118
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 13394,
+    "followersCount": 10110,
+    "following": true,
+    "friendsCount": 400,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 176,
+    "location": "",
+    "mediaCount": 922,
+    "name": "Eric SJ",
+    "normalFollowersCount": 10110,
+    "pinnedTweetIdsStr": [
+      "1874060892499038533"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1588455708223098880/1738062089",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1784657453789138944/ZRpZmuuu_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "sjbtc9",
+    "statusesCount": 10867,
+    "translatorType": "none",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "profileImageShape": "Circle",
+  "restId": "1588455708223098880",
+  "tipjarSettings": {}
+}

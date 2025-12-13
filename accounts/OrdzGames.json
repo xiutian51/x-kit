@@ -1,0 +1,67 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxMzI2NDc3MDI2",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Thu Apr 04 08:39:00 +0000 2013",
+    "defaultProfile": false,
+    "defaultProfileImage": false,
+    "description": "1st Gaming Project on #Bitcoin\nPowered by $ORDG, 1st BRC-20 token with utility\n& Rune #111 GAME•OF•BITCOIN",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "ordz.games",
+            "expanded_url": "https://www.ordz.games/",
+            "url": "https://t.co/lFoVSUVkRw",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 15850,
+    "followersCount": 68869,
+    "following": true,
+    "friendsCount": 2632,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 219,
+    "location": "183333.bitmap",
+    "mediaCount": 1166,
+    "name": "Ordz Games",
+    "normalFollowersCount": 68869,
+    "pinnedTweetIdsStr": [
+      "1862449869417586925"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1326477026/1678782451",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1636269481617137664/BCa1-raA_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "OrdzGames",
+    "statusesCount": 5789,
+    "translatorType": "none",
+    "url": "https://t.co/lFoVSUVkRw",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [],
+    "professionalType": "Business",
+    "restId": "1664378273395032066"
+  },
+  "profileImageShape": "Circle",
+  "restId": "1326477026",
+  "tipjarSettings": {}
+}

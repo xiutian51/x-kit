@@ -1,0 +1,61 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxMTQxMjU5NTA0MTU3MjA0NDgw",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": false,
+    "createdAt": "Wed Jun 19 08:20:44 +0000 2019",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "币安广场同名       qq每日直播群：158075200",
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 1561,
+    "followersCount": 18061,
+    "following": true,
+    "friendsCount": 773,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 200,
+    "location": "shenzhen",
+    "mediaCount": 232,
+    "name": "赵总-TZC",
+    "normalFollowersCount": 18061,
+    "pinnedTweetIdsStr": [
+      "1967535446415860210"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1141259504157204480/1671938441",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1909144784624840704/JpMRdtF__normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "zhaochenyi123",
+    "statusesCount": 1845,
+    "translatorType": "none",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [
+      {
+        "iconName": "IconBriefcaseStroke",
+        "id": 192,
+        "name": "Financial Services"
+      }
+    ],
+    "professionalType": "Creator",
+    "restId": "1548688335996334080"
+  },
+  "profileImageShape": "Circle",
+  "restId": "1141259504157204480",
+  "tipjarSettings": {
+    "isEnabled": true
+  }
+}

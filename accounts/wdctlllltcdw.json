@@ -1,0 +1,59 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNTE2MDQ3NzQ1ODQwMTI4MDAy",
+  "isBlueVerified": false,
+  "legacy": {
+    "canDm": false,
+    "canMediaTag": true,
+    "createdAt": "Mon Apr 18 13:35:33 +0000 2022",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "求其中得其上",
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 258855,
+    "followersCount": 32306,
+    "following": true,
+    "friendsCount": 149,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 780,
+    "location": "",
+    "mediaCount": 909,
+    "name": "wdctll",
+    "normalFollowersCount": 32306,
+    "pinnedTweetIdsStr": [
+      "1583284201100816384"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1516047745840128002/1759247494",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1955641978814885888/o9SW-_Yl_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "wdctlllltcdw",
+    "statusesCount": 4117,
+    "translatorType": "none",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [
+      {
+        "iconName": "IconBriefcaseStroke",
+        "id": 934,
+        "name": "Social Media Influencer"
+      }
+    ],
+    "professionalType": "Business",
+    "restId": "1624732360267952129"
+  },
+  "profileImageShape": "Circle",
+  "restId": "1516047745840128002",
+  "tipjarSettings": {}
+}

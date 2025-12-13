@@ -1,0 +1,80 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {
+    "label": {
+      "url": {
+        "url": "https://twitter.com/therollupco",
+        "urlType": "DeepLink"
+      },
+      "badge": {
+        "url": "https://pbs.twimg.com/profile_images/1967596717345247232/D9jkLref_bigger.jpg"
+      },
+      "description": "The Rollup",
+      "userLabelType": "BusinessLabel",
+      "userLabelDisplayType": "Badge"
+    }
+  },
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxMDQ2ODExNTg4NzUyMjg1Njk5",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": false,
+    "createdAt": "Mon Oct 01 17:18:26 +0000 2018",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "founder @therollupco",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "therollup.co",
+            "expanded_url": "http://therollup.co",
+            "url": "https://t.co/ykR79CRq6x",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 270504,
+    "followersCount": 74371,
+    "following": true,
+    "friendsCount": 5620,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 1898,
+    "location": "",
+    "mediaCount": 5420,
+    "name": "Andy",
+    "normalFollowersCount": 74371,
+    "pinnedTweetIdsStr": [
+      "1999161246160158998"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1046811588752285699/1745683067",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1687521808331702272/Ky0QmeqD_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "andyyy",
+    "statusesCount": 70725,
+    "translatorType": "none",
+    "url": "https://t.co/ykR79CRq6x",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [],
+    "professionalType": "Creator",
+    "restId": "1899145066519920815"
+  },
+  "profileImageShape": "Circle",
+  "restId": "1046811588752285699",
+  "tipjarSettings": {}
+}

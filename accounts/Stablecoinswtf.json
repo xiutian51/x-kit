@@ -1,0 +1,81 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNTI1OTM4Njg5NzU4NzAzNjE3",
+  "isBlueVerified": false,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Sun May 15 20:39:47 +0000 2022",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "We educate degens about stablecoins: https://t.co/XIYT52yfyY\n\nA public good from @scio_xyz by @dennis_zoma & @mike1third",
+    "entities": {
+      "description": {
+        "urls": [
+          {
+            "display_url": "stablecoins.wtf",
+            "expanded_url": "http://stablecoins.wtf",
+            "url": "https://t.co/XIYT52yfyY",
+            "indices": [
+              37,
+              60
+            ]
+          }
+        ]
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "stablecoins.wtf",
+            "expanded_url": "https://stablecoins.wtf",
+            "url": "https://t.co/7tHS63MWfz",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 248,
+    "followersCount": 1924,
+    "following": true,
+    "friendsCount": 1,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 53,
+    "location": "Collateral Island",
+    "mediaCount": 48,
+    "name": "stablecoins.wtf (🪙,🪙)",
+    "normalFollowersCount": 1924,
+    "pinnedTweetIdsStr": [],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1525938689758703617/1653291048",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1579401477029871616/Kr3nHRxJ_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "Stablecoinswtf",
+    "statusesCount": 459,
+    "translatorType": "none",
+    "url": "https://t.co/7tHS63MWfz",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [
+      {
+        "iconName": "IconBriefcaseStroke",
+        "id": 144,
+        "name": "Education"
+      }
+    ],
+    "professionalType": "Business",
+    "restId": "1584550153838641154"
+  },
+  "profileImageShape": "Circle",
+  "restId": "1525938689758703617",
+  "tipjarSettings": {}
+}

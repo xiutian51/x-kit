@@ -1,0 +1,87 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxMzkyMzYyMjQ3NTc0Mjg2MzM2",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": false,
+    "createdAt": "Wed May 12 06:13:28 +0000 2021",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "allin @HyperliquidX \n努力做一个alpha博主，所有的推文都不构成投资建议\n带🍚的推文是恰饭，不带的是正常的推文\n #版本弃子 #链上电子乞丐 #话痨\n\nwait for the wind\ncollab➡️https://t.co/O5qim99YIe",
+    "entities": {
+      "description": {
+        "urls": [
+          {
+            "display_url": "t.me/sanyi_eth",
+            "expanded_url": "https://t.me/sanyi_eth",
+            "url": "https://t.co/O5qim99YIe",
+            "indices": [
+              113,
+              136
+            ]
+          }
+        ]
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "sanyi.web3.club",
+            "expanded_url": "https://sanyi.web3.club/",
+            "url": "https://t.co/fsM2fEsRrD",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 8412,
+    "followersCount": 258777,
+    "following": true,
+    "friendsCount": 6569,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 2845,
+    "location": "New York, USA",
+    "mediaCount": 3697,
+    "name": "sanyi.eth",
+    "normalFollowersCount": 258777,
+    "pinnedTweetIdsStr": [
+      "1966141207844893115"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1392362247574286336/1657108383",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1554293559012241408/3S7VtrLf_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "sanyi_eth_",
+    "statusesCount": 17781,
+    "translatorType": "none",
+    "url": "https://t.co/fsM2fEsRrD",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [
+      {
+        "iconName": "IconBriefcaseStroke",
+        "id": 713,
+        "name": "Science & Technology"
+      }
+    ],
+    "professionalType": "Business",
+    "restId": "1484350026961027072"
+  },
+  "profileImageShape": "Circle",
+  "restId": "1392362247574286336",
+  "superFollowEligible": true,
+  "tipjarSettings": {
+    "ethereumHandle": "0xf93AAAEC5e4ceD8605A57B3dfF011eC408A8EbDB",
+    "isEnabled": true
+  }
+}

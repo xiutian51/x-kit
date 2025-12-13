@@ -1,0 +1,68 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNTEyMTY2NjY0NzcwNjcwNTk4",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Thu Apr 07 20:33:42 +0000 2022",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "Ethereum's fastest Layer 2, powered by the SVM.",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "eclipse.xyz",
+            "expanded_url": "http://eclipse.xyz",
+            "url": "https://t.co/DnRIyjZbtg",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 12790,
+    "followersCount": 247573,
+    "following": true,
+    "friendsCount": 9,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 1498,
+    "location": "Ethereum",
+    "mediaCount": 835,
+    "name": "Eclipse",
+    "normalFollowersCount": 247573,
+    "pinnedTweetIdsStr": [
+      "1996666856028229934"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1512166664770670598/1760505316",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1816156021519466496/FBQWKnR4_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "EclipseFND",
+    "statusesCount": 3417,
+    "translatorType": "none",
+    "url": "https://t.co/DnRIyjZbtg",
+    "verified": false,
+    "verifiedType": "Business",
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [],
+    "professionalType": "Business",
+    "restId": "1578082866927267840"
+  },
+  "profileImageShape": "Square",
+  "restId": "1512166664770670598",
+  "tipjarSettings": {}
+}

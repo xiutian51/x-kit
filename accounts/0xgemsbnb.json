@@ -1,0 +1,76 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjo3MTc4Nzg3Mjg=",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Wed Oct 16 17:10:14 +0000 2013",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "https://t.co/CgUH9hxTz9\n\n电报机器人（交易跟单最快）\nhttps://t.co/Nr24pvBvUN\n\n推特监控：\nhttps://t.co/n2esZGwCps",
+    "entities": {
+      "description": {
+        "urls": [
+          {
+            "display_url": "t.me/gemstouyan",
+            "expanded_url": "http://t.me/gemstouyan",
+            "url": "https://t.co/CgUH9hxTz9",
+            "indices": [
+              0,
+              23
+            ]
+          },
+          {
+            "display_url": "t.me/PinkPunkTradin…",
+            "expanded_url": "http://t.me/PinkPunkTradingBot?start=ref_8CEA8EB1CCED960C0135",
+            "url": "https://t.co/Nr24pvBvUN",
+            "indices": [
+              39,
+              62
+            ]
+          },
+          {
+            "display_url": "6551.io/login?code=100…",
+            "expanded_url": "http://6551.io/login?code=1000x",
+            "url": "https://t.co/n2esZGwCps",
+            "indices": [
+              70,
+              93
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 204,
+    "followersCount": 5113,
+    "following": true,
+    "friendsCount": 296,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 79,
+    "location": "",
+    "mediaCount": 84,
+    "name": "GEMS",
+    "normalFollowersCount": 5113,
+    "pinnedTweetIdsStr": [
+      "1978806360155521102"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/717878728/1675787548",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1978334784800923648/cJTZ6Stz_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "0xgemsbnb",
+    "statusesCount": 551,
+    "translatorType": "none",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "profileImageShape": "Circle",
+  "restId": "717878728",
+  "tipjarSettings": {}
+}

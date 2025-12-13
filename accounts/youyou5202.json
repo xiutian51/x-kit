@@ -1,0 +1,48 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxMjk0MDIyNjg2NTgzMDU0MzM2",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": false,
+    "createdAt": "Thu Aug 13 21:27:37 +0000 2020",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "但行好事，莫问前程。\n\n以欲止欲、以邪入正",
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 1417,
+    "followersCount": 50083,
+    "following": true,
+    "friendsCount": 2447,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 686,
+    "location": "",
+    "mediaCount": 923,
+    "name": "王大有-不语",
+    "normalFollowersCount": 50083,
+    "pinnedTweetIdsStr": [
+      "1789345621834616888"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1294022686583054336/1716636654",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1931728544574705664/qTvp9aQP_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "youyou5202",
+    "statusesCount": 9721,
+    "translatorType": "none",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "profileImageShape": "Circle",
+  "restId": "1294022686583054336",
+  "tipjarSettings": {}
+}

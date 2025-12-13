@@ -1,0 +1,71 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxMDg2NDkyNjUxMDQwMzAxMDU2",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": false,
+    "canMediaTag": true,
+    "createdAt": "Sat Jan 19 05:16:48 +0000 2019",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "World Citizen, Last Samurai, Tech Entrepreneur. CEO of Orb Labs. Co-Founder & Ex CEO of Orb (acquired by SBI in 18') #Bitcoin since 13' #Zuzalu since 23'",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "link3.to/mrmasa",
+            "expanded_url": "https://link3.to/mrmasa",
+            "url": "https://t.co/DRKATgy5Wv",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 15449,
+    "followersCount": 4969,
+    "following": true,
+    "friendsCount": 530,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 93,
+    "location": "Network State",
+    "mediaCount": 6408,
+    "name": "mr.masa d/Acc",
+    "normalFollowersCount": 4969,
+    "pinnedTweetIdsStr": [],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1086492651040301056/1687034374",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1086493374209650689/Qt7u7M9t_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "0xmrmasa88",
+    "statusesCount": 25968,
+    "translatorType": "none",
+    "url": "https://t.co/DRKATgy5Wv",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [
+      {
+        "iconName": "IconBriefcaseStroke",
+        "id": 958,
+        "name": "Entrepreneur"
+      }
+    ],
+    "professionalType": "Creator",
+    "restId": "1667184242231595009"
+  },
+  "profileImageShape": "Circle",
+  "restId": "1086492651040301056",
+  "tipjarSettings": {}
+}

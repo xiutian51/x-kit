@@ -1,0 +1,74 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {
+    "label": {
+      "url": {
+        "url": "https://twitter.com/SX_Bet",
+        "urlType": "DeepLink"
+      },
+      "badge": {
+        "url": "https://pbs.twimg.com/profile_images/1761040964486144000/xhaF4KVt_bigger.jpg"
+      },
+      "description": "SX Bet",
+      "userLabelType": "BusinessLabel",
+      "userLabelDisplayType": "Badge"
+    }
+  },
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxMDE5NjQ2Nzc0NDM5NTMwNDk2",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": false,
+    "createdAt": "Wed Jul 18 18:15:09 +0000 2018",
+    "defaultProfile": false,
+    "defaultProfileImage": false,
+    "description": "The layer 2 for sports betting and home to the largest onchain sports betting application in the world @SX_Bet",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "sx.bet",
+            "expanded_url": "http://sx.bet",
+            "url": "https://t.co/2rHZQ2cACj",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 2544,
+    "followersCount": 21397,
+    "following": true,
+    "friendsCount": 1606,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 114,
+    "location": "",
+    "mediaCount": 740,
+    "name": "SX Network 🦈",
+    "normalFollowersCount": 21397,
+    "pinnedTweetIdsStr": [],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1019646774439530496/1663006017",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1853446809286586368/Q-yOZDVp_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "SX_Network",
+    "statusesCount": 2450,
+    "translatorType": "none",
+    "url": "https://t.co/2rHZQ2cACj",
+    "verified": false,
+    "verifiedType": "Business",
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "profileImageShape": "Square",
+  "restId": "1019646774439530496",
+  "tipjarSettings": {}
+}

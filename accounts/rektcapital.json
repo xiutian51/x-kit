@@ -1,0 +1,76 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjo5MTgxMjI2NzYxOTUwOTA0MzM=",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Wed Oct 11 14:34:38 +0000 2017",
+    "defaultProfile": false,
+    "defaultProfileImage": false,
+    "description": "Crypto Investor/Analyst\n\nWrites RC Newsletter: https://t.co/ouDWjiAQeO\n\nFollow for level-headed insights on Bitcoin and Altcoins",
+    "entities": {
+      "description": {
+        "urls": [
+          {
+            "display_url": "rektcapital.co/membership",
+            "expanded_url": "https://www.rektcapital.co/membership",
+            "url": "https://t.co/ouDWjiAQeO",
+            "indices": [
+              47,
+              70
+            ]
+          }
+        ]
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "newsletter.rektcapital.co/#/portal/accou…",
+            "expanded_url": "https://newsletter.rektcapital.co/#/portal/account/signup",
+            "url": "https://t.co/UcqGX2tOEl",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 42772,
+    "followersCount": 562028,
+    "following": true,
+    "friendsCount": 167,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 7617,
+    "location": "Free Newsletter: ",
+    "mediaCount": 15977,
+    "name": "Rekt Capital",
+    "normalFollowersCount": 562028,
+    "pinnedTweetIdsStr": [
+      "1998420709190816119"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/918122676195090433/1518657079",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/951564258273316864/4qoEQh8Q_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "rektcapital",
+    "statusesCount": 45605,
+    "translatorType": "none",
+    "url": "https://t.co/UcqGX2tOEl",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "profileImageShape": "Circle",
+  "restId": "918122676195090433",
+  "superFollowEligible": true,
+  "tipjarSettings": {
+    "bitcoinHandle": "39CCdKAtfNeTb3t1k3H8EQD21VWrKJUQrh",
+    "isEnabled": true
+  }
+}

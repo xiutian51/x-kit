@@ -1,0 +1,72 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNDc2NDcxOTAzNzc4ODQ4NzY4",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": false,
+    "createdAt": "Thu Dec 30 08:35:25 +0000 2021",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "近3亿用户的共同选择，出入金安全，启程Web3，就在币安：https://t.co/tyM2OKROz7",
+    "entities": {
+      "description": {
+        "urls": [
+          {
+            "display_url": "suitechsui.club/zh-CN/join?ref…",
+            "expanded_url": "https://www.suitechsui.club/zh-CN/join?ref=FFUP4YMB",
+            "url": "https://t.co/tyM2OKROz7",
+            "indices": [
+              29,
+              52
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 12756,
+    "followersCount": 143322,
+    "following": true,
+    "friendsCount": 1663,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 1002,
+    "location": "",
+    "mediaCount": 3055,
+    "name": "老俞.eth",
+    "normalFollowersCount": 143322,
+    "pinnedTweetIdsStr": [
+      "1944999694268039387"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1476471903778848768/1748946458",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1521128366325190657/UOYznItm_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "Jiaowobaobao123",
+    "statusesCount": 23739,
+    "translatorType": "none",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [
+      {
+        "iconName": "IconBriefcaseStroke",
+        "id": 192,
+        "name": "Financial Services"
+      }
+    ],
+    "professionalType": "Creator",
+    "restId": "1588070587196325889"
+  },
+  "profileImageShape": "Circle",
+  "restId": "1476471903778848768",
+  "superFollowEligible": true,
+  "tipjarSettings": {
+    "isEnabled": true
+  }
+}

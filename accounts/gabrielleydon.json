@@ -1,0 +1,86 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {
+    "label": {
+      "url": {
+        "url": "https://twitter.com/limitbreak",
+        "urlType": "DeepLink"
+      },
+      "badge": {
+        "url": "https://pbs.twimg.com/profile_images/1554864488003903490/K77GypBR_bigger.jpg"
+      },
+      "description": "Limit Break",
+      "userLabelType": "BusinessLabel",
+      "userLabelDisplayType": "Badge"
+    }
+  },
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxMzk3MDQ1NjE2NzM2Mjc2NDgw",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": false,
+    "createdAt": "Tue May 25 04:23:32 +0000 2021",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "@LimitBreak @FreeNFT @Digidaigaku @ERC_721C",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "linktr.ee/gabrielleydon",
+            "expanded_url": "https://linktr.ee/gabrielleydon",
+            "url": "https://t.co/e8aCbe86Sa",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 44769,
+    "followersCount": 975070,
+    "following": true,
+    "friendsCount": 659,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 609,
+    "location": "United States",
+    "mediaCount": 1076,
+    "name": "Gabriel Leydon",
+    "normalFollowersCount": 975070,
+    "pinnedTweetIdsStr": [
+      "1919221280038928888"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1397045616736276480/1715975350",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1651643515649265665/NxyU4oU5_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "gabrielleydon",
+    "statusesCount": 14451,
+    "translatorType": "none",
+    "url": "https://t.co/e8aCbe86Sa",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [
+      {
+        "iconName": "IconBriefcaseStroke",
+        "id": 716,
+        "name": "Video Game Company"
+      }
+    ],
+    "professionalType": "Business",
+    "restId": "1590926159251853312"
+  },
+  "profileImageShape": "Circle",
+  "restId": "1397045616736276480",
+  "tipjarSettings": {}
+}

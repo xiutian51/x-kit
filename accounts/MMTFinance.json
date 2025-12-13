@@ -1,0 +1,84 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNTU0NTM5MDk0OTg2MDgwMjU2",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Tue Aug 02 18:46:27 +0000 2022",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "Building a global financial OS for the tokenized future // Backed by @SuiNetwork @Coinbase @Circle @Jump_ @OKX_Ventures // https://t.co/2dKR0MTrPq",
+    "entities": {
+      "description": {
+        "urls": [
+          {
+            "display_url": "discord.gg/mmtfinance",
+            "expanded_url": "https://discord.gg/mmtfinance",
+            "url": "https://t.co/2dKR0MTrPq",
+            "indices": [
+              123,
+              146
+            ]
+          }
+        ]
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "app.mmt.finance",
+            "expanded_url": "https://app.mmt.finance",
+            "url": "https://t.co/exNNqNPRLE",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 5600,
+    "followersCount": 345444,
+    "following": true,
+    "friendsCount": 342,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 436,
+    "location": "Sui & Beyond",
+    "mediaCount": 755,
+    "name": "MomentumⓂ️Ⓜ️T",
+    "normalFollowersCount": 345444,
+    "pinnedTweetIdsStr": [
+      "1990454950527459371"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1554539094986080256/1762188241",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1987925262877814790/ML8sCKe4_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "MMTFinance",
+    "statusesCount": 3455,
+    "translatorType": "none",
+    "url": "https://t.co/exNNqNPRLE",
+    "verified": false,
+    "verifiedType": "Business",
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [
+      {
+        "iconName": "IconBriefcaseStroke",
+        "id": 713,
+        "name": "Science & Technology"
+      }
+    ],
+    "professionalType": "Business",
+    "restId": "1555613406513623040"
+  },
+  "profileImageShape": "Square",
+  "restId": "1554539094986080256",
+  "tipjarSettings": {}
+}

@@ -1,0 +1,48 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNDUxNTYxOTIxNDc2MzIxMjgw",
+  "isBlueVerified": false,
+  "legacy": {
+    "canDm": false,
+    "canMediaTag": true,
+    "createdAt": "Fri Oct 22 14:56:17 +0000 2021",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "In-depth exploration, one step faster.",
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 107,
+    "followersCount": 538,
+    "following": true,
+    "friendsCount": 629,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 4,
+    "location": "Tokyo",
+    "mediaCount": 13,
+    "name": "Dala",
+    "normalFollowersCount": 538,
+    "pinnedTweetIdsStr": [
+      "1964969351779651721"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1451561921476321280/1736396747",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1877209617526304769/VOy3aAlc_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "Dala_office",
+    "statusesCount": 261,
+    "translatorType": "none",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "profileImageShape": "Circle",
+  "restId": "1451561921476321280",
+  "tipjarSettings": {}
+}

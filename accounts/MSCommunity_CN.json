@@ -1,0 +1,70 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": false,
+  "id": "VXNlcjoxNzg3OTE1NTIyODU3ODk3OTg0",
+  "isBlueVerified": false,
+  "legacy": {
+    "canDm": false,
+    "canMediaTag": true,
+    "createdAt": "Tue May 07 18:41:10 +0000 2024",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "@MetaSleuth中文社区推特🟧\n\n进阶链上DYOR工具🕵️\n\n跨链资金追踪｜链上数据分析｜地址标签查看与标记｜市场动态监控｜犯罪活动调查\n\n欢迎加入电报群讨论 👉 https://t.co/iGBX6KeeqP",
+    "entities": {
+      "description": {
+        "urls": [
+          {
+            "display_url": "t.me/MetaSleuth_CN",
+            "expanded_url": "https://t.me/MetaSleuth_CN",
+            "url": "https://t.co/iGBX6KeeqP",
+            "indices": [
+              85,
+              108
+            ]
+          }
+        ]
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "metasleuth.io",
+            "expanded_url": "https://metasleuth.io/",
+            "url": "https://t.co/eao0hr7VhM",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 98,
+    "followersCount": 1133,
+    "following": true,
+    "friendsCount": 54,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 9,
+    "location": "Web3",
+    "mediaCount": 32,
+    "name": "MetaSleuth中文社区",
+    "normalFollowersCount": 1133,
+    "pinnedTweetIdsStr": [],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1787915522857897984/1715169308",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1788115254993715200/BmP40UWu_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "MSCommunity_CN",
+    "statusesCount": 118,
+    "translatorType": "none",
+    "url": "https://t.co/eao0hr7VhM",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "profileImageShape": "Circle",
+  "restId": "1787915522857897984",
+  "tipjarSettings": {}
+}

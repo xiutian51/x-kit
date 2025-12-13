@@ -1,0 +1,48 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjo3Njg2NTY3NTQ4OTI2ODk0MDk=",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": false,
+    "canMediaTag": true,
+    "createdAt": "Thu Aug 25 03:50:26 +0000 2016",
+    "defaultProfile": false,
+    "defaultProfileImage": false,
+    "description": "Dreamer",
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 1138,
+    "followersCount": 14660,
+    "following": true,
+    "friendsCount": 1022,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 149,
+    "location": "Singapore",
+    "mediaCount": 72,
+    "name": "PatrickX",
+    "normalFollowersCount": 14660,
+    "pinnedTweetIdsStr": [
+      "1757558921638851017"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/768656754892689409/1657903566",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1968958099668234240/UznG3ao1_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "PatrickXDai",
+    "statusesCount": 1723,
+    "translatorType": "none",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "profileImageShape": "Circle",
+  "restId": "768656754892689409",
+  "tipjarSettings": {}
+}

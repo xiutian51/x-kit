@@ -1,0 +1,51 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxMzk2MjU2OTIzMDYyNjU3MDI3",
+  "isBlueVerified": false,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Sun May 23 00:09:54 +0000 2021",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "Enjoying the Best Time Ever | Content Creator丨Web3 Advisor | Sundays = no technology/work |",
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 5259,
+    "followersCount": 4362,
+    "following": true,
+    "friendsCount": 1782,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 17,
+    "location": "Singapore",
+    "mediaCount": 418,
+    "name": "Siven",
+    "normalFollowersCount": 4362,
+    "pinnedTweetIdsStr": [],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1396256923062657027/1656932388",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1877639949564170240/nYu4JAdk_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "0xsiven",
+    "statusesCount": 4196,
+    "translatorType": "none",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [],
+    "professionalType": "Creator",
+    "restId": "1650453153098395649"
+  },
+  "profileImageShape": "Circle",
+  "restId": "1396256923062657027",
+  "tipjarSettings": {}
+}

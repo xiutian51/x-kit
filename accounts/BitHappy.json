@@ -1,0 +1,87 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNTA5ODM2ODkz",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Wed Jun 12 07:46:25 +0000 2013",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "快乐星球社区主理人、开开心心赚钱中（DeFi/套利/周期）～\n\n近三亿人选择 #Binance https://t.co/vmvMheW2se，精彩 Web3 尽在 #OKX https://t.co/mUgEwVuD0d；",
+    "entities": {
+      "description": {
+        "urls": [
+          {
+            "display_url": "binance.com",
+            "expanded_url": "http://binance.com",
+            "url": "https://t.co/vmvMheW2se",
+            "indices": [
+              48,
+              71
+            ]
+          },
+          {
+            "display_url": "okx.com",
+            "expanded_url": "http://okx.com",
+            "url": "https://t.co/mUgEwVuD0d",
+            "indices": [
+              88,
+              111
+            ]
+          }
+        ]
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "t.me/HappyBitX",
+            "expanded_url": "https://t.me/HappyBitX",
+            "url": "https://t.co/BJjN6Tk5Lf",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 28691,
+    "followersCount": 23519,
+    "following": true,
+    "friendsCount": 498,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 437,
+    "location": "社区 👉",
+    "mediaCount": 922,
+    "name": "BitHappy",
+    "normalFollowersCount": 23519,
+    "pinnedTweetIdsStr": [
+      "1999008616226107569"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1509836893/1741613868",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1987176065832488961/PAvruE8S_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "BitHappy",
+    "statusesCount": 2024,
+    "translatorType": "none",
+    "url": "https://t.co/BJjN6Tk5Lf",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [],
+    "professionalType": "Creator",
+    "restId": "1883049519987994864"
+  },
+  "profileImageShape": "Circle",
+  "restId": "1509836893",
+  "superFollowEligible": true,
+  "tipjarSettings": {}
+}

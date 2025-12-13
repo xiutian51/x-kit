@@ -1,0 +1,50 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjo0MzI0MjM4OTUz",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Sun Nov 22 15:08:40 +0000 2015",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "早稻田金融系毕业｜金融博主｜币圈OG｜Weibo250万粉丝｜Forbes U 30 2019 ｜潜水｜射击｜padel｜网球｜ 开船｜赛车｜摩托｜滑雪 ｜不婚主义",
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 3617,
+    "followersCount": 51767,
+    "following": true,
+    "friendsCount": 482,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 183,
+    "location": "",
+    "mediaCount": 348,
+    "name": "曾颖",
+    "normalFollowersCount": 51767,
+    "pinnedTweetIdsStr": [
+      "1780973746670755918"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/4324238953/1763823676",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1911781043465568256/qpKRRnrd_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "tenten19901107",
+    "statusesCount": 2090,
+    "translatorType": "none",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "profileImageShape": "Circle",
+  "restId": "4324238953",
+  "tipjarSettings": {
+    "isEnabled": true
+  }
+}

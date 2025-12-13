@@ -1,0 +1,53 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNDExMDcxNDMwOTYwMTgxMjUw",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Fri Jul 02 21:17:10 +0000 2021",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "不知名链上alpha.",
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 434,
+    "followersCount": 25954,
+    "following": true,
+    "friendsCount": 3624,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 657,
+    "location": "cn",
+    "mediaCount": 727,
+    "name": "Zero 💎",
+    "normalFollowersCount": 25954,
+    "pinnedTweetIdsStr": [
+      "1972931445418332659"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1411071430960181250/1708851263",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1981364227144142848/OzSeFKUp_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "zzzzzeroooo",
+    "statusesCount": 7258,
+    "translatorType": "none",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [],
+    "professionalType": "Creator",
+    "restId": "1721854448602136657"
+  },
+  "profileImageShape": "Circle",
+  "restId": "1411071430960181250",
+  "tipjarSettings": {}
+}

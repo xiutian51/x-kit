@@ -1,0 +1,72 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNjUxMTc3NDEyNzA3NzI1MzEy",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Wed Apr 26 10:52:41 +0000 2023",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "f - High & Sustainable USD yield \nx & s - Liquidation Protected Leverage with Minimal Funding Cost\n\n$fxUSD $FXN \n\nBy @aladdindao\nhttps://t.co/cVz9RALhej",
+    "entities": {
+      "description": {
+        "urls": [
+          {
+            "display_url": "linktr.ee/fxprotocol",
+            "expanded_url": "https://linktr.ee/fxprotocol",
+            "url": "https://t.co/cVz9RALhej",
+            "indices": [
+              129,
+              152
+            ]
+          }
+        ]
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "fx.aladdin.club",
+            "expanded_url": "https://fx.aladdin.club/",
+            "url": "https://t.co/AsMiNqpaRc",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 8999,
+    "followersCount": 16739,
+    "following": true,
+    "friendsCount": 9,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 187,
+    "location": "Aladdin DAO",
+    "mediaCount": 855,
+    "name": "f(x) Protocol",
+    "normalFollowersCount": 16739,
+    "pinnedTweetIdsStr": [
+      "1998360043302121711"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1651177412707725312/1683555382",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1744426784383234048/9hlO1ovh_normal.png",
+    "profileInterstitialType": "",
+    "screenName": "protocol_fx",
+    "statusesCount": 5471,
+    "translatorType": "none",
+    "url": "https://t.co/AsMiNqpaRc",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "profileImageShape": "Circle",
+  "restId": "1651177412707725312",
+  "tipjarSettings": {}
+}

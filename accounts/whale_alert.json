@@ -1,0 +1,85 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxMDM5ODMzMjk3NzUxMzAyMTQ0",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Wed Sep 12 11:09:12 +0000 2018",
+    "defaultProfile": false,
+    "defaultProfileImage": false,
+    "description": "Live reporting on large and interesting #blockchain transactions as they happen. Create your own alerts for over 100 coins on https://t.co/wQEfstUfLm",
+    "entities": {
+      "description": {
+        "urls": [
+          {
+            "display_url": "whale-alert.io/alerts.html",
+            "expanded_url": "https://whale-alert.io/alerts.html",
+            "url": "https://t.co/wQEfstUfLm",
+            "indices": [
+              126,
+              149
+            ]
+          }
+        ]
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "whale-alert.io",
+            "expanded_url": "https://whale-alert.io",
+            "url": "https://t.co/UcJHiCznfE",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 73,
+    "followersCount": 2846628,
+    "following": true,
+    "friendsCount": 13,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 14084,
+    "location": "Worldwide",
+    "mediaCount": 18,
+    "name": "Whale Alert",
+    "normalFollowersCount": 2846628,
+    "pinnedTweetIdsStr": [],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1039833297751302144/1537173904",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1132579647374417921/9ifIGXEQ_normal.png",
+    "profileInterstitialType": "",
+    "screenName": "whale_alert",
+    "statusesCount": 94719,
+    "translatorType": "none",
+    "url": "https://t.co/UcJHiCznfE",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [
+      {
+        "iconName": "IconBriefcaseStroke",
+        "id": 1094,
+        "name": "Blockchain"
+      }
+    ],
+    "professionalType": "Business",
+    "restId": "1471503736946102272"
+  },
+  "profileImageShape": "Circle",
+  "restId": "1039833297751302144",
+  "superFollowEligible": true,
+  "tipjarSettings": {
+    "bitcoinHandle": "bc1qd5xwamtq86cez4g5vv69erc06ldj9pc9a9zxre",
+    "isEnabled": true
+  }
+}

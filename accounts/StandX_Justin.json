@@ -1,0 +1,61 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxODgyNzE1Mjg4ODMzMjQ1MTg0",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Fri Jan 24 09:01:38 +0000 2025",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "Co-Founder of StandX, ex-Binance Futures Growth Lead",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "standx.com",
+            "expanded_url": "http://standx.com",
+            "url": "https://t.co/vpS7nuYxfH",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 1490,
+    "followedBy": true,
+    "followersCount": 3810,
+    "following": true,
+    "friendsCount": 458,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 11,
+    "location": "",
+    "mediaCount": 6,
+    "name": "Justin.stand",
+    "normalFollowersCount": 3810,
+    "pinnedTweetIdsStr": [],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1882715288833245184/1758599346",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1970334575537815552/d7zcKDz__normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "StandX_Justin",
+    "statusesCount": 170,
+    "translatorType": "none",
+    "url": "https://t.co/vpS7nuYxfH",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "profileImageShape": "Circle",
+  "restId": "1882715288833245184",
+  "tipjarSettings": {}
+}

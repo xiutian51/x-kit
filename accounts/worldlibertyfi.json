@@ -1,0 +1,62 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxODE2MTM4OTg1MzQyNzA1NjY0",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Wed Jul 24 15:51:10 +0000 2024",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "WLFI is building the future of finance. USD1 is just the beginning—trusted by users, institutions, and everyone in between. 🦅☝️",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "worldlibertyfinancial.com",
+            "expanded_url": "https://www.worldlibertyfinancial.com",
+            "url": "https://t.co/7YYTLaOJ7Q",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 83,
+    "followersCount": 771465,
+    "following": true,
+    "friendsCount": 20,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 1968,
+    "location": "",
+    "mediaCount": 201,
+    "name": "WLFI",
+    "normalFollowersCount": 771465,
+    "pinnedTweetIdsStr": [
+      "1960068943562870830"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1816138985342705664/1722547293",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1819121309126729728/30Q2SFVH_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "worldlibertyfi",
+    "statusesCount": 547,
+    "translatorType": "none",
+    "url": "https://t.co/7YYTLaOJ7Q",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "profileImageShape": "Circle",
+  "restId": "1816138985342705664",
+  "tipjarSettings": {}
+}

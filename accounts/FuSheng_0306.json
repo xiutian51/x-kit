@@ -1,0 +1,73 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxODU4Nzc3MDI4Njg4MDM5OTM2",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": false,
+    "canMediaTag": true,
+    "createdAt": "Tue Nov 19 07:39:21 +0000 2024",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "猎豹移动董事长兼CEO，猎户星空董事长@orionstar2016 ｜ 生日3月6日，打造了早期的360安全卫士｜TikTok最早期的投资人｜是上市公司CEO，也是陪女儿打游戏的老爸玩家｜ 是连续创业者，也是从220斤爆改到150斤的运动达人",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "linktr.ee/fusheng_Neo",
+            "expanded_url": "https://linktr.ee/fusheng_Neo",
+            "url": "https://t.co/7DlXKAC13g",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 326,
+    "followersCount": 18832,
+    "following": true,
+    "friendsCount": 281,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 120,
+    "location": "San Francisco Bay Area",
+    "mediaCount": 346,
+    "name": "傅盛",
+    "normalFollowersCount": 18832,
+    "pinnedTweetIdsStr": [
+      "1986636799364538776"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1858777028688039936/1756807747",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1990679395246485506/obc0Ox8O_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "FuSheng_0306",
+    "statusesCount": 758,
+    "translatorType": "none",
+    "url": "https://t.co/7DlXKAC13g",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [
+      {
+        "iconName": "IconBriefcaseStroke",
+        "id": 714,
+        "name": "Technology Company"
+      }
+    ],
+    "professionalType": "Creator",
+    "restId": "1960649129241248052"
+  },
+  "profileImageShape": "Circle",
+  "restId": "1858777028688039936",
+  "tipjarSettings": {}
+}

@@ -1,0 +1,72 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxODA3OTE0NzY0NTc3OTU1ODQx",
+  "isBlueVerified": false,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Mon Jul 01 23:10:56 +0000 2024",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "It's all about experiences | https://t.co/x22UI15PFT |  $SHAR",
+    "entities": {
+      "description": {
+        "urls": [
+          {
+            "display_url": "t.me/sharsol",
+            "expanded_url": "https://t.me/sharsol",
+            "url": "https://t.co/x22UI15PFT",
+            "indices": [
+              29,
+              52
+            ]
+          }
+        ]
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "sharpei.xyz",
+            "expanded_url": "https://www.sharpei.xyz/",
+            "url": "https://t.co/h4CLF2ol33",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 0,
+    "followersCount": 6859,
+    "following": true,
+    "friendsCount": 1,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 26,
+    "location": "Maldives",
+    "mediaCount": 15,
+    "name": "SHAR",
+    "normalFollowersCount": 6859,
+    "pinnedTweetIdsStr": [
+      "1849093817003131393"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1807914764577955841/1729681602",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1836830436397359104/uXNXq5d__normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "SolanaKol",
+    "statusesCount": 21,
+    "translatorType": "none",
+    "url": "https://t.co/h4CLF2ol33",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "profileImageShape": "Circle",
+  "restId": "1807914764577955841",
+  "tipjarSettings": {}
+}

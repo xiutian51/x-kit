@@ -1,0 +1,76 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjo5NzQyNDUwODA2MTY3NDI5MTI=",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": false,
+    "createdAt": "Thu Mar 15 11:25:02 +0000 2018",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "Founder Of @ultrax_ai @6551News 正心正念 无限进步",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "6551.io",
+            "expanded_url": "https://6551.io",
+            "url": "https://t.co/7mC6EIZv2H",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 4912,
+    "followersCount": 25718,
+    "following": true,
+    "friendsCount": 2837,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 327,
+    "location": "6551Club",
+    "mediaCount": 582,
+    "name": "Cryptoxiao",
+    "normalFollowersCount": 25718,
+    "pinnedTweetIdsStr": [
+      "1970480118473859441"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/974245080616742912/1738254719",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1972386335391694848/2WzYHoVo_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "cryptoxiao",
+    "statusesCount": 9436,
+    "translatorType": "none",
+    "url": "https://t.co/7mC6EIZv2H",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [
+      {
+        "iconName": "IconBriefcaseStroke",
+        "id": 713,
+        "name": "Science & Technology"
+      }
+    ],
+    "professionalType": "Creator",
+    "restId": "1472127335289667584"
+  },
+  "profileImageShape": "Circle",
+  "restId": "974245080616742912",
+  "tipjarSettings": {
+    "ethereumHandle": "0x2ec31068d6451510841578981081124a0f75cC64",
+    "isEnabled": true
+  }
+}

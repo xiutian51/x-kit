@@ -1,0 +1,57 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxMzY2OTY0MjIwNzY4Nzc2MTky",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Wed Mar 03 04:10:50 +0000 2021",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "",
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 5950,
+    "followersCount": 252620,
+    "following": true,
+    "friendsCount": 722,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 1164,
+    "location": "Singapore",
+    "mediaCount": 1109,
+    "name": "Irene Zhao",
+    "normalFollowersCount": 252620,
+    "pinnedTweetIdsStr": [
+      "1862811936351727798"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1366964220768776192/1622815369",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1423875044598456321/SVjwd6Bb_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "Irenezhao_",
+    "statusesCount": 6183,
+    "translatorType": "none",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [],
+    "professionalType": "Creator",
+    "restId": "1457586036918218752"
+  },
+  "profileImageShape": "Circle",
+  "restId": "1366964220768776192",
+  "superFollowEligible": true,
+  "tipjarSettings": {
+    "ethereumHandle": "0xB0D3D06b8aEc83f25c6B4d288b6D6DC0424faA6a",
+    "isEnabled": false
+  }
+}

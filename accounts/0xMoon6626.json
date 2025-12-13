@@ -1,0 +1,87 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxMzkzMTA3NDM0MDU5NjE2MjU3",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": false,
+    "createdAt": "Fri May 14 07:34:39 +0000 2021",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "币安广场创作者\nHTX广场创作者\nGate民间发言人\n币安钱包7折邀请码：MOON6626\nOKX钱包7折邀请码：0XMOON\n3亿用户买币在币安https://t.co/yONbHFnppQ",
+    "entities": {
+      "description": {
+        "urls": [
+          {
+            "display_url": "binance.com/join?ref=MOON6…",
+            "expanded_url": "https://www.binance.com/join?ref=MOON6626",
+            "url": "https://t.co/yONbHFnppQ",
+            "indices": [
+              73,
+              96
+            ]
+          }
+        ]
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "t.me/Moon6626",
+            "expanded_url": "https://t.me/Moon6626",
+            "url": "https://t.co/9R4LsDdGv7",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 21112,
+    "followersCount": 40194,
+    "following": true,
+    "friendsCount": 887,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 281,
+    "location": "Telegram",
+    "mediaCount": 4748,
+    "name": "0xMoon",
+    "normalFollowersCount": 40194,
+    "pinnedTweetIdsStr": [
+      "1793852734887821709"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1393107434059616257/1763222654",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1946537446034071553/tNkWpnyE_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "0xMoon6626",
+    "statusesCount": 34118,
+    "translatorType": "none",
+    "url": "https://t.co/9R4LsDdGv7",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [
+      {
+        "iconName": "IconBriefcaseStroke",
+        "id": 934,
+        "name": "Social Media Influencer"
+      }
+    ],
+    "professionalType": "Creator",
+    "restId": "1546788510719287296"
+  },
+  "profileImageShape": "Circle",
+  "restId": "1393107434059616257",
+  "tipjarSettings": {
+    "bitcoinHandle": "3EBxcQuKr1DFvaKvxY5nGpmNavB2VhjCLq",
+    "ethereumHandle": "0xa245dd7dc27df8b97d6a6d6982837e79f1098918",
+    "isEnabled": true
+  }
+}

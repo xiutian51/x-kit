@@ -1,0 +1,56 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNDE0NDY1NjU0MTMyODYyOTgy",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Mon Jul 12 06:05:11 +0000 2021",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "Crypto Marketing Agency\nFocus Builders, Focus Disruptors. \nSince 2020\n\n近3亿用户的共同选择，出入金安全，启程Web3，就在币安：https://t.co/0xMrQE9Gec",
+    "entities": {
+      "description": {
+        "urls": [
+          {
+            "display_url": "binance.com/join?ref=53170…",
+            "expanded_url": "https://www.binance.com/join?ref=53170656",
+            "url": "https://t.co/0xMrQE9Gec",
+            "indices": [
+              100,
+              123
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 2849,
+    "followersCount": 18962,
+    "following": true,
+    "friendsCount": 631,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 100,
+    "location": "",
+    "mediaCount": 924,
+    "name": "BlockFocus",
+    "normalFollowersCount": 18962,
+    "pinnedTweetIdsStr": [],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1414465654132862982/1743744605",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1908029275686715392/trCU0HUR_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "BlockFocus11",
+    "statusesCount": 4951,
+    "translatorType": "none",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "profileImageShape": "Circle",
+  "restId": "1414465654132862982",
+  "tipjarSettings": {}
+}

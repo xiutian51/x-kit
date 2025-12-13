@@ -1,0 +1,48 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNjUwOTIwNzkzNTgzNTM4MTc2",
+  "isBlueVerified": false,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Tue Apr 25 17:52:54 +0000 2023",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "打狗扫链小能手",
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 889,
+    "followedBy": true,
+    "followersCount": 144,
+    "following": true,
+    "friendsCount": 1002,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 5,
+    "location": "",
+    "mediaCount": 181,
+    "name": "梨园戏",
+    "normalFollowersCount": 144,
+    "pinnedTweetIdsStr": [],
+    "possiblySensitive": false,
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1994720823194906624/W8EUwjJk_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "ETHDEVDEV",
+    "statusesCount": 2229,
+    "translatorType": "none",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "profileImageShape": "Circle",
+  "restId": "1650920793583538176",
+  "tipjarSettings": {
+    "isEnabled": true
+  }
+}

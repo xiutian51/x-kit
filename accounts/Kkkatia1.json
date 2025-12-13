@@ -1,0 +1,62 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {
+    "label": {
+      "url": {
+        "url": "https://twitter.com/ton_blockchain",
+        "urlType": "DeepLink"
+      },
+      "badge": {
+        "url": "https://pbs.twimg.com/profile_images/1931243733439115264/HfLnjCPR_bigger.jpg"
+      },
+      "description": "TON 💎",
+      "userLabelType": "BusinessLabel",
+      "userLabelDisplayType": "Badge"
+    }
+  },
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxMTE0Nzk5NzYxMjY0MTMyMDk2",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Sun Apr 07 07:59:09 +0000 2019",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "@TONEastAsia hub manager @ton_blockchain💎｜OG @0xUClub @HKUniversity Disclaimer in Extended Bio 👇",
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 16553,
+    "followedBy": true,
+    "followersCount": 4290,
+    "following": true,
+    "friendsCount": 5817,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 56,
+    "location": "The Open Network",
+    "mediaCount": 338,
+    "name": "Katiya 💎𝟎𝐱𝐔",
+    "normalFollowersCount": 4290,
+    "pinnedTweetIdsStr": [
+      "1934623160961515955"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1114799761264132096/1729519666",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1921789341267103744/Yr7MBODF_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "Kkkatia1",
+    "statusesCount": 3371,
+    "translatorType": "none",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "profileImageShape": "Circle",
+  "restId": "1114799761264132096",
+  "tipjarSettings": {}
+}

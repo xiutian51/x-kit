@@ -1,0 +1,58 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNDc4NzYxMzIxMDAwNjg1NTY4",
+  "isBlueVerified": false,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Wed Jan 05 16:12:55 +0000 2022",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "lft",
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 147,
+    "followedBy": true,
+    "followersCount": 296,
+    "following": true,
+    "friendsCount": 275,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 0,
+    "location": "",
+    "mediaCount": 5,
+    "name": "googog❤️ Memecoin",
+    "normalFollowersCount": 296,
+    "pinnedTweetIdsStr": [],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1478761321000685568/1650213880",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1705183606073925632/xFul_04q_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "haobig112211",
+    "statusesCount": 103,
+    "translatorType": "none",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [
+      {
+        "iconName": "IconBriefcaseStroke",
+        "id": 713,
+        "name": "Science & Technology"
+      }
+    ],
+    "professionalType": "Creator",
+    "restId": "1502161283134615553"
+  },
+  "profileImageShape": "Circle",
+  "restId": "1478761321000685568",
+  "tipjarSettings": {}
+}

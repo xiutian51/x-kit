@@ -1,0 +1,58 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {
+    "label": {
+      "url": {
+        "url": "https://twitter.com/buttonxyz",
+        "urlType": "DeepLink"
+      },
+      "badge": {
+        "url": "https://pbs.twimg.com/profile_images/1971427749320589318/d4QyqJHT_bigger.jpg"
+      },
+      "description": "button",
+      "userLabelType": "BusinessLabel",
+      "userLabelDisplayType": "Badge"
+    }
+  },
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNzQ3NDUwODI=",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Wed Aug 04 18:28:50 +0000 2010",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "cofounder @buttonxyz",
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 1508,
+    "followersCount": 16703,
+    "following": true,
+    "friendsCount": 1257,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 18,
+    "location": "",
+    "mediaCount": 45,
+    "name": "salman",
+    "normalFollowersCount": 16703,
+    "pinnedTweetIdsStr": [],
+    "possiblySensitive": false,
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1747085970875285504/jwy2w8vL_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "0xsallu",
+    "statusesCount": 892,
+    "translatorType": "none",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "profileImageShape": "Circle",
+  "restId": "174745082",
+  "tipjarSettings": {}
+}

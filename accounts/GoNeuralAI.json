@@ -1,0 +1,63 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNzYzODgwMjI4NTY3MjY5Mzc2",
+  "isBlueVerified": false,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Sat Mar 02 10:53:24 +0000 2024",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "Generate immersive AI worlds and assets, no code or design skills needed. Fueled by $NEURAL. Creating @SparQAI.",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "goneural.ai/links",
+            "expanded_url": "https://goneural.ai/links",
+            "url": "https://t.co/Hc46IoqtrL",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 15426,
+    "followersCount": 30579,
+    "following": true,
+    "friendsCount": 215,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 238,
+    "location": "",
+    "mediaCount": 1553,
+    "name": "NeuralAI",
+    "normalFollowersCount": 30579,
+    "pinnedTweetIdsStr": [
+      "1991164877961155016"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1763880228567269376/1733411445",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1995859718766780416/NECE2Ds7_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "GoNeuralAI",
+    "statusesCount": 4574,
+    "translatorType": "none",
+    "url": "https://t.co/Hc46IoqtrL",
+    "verified": false,
+    "verifiedType": "Business",
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "profileImageShape": "Square",
+  "restId": "1763880228567269376",
+  "tipjarSettings": {}
+}

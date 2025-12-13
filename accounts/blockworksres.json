@@ -1,0 +1,86 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {
+    "label": {
+      "url": {
+        "url": "https://twitter.com/Blockworks_",
+        "urlType": "DeepLink"
+      },
+      "badge": {
+        "url": "https://pbs.twimg.com/profile_images/1651677302634483712/7s2FxV2K_bigger.jpg"
+      },
+      "description": "Blockworks",
+      "userLabelType": "BusinessLabel",
+      "userLabelDisplayType": "Badge"
+    }
+  },
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNTIyNjQ2NjYyODk1NzgzOTQx",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Fri May 06 18:37:13 +0000 2022",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "The best research, data, and governance insights all in one place.",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "blockworks.co/get-research/",
+            "expanded_url": "https://blockworks.co/get-research/",
+            "url": "https://t.co/7GDtecXLtu",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 1891,
+    "followersCount": 39903,
+    "following": true,
+    "friendsCount": 37,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 1010,
+    "location": "",
+    "mediaCount": 2392,
+    "name": "Blockworks Research",
+    "normalFollowersCount": 39903,
+    "pinnedTweetIdsStr": [
+      "1754246257164398980"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1522646662895783941/1736352476",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1523802983703658496/3-MttFsp_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "blockworksres",
+    "statusesCount": 6376,
+    "translatorType": "none",
+    "url": "https://t.co/7GDtecXLtu",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [
+      {
+        "iconName": "IconBriefcaseStroke",
+        "id": 580,
+        "name": "Media & News Company"
+      }
+    ],
+    "professionalType": "Business",
+    "restId": "1675877417309687809"
+  },
+  "profileImageShape": "Circle",
+  "restId": "1522646662895783941",
+  "tipjarSettings": {}
+}

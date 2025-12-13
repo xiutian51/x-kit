@@ -1,0 +1,63 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNTIxMzY3MzA3NzA4NDM2NDgx",
+  "isBlueVerified": false,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Tue May 03 05:53:40 +0000 2022",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "ALL in BNBFi - Redefining BNB with Liquid Staking, Lista Lending and CDP solutions.",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "linktr.ee/lista_dao",
+            "expanded_url": "https://linktr.ee/lista_dao",
+            "url": "https://t.co/rVG6Tqijot",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 3666,
+    "followersCount": 347456,
+    "following": true,
+    "friendsCount": 544,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 352,
+    "location": "",
+    "mediaCount": 1613,
+    "name": "Lista DAO",
+    "normalFollowersCount": 347456,
+    "pinnedTweetIdsStr": [
+      "1986731807736225968"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1521367307708436481/1748950210",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1873716887538012160/Xec_zPj0_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "lista_dao",
+    "statusesCount": 4965,
+    "translatorType": "none",
+    "url": "https://t.co/rVG6Tqijot",
+    "verified": false,
+    "verifiedType": "Business",
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "profileImageShape": "Square",
+  "restId": "1521367307708436481",
+  "tipjarSettings": {}
+}

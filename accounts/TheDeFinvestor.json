@@ -1,0 +1,78 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxMzk1MzY1NTE1Nzc5MDU1NjE2",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Thu May 20 13:07:30 +0000 2021",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "Crypto Analyst. Sharing DeFi updates and crypto strategies. Subscribe to my blog to stay on top of trends: https://t.co/qrKYXe3Uxo",
+    "entities": {
+      "description": {
+        "urls": [
+          {
+            "display_url": "thedefinvestor.com",
+            "expanded_url": "http://thedefinvestor.com",
+            "url": "https://t.co/qrKYXe3Uxo",
+            "indices": [
+              107,
+              130
+            ]
+          }
+        ]
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "thedefinvestor.com",
+            "expanded_url": "https://www.thedefinvestor.com/",
+            "url": "https://t.co/FVEOZGaqGA",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 42232,
+    "followersCount": 160530,
+    "following": true,
+    "friendsCount": 2433,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 4274,
+    "location": "FREE NEWSLETTER→",
+    "mediaCount": 2206,
+    "name": "The DeFi Investor 🔎",
+    "normalFollowersCount": 160530,
+    "pinnedTweetIdsStr": [
+      "1971954240622145807"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1395365515779055616/1674582726",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1622002065483374592/Bu0ot06d_normal.png",
+    "profileInterstitialType": "",
+    "screenName": "TheDeFinvestor",
+    "statusesCount": 14658,
+    "translatorType": "none",
+    "url": "https://t.co/FVEOZGaqGA",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [],
+    "professionalType": "Creator",
+    "restId": "1530496884330070017"
+  },
+  "profileImageShape": "Circle",
+  "restId": "1395365515779055616",
+  "superFollowEligible": true,
+  "tipjarSettings": {}
+}

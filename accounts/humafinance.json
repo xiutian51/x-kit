@@ -1,0 +1,66 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNTA0ODUzODY5Mzk3OTA1NDA4",
+  "isBlueVerified": false,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Fri Mar 18 16:15:58 +0000 2022",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "The First PayFi Network. Huma accelerates global payments with instant access to liquidity anywhere, anytime.",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "huma.finance",
+            "expanded_url": "https://huma.finance/",
+            "url": "https://t.co/ddMkoIhaJF",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 8134,
+    "followersCount": 129799,
+    "following": true,
+    "friendsCount": 910,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 393,
+    "location": "Worldwide",
+    "mediaCount": 822,
+    "name": "Huma Finance 🟣 🇦🇪 Solana Breakpoint",
+    "normalFollowersCount": 129799,
+    "pinnedTweetIdsStr": [],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1504853869397905408/1721660823",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1624112902771703821/oSgPaG68_normal.png",
+    "profileInterstitialType": "",
+    "screenName": "humafinance",
+    "statusesCount": 3871,
+    "translatorType": "none",
+    "url": "https://t.co/ddMkoIhaJF",
+    "verified": false,
+    "verifiedType": "Business",
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [],
+    "professionalType": "Business",
+    "restId": "1627681336545746951"
+  },
+  "profileImageShape": "Square",
+  "restId": "1504853869397905408",
+  "tipjarSettings": {}
+}

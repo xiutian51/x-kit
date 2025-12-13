@@ -1,0 +1,68 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxMjY1MDM3MDcz",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": false,
+    "canMediaTag": false,
+    "createdAt": "Wed Mar 13 17:42:06 +0000 2013",
+    "defaultProfile": false,
+    "defaultProfileImage": false,
+    "description": "Trade. Invest. Earn.",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "rbnhd.co/social_media_d…",
+            "expanded_url": "http://rbnhd.co/social_media_disclosures",
+            "url": "https://t.co/C4XQjnMCgq",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 13618,
+    "followersCount": 1221556,
+    "following": true,
+    "friendsCount": 26,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 4160,
+    "location": "Menlo Park, CA",
+    "mediaCount": 1932,
+    "name": "Robinhood",
+    "normalFollowersCount": 1221556,
+    "pinnedTweetIdsStr": [
+      "1995559179822510267"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1265037073/1755004222",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1844399977482813442/1fTlYz2c_normal.png",
+    "profileInterstitialType": "",
+    "screenName": "RobinhoodApp",
+    "statusesCount": 14382,
+    "translatorType": "regular",
+    "url": "https://t.co/C4XQjnMCgq",
+    "verified": false,
+    "verifiedType": "Business",
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [],
+    "professionalType": "Business",
+    "restId": "1600982772079906823"
+  },
+  "profileImageShape": "Square",
+  "restId": "1265037073",
+  "tipjarSettings": {}
+}

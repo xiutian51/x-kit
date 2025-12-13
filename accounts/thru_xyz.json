@@ -1,0 +1,63 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxODY0ODMwMTc0NDQyOTgzNDI3",
+  "isBlueVerified": false,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Fri Dec 06 00:32:22 +0000 2024",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "next generation base-layer from @untolabs. \n\nthe only way out is thru",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "thru.org",
+            "expanded_url": "https://www.thru.org",
+            "url": "https://t.co/TYO0W5xizx",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 351,
+    "followersCount": 14237,
+    "following": true,
+    "friendsCount": 7,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 132,
+    "location": "",
+    "mediaCount": 7,
+    "name": "Thru",
+    "normalFollowersCount": 14237,
+    "pinnedTweetIdsStr": [
+      "1989435911223087279"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1864830174442983427/1752679880",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1945506539193925634/n6yNokFM_normal.png",
+    "profileInterstitialType": "",
+    "screenName": "thru_xyz",
+    "statusesCount": 66,
+    "translatorType": "none",
+    "url": "https://t.co/TYO0W5xizx",
+    "verified": false,
+    "verifiedType": "Business",
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "profileImageShape": "Square",
+  "restId": "1864830174442983427",
+  "tipjarSettings": {}
+}

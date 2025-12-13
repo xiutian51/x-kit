@@ -1,0 +1,68 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjozNDc0MzI1MQ==",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": false,
+    "canMediaTag": true,
+    "createdAt": "Thu Apr 23 21:53:30 +0000 2009",
+    "defaultProfile": false,
+    "defaultProfileImage": false,
+    "description": "SpaceX designs, manufactures and launches the world’s most advanced rockets and spacecraft",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "spacex.com",
+            "expanded_url": "http://spacex.com",
+            "url": "https://t.co/VOJ6qEctND",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 519,
+    "followersCount": 40405152,
+    "following": true,
+    "friendsCount": 120,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 43888,
+    "location": "Earth",
+    "mediaCount": 4236,
+    "name": "SpaceX",
+    "normalFollowersCount": 40405152,
+    "pinnedTweetIdsStr": [
+      "1983926856504971268"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/34743251/1681251194",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1697749409851985920/HbrI04tM_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "SpaceX",
+    "statusesCount": 10899,
+    "translatorType": "none",
+    "url": "https://t.co/VOJ6qEctND",
+    "verified": false,
+    "verifiedType": "Business",
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [],
+    "professionalType": "Business",
+    "restId": "1681839322029502464"
+  },
+  "profileImageShape": "Square",
+  "restId": "34743251",
+  "tipjarSettings": {}
+}

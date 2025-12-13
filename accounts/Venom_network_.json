@@ -1,0 +1,60 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNjI0NzM5MzI5NDQ3Nzg4NTQ2",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Sun Feb 12 11:57:10 +0000 2023",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "Layer 0 and Layer 1 blockchain built on Mesh network technology, redefining what's possible in global finance.",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "venom.network",
+            "expanded_url": "https://venom.network/",
+            "url": "https://t.co/ZqPTmTP9KY",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 349,
+    "followersCount": 739145,
+    "following": true,
+    "friendsCount": 33,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 325,
+    "location": "",
+    "mediaCount": 251,
+    "name": "Venom Network",
+    "normalFollowersCount": 739145,
+    "pinnedTweetIdsStr": [],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1624739329447788546/1676457034",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1625804698149179394/HwFQiJlz_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "Venom_network_",
+    "statusesCount": 1166,
+    "translatorType": "none",
+    "url": "https://t.co/ZqPTmTP9KY",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "profileImageShape": "Circle",
+  "restId": "1624739329447788546",
+  "tipjarSettings": {}
+}

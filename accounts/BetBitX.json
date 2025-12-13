@@ -1,0 +1,73 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNjYwNTk5OTI3NDE5MDQzODQw",
+  "isBlueVerified": false,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Mon May 22 10:54:38 +0000 2023",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "🔞 | #BetBigWithBetBitX. At the intersection of BetFi, DeFi and NFTs on @berachain 🐻⛓️",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "linktr.ee/betbitx",
+            "expanded_url": "http://linktr.ee/betbitx",
+            "url": "https://t.co/obDBRgjbrU",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 188,
+    "followersCount": 19914,
+    "following": true,
+    "friendsCount": 77,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 47,
+    "location": "On-chain",
+    "mediaCount": 45,
+    "name": "BetBitX 🐻⛓️",
+    "normalFollowersCount": 19914,
+    "pinnedTweetIdsStr": [
+      "1834534763555897417"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1660599927419043840/1686049331",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1666037758207590404/6UwL037D_normal.png",
+    "profileInterstitialType": "",
+    "screenName": "BetBitX",
+    "statusesCount": 150,
+    "translatorType": "none",
+    "url": "https://t.co/obDBRgjbrU",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [
+      {
+        "iconName": "IconBriefcaseStroke",
+        "id": 1094,
+        "name": "Blockchain"
+      }
+    ],
+    "professionalType": "Business",
+    "restId": "1660603128721596416"
+  },
+  "profileImageShape": "Circle",
+  "restId": "1660599927419043840",
+  "tipjarSettings": {}
+}

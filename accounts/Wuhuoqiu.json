@@ -1,0 +1,58 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjo5NjIyMDUzMzUyODgxMzU2ODA=",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Sat Feb 10 06:03:23 +0000 2018",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "Advisor @ambergroup_io https://t.co/gwnjbS70D8｜ex Investment - OKX_Ventures ｜ex Investment & Research Partner @ABCDELabs",
+    "entities": {
+      "description": {
+        "urls": [
+          {
+            "display_url": "amber.ac",
+            "expanded_url": "http://amber.ac",
+            "url": "https://t.co/gwnjbS70D8",
+            "indices": [
+              23,
+              46
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 847,
+    "followersCount": 72660,
+    "following": true,
+    "friendsCount": 629,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 1957,
+    "location": "",
+    "mediaCount": 152,
+    "name": "Lao Bai",
+    "normalFollowersCount": 72660,
+    "pinnedTweetIdsStr": [
+      "1987142202330653025"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/962205335288135680/1761877875",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1957952798513037312/BgHsgnHn_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "Wuhuoqiu",
+    "statusesCount": 2988,
+    "translatorType": "none",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "profileImageShape": "Circle",
+  "restId": "962205335288135680",
+  "tipjarSettings": {}
+}

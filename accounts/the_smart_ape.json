@@ -1,0 +1,74 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNTEyNTk0MDIxNjU0NDAxMDI3",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Sat Apr 09 00:51:40 +0000 2022",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "Father | Pudgy Penguin #3588 | Experimenting with ideas | I do technical stuff hard to explain | Love you Mom | Nothing is financial advice | DM open 📩 |",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "t.me/alpha_smartApe",
+            "expanded_url": "http://t.me/alpha_smartApe",
+            "url": "https://t.co/MxJxUmrJFR",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 21322,
+    "followersCount": 56443,
+    "following": true,
+    "friendsCount": 655,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 1466,
+    "location": "On-Chain",
+    "mediaCount": 6988,
+    "name": "The Smart Ape 🔥",
+    "normalFollowersCount": 56443,
+    "pinnedTweetIdsStr": [
+      "1950833481883500554"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1512594021654401027/1740129695",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1997469349955727360/xLnz_tJN_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "the_smart_ape",
+    "statusesCount": 26557,
+    "translatorType": "none",
+    "url": "https://t.co/MxJxUmrJFR",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [
+      {
+        "iconName": "IconBriefcaseStroke",
+        "id": 144,
+        "name": "Education"
+      }
+    ],
+    "professionalType": "Creator",
+    "restId": "1656350895074951168"
+  },
+  "profileImageShape": "Circle",
+  "restId": "1512594021654401027",
+  "superFollowEligible": true,
+  "tipjarSettings": {}
+}

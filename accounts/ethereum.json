@@ -1,0 +1,60 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoyMzEyMzMzNDEy",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": false,
+    "canMediaTag": true,
+    "createdAt": "Sun Jan 26 19:15:24 +0000 2014",
+    "defaultProfile": false,
+    "defaultProfileImage": false,
+    "description": "The universal platform for crypto, blockchain apps, stablecoins & decentralized tech. An account about the Ethereum ecosystem maintained by @ethereumfndn.",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "ethereum.org",
+            "expanded_url": "http://ethereum.org",
+            "url": "https://t.co/0zgmE9mGLJ",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 2042,
+    "followersCount": 4042414,
+    "following": true,
+    "friendsCount": 0,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 14166,
+    "location": "worldwide",
+    "mediaCount": 528,
+    "name": "Ethereum",
+    "normalFollowersCount": 4042414,
+    "pinnedTweetIdsStr": [],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/2312333412/1736761127",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1878738447067652096/tXQbWfpf_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "ethereum",
+    "statusesCount": 5418,
+    "translatorType": "none",
+    "url": "https://t.co/0zgmE9mGLJ",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "profileImageShape": "Circle",
+  "restId": "2312333412",
+  "tipjarSettings": {}
+}

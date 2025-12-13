@@ -1,0 +1,68 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxMzIxOTgyMjQ4NDAxNDU3MTU0",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Fri Oct 30 01:08:28 +0000 2020",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "Axelar is a decentralized network and development platform securely connecting the world's blockchains and financial institutions.\n\nTwitter by @AxelarFDN.",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "axelar.network",
+            "expanded_url": "http://axelar.network",
+            "url": "https://t.co/ETbrLSABAF",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 10957,
+    "followersCount": 215557,
+    "following": true,
+    "friendsCount": 726,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 1374,
+    "location": "The Interchain",
+    "mediaCount": 1814,
+    "name": "Axelar Network",
+    "normalFollowersCount": 215557,
+    "pinnedTweetIdsStr": [
+      "1970080688985784372"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1321982248401457154/1754410813",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1874834853943824384/l71EkA26_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "axelar",
+    "statusesCount": 8454,
+    "translatorType": "none",
+    "url": "https://t.co/ETbrLSABAF",
+    "verified": false,
+    "verifiedType": "Business",
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [],
+    "professionalType": "Business",
+    "restId": "1544696129702486017"
+  },
+  "profileImageShape": "Square",
+  "restId": "1321982248401457154",
+  "tipjarSettings": {}
+}

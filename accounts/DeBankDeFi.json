@@ -1,0 +1,78 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxMTU2MDM3NjAyNDg4NjM5NDkw",
+  "isBlueVerified": false,
+  "legacy": {
+    "canDm": false,
+    "canMediaTag": true,
+    "createdAt": "Tue Jul 30 03:03:37 +0000 2019",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "Your go-to portfolio tracker for Ethereum and EVM\n\nDM: https://t.co/puNWk5uUBM",
+    "entities": {
+      "description": {
+        "urls": [
+          {
+            "display_url": "debank.com/hi/0a110133",
+            "expanded_url": "http://debank.com/hi/0a110133",
+            "url": "https://t.co/puNWk5uUBM",
+            "indices": [
+              55,
+              78
+            ]
+          }
+        ]
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "DeBank.com",
+            "expanded_url": "https://DeBank.com",
+            "url": "https://t.co/GXY782BPS5",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 3000,
+    "followersCount": 256407,
+    "following": true,
+    "friendsCount": 3428,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 2026,
+    "location": "",
+    "mediaCount": 3219,
+    "name": "DeBank",
+    "normalFollowersCount": 256407,
+    "pinnedTweetIdsStr": [
+      "1810293775333474550"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1156037602488639490/1752051905",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1414880725921267716/YzVitob7_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "DeBankDeFi",
+    "statusesCount": 5115,
+    "translatorType": "none",
+    "url": "https://t.co/GXY782BPS5",
+    "verified": false,
+    "verifiedType": "Business",
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [],
+    "professionalType": "Business",
+    "restId": "1468577752962187266"
+  },
+  "profileImageShape": "Square",
+  "restId": "1156037602488639490",
+  "tipjarSettings": {}
+}

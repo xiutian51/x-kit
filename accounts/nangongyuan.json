@@ -1,0 +1,80 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoyNDc4MDYyODMz",
+  "isBlueVerified": false,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Mon May 05 08:48:16 +0000 2014",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "币民日报创始人，混沌数学研究者，多巴胺操控大师。\n常用网址 https://t.co/S6qm7ghLVX",
+    "entities": {
+      "description": {
+        "urls": [
+          {
+            "display_url": "96.io",
+            "expanded_url": "http://96.io",
+            "url": "https://t.co/S6qm7ghLVX",
+            "indices": [
+              30,
+              53
+            ]
+          }
+        ]
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "ngy123.com",
+            "expanded_url": "https://www.ngy123.com",
+            "url": "https://t.co/HNJMZsdtab",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 5937,
+    "followersCount": 15880,
+    "following": true,
+    "friendsCount": 281,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 206,
+    "location": "",
+    "mediaCount": 640,
+    "name": "南宫远",
+    "normalFollowersCount": 15880,
+    "pinnedTweetIdsStr": [],
+    "possiblySensitive": false,
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1534137718149509121/7Hp_V8y3_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "nangongyuan",
+    "statusesCount": 3555,
+    "translatorType": "none",
+    "url": "https://t.co/HNJMZsdtab",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [
+      {
+        "iconName": "IconBriefcaseStroke",
+        "id": 933,
+        "name": "Media Personality"
+      }
+    ],
+    "professionalType": "Creator",
+    "restId": "1534884697553063936"
+  },
+  "profileImageShape": "Circle",
+  "restId": "2478062833",
+  "tipjarSettings": {}
+}

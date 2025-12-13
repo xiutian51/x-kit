@@ -1,0 +1,77 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNDIwNzYyMjI0",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Sat May 11 14:37:08 +0000 2013",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "｜F.T→@followin_io \n｜Collab→@BaycTaiwan #BAYC @BoredApeYC\n｜Prev→@HSBC @BingXOfficial @MEXC_Official @OKX",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "t.me/YHPox",
+            "expanded_url": "https://t.me/YHPox",
+            "url": "https://t.co/ihW8t9NhJn",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 32577,
+    "followedBy": true,
+    "followersCount": 26605,
+    "following": true,
+    "friendsCount": 8179,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 48,
+    "location": "DM OPEN💌",
+    "mediaCount": 1539,
+    "name": "YHP.edge 🦭MemeMax⚡️∞ KIN",
+    "normalFollowersCount": 26605,
+    "pinnedTweetIdsStr": [
+      "1805251551726043541"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1420762224/1708170732",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1987411215715557376/vXiKUaxW_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "YHPxo",
+    "statusesCount": 31577,
+    "translatorType": "none",
+    "url": "https://t.co/ihW8t9NhJn",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [
+      {
+        "iconName": "IconBriefcaseStroke",
+        "id": 1094,
+        "name": "Blockchain"
+      }
+    ],
+    "professionalType": "Creator",
+    "restId": "1500141728090959874"
+  },
+  "profileImageShape": "Circle",
+  "restId": "1420762224",
+  "tipjarSettings": {
+    "ethereumHandle": "0xbAC251F1d6A6b72dDB23294493B02a1125801199",
+    "isEnabled": true
+  }
+}

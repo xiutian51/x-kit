@@ -1,0 +1,71 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNDY5OTUyNzY0OTgxNTY3NDg5",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Sun Dec 12 08:50:44 +0000 2021",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "Observing the co-evolution of culture and algorithm.",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "chaow.xyz",
+            "expanded_url": "https://chaow.xyz/",
+            "url": "https://t.co/jMz8JFaleQ",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 3826,
+    "followersCount": 14047,
+    "following": true,
+    "friendsCount": 2852,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 419,
+    "location": "",
+    "mediaCount": 184,
+    "name": "Chao",
+    "normalFollowersCount": 14047,
+    "pinnedTweetIdsStr": [],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1469952764981567489/1639310882",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1556615707067961346/GjejdjLF_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "chaowxyz",
+    "statusesCount": 2289,
+    "translatorType": "none",
+    "url": "https://t.co/jMz8JFaleQ",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [
+      {
+        "iconName": "IconBriefcaseStroke",
+        "id": 713,
+        "name": "Science & Technology"
+      }
+    ],
+    "professionalType": "Creator",
+    "restId": "1618565252144328704"
+  },
+  "profileImageShape": "Circle",
+  "restId": "1469952764981567489",
+  "tipjarSettings": {}
+}

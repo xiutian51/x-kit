@@ -1,0 +1,73 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjo4NDQ1OTY4ODA0NzQ0MzU1ODQ=",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": false,
+    "canMediaTag": true,
+    "createdAt": "Wed Mar 22 17:09:22 +0000 2017",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "Award winning Tech Industry Analyst, @USAToday @Forbes RCR/Fierce & EETime writer, #TantrasMantra host, Quoted on @WSJ @FT @Reuters, Ex @Qualcomm @Ericsson @ATT",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "TantraAnalyst.com",
+            "expanded_url": "http://www.TantraAnalyst.com",
+            "url": "https://t.co/50620HvTUc",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 12118,
+    "followersCount": 53906,
+    "following": true,
+    "friendsCount": 8347,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 136,
+    "location": "California, USA",
+    "mediaCount": 3314,
+    "name": "Prakash Sangam",
+    "normalFollowersCount": 53906,
+    "pinnedTweetIdsStr": [
+      "1880038308475990021"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/844596880474435584/1750822822",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1745223280204840960/RE3V0Fyu_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "MyTechMusings",
+    "statusesCount": 13112,
+    "translatorType": "none",
+    "url": "https://t.co/50620HvTUc",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [
+      {
+        "iconName": "IconBriefcaseStroke",
+        "id": 713,
+        "name": "Science & Technology"
+      }
+    ],
+    "professionalType": "Creator",
+    "restId": "1548458017812668427"
+  },
+  "profileImageShape": "Circle",
+  "restId": "844596880474435584",
+  "tipjarSettings": {}
+}

@@ -1,0 +1,50 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNDA2NTk0MzcwNjA2Nzk2ODAx",
+  "isBlueVerified": false,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Sun Jun 20 12:47:04 +0000 2021",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "成功学粉丝，币圈消费者。",
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 8323,
+    "followersCount": 605,
+    "following": true,
+    "friendsCount": 650,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 9,
+    "location": "",
+    "mediaCount": 1454,
+    "name": "盘圈观察员",
+    "normalFollowersCount": 605,
+    "pinnedTweetIdsStr": [],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1406594370606796801/1746334693",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1817850856592859136/E7nyHaSb_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "Hodl5x",
+    "statusesCount": 9388,
+    "translatorType": "none",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "profileImageShape": "Circle",
+  "restId": "1406594370606796801",
+  "tipjarSettings": {
+    "bitcoinHandle": "bc1qfdwag2jra2zj4s9wqj2h7c3gp7ckakj8ndr8hl",
+    "ethereumHandle": "0xE9ea7fDBbb55B4dB134Bb640088a1B52776e7D68",
+    "isEnabled": true
+  }
+}

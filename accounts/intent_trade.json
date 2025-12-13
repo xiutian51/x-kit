@@ -1,0 +1,72 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNzYxOTcyNjk2MTM5ODY2MTEy",
+  "isBlueVerified": false,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Mon Feb 26 04:33:39 +0000 2024",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "The most powerful AI Trading tool for @solana. Beta Access now: https://t.co/h9z6fE6CnX",
+    "entities": {
+      "description": {
+        "urls": [
+          {
+            "display_url": "app.intent.trade",
+            "expanded_url": "https://app.intent.trade/",
+            "url": "https://t.co/h9z6fE6CnX",
+            "indices": [
+              64,
+              87
+            ]
+          }
+        ]
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "t.me/gmAI_Chat",
+            "expanded_url": "https://t.me/gmAI_Chat",
+            "url": "https://t.co/FcTR80XDid",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 216,
+    "followersCount": 275041,
+    "following": true,
+    "friendsCount": 31,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 46,
+    "location": "",
+    "mediaCount": 35,
+    "name": "Intent.Trade",
+    "normalFollowersCount": 275041,
+    "pinnedTweetIdsStr": [
+      "1813467778919330089"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1761972696139866112/1717070585",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1796150322655858688/m9KKSLT__normal.png",
+    "profileInterstitialType": "",
+    "screenName": "intent_trade",
+    "statusesCount": 81,
+    "translatorType": "none",
+    "url": "https://t.co/FcTR80XDid",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "profileImageShape": "Circle",
+  "restId": "1761972696139866112",
+  "tipjarSettings": {}
+}

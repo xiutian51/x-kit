@@ -1,0 +1,73 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxMzg3NDA4OTQ3NDAxOTIwNTEz",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Wed Apr 28 14:11:38 +0000 2021",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "✨ Highlight, take notes and summarize your favorite podcasts with AI.\n\n🧠 Our mission is to unlock the knowledge in podcasts.\n\n📱 Available on iOS & Android",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "snipd.com",
+            "expanded_url": "https://www.snipd.com",
+            "url": "https://t.co/ek3bg1y5nS",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 4132,
+    "followersCount": 6073,
+    "following": true,
+    "friendsCount": 455,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 177,
+    "location": "Zurich, Switzerland",
+    "mediaCount": 195,
+    "name": "Snipd | AI Podcast Player",
+    "normalFollowersCount": 6073,
+    "pinnedTweetIdsStr": [
+      "1855992957465240059"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1387408947401920513/1660645445",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1455169772593819648/Y7LZb4eA_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "snipd_app",
+    "statusesCount": 1846,
+    "translatorType": "none",
+    "url": "https://t.co/ek3bg1y5nS",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [
+      {
+        "iconName": "IconBriefcaseStroke",
+        "id": 714,
+        "name": "Technology Company"
+      }
+    ],
+    "professionalType": "Business",
+    "restId": "1577619233344831489"
+  },
+  "profileImageShape": "Circle",
+  "restId": "1387408947401920513",
+  "tipjarSettings": {}
+}

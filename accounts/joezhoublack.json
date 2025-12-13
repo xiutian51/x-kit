@@ -1,0 +1,62 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNDg0MDgzNTg1ODA0MzA4NDgw",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": false,
+    "createdAt": "Thu Jan 20 08:41:25 +0000 2022",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "Deputy Chief Editor @Foresight_News",
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 3460,
+    "followersCount": 4035,
+    "following": true,
+    "friendsCount": 958,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 97,
+    "location": "",
+    "mediaCount": 74,
+    "name": "Joe Zhou",
+    "normalFollowersCount": 4035,
+    "pinnedTweetIdsStr": [
+      "1872053116860018735"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1484083585804308480/1742010843",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1987742342783410176/RESn1hGo_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "joezhoublack",
+    "statusesCount": 720,
+    "translatorType": "none",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [
+      {
+        "iconName": "IconBriefcaseStroke",
+        "id": 713,
+        "name": "Science & Technology"
+      }
+    ],
+    "professionalType": "Creator",
+    "restId": "1619239729144422402"
+  },
+  "profileImageShape": "Circle",
+  "restId": "1484083585804308480",
+  "tipjarSettings": {
+    "ethereumHandle": "0xcb38DeBE4D9E1B90a4874DA76aC492D996730665",
+    "isEnabled": true
+  }
+}

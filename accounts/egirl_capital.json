@@ -1,0 +1,60 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxMzEyMzY4MjAyNDI5NjI4NDE2",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Sat Oct 03 12:25:58 +0000 2020",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "Driving deprofessionalism. Views are our own. This is not simp advice. \n\n(almost never check dms)",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "egirlcapital.com",
+            "expanded_url": "https://www.egirlcapital.com/",
+            "url": "https://t.co/NYhJAvU17X",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 1322,
+    "followersCount": 52342,
+    "following": true,
+    "friendsCount": 69,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 1016,
+    "location": "",
+    "mediaCount": 51,
+    "name": "eGirl Capital 仙女資本",
+    "normalFollowersCount": 52342,
+    "pinnedTweetIdsStr": [],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1312368202429628416/1739296208",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1602048801505959936/R1HVM36O_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "egirl_capital",
+    "statusesCount": 339,
+    "translatorType": "none",
+    "url": "https://t.co/NYhJAvU17X",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "profileImageShape": "Circle",
+  "restId": "1312368202429628416",
+  "tipjarSettings": {}
+}

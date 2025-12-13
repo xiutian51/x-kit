@@ -1,0 +1,48 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNDI2Njk3NTE3NjY4ODQ3NjE4",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Sun Aug 15 00:09:38 +0000 2021",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "收手吧，阿祖\n\nShitposts. Head of E-beggers. Chief Fud Officer.\n\n「若批评不自由，则赞美无意义」",
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 21084,
+    "followersCount": 25608,
+    "following": true,
+    "friendsCount": 5124,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 1104,
+    "location": "Moon",
+    "mediaCount": 1573,
+    "name": "yyy",
+    "normalFollowersCount": 25608,
+    "pinnedTweetIdsStr": [
+      "1917244346564530673"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1426697517668847618/1753673089",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1940912893202944000/CGNonSFc_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "y_cryptoanalyst",
+    "statusesCount": 12847,
+    "translatorType": "none",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "profileImageShape": "Circle",
+  "restId": "1426697517668847618",
+  "tipjarSettings": {}
+}

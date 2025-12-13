@@ -1,0 +1,63 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjo1NzQwMzIyNTQ=",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": false,
+    "canMediaTag": true,
+    "createdAt": "Mon May 07 23:06:31 +0000 2012",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "The most trusted crypto exchange. For support: @CoinbaseSupport",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "coinbase.com",
+            "expanded_url": "https://coinbase.com",
+            "url": "https://t.co/O1gzmT49MK",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 4129,
+    "followersCount": 6668832,
+    "following": true,
+    "friendsCount": 157,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 28032,
+    "location": "Remote First",
+    "mediaCount": 1523,
+    "name": "Coinbase 🛡️",
+    "normalFollowersCount": 6668832,
+    "pinnedTweetIdsStr": [
+      "1999165181939855794"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/574032254/1765486843",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1999222833562451968/q2lVqSoW_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "coinbase",
+    "statusesCount": 8494,
+    "translatorType": "none",
+    "url": "https://t.co/O1gzmT49MK",
+    "verified": false,
+    "verifiedType": "Business",
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "profileImageShape": "Square",
+  "restId": "574032254",
+  "tipjarSettings": {}
+}

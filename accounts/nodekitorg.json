@@ -1,0 +1,73 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNjYzOTE5NTMzOTMxODc2MzUy",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Wed May 31 14:45:30 +0000 2023",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "The first Superbuilder for composability between chains.",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "nodekit.xyz",
+            "expanded_url": "https://www.nodekit.xyz/",
+            "url": "https://t.co/ibn9pzezwd",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 1788,
+    "followersCount": 32259,
+    "following": true,
+    "friendsCount": 52,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 146,
+    "location": "",
+    "mediaCount": 97,
+    "name": "NodeKit Ø",
+    "normalFollowersCount": 32259,
+    "pinnedTweetIdsStr": [
+      "1938291774763479541"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1663919533931876352/1723689433",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1823911787521077248/L0_9aVOk_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "nodekitorg",
+    "statusesCount": 778,
+    "translatorType": "none",
+    "url": "https://t.co/ibn9pzezwd",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [
+      {
+        "iconName": "IconBriefcaseStroke",
+        "id": 713,
+        "name": "Science & Technology"
+      }
+    ],
+    "professionalType": "Business",
+    "restId": "1665548470030155776"
+  },
+  "profileImageShape": "Circle",
+  "restId": "1663919533931876352",
+  "tipjarSettings": {}
+}

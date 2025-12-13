@@ -1,0 +1,62 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNzMyMDA0NDM5OTExNzcyMTYw",
+  "isBlueVerified": false,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Tue Dec 05 11:50:28 +0000 2023",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "Ordiswap brings dynamic AMM infrastructure to BRC-20s and Runes, unlocking unparalleled liquidity on Bitcoin's native layer.",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "linktr.ee/ordiswap",
+            "expanded_url": "https://linktr.ee/ordiswap",
+            "url": "https://t.co/EblZSriTe6",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 744,
+    "followersCount": 32571,
+    "following": true,
+    "friendsCount": 42,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 273,
+    "location": "",
+    "mediaCount": 242,
+    "name": "Ordiswap",
+    "normalFollowersCount": 32571,
+    "pinnedTweetIdsStr": [
+      "1858271292946042975"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1732004439911772160/1705252885",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1746583294509023232/6BcpY1vT_normal.png",
+    "profileInterstitialType": "",
+    "screenName": "OrdiswapLabs",
+    "statusesCount": 732,
+    "translatorType": "none",
+    "url": "https://t.co/EblZSriTe6",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "profileImageShape": "Circle",
+  "restId": "1732004439911772160",
+  "tipjarSettings": {}
+}

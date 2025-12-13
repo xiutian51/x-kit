@@ -1,0 +1,68 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjo3NjU1MzI5NzE4MzkzMDM2ODA=",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Tue Aug 16 12:57:38 +0000 2016",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "🔞十八摸站长 🐃牛车水龙头 🐕‍🦺狗日报总编辑 🐟鱼禅寺末代知客僧 🙈连续创业不成功者 📝关注睡后没收入的抽象老登",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "18mo.com",
+            "expanded_url": "http://18mo.com",
+            "url": "https://t.co/t3wrPNHoIV",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 14130,
+    "followedBy": true,
+    "followersCount": 8617,
+    "following": true,
+    "friendsCount": 1980,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 36,
+    "location": "Singapore",
+    "mediaCount": 2960,
+    "name": "猛小蛇",
+    "normalFollowersCount": 8617,
+    "pinnedTweetIdsStr": [],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/765532971839303680/1765216213",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1998087687149142016/RS4aXav-_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "mengxiaoshe",
+    "statusesCount": 14682,
+    "translatorType": "none",
+    "url": "https://t.co/t3wrPNHoIV",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [],
+    "professionalType": "Creator",
+    "restId": "1592606300508078080"
+  },
+  "profileImageShape": "Circle",
+  "restId": "765532971839303680",
+  "tipjarSettings": {
+    "isEnabled": true
+  }
+}

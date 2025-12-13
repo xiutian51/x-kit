@@ -1,0 +1,82 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNDQ5MDEwMjE3NzAyNzM5OTY5",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Fri Oct 15 13:53:58 +0000 2021",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "Biteye是亚洲领先Web3研究平台，专注AI/L1/L2/RWA/DeFi, 提供空投/项目研报/二级市场分析等Alpha机会，覆盖超30万用户！ 由香港数码港 @cyberport_hk 孵化 💡TG https://t.co/mMHrEehLjA 官方链接：https://t.co/ALFDHF9pG2",
+    "entities": {
+      "description": {
+        "urls": [
+          {
+            "display_url": "t.me/biteyecn",
+            "expanded_url": "https://t.me/biteyecn",
+            "url": "https://t.co/mMHrEehLjA",
+            "indices": [
+              104,
+              127
+            ]
+          },
+          {
+            "display_url": "linktr.ee/biteye",
+            "expanded_url": "https://linktr.ee/biteye",
+            "url": "https://t.co/ALFDHF9pG2",
+            "indices": [
+              133,
+              156
+            ]
+          }
+        ]
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "biteye.info",
+            "expanded_url": "http://biteye.info",
+            "url": "https://t.co/ljzaJlz230",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 1035,
+    "followersCount": 78304,
+    "following": true,
+    "friendsCount": 543,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 1279,
+    "location": "Hong Kong",
+    "mediaCount": 1317,
+    "name": "Biteye",
+    "normalFollowersCount": 78304,
+    "pinnedTweetIdsStr": [
+      "1999055161709260997"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1449010217702739969/1699248793",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1554027145420500992/0oOUOv6L_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "BiteyeCN",
+    "statusesCount": 7320,
+    "translatorType": "none",
+    "url": "https://t.co/ljzaJlz230",
+    "verified": false,
+    "verifiedType": "Business",
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "profileImageShape": "Square",
+  "restId": "1449010217702739969",
+  "tipjarSettings": {}
+}

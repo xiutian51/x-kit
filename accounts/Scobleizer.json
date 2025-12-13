@@ -1,0 +1,76 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxMzM0OA==",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": false,
+    "createdAt": "Mon Nov 20 23:43:44 +0000 2006",
+    "defaultProfile": false,
+    "defaultProfileImage": false,
+    "description": "I'm Unaligned | San Francisco AI | Robots, holodecks, BCIs, analysis of new things | Ex-Microsoft, Rackspace, Fast Company | Wrote eight books about the future.",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "unaligned.io/subscribe",
+            "expanded_url": "http://unaligned.io/subscribe",
+            "url": "https://t.co/YVCwrHlraZ",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 550094,
+    "followersCount": 549104,
+    "following": true,
+    "friendsCount": 33274,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 23270,
+    "location": "My Free Newsletter 👉",
+    "mediaCount": 6010,
+    "name": "Robert Scoble",
+    "normalFollowersCount": 549104,
+    "pinnedTweetIdsStr": [
+      "1998434997309682054"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/13348/1765416783",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1915614118876504066/zVnfpAMf_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "Scobleizer",
+    "statusesCount": 231483,
+    "translatorType": "none",
+    "url": "https://t.co/YVCwrHlraZ",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [
+      {
+        "iconName": "IconBriefcaseStroke",
+        "id": 958,
+        "name": "Entrepreneur"
+      }
+    ],
+    "professionalType": "Creator",
+    "restId": "1674594409998868480"
+  },
+  "profileImageShape": "Circle",
+  "restId": "13348",
+  "superFollowEligible": true,
+  "tipjarSettings": {
+    "isEnabled": true
+  }
+}

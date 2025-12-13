@@ -1,0 +1,45 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoyMDQ1MzUxODA=",
+  "isBlueVerified": false,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Mon Oct 18 22:41:42 +0000 2010",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "",
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 286,
+    "followersCount": 584,
+    "following": true,
+    "friendsCount": 508,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 10,
+    "location": "",
+    "mediaCount": 9,
+    "name": "Jeff Huang",
+    "normalFollowersCount": 584,
+    "pinnedTweetIdsStr": [],
+    "possiblySensitive": false,
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1793539014831882241/_7dxf8hs_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "jeffishjeff",
+    "statusesCount": 139,
+    "translatorType": "none",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "profileImageShape": "Circle",
+  "restId": "204535180",
+  "tipjarSettings": {}
+}

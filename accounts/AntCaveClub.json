@@ -1,0 +1,73 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxMzcyMDYzNzkxNDYzMDI2Njkz",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": false,
+    "createdAt": "Wed Mar 17 05:54:51 +0000 2021",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "Crypto Hunter &  Data Analyst, Asia Focus | Affiliate\n@nansen_ai \n\nYoutuber & Insights | Prediction｜Building on @Polymarket",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "linktr.ee/antcaveclub",
+            "expanded_url": "https://linktr.ee/antcaveclub",
+            "url": "https://t.co/M5YBnTEN5A",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 1946,
+    "followersCount": 28102,
+    "following": true,
+    "friendsCount": 1155,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 549,
+    "location": "DM: https://t.me/AturX",
+    "mediaCount": 2605,
+    "name": "链求君 🔥",
+    "normalFollowersCount": 28102,
+    "pinnedTweetIdsStr": [
+      "1968364395957993680"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1372063791463026693/1735544002",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1979593398777507841/6m1rv-CX_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "AntCaveClub",
+    "statusesCount": 7131,
+    "translatorType": "none",
+    "url": "https://t.co/M5YBnTEN5A",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [
+      {
+        "iconName": "IconBriefcaseStroke",
+        "id": 144,
+        "name": "Education"
+      }
+    ],
+    "professionalType": "Creator",
+    "restId": "1506959245304295427"
+  },
+  "profileImageShape": "Circle",
+  "restId": "1372063791463026693",
+  "tipjarSettings": {}
+}

@@ -1,0 +1,99 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNTAwNDg2ODM3ODM5OTk4OTc2",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Sun Mar 06 15:02:00 +0000 2022",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "美股交易员\nYoutube（https://t.co/TQSWom3YbH） 小隐寺·住持（https://t.co/HOBzGZiJEU） 加密货币·币安（https://t.co/bTKfCX8mKw） 链上meme(https://t.co/SOYXG7ei6b)",
+    "entities": {
+      "description": {
+        "urls": [
+          {
+            "display_url": "youtube.com/@xcltalk",
+            "expanded_url": "http://youtube.com/@xcltalk",
+            "url": "https://t.co/TQSWom3YbH",
+            "indices": [
+              14,
+              37
+            ]
+          },
+          {
+            "display_url": "xiaoyinsi.com",
+            "expanded_url": "https://xiaoyinsi.com",
+            "url": "https://t.co/HOBzGZiJEU",
+            "indices": [
+              46,
+              69
+            ]
+          },
+          {
+            "display_url": "bit.ly/xclbn",
+            "expanded_url": "https://bit.ly/xclbn",
+            "url": "https://t.co/bTKfCX8mKw",
+            "indices": [
+              79,
+              102
+            ]
+          },
+          {
+            "display_url": "bit.ly/xclgmgn",
+            "expanded_url": "https://bit.ly/xclgmgn",
+            "url": "https://t.co/SOYXG7ei6b",
+            "indices": [
+              111,
+              134
+            ]
+          }
+        ]
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "xiaoyinsi.com",
+            "expanded_url": "https://xiaoyinsi.com",
+            "url": "https://t.co/HOBzGZiJEU",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 4291,
+    "followersCount": 120825,
+    "following": true,
+    "friendsCount": 2196,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 1303,
+    "location": "东京",
+    "mediaCount": 793,
+    "name": "徐冲浪",
+    "normalFollowersCount": 120825,
+    "pinnedTweetIdsStr": [
+      "1991917304721121484"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1500486837839998976/1763960981",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1980239992354930688/fJCZ8isl_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "cyrilxuq",
+    "statusesCount": 9643,
+    "translatorType": "none",
+    "url": "https://t.co/HOBzGZiJEU",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "profileImageShape": "Circle",
+  "restId": "1500486837839998976",
+  "tipjarSettings": {}
+}

@@ -1,0 +1,73 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNDgwMjY5MTQwMDc4MzAxMTkx",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Sun Jan 09 20:14:39 +0000 2022",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "Where fans greenlight the future of film",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "shibuya.film",
+            "expanded_url": "https://www.shibuya.film",
+            "url": "https://t.co/AjznmgvaQK",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 5133,
+    "followersCount": 21941,
+    "following": true,
+    "friendsCount": 74,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 189,
+    "location": "渋谷",
+    "mediaCount": 576,
+    "name": "Shibuya",
+    "normalFollowersCount": 21941,
+    "pinnedTweetIdsStr": [
+      "1976030807417569614"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1480269140078301191/1746636827",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1806447617259319296/Rksyqzr3_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "shibuyafilm",
+    "statusesCount": 1666,
+    "translatorType": "none",
+    "url": "https://t.co/AjznmgvaQK",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [
+      {
+        "iconName": "IconBriefcaseStroke",
+        "id": 714,
+        "name": "Technology Company"
+      }
+    ],
+    "professionalType": "Business",
+    "restId": "1598420911534661633"
+  },
+  "profileImageShape": "Circle",
+  "restId": "1480269140078301191",
+  "tipjarSettings": {}
+}

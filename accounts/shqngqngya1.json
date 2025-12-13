@@ -1,0 +1,57 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNTY3ODMxOTY4MzY0MDY4ODY0",
+  "isBlueVerified": false,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Thu Sep 08 11:08:32 +0000 2022",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "Welcome friends from all over the world  I will share interesting life fragments with you,  I hope you can like, peace and love。欢迎关注，诚信互关",
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 1060,
+    "followedBy": true,
+    "followersCount": 9920,
+    "following": true,
+    "friendsCount": 8228,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 4,
+    "location": "",
+    "mediaCount": 604,
+    "name": "Emma（互fo必回）",
+    "normalFollowersCount": 9920,
+    "pinnedTweetIdsStr": [],
+    "possiblySensitive": false,
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1603556121028993024/MKWt_25u_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "shqngqngya1",
+    "statusesCount": 941,
+    "translatorType": "none",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [
+      {
+        "iconName": "IconBriefcaseStroke",
+        "id": 15,
+        "name": "Entertainment & Recreation"
+      }
+    ],
+    "professionalType": "Creator",
+    "restId": "1714197946781319559"
+  },
+  "profileImageShape": "Circle",
+  "restId": "1567831968364068864",
+  "tipjarSettings": {}
+}

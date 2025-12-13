@@ -1,0 +1,72 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNzU0ODcyMDA1MzQwMzg1Mjgw",
+  "isBlueVerified": false,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Tue Feb 06 14:17:56 +0000 2024",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "No more tortures for holders.｜https://t.co/876eYl79dM｜$Hodl: 0x137ffd84025c582482e03d3a0b9f74c26dddfbad",
+    "entities": {
+      "description": {
+        "urls": [
+          {
+            "display_url": "discord.gg/hXkBxQDVQE",
+            "expanded_url": "https://discord.gg/hXkBxQDVQE",
+            "url": "https://t.co/876eYl79dM",
+            "indices": [
+              30,
+              53
+            ]
+          }
+        ]
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "link3.to/hodlmeme",
+            "expanded_url": "https://link3.to/hodlmeme",
+            "url": "https://t.co/RtFO0r2c6L",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 99,
+    "followersCount": 41341,
+    "following": true,
+    "friendsCount": 25,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 48,
+    "location": "",
+    "mediaCount": 168,
+    "name": "Hodl",
+    "normalFollowersCount": 41341,
+    "pinnedTweetIdsStr": [
+      "1778111860014981267"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1754872005340385280/1712769719",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1778111185562509314/M_n-LIVC_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "hodlstrong_",
+    "statusesCount": 357,
+    "translatorType": "none",
+    "url": "https://t.co/RtFO0r2c6L",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "profileImageShape": "Circle",
+  "restId": "1754872005340385280",
+  "tipjarSettings": {}
+}

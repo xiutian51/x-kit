@@ -1,0 +1,64 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNzM2NTg4OTg1NzM1MjgyNjg4",
+  "isBlueVerified": false,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Mon Dec 18 03:27:43 +0000 2023",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "Let's bump on @Bump_base",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "bumpog.xyz",
+            "expanded_url": "http://bumpog.xyz",
+            "url": "https://t.co/Ks8AehsG3o",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 13,
+    "followersCount": 128,
+    "following": true,
+    "friendsCount": 10,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 0,
+    "location": "Bumpverse",
+    "mediaCount": 4,
+    "name": "Bump!",
+    "normalFollowersCount": 128,
+    "pinnedTweetIdsStr": [
+      "1737528715179860250"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1736588985735282688/1703048566",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1736689174831333376/ZmAe5XGH_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "bumpog_",
+    "statusesCount": 18,
+    "translatorType": "none",
+    "url": "https://t.co/Ks8AehsG3o",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "profileImageShape": "Circle",
+  "restId": "1736588985735282688",
+  "tipjarSettings": {
+    "isEnabled": true
+  }
+}

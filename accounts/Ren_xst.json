@@ -1,0 +1,48 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxMzEwMDgwOTI4MTgyNTQyMzM4",
+  "isBlueVerified": false,
+  "legacy": {
+    "canDm": false,
+    "canMediaTag": true,
+    "createdAt": "Sun Sep 27 04:56:59 +0000 2020",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "$BTC $ETH 轉型了",
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 598,
+    "followersCount": 113,
+    "following": true,
+    "friendsCount": 1072,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 6,
+    "location": "",
+    "mediaCount": 64,
+    "name": "Brian Chen",
+    "normalFollowersCount": 113,
+    "pinnedTweetIdsStr": [
+      "1384449897198342144"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1310080928182542338/1683130236",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1518494480185262080/i3c8R-AH_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "Ren_xst",
+    "statusesCount": 989,
+    "translatorType": "none",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "profileImageShape": "Circle",
+  "restId": "1310080928182542338",
+  "tipjarSettings": {}
+}

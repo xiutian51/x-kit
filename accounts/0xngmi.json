@@ -1,0 +1,70 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxMzczMzA0MTk4NDQ4NzA5NjMy",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Sat Mar 20 16:03:52 +0000 2021",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "Building a transparent defi dashboard at @defillama.\n\nHiring devs at https://t.co/B5HesSQ2XP\n\nWould rather be right than make money",
+    "entities": {
+      "description": {
+        "urls": [
+          {
+            "display_url": "github.com/DefiLlama/care…",
+            "expanded_url": "https://github.com/DefiLlama/careers",
+            "url": "https://t.co/B5HesSQ2XP",
+            "indices": [
+              69,
+              92
+            ]
+          }
+        ]
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "defillama.com",
+            "expanded_url": "https://defillama.com/",
+            "url": "https://t.co/i7mdWH9C11",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 50210,
+    "followersCount": 184543,
+    "following": true,
+    "friendsCount": 294,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 2161,
+    "location": "",
+    "mediaCount": 2474,
+    "name": "0xngmi is hiring",
+    "normalFollowersCount": 184543,
+    "pinnedTweetIdsStr": [],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1373304198448709632/1651875593",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1653148127623249924/E5-smZYA_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "0xngmi",
+    "statusesCount": 29354,
+    "translatorType": "none",
+    "url": "https://t.co/i7mdWH9C11",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "profileImageShape": "Circle",
+  "restId": "1373304198448709632",
+  "tipjarSettings": {}
+}

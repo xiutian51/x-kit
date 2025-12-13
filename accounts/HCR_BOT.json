@@ -1,0 +1,92 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {
+    "label": {
+      "badge": {
+        "url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig"
+      },
+      "description": "Automated",
+      "longDescription": {
+        "text": "Automated by @Program_VT",
+        "entities": [
+          {
+            "fromIndex": 13,
+            "toIndex": 24,
+            "ref": {
+              "type": "TimelineRichTextMention",
+              "screen_name": "Program_VT",
+              "mention_results": {
+                "result": {
+                  "__typename": "User",
+                  "legacy": {
+                    "screen_name": "Program_VT"
+                  },
+                  "rest_id": "1783373292801294336"
+                }
+              }
+            }
+          }
+        ]
+      },
+      "userLabelType": "AutomatedLabel"
+    }
+  },
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxODY4MjEyODI4MzA3NjE1NzQ0",
+  "isBlueVerified": false,
+  "legacy": {
+    "canDm": false,
+    "canMediaTag": true,
+    "createdAt": "Sun Dec 15 08:33:47 +0000 2024",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "Hyperliquid GCR. $HYPE bullposter. $H(CR)",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "app.hyperliquid.xyz/trade/0x52a110…",
+            "expanded_url": "https://app.hyperliquid.xyz/trade/0x52a110041682dbf38277c80a72eecba6",
+            "url": "https://t.co/O1B9ZKC7xz",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 3229,
+    "followersCount": 6924,
+    "following": true,
+    "friendsCount": 80,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 106,
+    "location": "",
+    "mediaCount": 18,
+    "name": "HCR",
+    "normalFollowersCount": 6924,
+    "pinnedTweetIdsStr": [
+      "1884523002429161646"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1868212828307615744/1734546408",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1869449201576284160/hSmd4VYz_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "HCR_BOT",
+    "statusesCount": 16069,
+    "translatorType": "none",
+    "url": "https://t.co/O1B9ZKC7xz",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "profileImageShape": "Circle",
+  "restId": "1868212828307615744",
+  "tipjarSettings": {}
+}

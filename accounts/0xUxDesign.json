@@ -1,0 +1,75 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {
+    "label": {
+      "url": {
+        "url": "https://twitter.com/defiapp",
+        "urlType": "DeepLink"
+      },
+      "badge": {
+        "url": "https://pbs.twimg.com/profile_images/1807464255249334272/CKuGD7ZW_bigger.jpg"
+      },
+      "description": "Defi App",
+      "userLabelType": "BusinessLabel",
+      "userLabelDisplayType": "Badge"
+    }
+  },
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNjUzNzkwMTU3Mzc4NjYyNDA3",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Wed May 03 15:55:35 +0000 2023",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "Co-founder @defiapp",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "linktr.ee/defi.app",
+            "expanded_url": "https://linktr.ee/defi.app",
+            "url": "https://t.co/Bz1AW1S8f7",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 7831,
+    "followersCount": 3497,
+    "following": true,
+    "friendsCount": 535,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 34,
+    "location": "Onchain",
+    "mediaCount": 52,
+    "name": "Dan Greer",
+    "normalFollowersCount": 3497,
+    "pinnedTweetIdsStr": [
+      "1850125001401282769"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1653790157378662407/1740003691",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1924985138703634432/0JNWeuVA_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "0xUxDesign",
+    "statusesCount": 7417,
+    "translatorType": "none",
+    "url": "https://t.co/Bz1AW1S8f7",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "profileImageShape": "Circle",
+  "restId": "1653790157378662407",
+  "tipjarSettings": {}
+}

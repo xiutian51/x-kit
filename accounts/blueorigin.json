@@ -1,0 +1,66 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoyMzUzNDg2NDQ=",
+  "isBlueVerified": false,
+  "legacy": {
+    "canDm": false,
+    "canMediaTag": true,
+    "createdAt": "Fri Jan 07 23:50:10 +0000 2011",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "For the Benefit of Earth",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "hoo.be/blueorigin",
+            "expanded_url": "https://hoo.be/blueorigin",
+            "url": "https://t.co/wVBAscXlLQ",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 1028,
+    "followersCount": 765591,
+    "following": true,
+    "friendsCount": 379,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 5426,
+    "location": "Kent, WA",
+    "mediaCount": 816,
+    "name": "Blue Origin",
+    "normalFollowersCount": 765591,
+    "pinnedTweetIdsStr": [],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/235348644/1693243606",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/950492536887328768/cfcc9vpE_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "blueorigin",
+    "statusesCount": 2000,
+    "translatorType": "none",
+    "url": "https://t.co/wVBAscXlLQ",
+    "verified": false,
+    "verifiedType": "Business",
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [],
+    "professionalType": "Business",
+    "restId": "1864783437313511585"
+  },
+  "profileImageShape": "Square",
+  "restId": "235348644",
+  "tipjarSettings": {}
+}

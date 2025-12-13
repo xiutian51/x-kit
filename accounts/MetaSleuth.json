@@ -1,0 +1,83 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNDk0MjUwNjkxNjg2MTM3ODYw",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Thu Feb 17 10:01:56 +0000 2022",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "Crypto Tracking platform by @BlockSecTeam 🟧 / Monitor Market Movements / Track Criminal Activities / DYOR to Avoid Scams 👉TG: https://t.co/6a39wbOrRC",
+    "entities": {
+      "description": {
+        "urls": [
+          {
+            "display_url": "t.me/MetaSleuthTeam",
+            "expanded_url": "http://t.me/MetaSleuthTeam",
+            "url": "https://t.co/6a39wbOrRC",
+            "indices": [
+              126,
+              149
+            ]
+          }
+        ]
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "metasleuth.io",
+            "expanded_url": "http://metasleuth.io",
+            "url": "https://t.co/cosFbNbz0F",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 776,
+    "followersCount": 35487,
+    "following": true,
+    "friendsCount": 120,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 144,
+    "location": "",
+    "mediaCount": 373,
+    "name": "BlockSec MetaSleuth",
+    "normalFollowersCount": 35487,
+    "pinnedTweetIdsStr": [
+      "1772581575588549081"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1494250691686137860/1691555882",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1689133907063812096/aJmmyDrH_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "MetaSleuth",
+    "statusesCount": 920,
+    "translatorType": "none",
+    "url": "https://t.co/cosFbNbz0F",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [
+      {
+        "iconName": "IconBriefcaseStroke",
+        "id": 713,
+        "name": "Science & Technology"
+      }
+    ],
+    "professionalType": "Business",
+    "restId": "1619683607324262401"
+  },
+  "profileImageShape": "Circle",
+  "restId": "1494250691686137860",
+  "tipjarSettings": {}
+}

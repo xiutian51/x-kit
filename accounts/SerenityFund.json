@@ -1,0 +1,83 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxMzA0Mzg3NTI2NjY5MzkzOTIx",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Fri Sep 11 11:53:23 +0000 2020",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "Stablecoin Research. Alpha & Strategy. \n\nWeekly Alpha: https://t.co/dH19iPO3ib",
+    "entities": {
+      "description": {
+        "urls": [
+          {
+            "display_url": "serenityresearch.substack.com",
+            "expanded_url": "http://serenityresearch.substack.com",
+            "url": "https://t.co/dH19iPO3ib",
+            "indices": [
+              55,
+              78
+            ]
+          }
+        ]
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "serenity-research.com",
+            "expanded_url": "https://www.serenity-research.com/",
+            "url": "https://t.co/UUhVhU2my2",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 449,
+    "followersCount": 8304,
+    "following": true,
+    "friendsCount": 736,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 174,
+    "location": "",
+    "mediaCount": 868,
+    "name": "The Serenity Research",
+    "normalFollowersCount": 8304,
+    "pinnedTweetIdsStr": [
+      "1923702690682450061"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1304387526669393921/1747481513",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1538817493745401856/1sSmQKu4_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "SerenityFund",
+    "statusesCount": 3235,
+    "translatorType": "none",
+    "url": "https://t.co/UUhVhU2my2",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [
+      {
+        "iconName": "IconBriefcaseStroke",
+        "id": 1067,
+        "name": "Researcher"
+      }
+    ],
+    "professionalType": "Business",
+    "restId": "1636764959085559811"
+  },
+  "profileImageShape": "Circle",
+  "restId": "1304387526669393921",
+  "tipjarSettings": {}
+}

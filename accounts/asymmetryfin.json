@@ -1,0 +1,63 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNjEzNjI5OTg4NjA3MjI5OTUy",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Thu Jan 12 20:12:51 +0000 2023",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "USDaf: #1 for borrowing against BTC / Stablecoins.\n\nCustomizable FIXED interest rates. \n\nNext-gen Liquity v2 immutable tech.\n\n@SunbeamMoney / @DegenBoxAF\n\n$ASF",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "linktr.ee/asymmetryfin",
+            "expanded_url": "https://linktr.ee/asymmetryfin",
+            "url": "https://t.co/nOZoeKSWzc",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 5600,
+    "followersCount": 32821,
+    "following": true,
+    "friendsCount": 523,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 139,
+    "location": "gmultiply",
+    "mediaCount": 1459,
+    "name": "Asymmetry",
+    "normalFollowersCount": 32821,
+    "pinnedTweetIdsStr": [
+      "1983941015074664637"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1613629988607229952/1756994408",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1712570432610541568/6JCopwf4_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "asymmetryfin",
+    "statusesCount": 2913,
+    "translatorType": "none",
+    "url": "https://t.co/nOZoeKSWzc",
+    "verified": false,
+    "verifiedType": "Business",
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "profileImageShape": "Square",
+  "restId": "1613629988607229952",
+  "tipjarSettings": {}
+}

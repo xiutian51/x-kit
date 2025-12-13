@@ -1,0 +1,47 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNzA2NTE0MjE1MTg2NjA4MTI4",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Tue Sep 26 03:41:32 +0000 2023",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "Trenches for a decade.\nRoad to 8 figs.\nALPHA.",
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 2669,
+    "followersCount": 5380,
+    "following": true,
+    "friendsCount": 132,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 57,
+    "location": "on-chain",
+    "mediaCount": 0,
+    "name": "Singularity 👾",
+    "normalFollowersCount": 5380,
+    "pinnedTweetIdsStr": [
+      "1928164608541335637"
+    ],
+    "possiblySensitive": false,
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1956017200218955776/I2iRjhhC_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "Singularity_OA",
+    "statusesCount": 59,
+    "translatorType": "none",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "profileImageShape": "Circle",
+  "restId": "1706514215186608128",
+  "tipjarSettings": {}
+}

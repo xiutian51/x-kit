@@ -1,0 +1,72 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNzMxMzAyMTMyMzYyNzYwMTky",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": false,
+    "canMediaTag": true,
+    "createdAt": "Sun Dec 03 13:21:05 +0000 2023",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "Powered by Polygon CDK & Celestia DA & Lumoz RaaS. \nCommunity Power.\nRT ≠ Endorsement.\n\nTG:https://t.co/evCVLnAWLY",
+    "entities": {
+      "description": {
+        "urls": [
+          {
+            "display_url": "t.me/zkfaircommunity",
+            "expanded_url": "https://t.me/zkfaircommunity",
+            "url": "https://t.co/evCVLnAWLY",
+            "indices": [
+              91,
+              114
+            ]
+          }
+        ]
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "zkfair.io",
+            "expanded_url": "https://zkfair.io/",
+            "url": "https://t.co/dgaobjkMGL",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 4521,
+    "followersCount": 236963,
+    "following": true,
+    "friendsCount": 23,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 216,
+    "location": "Community",
+    "mediaCount": 88,
+    "name": "ZKFair Community",
+    "normalFollowersCount": 236963,
+    "pinnedTweetIdsStr": [
+      "1744947719406580081"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1731302132362760192/1702018467",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1733011886755454976/r8A3J3kf_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "ZKFCommunity",
+    "statusesCount": 742,
+    "translatorType": "none",
+    "url": "https://t.co/dgaobjkMGL",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "profileImageShape": "Circle",
+  "restId": "1731302132362760192",
+  "tipjarSettings": {}
+}

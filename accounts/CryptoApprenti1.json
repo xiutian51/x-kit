@@ -1,0 +1,84 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxMzQ2MjQzNDcwMTk4MDA1NzYx",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Mon Jan 04 23:53:59 +0000 2021",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "Founder of Block Infinity Fund, Poker player, TraderChinese whale, @drhashclub, 新人首选 #OKX，安全简单: https://t.co/447DQJdoWj",
+    "entities": {
+      "description": {
+        "urls": [
+          {
+            "display_url": "reurl.cc/Dq1A4e",
+            "expanded_url": "http://reurl.cc/Dq1A4e",
+            "url": "https://t.co/447DQJdoWj",
+            "indices": [
+              96,
+              119
+            ]
+          }
+        ]
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "linktr.ee/drhash888",
+            "expanded_url": "https://linktr.ee/drhash888",
+            "url": "https://t.co/9DQIT2s7Gt",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 2352,
+    "followersCount": 129176,
+    "following": true,
+    "friendsCount": 1172,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 1245,
+    "location": "t.me/DrHashCall",
+    "mediaCount": 3815,
+    "name": "Dr.Hash“Wesley”",
+    "normalFollowersCount": 129176,
+    "pinnedTweetIdsStr": [
+      "1780225093987455444"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1346243470198005761/1714688183",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1773897198918651904/aSDYiSAb_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "CryptoApprenti1",
+    "statusesCount": 10655,
+    "translatorType": "none",
+    "url": "https://t.co/9DQIT2s7Gt",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [
+      {
+        "iconName": "IconBriefcaseStroke",
+        "id": 192,
+        "name": "Financial Services"
+      }
+    ],
+    "professionalType": "Creator",
+    "restId": "1588501552847024128"
+  },
+  "profileImageShape": "Circle",
+  "restId": "1346243470198005761",
+  "superFollowEligible": true,
+  "tipjarSettings": {}
+}

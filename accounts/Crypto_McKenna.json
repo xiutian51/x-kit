@@ -1,0 +1,62 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjo5NDg5NzQ4MDE3MzcxMzQwODA=",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": false,
+    "createdAt": "Thu Jan 04 17:49:58 +0000 2018",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "Managing Partner at @Arete_xyz",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "aretecapital.xyz",
+            "expanded_url": "https://www.aretecapital.xyz/",
+            "url": "https://t.co/DWJqTHMoaF",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 40427,
+    "followersCount": 103614,
+    "following": true,
+    "friendsCount": 2125,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 2597,
+    "location": "Saxony ",
+    "mediaCount": 2638,
+    "name": "McKenna",
+    "normalFollowersCount": 103614,
+    "pinnedTweetIdsStr": [
+      "1978095055366676731"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/948974801737134080/1752709578",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1977276369307680771/vU7hpm3e_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "Crypto_McKenna",
+    "statusesCount": 10916,
+    "translatorType": "none",
+    "url": "https://t.co/DWJqTHMoaF",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "profileImageShape": "Circle",
+  "restId": "948974801737134080",
+  "tipjarSettings": {}
+}

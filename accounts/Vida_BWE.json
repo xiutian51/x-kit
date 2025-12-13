@@ -1,0 +1,58 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNDU5OTAwMTI0NTc5MzY0ODY1",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": false,
+    "createdAt": "Sun Nov 14 15:05:07 +0000 2021",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "pretending to be semi-retired but secretly grinding prop trading firm founder",
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 2941,
+    "followersCount": 67364,
+    "following": true,
+    "friendsCount": 798,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 1435,
+    "location": "The age of cryptic discovery",
+    "mediaCount": 81,
+    "name": "Vida",
+    "normalFollowersCount": 67364,
+    "pinnedTweetIdsStr": [],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1459900124579364865/1698496248",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1459900359321997314/gygXyRTu_normal.jpg",
+    "profileInterstitialType": "",
+    "_protected": true,
+    "screenName": "Vida_BWE",
+    "statusesCount": 913,
+    "translatorType": "none",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [
+      {
+        "iconName": "IconBriefcaseStroke",
+        "id": 958,
+        "name": "Entrepreneur"
+      }
+    ],
+    "professionalType": "Creator",
+    "restId": "1590988905108889601"
+  },
+  "profileImageShape": "Circle",
+  "restId": "1459900124579364865",
+  "tipjarSettings": {}
+}

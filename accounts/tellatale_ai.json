@@ -1,0 +1,62 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxODk3NTI1NzU5MzUyNDcxNTUy",
+  "isBlueVerified": false,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Thu Mar 06 05:52:59 +0000 2025",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "The world's 1st AI agent for short video & film production, built on @bnbchain exclusively.\nCA: 0x996D1b997203a024E205069a304161ba618d1c61\nTiktok: @ tellataleai",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "tellatale.ai",
+            "expanded_url": "http://tellatale.ai",
+            "url": "https://t.co/aGCgC5CAd2",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 9,
+    "followersCount": 6014,
+    "following": true,
+    "friendsCount": 2,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 26,
+    "location": "",
+    "mediaCount": 4413,
+    "name": "Tell A Tale",
+    "normalFollowersCount": 6014,
+    "pinnedTweetIdsStr": [
+      "1902788365029957774"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1897525759352471552/1741329732",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1898308886970654720/s6lVR0Bf_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "tellatale_ai",
+    "statusesCount": 4461,
+    "translatorType": "none",
+    "url": "https://t.co/aGCgC5CAd2",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "profileImageShape": "Circle",
+  "restId": "1897525759352471552",
+  "tipjarSettings": {}
+}

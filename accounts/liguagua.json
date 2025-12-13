@@ -1,0 +1,45 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoyMzEyOTIxMTcy",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": false,
+    "canMediaTag": true,
+    "createdAt": "Mon Jan 27 03:22:14 +0000 2014",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "",
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 225,
+    "followersCount": 7200,
+    "following": true,
+    "friendsCount": 369,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 293,
+    "location": "",
+    "mediaCount": 64,
+    "name": "瓜哥",
+    "normalFollowersCount": 7200,
+    "pinnedTweetIdsStr": [],
+    "possiblySensitive": false,
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1481276414674362369/N47Q7ghr_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "liguagua",
+    "statusesCount": 532,
+    "translatorType": "none",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "profileImageShape": "Circle",
+  "restId": "2312921172",
+  "tipjarSettings": {}
+}

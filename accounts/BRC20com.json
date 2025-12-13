@@ -1,0 +1,72 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNzIzMDUwNzQ0MDg3OTkwMjcy",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": false,
+    "canMediaTag": true,
+    "createdAt": "Fri Nov 10 18:52:11 +0000 2023",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "The first BRC20 infrastructure project, powered by the $COM BRC20 token.   Trade $.COM now: https://t.co/tOBmOClYg5",
+    "entities": {
+      "description": {
+        "urls": [
+          {
+            "display_url": "unisat.io/market/brc20?t…",
+            "expanded_url": "https://unisat.io/market/brc20?tick=.com",
+            "url": "https://t.co/tOBmOClYg5",
+            "indices": [
+              92,
+              115
+            ]
+          }
+        ]
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "brc20.com",
+            "expanded_url": "https://brc20.com",
+            "url": "https://t.co/IasZxqPQrf",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 152,
+    "followersCount": 37149,
+    "following": true,
+    "friendsCount": 11,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 237,
+    "location": "https://brc20.com",
+    "mediaCount": 74,
+    "name": "BRC20.com",
+    "normalFollowersCount": 37149,
+    "pinnedTweetIdsStr": [
+      "1745477227636982253"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1723050744087990272/1702622014",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1724489191365513216/_rdHkmUg_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "BRC20com",
+    "statusesCount": 238,
+    "translatorType": "none",
+    "url": "https://t.co/IasZxqPQrf",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "profileImageShape": "Circle",
+  "restId": "1723050744087990272",
+  "tipjarSettings": {}
+}

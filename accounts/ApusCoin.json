@@ -1,0 +1,72 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNTIyOTc1MDUwMDg0ODUxNzEy",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Sat May 07 16:22:10 +0000 2022",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "💌 - $APU is the coin for all frens 📣 - https://t.co/8JFrUKXeyG",
+    "entities": {
+      "description": {
+        "urls": [
+          {
+            "display_url": "t.me/apuclub",
+            "expanded_url": "https://t.me/apuclub",
+            "url": "https://t.co/8JFrUKXeyG",
+            "indices": [
+              39,
+              62
+            ]
+          }
+        ]
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "apu.io",
+            "expanded_url": "http://apu.io",
+            "url": "https://t.co/txH7ZN6LV1",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 11813,
+    "followersCount": 47995,
+    "following": true,
+    "friendsCount": 455,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 158,
+    "location": "🫂💌",
+    "mediaCount": 1646,
+    "name": "Apu Apustaja",
+    "normalFollowersCount": 47995,
+    "pinnedTweetIdsStr": [
+      "1995567907078656469"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1522975050084851712/1739399123",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1771272678562824193/ebi-vPeE_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "ApusCoin",
+    "statusesCount": 2087,
+    "translatorType": "none",
+    "url": "https://t.co/txH7ZN6LV1",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "profileImageShape": "Circle",
+  "restId": "1522975050084851712",
+  "tipjarSettings": {}
+}

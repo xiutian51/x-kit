@@ -1,0 +1,59 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxMDA0MDIwNTM1NjQxMDU5MzI4",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": false,
+    "createdAt": "Tue Jun 05 15:22:04 +0000 2018",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "",
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 11258,
+    "followersCount": 102472,
+    "following": true,
+    "friendsCount": 2351,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 2506,
+    "location": "",
+    "mediaCount": 325,
+    "name": "冰蛙",
+    "normalFollowersCount": 102472,
+    "pinnedTweetIdsStr": [
+      "1966403000118947942"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1004020535641059328/1764605181",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1546704581815463937/fn14Lcd-_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "Ice_Frog666666",
+    "statusesCount": 11300,
+    "translatorType": "none",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [
+      {
+        "iconName": "IconBriefcaseStroke",
+        "id": 192,
+        "name": "Financial Services"
+      }
+    ],
+    "professionalType": "Creator",
+    "restId": "1546705214337519616"
+  },
+  "profileImageShape": "Circle",
+  "restId": "1004020535641059328",
+  "tipjarSettings": {}
+}

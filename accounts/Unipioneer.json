@@ -1,0 +1,94 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {
+    "label": {
+      "url": {
+        "url": "https://twitter.com/gmgnai",
+        "urlType": "DeepLink"
+      },
+      "badge": {
+        "url": "https://pbs.twimg.com/profile_images/1998601173205659657/8noZT-3I_bigger.jpg"
+      },
+      "description": "GMGN.Ai",
+      "userLabelType": "BusinessLabel",
+      "userLabelDisplayType": "Badge"
+    }
+  },
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxMjk1MTg2MzU4NzQzMzM5MDEx",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": false,
+    "createdAt": "Mon Aug 17 02:31:10 +0000 2020",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "meme degen Founder of 985 community Founder of @doobroCN 不要对短期的收益过于敏感，不要对长期的收益缺乏想象\nhttps://t.co/EL7FF2N1Wa",
+    "entities": {
+      "description": {
+        "urls": [
+          {
+            "display_url": "gmgn.ai/?ref=MBQmj7eo",
+            "expanded_url": "https://gmgn.ai/?ref=MBQmj7eo",
+            "url": "https://t.co/EL7FF2N1Wa",
+            "indices": [
+              83,
+              106
+            ]
+          }
+        ]
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "opensea.io/0xuezhang",
+            "expanded_url": "https://opensea.io/0xuezhang",
+            "url": "https://t.co/VMPsgWBH82",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 1557,
+    "followersCount": 48873,
+    "following": true,
+    "friendsCount": 4570,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 845,
+    "location": "",
+    "mediaCount": 707,
+    "name": "0xuezhang|985.eth",
+    "normalFollowersCount": 48873,
+    "pinnedTweetIdsStr": [],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1295186358743339011/1651608521",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1701007591583916032/VxdX5iTX_normal.png",
+    "profileInterstitialType": "",
+    "screenName": "Unipioneer",
+    "statusesCount": 3599,
+    "translatorType": "none",
+    "url": "https://t.co/VMPsgWBH82",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [
+      {
+        "iconName": "IconBriefcaseStroke",
+        "id": 1009,
+        "name": "Community"
+      }
+    ],
+    "professionalType": "Creator",
+    "restId": "1478499281401090049"
+  },
+  "profileImageShape": "Circle",
+  "restId": "1295186358743339011",
+  "tipjarSettings": {}
+}

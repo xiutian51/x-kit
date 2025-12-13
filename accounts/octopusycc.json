@@ -1,0 +1,88 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {
+    "label": {
+      "url": {
+        "url": "https://twitter.com/GoKiteAI",
+        "urlType": "DeepLink"
+      },
+      "badge": {
+        "url": "https://pbs.twimg.com/profile_images/1962781271978815488/07fQQARS_bigger.jpg"
+      },
+      "description": "KITE AI",
+      "userLabelType": "BusinessLabel",
+      "userLabelDisplayType": "Badge"
+    }
+  },
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjozMTg5OTQ2MjEy",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": false,
+    "createdAt": "Sat May 09 16:59:23 +0000 2015",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "保护韭菜的大老师｜兔八哥｜exVC ｜做鸭子的好对手 @GreeksLive｜",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "bubbleseek.ai",
+            "expanded_url": "http://bubbleseek.ai",
+            "url": "https://t.co/181XVc8z8I",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 9811,
+    "followersCount": 28830,
+    "following": true,
+    "friendsCount": 2054,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 582,
+    "location": "新加坡",
+    "mediaCount": 1252,
+    "name": "大老师Bugsbunny",
+    "normalFollowersCount": 28830,
+    "pinnedTweetIdsStr": [],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/3189946212/1671700425",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1656730805648121856/M80xGVh0_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "octopusycc",
+    "statusesCount": 10116,
+    "translatorType": "none",
+    "url": "https://t.co/181XVc8z8I",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [
+      {
+        "iconName": "IconBriefcaseStroke",
+        "id": 192,
+        "name": "Financial Services"
+      }
+    ],
+    "professionalType": "Creator",
+    "restId": "1481963627515383810"
+  },
+  "profileImageShape": "Circle",
+  "restId": "3189946212",
+  "superFollowEligible": true,
+  "tipjarSettings": {
+    "ethereumHandle": "0xa00Dc6B0611F828f22e55351b464b0f9EEdF3637",
+    "isEnabled": true
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxMzYwMTEwMjY0Mjg5MzU3ODI3",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": false,
+    "createdAt": "Fri Feb 12 06:16:15 +0000 2021",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "https://t.co/8UXXg1Ri6w 10x Idea Guy. Shadow co-founder Ai16z",
+    "entities": {
+      "description": {
+        "urls": [
+          {
+            "display_url": "professorskeleton.substack.com",
+            "expanded_url": "https://professorskeleton.substack.com/",
+            "url": "https://t.co/8UXXg1Ri6w",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 114122,
+    "followersCount": 32230,
+    "following": true,
+    "friendsCount": 2002,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 239,
+    "location": "",
+    "mediaCount": 3917,
+    "name": "Skely",
+    "normalFollowersCount": 32230,
+    "pinnedTweetIdsStr": [
+      "1938692563575153101"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1360110264289357827/1683003025",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1880088945674919936/y9fjO4QB_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "123skely",
+    "statusesCount": 28780,
+    "translatorType": "none",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "profileImageShape": "Circle",
+  "restId": "1360110264289357827",
+  "tipjarSettings": {
+    "isEnabled": true
+  }
+}

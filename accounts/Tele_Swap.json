@@ -1,0 +1,67 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNTc3NzY1ODc0Nzg1OTg4NjA5",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Wed Oct 05 21:03:31 +0000 2022",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "⚡ Decentralized Bitcoin Bridge\n🪙 $TST = TeleSwap Token",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "teleswap.xyz",
+            "expanded_url": "https://teleswap.xyz/",
+            "url": "https://t.co/nQUoJEBbbm",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 2732,
+    "followersCount": 44362,
+    "following": true,
+    "friendsCount": 145,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 144,
+    "location": "Bitcoin",
+    "mediaCount": 823,
+    "name": "TeleSwap",
+    "normalFollowersCount": 44362,
+    "pinnedTweetIdsStr": [
+      "1972744499064684913"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1577765874785988609/1738025189",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1891914771219509248/S3Lb82k4_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "Tele_Swap",
+    "statusesCount": 2440,
+    "translatorType": "none",
+    "url": "https://t.co/nQUoJEBbbm",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [],
+    "professionalType": "Business",
+    "restId": "1629253679835643904"
+  },
+  "profileImageShape": "Circle",
+  "restId": "1577765874785988609",
+  "tipjarSettings": {}
+}

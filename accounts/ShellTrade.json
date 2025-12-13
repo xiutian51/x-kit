@@ -1,0 +1,81 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNzM0OTQyMDUxMjQ0ODY3NTg0",
+  "isBlueVerified": false,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Wed Dec 13 14:23:21 +0000 2023",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "Bridging #Solana and #BRC20\n🟣↔️🟠\nBoosting the value flow between #Sol and #Bitcoin \n\nDc: https://t.co/f8KWmxHUjD\nTg: https://t.co/CVVyHyuJBZ",
+    "entities": {
+      "description": {
+        "urls": [
+          {
+            "display_url": "discord.com/invite/6duXsgV…",
+            "expanded_url": "https://discord.com/invite/6duXsgVHnF",
+            "url": "https://t.co/f8KWmxHUjD",
+            "indices": [
+              89,
+              112
+            ]
+          },
+          {
+            "display_url": "t.me/shell_trade",
+            "expanded_url": "https://t.me/shell_trade",
+            "url": "https://t.co/CVVyHyuJBZ",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "shell.trade",
+            "expanded_url": "https://shell.trade/",
+            "url": "https://t.co/SoodZ3c1j3",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 140,
+    "followersCount": 15699,
+    "following": true,
+    "friendsCount": 40,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 65,
+    "location": "Chains",
+    "mediaCount": 117,
+    "name": "SHELL (💜, 🧡)",
+    "normalFollowersCount": 15699,
+    "pinnedTweetIdsStr": [
+      "1777190277222175171"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1734942051244867584/1703296331",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1736872109551345664/haiGtVIo_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "ShellTrade",
+    "statusesCount": 353,
+    "translatorType": "none",
+    "url": "https://t.co/SoodZ3c1j3",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "profileImageShape": "Circle",
+  "restId": "1734942051244867584",
+  "tipjarSettings": {}
+}

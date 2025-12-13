@@ -1,0 +1,74 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjo3ODc1NjQ2NjE2ODgzMjQwOTY=",
+  "isBlueVerified": false,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Sun Oct 16 08:03:42 +0000 2016",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "🦄 Founder @BuidlerDAO | Passionate about product & tokenomics | Ex-@AlibabaGroup | @sjtu1896 & @Yale Alum",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "buidlerdao.xyz",
+            "expanded_url": "https://buidlerdao.xyz/",
+            "url": "https://t.co/lDp9sP1WSY",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 2178,
+    "followersCount": 6089,
+    "following": true,
+    "friendsCount": 1156,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 87,
+    "location": "New York",
+    "mediaCount": 37,
+    "name": "Niels",
+    "normalFollowersCount": 6089,
+    "pinnedTweetIdsStr": [],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/787564661688324096/1652782863",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1926916760512446466/5RP2-PbI_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "CryptoNiels27",
+    "statusesCount": 463,
+    "translatorType": "none",
+    "url": "https://t.co/lDp9sP1WSY",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [
+      {
+        "iconName": "IconBriefcaseStroke",
+        "id": 1094,
+        "name": "Blockchain"
+      }
+    ],
+    "professionalType": "Business",
+    "restId": "1496120755788353541"
+  },
+  "profileImageShape": "Circle",
+  "restId": "787564661688324096",
+  "tipjarSettings": {
+    "ethereumHandle": "0x19582b8EcAcebB0DC2b91B3Df0C0CCd5f779D0A0",
+    "isEnabled": true
+  }
+}

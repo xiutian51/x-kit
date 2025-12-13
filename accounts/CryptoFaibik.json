@@ -1,0 +1,71 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxMDUyNzU2NTY0NDU5OTA1MDI1",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": false,
+    "createdAt": "Thu Oct 18 03:01:39 +0000 2018",
+    "defaultProfile": false,
+    "defaultProfileImage": false,
+    "description": "Full-time Crypto Trader since 2017 🐺",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "t.me/CryptoCove",
+            "expanded_url": "https://t.me/CryptoCove",
+            "url": "https://t.co/grUdGnDXH5",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 10677,
+    "followersCount": 109193,
+    "following": true,
+    "friendsCount": 22,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 1225,
+    "location": "",
+    "mediaCount": 9506,
+    "name": "Captain Faibik 🐺",
+    "normalFollowersCount": 109193,
+    "pinnedTweetIdsStr": [
+      "1980510898923164103"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1052756564459905025/1595649361",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1713791746575048704/HGVZD5Eo_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "CryptoFaibik",
+    "statusesCount": 10497,
+    "translatorType": "none",
+    "url": "https://t.co/grUdGnDXH5",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [],
+    "professionalType": "Creator",
+    "restId": "1683590811995500545"
+  },
+  "profileImageShape": "Circle",
+  "restId": "1052756564459905025",
+  "tipjarSettings": {
+    "bitcoinHandle": "bc1qtk6ncrw8c29jwqsaq6qfqr5g6fe5yhps0r2etv",
+    "ethereumHandle": "0xc39131B22e4fb2e530e6c1542BA5C244cA75C43D",
+    "isEnabled": false
+  }
+}

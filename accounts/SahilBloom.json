@@ -1,0 +1,76 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjozMTI2ODE5NTM=",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": false,
+    "createdAt": "Tue Jun 07 14:14:17 +0000 2011",
+    "defaultProfile": false,
+    "defaultProfileImage": false,
+    "description": "NYT Bestselling Author of The 5 Types of Wealth. Gave up a grand slam on ESPN in 2012 and still waiting for it to land. Order my book below 👇",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "the5typesofwealth.com",
+            "expanded_url": "https://www.the5typesofwealth.com",
+            "url": "https://t.co/exGtZduEvq",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 156409,
+    "followersCount": 1133121,
+    "following": true,
+    "friendsCount": 328,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 16801,
+    "location": "Boston, MA",
+    "mediaCount": 5145,
+    "name": "Sahil Bloom",
+    "normalFollowersCount": 1133121,
+    "pinnedTweetIdsStr": [
+      "1952377591517561081"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/312681953/1739539616",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1586859332104343552/V1HRpbP1_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "SahilBloom",
+    "statusesCount": 71681,
+    "translatorType": "none",
+    "url": "https://t.co/exGtZduEvq",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [
+      {
+        "iconName": "IconBriefcaseStroke",
+        "id": 957,
+        "name": "Author"
+      }
+    ],
+    "professionalType": "Business",
+    "restId": "1675186015294611456"
+  },
+  "profileImageShape": "Circle",
+  "restId": "312681953",
+  "tipjarSettings": {
+    "isEnabled": true,
+    "venmoHandle": "Sahil-Bloom"
+  }
+}

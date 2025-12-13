@@ -1,0 +1,76 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {
+    "label": {
+      "url": {
+        "url": "https://twitter.com/cosmos",
+        "urlType": "DeepLink"
+      },
+      "badge": {
+        "url": "https://pbs.twimg.com/profile_images/1983807442874929152/gO8dvfPE_bigger.png"
+      },
+      "description": "Cosmos - The Interchain ⚛️",
+      "userLabelType": "BusinessLabel",
+      "userLabelDisplayType": "Badge"
+    }
+  },
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxMDE5MTI2NDQwMjMzNjE1MzYx",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": false,
+    "canMediaTag": true,
+    "createdAt": "Tue Jul 17 07:47:32 +0000 2018",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "Interchain service provider in @Cosmos and home of ATOM",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "cosmos.network",
+            "expanded_url": "https://cosmos.network/",
+            "url": "https://t.co/bYa0uZLwxg",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 888,
+    "followersCount": 65184,
+    "following": true,
+    "friendsCount": 104,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 1016,
+    "location": "",
+    "mediaCount": 458,
+    "name": "Cosmos Hub ⚛️",
+    "normalFollowersCount": 65184,
+    "pinnedTweetIdsStr": [
+      "1960769365932171715"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1019126440233615361/1761811888",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1983808952254058496/NvAAC9B0_normal.png",
+    "profileInterstitialType": "",
+    "screenName": "cosmoshub",
+    "statusesCount": 2398,
+    "translatorType": "none",
+    "url": "https://t.co/bYa0uZLwxg",
+    "verified": false,
+    "verifiedType": "Business",
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "profileImageShape": "Square",
+  "restId": "1019126440233615361",
+  "tipjarSettings": {}
+}

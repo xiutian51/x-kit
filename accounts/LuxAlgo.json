@@ -1,0 +1,74 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxMjI1MjI2NTY0MjY4NDM3NTA1",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Thu Feb 06 01:16:00 +0000 2020",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "The #1 AI agent for backtesting trading strategies \nWorld's largest provider of trading indicators 📈",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "LuxAlgo.com",
+            "expanded_url": "http://LuxAlgo.com",
+            "url": "https://t.co/FhGv8xB69m",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 34664,
+    "followersCount": 109044,
+    "following": true,
+    "friendsCount": 342,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 981,
+    "location": "",
+    "mediaCount": 14867,
+    "name": "LuxAlgo",
+    "normalFollowersCount": 109044,
+    "pinnedTweetIdsStr": [
+      "1992948819038794125"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1225226564268437505/1761594242",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1872719571141951488/Wd4LnEpE_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "LuxAlgo",
+    "statusesCount": 22775,
+    "translatorType": "none",
+    "url": "https://t.co/FhGv8xB69m",
+    "verified": false,
+    "verifiedType": "Business",
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [
+      {
+        "iconName": "IconBriefcaseStroke",
+        "id": 715,
+        "name": "Software Company"
+      }
+    ],
+    "professionalType": "Business",
+    "restId": "1737597836454195697"
+  },
+  "profileImageShape": "Square",
+  "restId": "1225226564268437505",
+  "tipjarSettings": {}
+}

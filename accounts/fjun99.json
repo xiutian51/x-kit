@@ -1,0 +1,47 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxMjMwNjU0Mg==",
+  "isBlueVerified": false,
+  "legacy": {
+    "canDm": false,
+    "canMediaTag": false,
+    "createdAt": "Wed Jan 16 04:17:18 +0000 2008",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "I tweet about blockchain/web3 development, tools and best practices. @developer_dao @Uweb_web3",
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 2620,
+    "followersCount": 4643,
+    "following": true,
+    "friendsCount": 2237,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 153,
+    "location": "",
+    "mediaCount": 1300,
+    "name": "fangjun",
+    "normalFollowersCount": 4643,
+    "pinnedTweetIdsStr": [
+      "1799609285040804082"
+    ],
+    "possiblySensitive": false,
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1477453319773712384/A9SDAOWa_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "fjun99",
+    "statusesCount": 6369,
+    "translatorType": "none",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "profileImageShape": "Circle",
+  "restId": "12306542",
+  "tipjarSettings": {}
+}

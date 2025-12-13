@@ -1,0 +1,68 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxODYxNDIzMjcyMjAzODIxMDU3",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": false,
+    "createdAt": "Tue Nov 26 14:54:48 +0000 2024",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "Research AI 🔎📖 // ride the wave 🌊 // prev: PayPal, INSEAD, Tsinghua",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "0xAxC.substack.com/subscribe",
+            "expanded_url": "http://0xAxC.substack.com/subscribe",
+            "url": "https://t.co/0nkihOfYmq",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 2607,
+    "followedBy": true,
+    "followersCount": 660,
+    "following": true,
+    "friendsCount": 637,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 3,
+    "location": "",
+    "mediaCount": 26,
+    "name": "Alison💡",
+    "normalFollowersCount": 660,
+    "pinnedTweetIdsStr": [
+      "1882726837798986228"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1861423272203821057/1743060545",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1953494990916911104/JIxCBGeu_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "0xAxC",
+    "statusesCount": 374,
+    "translatorType": "none",
+    "url": "https://t.co/0nkihOfYmq",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [],
+    "professionalType": "Creator",
+    "restId": "1876966310640513285"
+  },
+  "profileImageShape": "Circle",
+  "restId": "1861423272203821057",
+  "tipjarSettings": {}
+}

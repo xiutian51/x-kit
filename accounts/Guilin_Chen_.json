@@ -1,0 +1,75 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNDU0NDYwNjIzMjQ5NTY3NzU0",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": false,
+    "createdAt": "Sat Oct 30 14:50:21 +0000 2021",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "加入私域请查看置顶帖：https://t.co/IyEQVwF7GS\n\n推文为交易思维记录，不构成投资建议，切勿跟单\n\n三亿用户的选择，启程web3，就在  \n#Binance ：https://t.co/orPVAi6uoe",
+    "entities": {
+      "description": {
+        "urls": [
+          {
+            "display_url": "x.com/Guilin_Chen_/s…",
+            "expanded_url": "https://x.com/Guilin_Chen_/status/1981161697105891337?t=qxUfu4s8",
+            "url": "https://t.co/IyEQVwF7GS",
+            "indices": [
+              11,
+              34
+            ]
+          },
+          {
+            "display_url": "binance.com/zh-CN",
+            "expanded_url": "https://www.binance.com/zh-CN",
+            "url": "https://t.co/orPVAi6uoe",
+            "indices": [
+              90,
+              113
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 23420,
+    "followersCount": 37263,
+    "following": true,
+    "friendsCount": 189,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 650,
+    "location": "",
+    "mediaCount": 2819,
+    "name": "陈桂林",
+    "normalFollowersCount": 37263,
+    "pinnedTweetIdsStr": [
+      "1981161697105891337"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1454460623249567754/1724550573",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1828916221057871873/hFY-eURZ_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "Guilin_Chen_",
+    "statusesCount": 23057,
+    "translatorType": "none",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [],
+    "professionalType": "Creator",
+    "restId": "1454727557882941447"
+  },
+  "profileImageShape": "Circle",
+  "restId": "1454460623249567754",
+  "tipjarSettings": {
+    "ethereumHandle": "0xa66111d300d0424d4398c88f42203629ffc12499",
+    "isEnabled": true
+  }
+}

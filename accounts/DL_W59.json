@@ -1,0 +1,61 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNDc4MjY2NzczNjMxODczMDI0",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Tue Jan 04 07:27:38 +0000 2022",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "宏观  链上数据的结合把握趋势周期 #Bitcoin 20万见；均不构成投资建议 #Binance 你的数字货币购买/交易平台，就是 #币安👉 https://t.co/IOMFBmSDLE",
+    "entities": {
+      "description": {
+        "urls": [
+          {
+            "display_url": "Binance.com/register?ref=3…",
+            "expanded_url": "http://Binance.com/register?ref=37527884",
+            "url": "https://t.co/IOMFBmSDLE",
+            "indices": [
+              72,
+              95
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 60191,
+    "followersCount": 20844,
+    "following": true,
+    "friendsCount": 1341,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 546,
+    "location": "Hong Kong",
+    "mediaCount": 1019,
+    "name": "DC大于C |🧠SENT",
+    "normalFollowersCount": 20844,
+    "pinnedTweetIdsStr": [
+      "1860352005652259227"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1478266773631873024/1741335238",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1989556659472273413/nojaiQcX_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "DL_W59",
+    "statusesCount": 45416,
+    "translatorType": "none",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "profileImageShape": "Circle",
+  "restId": "1478266773631873024",
+  "tipjarSettings": {
+    "ethereumHandle": "0xe79af92a9497bb329f7f1eaf3e85beecf07b5174",
+    "isEnabled": true
+  }
+}

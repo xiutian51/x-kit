@@ -1,0 +1,45 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNTg2NjEyOTk3MDQ4MjU4NTYx",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Sun Oct 30 06:56:51 +0000 2022",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "原微信公众号：社区君聊投资。\n转战twitter聊聊天",
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 216,
+    "followersCount": 4699,
+    "following": true,
+    "friendsCount": 424,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 84,
+    "location": "",
+    "mediaCount": 751,
+    "name": "社Q君crypto",
+    "normalFollowersCount": 4699,
+    "pinnedTweetIdsStr": [],
+    "possiblySensitive": false,
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1586620758532313088/8p9x7QgK_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "shequjuncrypto",
+    "statusesCount": 2351,
+    "translatorType": "none",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "profileImageShape": "Circle",
+  "restId": "1586612997048258561",
+  "tipjarSettings": {}
+}

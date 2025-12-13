@@ -1,0 +1,81 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxMzk2NjgwMjkwOTc4NzgzMjQx",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Mon May 24 04:12:26 +0000 2021",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "白话区块链官方Twitter，微信公众号搜索“区块链”排第一，提供优质 #Web3 资讯及深度内容，非投资财务建议  https://t.co/kOTZkWq9v1\n #Blockchain #Crypto #NFT #DeFi",
+    "entities": {
+      "description": {
+        "urls": [
+          {
+            "display_url": "t.me/hellobtc_group",
+            "expanded_url": "http://t.me/hellobtc_group",
+            "url": "https://t.co/kOTZkWq9v1",
+            "indices": [
+              59,
+              82
+            ]
+          }
+        ]
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "hellobtc.com",
+            "expanded_url": "http://hellobtc.com",
+            "url": "https://t.co/QhQnugbZEv",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 196,
+    "followersCount": 6808,
+    "following": true,
+    "friendsCount": 600,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 158,
+    "location": "Los Gatos, CA",
+    "mediaCount": 1715,
+    "name": "白话区块链",
+    "normalFollowersCount": 6808,
+    "pinnedTweetIdsStr": [],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1396680290978783241/1651228455",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1465245115010916352/3VkMrTFm_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "HelloBTC365",
+    "statusesCount": 5240,
+    "translatorType": "none",
+    "url": "https://t.co/QhQnugbZEv",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [
+      {
+        "iconName": "IconBriefcaseStroke",
+        "id": 580,
+        "name": "Media & News Company"
+      }
+    ],
+    "professionalType": "Business",
+    "restId": "1514811560308342787"
+  },
+  "profileImageShape": "Circle",
+  "restId": "1396680290978783241",
+  "tipjarSettings": {}
+}

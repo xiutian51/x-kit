@@ -1,0 +1,46 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNzQwNTU5MTc4ODM2NjM5NzQ0",
+  "isBlueVerified": false,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": false,
+    "createdAt": "Fri Dec 29 02:23:52 +0000 2023",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "之前是个黄牛，后来茅台倒闭就跑来玩web3，平时会关注资本市场和web3的套利机会，公众号：新茅记套利。",
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 48,
+    "followedBy": true,
+    "followersCount": 24,
+    "following": true,
+    "friendsCount": 88,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 2,
+    "location": "",
+    "mediaCount": 14,
+    "name": "木叶",
+    "normalFollowersCount": 24,
+    "pinnedTweetIdsStr": [],
+    "possiblySensitive": false,
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1789510598398717952/qReWRb1d_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "sNlt8k3SI523798",
+    "statusesCount": 208,
+    "translatorType": "none",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "profileImageShape": "Circle",
+  "restId": "1740559178836639744",
+  "tipjarSettings": {}
+}

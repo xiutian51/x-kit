@@ -1,0 +1,54 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNTM1OTE4Mzc1NzcxNDU1NDg4",
+  "isBlueVerified": false,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Sun Jun 12 09:34:25 +0000 2022",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "|躺平|",
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 5,
+    "followedBy": true,
+    "followersCount": 60,
+    "following": true,
+    "friendsCount": 194,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 0,
+    "location": "heart",
+    "mediaCount": 0,
+    "name": "……",
+    "normalFollowersCount": 60,
+    "pinnedTweetIdsStr": [],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1535918375771455488/1656088505",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1911069025624272896/Ib7gQMBn_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "9527u_eth",
+    "statusesCount": 0,
+    "translatorType": "none",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [],
+    "professionalType": "Creator",
+    "restId": "1540067997003694080"
+  },
+  "profileImageShape": "Circle",
+  "restId": "1535918375771455488",
+  "tipjarSettings": {
+    "isEnabled": true
+  }
+}

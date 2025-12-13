@@ -1,0 +1,60 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNzAwNjAyNTU3NDg2NDkzNjk2",
+  "isBlueVerified": false,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Sat Sep 09 20:10:37 +0000 2023",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "The liquid restaking network",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "rio.network",
+            "expanded_url": "http://www.rio.network",
+            "url": "https://t.co/wRpQQWOUSV",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 0,
+    "followersCount": 9638,
+    "following": true,
+    "friendsCount": 0,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 139,
+    "location": "",
+    "mediaCount": 0,
+    "name": "Rio Network",
+    "normalFollowersCount": 9638,
+    "pinnedTweetIdsStr": [],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1700602557486493696/1697142202",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1712564636174733312/39339G2o_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "RioRestaking",
+    "statusesCount": 49,
+    "translatorType": "none",
+    "url": "https://t.co/wRpQQWOUSV",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "profileImageShape": "Circle",
+  "restId": "1700602557486493696",
+  "tipjarSettings": {}
+}

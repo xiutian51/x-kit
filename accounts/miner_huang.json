@@ -1,0 +1,53 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNjU5MTEyNzc2NTA4NTEwMjA5",
+  "isBlueVerified": false,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": false,
+    "createdAt": "Thu May 18 08:24:54 +0000 2023",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "",
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 3800,
+    "followersCount": 9291,
+    "following": true,
+    "friendsCount": 59,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 137,
+    "location": "",
+    "mediaCount": 352,
+    "name": "BTC老黄",
+    "normalFollowersCount": 9291,
+    "pinnedTweetIdsStr": [],
+    "possiblySensitive": false,
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1840677334426562560/Opt6m4Mr_normal.jpg",
+    "profileInterstitialType": "",
+    "_protected": true,
+    "screenName": "miner_huang",
+    "statusesCount": 1711,
+    "translatorType": "none",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [],
+    "professionalType": "Creator",
+    "restId": "1904140714575118790"
+  },
+  "profileImageShape": "Circle",
+  "restId": "1659112776508510209",
+  "tipjarSettings": {
+    "isEnabled": true
+  }
+}

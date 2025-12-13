@@ -1,0 +1,48 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNDY2MjUyNjE1NzEzMzY2MDI1",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": false,
+    "canMediaTag": true,
+    "createdAt": "Thu Dec 02 03:47:30 +0000 2021",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "Real name, no gimmicks. @blackwing_fi. prev @robinhoodapp @uwaterloo 🇨🇦🇵🇰",
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 2224,
+    "followersCount": 27046,
+    "following": true,
+    "friendsCount": 802,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 19,
+    "location": "",
+    "mediaCount": 76,
+    "name": "shahmeer 🐦‍⬛",
+    "normalFollowersCount": 27046,
+    "pinnedTweetIdsStr": [
+      "1765801444756644004"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1466252615713366025/1650709246",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1796286940175585280/sR44tMCH_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "shahmeernavid_",
+    "statusesCount": 799,
+    "translatorType": "none",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "profileImageShape": "Circle",
+  "restId": "1466252615713366025",
+  "tipjarSettings": {}
+}

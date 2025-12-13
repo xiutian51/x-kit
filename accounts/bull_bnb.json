@@ -1,0 +1,76 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxMjk3NTAzMjAyNDY0NzE4ODUw",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": false,
+    "createdAt": "Sun Aug 23 11:57:33 +0000 2020",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "Bulliever",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "linktr.ee/bull.bnb",
+            "expanded_url": "https://linktr.ee/bull.bnb",
+            "url": "https://t.co/K8TqKe4Zyh",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 54843,
+    "followersCount": 473204,
+    "following": true,
+    "friendsCount": 2454,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 1839,
+    "location": "",
+    "mediaCount": 5479,
+    "name": "BULL 牛",
+    "normalFollowersCount": 473204,
+    "pinnedTweetIdsStr": [
+      "1991542750584664338"
+    ],
+    "possiblySensitive": false,
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1998648605067108352/ynZ8FwBW_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "bull_bnb",
+    "statusesCount": 21775,
+    "translatorType": "none",
+    "url": "https://t.co/K8TqKe4Zyh",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [
+      {
+        "iconName": "IconBriefcaseStroke",
+        "id": 15,
+        "name": "Entertainment & Recreation"
+      }
+    ],
+    "professionalType": "Creator",
+    "restId": "1469156980963037184"
+  },
+  "profileImageShape": "Circle",
+  "restId": "1297503202464718850",
+  "superFollowEligible": true,
+  "tipjarSettings": {
+    "bitcoinHandle": "1Mw4c8P4ZeGkQUtyvLnZt9Fb7mAYTgCPJz",
+    "isEnabled": false
+  }
+}

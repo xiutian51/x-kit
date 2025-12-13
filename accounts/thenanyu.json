@@ -1,0 +1,75 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {
+    "label": {
+      "url": {
+        "url": "https://twitter.com/linear",
+        "urlType": "DeepLink"
+      },
+      "badge": {
+        "url": "https://pbs.twimg.com/profile_images/1882353118530224128/l8meBvMg_bigger.jpg"
+      },
+      "description": "Linear",
+      "userLabelType": "BusinessLabel",
+      "userLabelDisplayType": "Badge"
+    }
+  },
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNjk1MDM3MA==",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Fri Oct 24 14:54:08 +0000 2008",
+    "defaultProfile": false,
+    "defaultProfileImage": false,
+    "description": "head of product @linear",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "thenanyu.com",
+            "expanded_url": "https://thenanyu.com/",
+            "url": "https://t.co/VO4v5ZZbDv",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 15319,
+    "followersCount": 10866,
+    "following": true,
+    "friendsCount": 157,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 132,
+    "location": "The Internet",
+    "mediaCount": 354,
+    "name": "Nan Yu",
+    "normalFollowersCount": 10866,
+    "pinnedTweetIdsStr": [
+      "1884963324464361677"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/16950370/1754341536",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1285347878643183617/pBzFdCf6_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "thenanyu",
+    "statusesCount": 6930,
+    "translatorType": "none",
+    "url": "https://t.co/VO4v5ZZbDv",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "profileImageShape": "Circle",
+  "restId": "16950370",
+  "tipjarSettings": {}
+}

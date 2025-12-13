@@ -1,0 +1,73 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxMTQxMjY1Mzk3NDM5NTU3NjMy",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Wed Jun 19 08:44:09 +0000 2019",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "Trader, Investor, CFA Chaterholder \n\n牛市退休，熊市努力，事倍功半，繼續努力\n\n更多內容 👇",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "linktr.ee/jzinvest.xyz",
+            "expanded_url": "https://linktr.ee/jzinvest.xyz",
+            "url": "https://t.co/CYlqmv0ZD4",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 4047,
+    "followersCount": 18231,
+    "following": true,
+    "friendsCount": 525,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 260,
+    "location": "Taiwan",
+    "mediaCount": 1894,
+    "name": "JZ",
+    "normalFollowersCount": 18231,
+    "pinnedTweetIdsStr": [],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1141265397439557632/1665826650",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1867129816362946560/srjT1NL1_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "jzinvest_xyz",
+    "statusesCount": 5474,
+    "translatorType": "none",
+    "url": "https://t.co/CYlqmv0ZD4",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [
+      {
+        "iconName": "IconBriefcaseStroke",
+        "id": 958,
+        "name": "Entrepreneur"
+      }
+    ],
+    "professionalType": "Creator",
+    "restId": "1478430883413893123"
+  },
+  "profileImageShape": "Circle",
+  "restId": "1141265397439557632",
+  "tipjarSettings": {
+    "isEnabled": true
+  }
+}

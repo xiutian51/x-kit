@@ -1,0 +1,80 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {
+    "label": {
+      "url": {
+        "url": "https://twitter.com/JupiterExchange",
+        "urlType": "DeepLink"
+      },
+      "badge": {
+        "url": "https://pbs.twimg.com/profile_images/1944921381168099328/mVkHxhxy_bigger.jpg"
+      },
+      "description": "Jupiter (🐱, 🐐)",
+      "userLabelType": "BusinessLabel",
+      "userLabelDisplayType": "Badge"
+    }
+  },
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNzE5NDI5Ng==",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": false,
+    "canMediaTag": true,
+    "createdAt": "Wed Nov 05 18:26:45 +0000 2008",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "web4 chaotic neutral cat",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "meow.bio",
+            "expanded_url": "https://meow.bio",
+            "url": "https://t.co/ScsnFawsOS",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 15455,
+    "followersCount": 734056,
+    "following": true,
+    "friendsCount": 1464,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 6066,
+    "location": "",
+    "mediaCount": 380,
+    "name": "meow",
+    "normalFollowersCount": 734056,
+    "pinnedTweetIdsStr": [
+      "1997996543870415305"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/17194296/1738250739",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1914034055273742336/NvaIDKua_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "weremeow",
+    "statusesCount": 11517,
+    "translatorType": "none",
+    "url": "https://t.co/ScsnFawsOS",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [],
+    "professionalType": "Creator",
+    "restId": "1590593662383276032"
+  },
+  "profileImageShape": "Circle",
+  "restId": "17194296",
+  "tipjarSettings": {}
+}

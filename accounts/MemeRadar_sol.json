@@ -1,0 +1,72 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxODkzMzA5NjM5MjM4MDA4ODMy",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Sat Feb 22 14:39:40 +0000 2025",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "Dominate Your Memecoin Research in Just 10 Seconds！\nJoin MemeRadar Official TG Group：https://t.co/yV9zjWaFtu\nFounder：@0xjason_btc",
+    "entities": {
+      "description": {
+        "urls": [
+          {
+            "display_url": "t.me/MemeRadar_sol",
+            "expanded_url": "https://t.me/MemeRadar_sol",
+            "url": "https://t.co/yV9zjWaFtu",
+            "indices": [
+              85,
+              108
+            ]
+          }
+        ]
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "chromewebstore.google.com/detail/memerad…",
+            "expanded_url": "https://chromewebstore.google.com/detail/memeradar/nhildbfbblldjpmlhopajgbcfjcepcoe?authuser=2&hl=zh",
+            "url": "https://t.co/wrJU4sJlet",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 674,
+    "followersCount": 15969,
+    "following": true,
+    "friendsCount": 393,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 148,
+    "location": "China",
+    "mediaCount": 193,
+    "name": "MemeRadar",
+    "normalFollowersCount": 15969,
+    "pinnedTweetIdsStr": [
+      "1992828875600965981"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1893309639238008832/1752045885",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1896539611788173312/ecL219-n_normal.png",
+    "profileInterstitialType": "",
+    "screenName": "MemeRadar_sol",
+    "statusesCount": 602,
+    "translatorType": "none",
+    "url": "https://t.co/wrJU4sJlet",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "profileImageShape": "Circle",
+  "restId": "1893309639238008832",
+  "tipjarSettings": {}
+}

@@ -1,0 +1,62 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNDQwNDczMDA2NTc3MzU2ODA0",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": false,
+    "createdAt": "Wed Sep 22 00:28:36 +0000 2021",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "professional roundtripper | ultimate blockchain hunter & degen",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "t.me/cheatcoinerpla…",
+            "expanded_url": "https://t.me/cheatcoinerplayground",
+            "url": "https://t.co/HMZsru0uvO",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 15774,
+    "followersCount": 42864,
+    "following": true,
+    "friendsCount": 1159,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 634,
+    "location": "On Chain",
+    "mediaCount": 744,
+    "name": "cheatcoiner.eth",
+    "normalFollowersCount": 42864,
+    "pinnedTweetIdsStr": [
+      "1874248921637417193"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1440473006577356804/1691030842",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1920487074391597056/1ye8yLZ4_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "cheatcoiner",
+    "statusesCount": 5264,
+    "translatorType": "none",
+    "url": "https://t.co/HMZsru0uvO",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "profileImageShape": "Circle",
+  "restId": "1440473006577356804",
+  "tipjarSettings": {}
+}

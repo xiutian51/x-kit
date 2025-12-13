@@ -1,0 +1,79 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNTY3OTU4MzY1NjExMTE4NTky",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Thu Sep 08 19:29:48 +0000 2022",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "8年币圈工作室|3万本金-2000万| 专业新币 | 热点山寨 | 逻辑驱动 |免费反佣群：https://t.co/YXJGLJZMNb | TG DM：https://t.co/PikrsNFIL9",
+    "entities": {
+      "description": {
+        "urls": [
+          {
+            "display_url": "bit.ly/FX888888",
+            "expanded_url": "http://bit.ly/FX888888",
+            "url": "https://t.co/YXJGLJZMNb",
+            "indices": [
+              46,
+              69
+            ]
+          },
+          {
+            "display_url": "t.me/fengxun1",
+            "expanded_url": "https://t.me/fengxun1",
+            "url": "https://t.co/PikrsNFIL9",
+            "indices": [
+              78,
+              101
+            ]
+          }
+        ]
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "bit.ly/0xfengxun",
+            "expanded_url": "http://bit.ly/0xfengxun",
+            "url": "https://t.co/MAJutt99A6",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 92,
+    "followersCount": 24192,
+    "following": true,
+    "friendsCount": 941,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 431,
+    "location": "Hong Kong",
+    "mediaCount": 1147,
+    "name": "风寻",
+    "normalFollowersCount": 24192,
+    "pinnedTweetIdsStr": [],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1567958365611118592/1709807477",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1745254537513037824/yMz9JqNi_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "0xfengxun",
+    "statusesCount": 2459,
+    "translatorType": "none",
+    "url": "https://t.co/MAJutt99A6",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "profileImageShape": "Circle",
+  "restId": "1567958365611118592",
+  "tipjarSettings": {}
+}

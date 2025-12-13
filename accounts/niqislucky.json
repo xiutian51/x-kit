@@ -1,0 +1,66 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {
+    "label": {
+      "url": {
+        "url": "https://twitter.com/OneKeyHQ",
+        "urlType": "DeepLink"
+      },
+      "badge": {
+        "url": "https://pbs.twimg.com/profile_images/1874442595646230531/wphGtJMP_bigger.jpg"
+      },
+      "description": "OneKey",
+      "userLabelType": "BusinessLabel",
+      "userLabelDisplayType": "Badge"
+    }
+  },
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjo5MjgxMDE1Mzc1MDY3MzgxNzY=",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": false,
+    "createdAt": "Wed Nov 08 03:27:04 +0000 2017",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "心事浩茫连广宇，于无声处听惊雷 。",
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 15196,
+    "followersCount": 25032,
+    "following": true,
+    "friendsCount": 2284,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 380,
+    "location": "招财猫山洞",
+    "mediaCount": 1281,
+    "name": "niq",
+    "normalFollowersCount": 25032,
+    "pinnedTweetIdsStr": [],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/928101537506738176/1763776457",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1998628888709402624/Hik2tJ0c_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "niqislucky",
+    "statusesCount": 10400,
+    "translatorType": "none",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [],
+    "professionalType": "Creator",
+    "restId": "1505315813200433154"
+  },
+  "profileImageShape": "Circle",
+  "restId": "928101537506738176",
+  "tipjarSettings": {
+    "isEnabled": true
+  }
+}

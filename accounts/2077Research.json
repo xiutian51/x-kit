@@ -1,0 +1,62 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxODI2MDIyMzA2NzQ2OTI1MDU2",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": false,
+    "canMediaTag": true,
+    "createdAt": "Tue Aug 20 22:23:51 +0000 2024",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "Blockchain research 🔬 Deep dives and analyses surrounding the latest within Ethereum and the wider crypto landscape",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "research.2077.xyz",
+            "expanded_url": "http://research.2077.xyz",
+            "url": "https://t.co/fb7aIQaKAk",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 713,
+    "followersCount": 2347,
+    "following": true,
+    "friendsCount": 100,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 39,
+    "location": "",
+    "mediaCount": 149,
+    "name": "2077 Research",
+    "normalFollowersCount": 2347,
+    "pinnedTweetIdsStr": [
+      "1826072597362360640"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1826022306746925056/1724195593",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1826032692715978752/Nf0mHlAx_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "2077Research",
+    "statusesCount": 806,
+    "translatorType": "none",
+    "url": "https://t.co/fb7aIQaKAk",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "profileImageShape": "Circle",
+  "restId": "1826022306746925056",
+  "tipjarSettings": {}
+}

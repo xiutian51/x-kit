@@ -1,0 +1,65 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxODY2NzIxMTgyODAxODU4NTYx",
+  "isBlueVerified": false,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Wed Dec 11 05:46:48 +0000 2024",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "The Intelligent Copilot for @solana $NEUR 3N2ETvNpPNAxhcaXgkhKoY1yDnQfs41Wnxsx5qNJpump",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "neur.studio",
+            "expanded_url": "http://neur.studio",
+            "url": "https://t.co/pGKrsy11JG",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 1147,
+    "followersCount": 26542,
+    "following": true,
+    "friendsCount": 92,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 337,
+    "location": "",
+    "mediaCount": 71,
+    "name": "neur",
+    "normalFollowersCount": 26542,
+    "pinnedTweetIdsStr": [],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1866721182801858561/1746372112",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1867441064669589504/sUbo5tgR_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "neur_sh",
+    "statusesCount": 359,
+    "translatorType": "none",
+    "url": "https://t.co/pGKrsy11JG",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [],
+    "professionalType": "Business",
+    "restId": "1866736843573825690"
+  },
+  "profileImageShape": "Circle",
+  "restId": "1866721182801858561",
+  "tipjarSettings": {}
+}

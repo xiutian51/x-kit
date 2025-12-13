@@ -1,0 +1,72 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxMzk2Mjk3ODkxMTQ1MTU4NjU2",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Sun May 23 02:52:29 +0000 2021",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "137labs 研究员，  币修课",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "x.com/137LabsCN",
+            "expanded_url": "https://x.com/137LabsCN",
+            "url": "https://t.co/J4xeDQdxe6",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 615,
+    "followersCount": 32790,
+    "following": true,
+    "friendsCount": 3127,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 313,
+    "location": "",
+    "mediaCount": 465,
+    "name": "oneone.eth",
+    "normalFollowersCount": 32790,
+    "pinnedTweetIdsStr": [],
+    "possiblySensitive": false,
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1579533603092197377/GZ2egBPR_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "MayGordon01",
+    "statusesCount": 6222,
+    "translatorType": "none",
+    "url": "https://t.co/J4xeDQdxe6",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [
+      {
+        "iconName": "IconBriefcaseStroke",
+        "id": 934,
+        "name": "Social Media Influencer"
+      }
+    ],
+    "professionalType": "Business",
+    "restId": "1478759002565537792"
+  },
+  "profileImageShape": "Circle",
+  "restId": "1396297891145158656",
+  "tipjarSettings": {
+    "isEnabled": false
+  }
+}

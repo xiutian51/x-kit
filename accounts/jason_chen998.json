@@ -1,0 +1,76 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNTA1ODI5MTA0NzM3Njg1NTA1",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Mon Mar 21 08:50:25 +0000 2022",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "4XLabs | 瞎分析，也作为投资者和顾问与部分项目存在利益相关，请注意我的内容无法保证客观，不要对我有过高的道德要求，不喜欢就求求你把我拉黑｜#Binance 启程Wbe3，就在币安👉 https://t.co/U3aQal7399｜超100%POR资金储备，安全首选OKX 👉 https://t.co/iFUpotVI6b",
+    "entities": {
+      "description": {
+        "urls": [
+          {
+            "display_url": "binance.com",
+            "expanded_url": "http://binance.com",
+            "url": "https://t.co/U3aQal7399",
+            "indices": [
+              95,
+              118
+            ]
+          },
+          {
+            "display_url": "okx.com",
+            "expanded_url": "http://okx.com",
+            "url": "https://t.co/iFUpotVI6b",
+            "indices": [
+              142,
+              165
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 25119,
+    "followersCount": 108586,
+    "following": true,
+    "friendsCount": 386,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 2473,
+    "location": "",
+    "mediaCount": 1562,
+    "name": "陈剑Jason",
+    "normalFollowersCount": 108586,
+    "pinnedTweetIdsStr": [],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1505829104737685505/1678725665",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1653068718321336321/grq9EkXA_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "jason_chen998",
+    "statusesCount": 12943,
+    "translatorType": "none",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [
+      {
+        "iconName": "IconBriefcaseStroke",
+        "id": 1094,
+        "name": "Blockchain"
+      }
+    ],
+    "professionalType": "Creator",
+    "restId": "1619711889122136070"
+  },
+  "profileImageShape": "Circle",
+  "restId": "1505829104737685505",
+  "tipjarSettings": {}
+}

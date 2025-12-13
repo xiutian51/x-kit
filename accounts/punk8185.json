@@ -1,0 +1,59 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjo5Mjg1MjM5NTMxNTYzOTkxMDQ=",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": false,
+    "canMediaTag": true,
+    "createdAt": "Thu Nov 09 07:25:36 +0000 2017",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "#Bitcoin、 @NanoLabsLtd, @cyberport_hk 关注Web3。Twitter 仅代表个人观点，不代表公司立场，不构成投资建议。",
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 871,
+    "followersCount": 56337,
+    "following": true,
+    "friendsCount": 1032,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 450,
+    "location": "Hong Kong",
+    "mediaCount": 1547,
+    "name": "Jack孔@Nano Labs(NA)🇭🇰",
+    "normalFollowersCount": 56337,
+    "pinnedTweetIdsStr": [],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/928523953156399104/1758836673",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1744544306369794048/anwhhwxp_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "punk8185",
+    "statusesCount": 4264,
+    "translatorType": "none",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [
+      {
+        "iconName": "IconBriefcaseStroke",
+        "id": 713,
+        "name": "Science & Technology"
+      }
+    ],
+    "professionalType": "Creator",
+    "restId": "1647991496962981888"
+  },
+  "profileImageShape": "Circle",
+  "restId": "928523953156399104",
+  "tipjarSettings": {
+    "isEnabled": true
+  }
+}

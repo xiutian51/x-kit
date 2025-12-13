@@ -1,0 +1,104 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjozNjgyNDU3MjA=",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": false,
+    "createdAt": "Mon Sep 05 09:55:55 +0000 2011",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "💰 DeFi / 套利 | 100x | 2021~2025.6\n\n🌊 定居日本 | 2024~\n\n📨 我想捡点钱 https://t.co/6wJHAMv9zF\n\n🔗 AffHub 优惠返佣 https://t.co/gRn1X0sfU4\n\n🤖 域名出售 https://t.co/OGndi1dRKb",
+    "entities": {
+      "description": {
+        "urls": [
+          {
+            "display_url": "s.taresky.me/telegram",
+            "expanded_url": "https://s.taresky.me/telegram",
+            "url": "https://t.co/6wJHAMv9zF",
+            "indices": [
+              58,
+              81
+            ]
+          },
+          {
+            "display_url": "s.taresky.me/aff",
+            "expanded_url": "https://s.taresky.me/aff",
+            "url": "https://t.co/gRn1X0sfU4",
+            "indices": [
+              97,
+              120
+            ]
+          },
+          {
+            "display_url": "sol.bot",
+            "expanded_url": "http://sol.bot",
+            "url": "https://t.co/OGndi1dRKb",
+            "indices": [
+              129,
+              152
+            ]
+          }
+        ]
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "taresky.com",
+            "expanded_url": "https://taresky.com",
+            "url": "https://t.co/V6pzEt8zrU",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 28014,
+    "followersCount": 54182,
+    "following": true,
+    "friendsCount": 318,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 827,
+    "location": "",
+    "mediaCount": 2712,
+    "name": "𝘁𝗮𝗿𝗲𝘀𝗸𝘆",
+    "normalFollowersCount": 54182,
+    "pinnedTweetIdsStr": [
+      "1700606366606565686"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/368245720/1701600715",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1218904499315564544/hdVJuLX-_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "taresky",
+    "statusesCount": 30747,
+    "translatorType": "none",
+    "url": "https://t.co/V6pzEt8zrU",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [
+      {
+        "iconName": "IconBriefcaseStroke",
+        "id": 587,
+        "name": "Addiction Treatment Center"
+      }
+    ],
+    "professionalType": "Creator",
+    "restId": "1630937948328984576"
+  },
+  "profileImageShape": "Circle",
+  "restId": "368245720",
+  "tipjarSettings": {
+    "ethereumHandle": "0x363f2E451770e569c7906DDba7FB445ee70f77Ab",
+    "isEnabled": true
+  }
+}

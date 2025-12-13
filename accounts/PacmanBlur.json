@@ -1,0 +1,59 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {
+    "label": {
+      "url": {
+        "url": "https://twitter.com/blur_io",
+        "urlType": "DeepLink"
+      },
+      "badge": {
+        "url": "https://pbs.twimg.com/profile_images/1518705644450291713/X2FLVDdn_bigger.jpg"
+      },
+      "description": "Blur",
+      "userLabelType": "BusinessLabel",
+      "userLabelDisplayType": "Badge"
+    }
+  },
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNDkyNDM0MTU1NDA1Mjg3NDI0",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Sat Feb 12 09:44:09 +0000 2022",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "铁山 | @ThielFellowship | @MIT | @YCombinator W16 | Founder @BLUR_io @BLAST\n\nPacman / 0x7c8a0c5a58dcbb822cd59be9d5e5f676a3e32504 on Blast Mobile",
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 1990,
+    "followersCount": 56035,
+    "following": true,
+    "friendsCount": 398,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 633,
+    "location": "USA",
+    "mediaCount": 60,
+    "name": "Pacman | Blur + Blast",
+    "normalFollowersCount": 56035,
+    "pinnedTweetIdsStr": [],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1492434155405287424/1646339202",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1499571704753901569/wLAcCdsu_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "PacmanBlur",
+    "statusesCount": 1564,
+    "translatorType": "none",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "profileImageShape": "Circle",
+  "restId": "1492434155405287424",
+  "tipjarSettings": {}
+}

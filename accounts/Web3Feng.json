@@ -1,0 +1,76 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxMzkxMDgwNjk3MDM3NjU2MDY0",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Sat May 08 17:21:08 +0000 2021",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "梭哈不是鲁莽，而是精心策划的辉煌！ Solana Maxi,WAO!!!\n📈敬告: 本人言论均为网上冲浪，不构成任何投资建议。 \n币圈最强空投撸毛工具 @Wave_Tool Co founder.",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "wavetool.xyz",
+            "expanded_url": "https://wavetool.xyz/",
+            "url": "https://t.co/ZQoL8KZFfb",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 5050,
+    "followersCount": 78172,
+    "following": true,
+    "friendsCount": 1886,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 1791,
+    "location": "The Dark Forest",
+    "mediaCount": 1255,
+    "name": "风无向🎒",
+    "normalFollowersCount": 78172,
+    "pinnedTweetIdsStr": [
+      "1970802539613635001"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1391080697037656064/1639502612",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1909546559332884480/u29g-t22_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "Web3Feng",
+    "statusesCount": 15251,
+    "translatorType": "none",
+    "url": "https://t.co/ZQoL8KZFfb",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [
+      {
+        "iconName": "IconBriefcaseStroke",
+        "id": 958,
+        "name": "Entrepreneur"
+      }
+    ],
+    "professionalType": "Business",
+    "restId": "1515358593737928704"
+  },
+  "profileImageShape": "Circle",
+  "restId": "1391080697037656064",
+  "tipjarSettings": {
+    "ethereumHandle": "0x5cd7d5f8745b1133919cb818287a92b2bbb3a960",
+    "isEnabled": false
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNjM0NDMzODQ1OTgxNDkxMjAw",
+  "isBlueVerified": false,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": false,
+    "createdAt": "Sat Mar 11 05:59:41 +0000 2023",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "👨🏻‍💻Free and opensource to everyone likes Web3. Build,experiment with public goods and product.",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "github.com/Web3-Club",
+            "expanded_url": "http://github.com/Web3-Club",
+            "url": "https://t.co/cnpCem9OZo",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 328,
+    "followersCount": 664,
+    "following": true,
+    "friendsCount": 102,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 12,
+    "location": "Web3",
+    "mediaCount": 13,
+    "name": "Web3Club",
+    "normalFollowersCount": 664,
+    "pinnedTweetIdsStr": [
+      "1714196143180259798"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1634433845981491200/1717874126",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1634433949538869253/CpuOOsCQ_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "Web3ClubCN",
+    "statusesCount": 111,
+    "translatorType": "none",
+    "url": "https://t.co/cnpCem9OZo",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [
+      {
+        "iconName": "IconBriefcaseStroke",
+        "id": 713,
+        "name": "Science & Technology"
+      }
+    ],
+    "professionalType": "Business",
+    "restId": "1664541645399015424"
+  },
+  "profileImageShape": "Circle",
+  "restId": "1634433845981491200",
+  "tipjarSettings": {
+    "bitcoinHandle": "bc1q32mjead3kg0lx25yy9mcy9m8845zatvhcfvj92",
+    "ethereumHandle": "0xBBc1fE874422F61fB135e72C3229Fffc3Cb266Fb",
+    "isEnabled": true
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxMzg4MjgyNTk4NzgzMjEzNTY4",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Sat May 01 00:02:47 +0000 2021",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "Your AI Personal Assistant — writing and productivity tools + ai agents // building self-driving mode for your computer | by @OthersideAI",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "hyperwriteai.com",
+            "expanded_url": "https://www.hyperwriteai.com/",
+            "url": "https://t.co/HvJQrW49Yr",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 694,
+    "followersCount": 12188,
+    "following": true,
+    "friendsCount": 5,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 267,
+    "location": "",
+    "mediaCount": 16,
+    "name": "HyperWrite",
+    "normalFollowersCount": 12188,
+    "pinnedTweetIdsStr": [
+      "1673731643528314880"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1388282598783213568/1625728941",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1388283145317797888/nMk9ZG64_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "HyperWriteAI",
+    "statusesCount": 206,
+    "translatorType": "none",
+    "url": "https://t.co/HvJQrW49Yr",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "profileImageShape": "Circle",
+  "restId": "1388282598783213568",
+  "tipjarSettings": {}
+}

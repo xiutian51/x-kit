@@ -1,0 +1,49 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoyMjY1NDY4Nzgx",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": false,
+    "createdAt": "Sat Dec 28 06:24:02 +0000 2013",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "躺平死宅 | 破产负债中 | 吉野家川崎西口店打工中 | 在无人问津的阴雨霉湿之地",
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 78,
+    "followedBy": true,
+    "followersCount": 17049,
+    "following": true,
+    "friendsCount": 7522,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 244,
+    "location": "Tokyo-to, Japan",
+    "mediaCount": 1,
+    "name": "雕刻",
+    "normalFollowersCount": 17049,
+    "pinnedTweetIdsStr": [],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/2265468781/1728467755",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1754777200832978944/bPrgoJIf_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "CypherpunkDK",
+    "statusesCount": 4,
+    "translatorType": "none",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "profileImageShape": "Circle",
+  "restId": "2265468781",
+  "tipjarSettings": {
+    "isEnabled": false
+  }
+}

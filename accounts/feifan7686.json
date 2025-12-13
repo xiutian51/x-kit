@@ -1,0 +1,83 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxMzY5MDg5NTEzNDczOTkwNjU4",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Tue Mar 09 00:55:58 +0000 2021",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "只输出价值 | 宏观 | 二级｜加密圈高级认知 | 非AI ｜只评论价值帖子 | ICT｜微信投研群：feifan7686 ｜专注加密投研 | 合作DM |#DYOR｜ #Binance 加密交易平台👉https://t.co/baPS98Lu7b",
+    "entities": {
+      "description": {
+        "urls": [
+          {
+            "display_url": "binance.com/zh-CN/register…",
+            "expanded_url": "http://binance.com/zh-CN/register?ref=VIICTDH0",
+            "url": "https://t.co/baPS98Lu7b",
+            "indices": [
+              101,
+              124
+            ]
+          }
+        ]
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "t.me/Starslabs78",
+            "expanded_url": "https://t.me/Starslabs78",
+            "url": "https://t.co/lDVfUg2rGv",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 2066,
+    "followersCount": 46208,
+    "following": true,
+    "friendsCount": 4927,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 363,
+    "location": "",
+    "mediaCount": 414,
+    "name": "飞凡",
+    "normalFollowersCount": 46208,
+    "pinnedTweetIdsStr": [
+      "1884590128536162591"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1369089513473990658/1615252451",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1582367675954892801/ebQKm__v_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "feifan7686",
+    "statusesCount": 20299,
+    "translatorType": "none",
+    "url": "https://t.co/lDVfUg2rGv",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [
+      {
+        "iconName": "IconBriefcaseStroke",
+        "id": 192,
+        "name": "Financial Services"
+      }
+    ],
+    "professionalType": "Creator",
+    "restId": "1575182146473320448"
+  },
+  "profileImageShape": "Circle",
+  "restId": "1369089513473990658",
+  "tipjarSettings": {}
+}

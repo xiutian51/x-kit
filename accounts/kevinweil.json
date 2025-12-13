@@ -1,0 +1,60 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjozNDUyOTEx",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Wed Apr 04 19:29:46 +0000 2007",
+    "defaultProfile": false,
+    "defaultProfileImage": false,
+    "description": "VP Science @OpenAI, BoD @Cisco @nature_org, LTC @USArmyReserve\nEx: Pres @Planet, Head of Product @Instagram @Twitter\n❤️ @elizabeth ultramarathons kids cats math",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "instagram.com/kevinweil",
+            "expanded_url": "https://instagram.com/kevinweil",
+            "url": "https://t.co/wMhhHbSxRT",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 35737,
+    "followersCount": 111125,
+    "following": true,
+    "friendsCount": 2718,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 2284,
+    "location": "Portola Valley, CA",
+    "mediaCount": 1320,
+    "name": "Kevin Weil 🇺🇸",
+    "normalFollowersCount": 111125,
+    "pinnedTweetIdsStr": [],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/3452911/1347980185",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/536369378632032256/fleA5Ipm_normal.jpeg",
+    "profileInterstitialType": "",
+    "screenName": "kevinweil",
+    "statusesCount": 20434,
+    "translatorType": "regular",
+    "url": "https://t.co/wMhhHbSxRT",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "profileImageShape": "Circle",
+  "restId": "3452911",
+  "tipjarSettings": {}
+}

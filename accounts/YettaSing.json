@@ -1,0 +1,62 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNzU2MzM2OTA0NDk1MzMzMzc2",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Sat Feb 10 15:18:54 +0000 2024",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "- Investment Partner @primitivecrypto  - Asia edge, Macro lens, Stablecoin nerd  - PKU & Cal Alumni, PhD in Economics",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "yettas.notion.site",
+            "expanded_url": "http://yettas.notion.site",
+            "url": "https://t.co/1SfCTbWx8S",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 955,
+    "followersCount": 8449,
+    "following": true,
+    "friendsCount": 838,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 251,
+    "location": "",
+    "mediaCount": 72,
+    "name": "YettaS",
+    "normalFollowersCount": 8449,
+    "pinnedTweetIdsStr": [
+      "1840256178124927075"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1756336904495333376/1708484164",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1760136269890523136/zRTLwZhZ_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "YettaSing",
+    "statusesCount": 981,
+    "translatorType": "none",
+    "url": "https://t.co/1SfCTbWx8S",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "profileImageShape": "Circle",
+  "restId": "1756336904495333376",
+  "tipjarSettings": {}
+}

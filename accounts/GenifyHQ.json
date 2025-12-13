@@ -1,0 +1,110 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNTg1NTU3Mzg1MjIwODY2MDQ4",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Thu Oct 27 09:02:24 +0000 2022",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "Bitcoin: https://t.co/oq59XIf8O4\nMulti-chain: https://t.co/DdbOezicfw \nDiscord : https://t.co/lvk3w4MyrB\nMedium : https://t.co/8q0NH1AVCe",
+    "entities": {
+      "description": {
+        "urls": [
+          {
+            "display_url": "btc.genify.xyz",
+            "expanded_url": "https://btc.genify.xyz",
+            "url": "https://t.co/oq59XIf8O4",
+            "indices": [
+              9,
+              32
+            ]
+          },
+          {
+            "display_url": "genify.xyz",
+            "expanded_url": "https://genify.xyz",
+            "url": "https://t.co/DdbOezicfw",
+            "indices": [
+              46,
+              69
+            ]
+          },
+          {
+            "display_url": "discord.gg/genifyxyz",
+            "expanded_url": "https://discord.gg/genifyxyz",
+            "url": "https://t.co/lvk3w4MyrB",
+            "indices": [
+              81,
+              104
+            ]
+          },
+          {
+            "display_url": "medium.com/@genifyxyz",
+            "expanded_url": "https://medium.com/@genifyxyz",
+            "url": "https://t.co/8q0NH1AVCe",
+            "indices": [
+              114,
+              137
+            ]
+          }
+        ]
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "genify.xyz",
+            "expanded_url": "http://genify.xyz",
+            "url": "https://t.co/dakglwTtgU",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 1030,
+    "followersCount": 18022,
+    "following": true,
+    "friendsCount": 352,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 43,
+    "location": "",
+    "mediaCount": 355,
+    "name": "Genify | Multi-Chain Generative Art Platform",
+    "normalFollowersCount": 18022,
+    "pinnedTweetIdsStr": [
+      "1877639496508002394"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1585557385220866048/1704958603",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1744977404416970752/mJe43sit_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "GenifyHQ",
+    "statusesCount": 1320,
+    "translatorType": "none",
+    "url": "https://t.co/dakglwTtgU",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [
+      {
+        "iconName": "IconBriefcaseStroke",
+        "id": 962,
+        "name": "Mobile Application"
+      }
+    ],
+    "professionalType": "Business",
+    "restId": "1622955423031787520"
+  },
+  "profileImageShape": "Circle",
+  "restId": "1585557385220866048",
+  "tipjarSettings": {}
+}

@@ -1,0 +1,68 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNDkzNDYwMTI2OTYyODM5NTU0",
+  "isBlueVerified": false,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Tue Feb 15 05:40:31 +0000 2022",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "The first MCP infrastructure enabling AI-to-AI composability in Web3 | $REX🦄| Winner of @BNBCHAIN & @solana Riptide Hackathon",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "revox.ai",
+            "expanded_url": "https://revox.ai/",
+            "url": "https://t.co/S437BiVSTr",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 526,
+    "followersCount": 994265,
+    "following": true,
+    "friendsCount": 203,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 300,
+    "location": "Web3 & AI",
+    "mediaCount": 599,
+    "name": "REVOX",
+    "normalFollowersCount": 994265,
+    "pinnedTweetIdsStr": [
+      "1923394662922137712"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1493460126962839554/1713171577",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1779796708370837504/SRVo9CIX_normal.png",
+    "profileInterstitialType": "",
+    "screenName": "revoxdotai",
+    "statusesCount": 1739,
+    "translatorType": "none",
+    "url": "https://t.co/S437BiVSTr",
+    "verified": false,
+    "verifiedType": "Business",
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [],
+    "professionalType": "Business",
+    "restId": "1499006843674189824"
+  },
+  "profileImageShape": "Square",
+  "restId": "1493460126962839554",
+  "tipjarSettings": {}
+}

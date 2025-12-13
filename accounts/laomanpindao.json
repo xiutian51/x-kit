@@ -1,0 +1,61 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNjQ1MzQwNDgyMDYxNjMxNDkx",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Mon Apr 10 08:18:59 +0000 2023",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "数据在手，天下我有！\n油管号也是“老蛮频道”。",
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 78,
+    "followersCount": 317941,
+    "following": true,
+    "friendsCount": 444,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 1594,
+    "location": "",
+    "mediaCount": 1794,
+    "name": "老蛮频道",
+    "normalFollowersCount": 317941,
+    "pinnedTweetIdsStr": [
+      "1998923090039128102"
+    ],
+    "possiblySensitive": false,
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1658285496731340801/LVwKwyad_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "laomanpindao",
+    "statusesCount": 10540,
+    "translatorType": "none",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [
+      {
+        "iconName": "IconBriefcaseStroke",
+        "id": 934,
+        "name": "Social Media Influencer"
+      }
+    ],
+    "professionalType": "Creator",
+    "restId": "1645449563535458311"
+  },
+  "profileImageShape": "Circle",
+  "restId": "1645340482061631491",
+  "superFollowEligible": true,
+  "tipjarSettings": {
+    "isEnabled": true
+  }
+}

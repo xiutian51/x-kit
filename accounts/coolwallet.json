@@ -1,0 +1,92 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoyOTA5ODUzNjk3",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Tue Nov 25 09:13:50 +0000 2014",
+    "defaultProfile": false,
+    "defaultProfileImage": false,
+    "description": "Explore the Web3 Universe with the Coolest Cold Wallet!\n\nDOWNLOAD NOW 👉 https://t.co/FZLcYQgVY6\nExplore 🌍 https://t.co/QCRBC3wkSh",
+    "entities": {
+      "description": {
+        "urls": [
+          {
+            "display_url": "onelink.to/np8tpp",
+            "expanded_url": "https://onelink.to/np8tpp",
+            "url": "https://t.co/FZLcYQgVY6",
+            "indices": [
+              72,
+              95
+            ]
+          },
+          {
+            "display_url": "linktr.ee/CoolWallet",
+            "expanded_url": "https://linktr.ee/CoolWallet",
+            "url": "https://t.co/QCRBC3wkSh",
+            "indices": [
+              106,
+              129
+            ]
+          }
+        ]
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "coolwallet.io",
+            "expanded_url": "http://coolwallet.io",
+            "url": "https://t.co/XEvk5rOfuB",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 6625,
+    "followersCount": 106183,
+    "following": true,
+    "friendsCount": 522,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 167,
+    "location": "Web3.0",
+    "mediaCount": 1138,
+    "name": "CoolWallet",
+    "normalFollowersCount": 106183,
+    "pinnedTweetIdsStr": [
+      "1971124705328496733"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/2909853697/1679564242",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1612332024744017920/VEAyOAy1_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "coolwallet",
+    "statusesCount": 5559,
+    "translatorType": "none",
+    "url": "https://t.co/XEvk5rOfuB",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [
+      {
+        "iconName": "IconBriefcaseStroke",
+        "id": 713,
+        "name": "Science & Technology"
+      }
+    ],
+    "professionalType": "Business",
+    "restId": "1479119876216455168"
+  },
+  "profileImageShape": "Circle",
+  "restId": "2909853697",
+  "tipjarSettings": {}
+}

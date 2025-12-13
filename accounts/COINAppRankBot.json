@@ -1,0 +1,55 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNzQ1NjQ2OTM3NzM3NDM3MTg1",
+  "isBlueVerified": false,
+  "legacy": {
+    "canDm": false,
+    "canMediaTag": true,
+    "createdAt": "Fri Jan 12 03:20:53 +0000 2024",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "NOT ASSOCIATED WITH COINBASE\n\nApp Rank posted twice at day at 8am/8pm PST\n\nCharts/Rank Data - https://t.co/2aEPKNdIcm",
+    "entities": {
+      "description": {
+        "urls": [
+          {
+            "display_url": "t.me/CoinbaseAppRan…",
+            "expanded_url": "https://t.me/CoinbaseAppRankBot",
+            "url": "https://t.co/2aEPKNdIcm",
+            "indices": [
+              94,
+              117
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 0,
+    "followersCount": 70413,
+    "following": true,
+    "friendsCount": 2,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 772,
+    "location": "",
+    "mediaCount": 0,
+    "name": "Coinbase App Rank Bot (unofficial)",
+    "normalFollowersCount": 70413,
+    "pinnedTweetIdsStr": [],
+    "possiblySensitive": false,
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1747129870663241728/IN5DAjGP_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "COINAppRankBot",
+    "statusesCount": 1372,
+    "translatorType": "none",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "profileImageShape": "Circle",
+  "restId": "1745646937737437185",
+  "tipjarSettings": {}
+}

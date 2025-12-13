@@ -1,0 +1,59 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNDYzOTMwODgxNjQzNDY2NzY0",
+  "isBlueVerified": false,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Thu Nov 25 18:01:54 +0000 2021",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "$PEOPLE is the meme For The People!\n$PEOPLE is the meme for the Constitution!\n(📜,🤝).",
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 2851,
+    "followersCount": 36432,
+    "following": true,
+    "friendsCount": 475,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 256,
+    "location": "",
+    "mediaCount": 255,
+    "name": "PeopleDAO (📜, 🤝)",
+    "normalFollowersCount": 36432,
+    "pinnedTweetIdsStr": [
+      "1467801966537428996"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1463930881643466764/1639287961",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1463931234472509441/D0QThGaI_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "The_PeopleDAO",
+    "statusesCount": 1784,
+    "translatorType": "none",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [
+      {
+        "iconName": "IconBriefcaseStroke",
+        "id": 1009,
+        "name": "Community"
+      }
+    ],
+    "professionalType": "Creator",
+    "restId": "1463933892591702028"
+  },
+  "profileImageShape": "Circle",
+  "restId": "1463930881643466764",
+  "tipjarSettings": {}
+}

@@ -1,0 +1,77 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNTQ2NTEyNzk4NDMxMDU1ODcy",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Mon Jul 11 15:12:54 +0000 2022",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "宏观研究员@GreeksLive\n期权市场数据 | 原创投资观点\n@binance 币安广场专栏作者 | @wublockchain12 吴说专栏作者\n新人指南：https://t.co/LC2R0M2Tew\n电报telegram：https://t.co/NDa86xeMdI",
+    "entities": {
+      "description": {
+        "urls": [
+          {
+            "display_url": "linktr.ee/greeks.live_cn",
+            "expanded_url": "http://linktr.ee/greeks.live_cn",
+            "url": "https://t.co/LC2R0M2Tew",
+            "indices": [
+              81,
+              104
+            ]
+          },
+          {
+            "display_url": "t.me/Adam_Greeks_li…",
+            "expanded_url": "https://t.me/Adam_Greeks_live",
+            "url": "https://t.co/NDa86xeMdI",
+            "indices": [
+              116,
+              139
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 544,
+    "followersCount": 14912,
+    "following": true,
+    "friendsCount": 360,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 418,
+    "location": "",
+    "mediaCount": 845,
+    "name": "Adam@Greeks.live",
+    "normalFollowersCount": 14912,
+    "pinnedTweetIdsStr": [
+      "1825781791162249611"
+    ],
+    "possiblySensitive": false,
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1604851478891413504/sXlhfRtM_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "BTC__options",
+    "statusesCount": 2575,
+    "translatorType": "none",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [
+      {
+        "iconName": "IconBriefcaseStroke",
+        "id": 192,
+        "name": "Financial Services"
+      }
+    ],
+    "professionalType": "Creator",
+    "restId": "1614784687234486272"
+  },
+  "profileImageShape": "Circle",
+  "restId": "1546512798431055872",
+  "tipjarSettings": {}
+}

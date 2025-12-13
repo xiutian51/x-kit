@@ -1,0 +1,68 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxMjMzMTcxMzk5ODcyNjM4OTc2",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Thu Feb 27 23:25:55 +0000 2020",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "Powering the next generation of games.",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "play.immutable.com",
+            "expanded_url": "http://play.immutable.com",
+            "url": "https://t.co/7Kd28gEpdW",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 37154,
+    "followersCount": 438636,
+    "following": true,
+    "friendsCount": 3258,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 3015,
+    "location": "Immutable",
+    "mediaCount": 3376,
+    "name": "Immutable",
+    "normalFollowersCount": 438636,
+    "pinnedTweetIdsStr": [
+      "1996897351277887933"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1233171399872638976/1764219182",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1894340023962800130/yAJxsR4W_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "Immutable",
+    "statusesCount": 16055,
+    "translatorType": "none",
+    "url": "https://t.co/7Kd28gEpdW",
+    "verified": false,
+    "verifiedType": "Business",
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [],
+    "professionalType": "Business",
+    "restId": "1468340751499411456"
+  },
+  "profileImageShape": "Square",
+  "restId": "1233171399872638976",
+  "tipjarSettings": {}
+}

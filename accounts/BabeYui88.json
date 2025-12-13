@@ -1,0 +1,75 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {
+    "label": {
+      "url": {
+        "url": "https://twitter.com/GoKiteAI",
+        "urlType": "DeepLink"
+      },
+      "badge": {
+        "url": "https://pbs.twimg.com/profile_images/1962781271978815488/07fQQARS_bigger.jpg"
+      },
+      "description": "KITE AI",
+      "userLabelType": "BusinessLabel",
+      "userLabelDisplayType": "Badge"
+    }
+  },
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNDI5NjQ2MTIwODU5MzAzOTM3",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Mon Aug 23 03:26:20 +0000 2021",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "一个略会BD和生活的运营🇨🇳🇬🇧 \nFoodie/Traveller🍣☕️🍜🗺️🏖️ \n\nPrev. @Matrixport_EN | @bitgetglobal | @HashKeyGroup | 币coin\nCrypto journey since 2020.",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "t.me/Rich0xYui",
+            "expanded_url": "https://t.me/Rich0xYui",
+            "url": "https://t.co/psoTxaj2z0",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 29915,
+    "followersCount": 12067,
+    "following": true,
+    "friendsCount": 1610,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 70,
+    "location": "KOL Network/Agency",
+    "mediaCount": 1545,
+    "name": "BabeYui",
+    "normalFollowersCount": 12067,
+    "pinnedTweetIdsStr": [
+      "1922499380893905379"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1429646120859303937/1755755537",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1958401651930484737/fP1-HzNq_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "BabeYui88",
+    "statusesCount": 6249,
+    "translatorType": "none",
+    "url": "https://t.co/psoTxaj2z0",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "profileImageShape": "Circle",
+  "restId": "1429646120859303937",
+  "tipjarSettings": {}
+}

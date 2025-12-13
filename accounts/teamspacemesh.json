@@ -1,0 +1,81 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjo5NDY2OTAyNDc4NzM3MTIxMjg=",
+  "isBlueVerified": false,
+  "legacy": {
+    "canDm": false,
+    "canMediaTag": true,
+    "createdAt": "Fri Dec 29 10:31:58 +0000 2017",
+    "defaultProfile": false,
+    "defaultProfileImage": false,
+    "description": "Spacemesh official.\n\nCreating fairness and equality through layer-1 crypto.\n\nDiscord: https://t.co/BYduNIxAhW\n\nGithub: https://t.co/gIa8dSaATT",
+    "entities": {
+      "description": {
+        "urls": [
+          {
+            "display_url": "discord.gg/spacemesh",
+            "expanded_url": "http://discord.gg/spacemesh",
+            "url": "https://t.co/BYduNIxAhW",
+            "indices": [
+              86,
+              109
+            ]
+          },
+          {
+            "display_url": "github.com/spacemeshos/",
+            "expanded_url": "https://github.com/spacemeshos/",
+            "url": "https://t.co/gIa8dSaATT",
+            "indices": [
+              119,
+              142
+            ]
+          }
+        ]
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "spacemesh.io",
+            "expanded_url": "https://spacemesh.io",
+            "url": "https://t.co/IrarUOO5U6",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 2260,
+    "followersCount": 36819,
+    "following": true,
+    "friendsCount": 284,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 266,
+    "location": "Decentralized",
+    "mediaCount": 475,
+    "name": "teamspacemesh",
+    "normalFollowersCount": 36819,
+    "pinnedTweetIdsStr": [
+      "1853784353681154517"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/946690247873712128/1723717835",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1824030918744449024/jOiWaTFv_normal.png",
+    "profileInterstitialType": "",
+    "screenName": "teamspacemesh",
+    "statusesCount": 2093,
+    "translatorType": "none",
+    "url": "https://t.co/IrarUOO5U6",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "profileImageShape": "Circle",
+  "restId": "946690247873712128",
+  "tipjarSettings": {}
+}

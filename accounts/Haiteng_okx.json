@@ -1,0 +1,68 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxMTExMTIwNjIxNzEzMjYwNTQ0",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Thu Mar 28 04:19:34 +0000 2019",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "OKX海腾（telegram：OKX_Hayden），官方网址https://t.co/ejaR6xwoAC",
+    "entities": {
+      "description": {
+        "urls": [
+          {
+            "display_url": "okx.com",
+            "expanded_url": "http://okx.com",
+            "url": "https://t.co/ejaR6xwoAC",
+            "indices": [
+              31,
+              54
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 5272,
+    "followedBy": true,
+    "followersCount": 48236,
+    "following": true,
+    "friendsCount": 974,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 311,
+    "location": "",
+    "mediaCount": 359,
+    "name": "海腾",
+    "normalFollowersCount": 48236,
+    "pinnedTweetIdsStr": [],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1111120621713260544/1731405269",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1854459934358089728/_U7LbIvP_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "Haiteng_okx",
+    "statusesCount": 5943,
+    "translatorType": "none",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [
+      {
+        "iconName": "IconBriefcaseStroke",
+        "id": 192,
+        "name": "Financial Services"
+      }
+    ],
+    "professionalType": "Creator",
+    "restId": "1465527195573489664"
+  },
+  "profileImageShape": "Circle",
+  "restId": "1111120621713260544",
+  "tipjarSettings": {}
+}

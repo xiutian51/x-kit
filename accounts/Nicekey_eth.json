@@ -1,0 +1,62 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNDUyOTY0MjkzNDA2NjkxMzMw",
+  "isBlueVerified": false,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Tue Oct 26 11:44:42 +0000 2021",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "孙哥🐎致富｜死于抄底｜3P DAO｜Web3｜996 DAO｜热爱交互，老韭菜｜不想🤏螺丝的小矿工 分享加密世界的日常 不是财务建议 热爱零撸白嫖 \n #Bitcoin #Lightningnetwork #Taproot #Ordinals #Atomicals #NFT",
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 1209,
+    "followersCount": 3755,
+    "following": true,
+    "friendsCount": 720,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 82,
+    "location": "ordinals",
+    "mediaCount": 344,
+    "name": "Nicekey",
+    "normalFollowersCount": 3755,
+    "pinnedTweetIdsStr": [
+      "1725910314372452416"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1452964293406691330/1648231756",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1656614866860531713/rZ8qzaaT_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "Nicekey_eth",
+    "statusesCount": 1512,
+    "translatorType": "none",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [
+      {
+        "iconName": "IconBriefcaseStroke",
+        "id": 192,
+        "name": "Financial Services"
+      }
+    ],
+    "professionalType": "Creator",
+    "restId": "1590694513806258176"
+  },
+  "profileImageShape": "Circle",
+  "restId": "1452964293406691330",
+  "tipjarSettings": {
+    "ethereumHandle": "0xef5582649A02FFA91F91e5B0F6AB3F0AB575b19B",
+    "isEnabled": true
+  }
+}

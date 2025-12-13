@@ -1,0 +1,57 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjo5NTU4NzAyOTMxNzk5NDQ5NjE=",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": false,
+    "canMediaTag": true,
+    "createdAt": "Tue Jan 23 18:30:11 +0000 2018",
+    "defaultProfile": false,
+    "defaultProfileImage": false,
+    "description": "@FoliusVentures @bidclubio @CarnegieMellon",
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 10426,
+    "followersCount": 48897,
+    "following": true,
+    "friendsCount": 2223,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 1574,
+    "location": "",
+    "mediaCount": 385,
+    "name": "MapleLeafCap",
+    "normalFollowersCount": 48897,
+    "pinnedTweetIdsStr": [],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/955870293179944961/1638672665",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1675743115267956738/CwFqK56x_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "MapleLeafCap",
+    "statusesCount": 5330,
+    "translatorType": "none",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [
+      {
+        "iconName": "IconBriefcaseStroke",
+        "id": 1039,
+        "name": "Venture Capital"
+      }
+    ],
+    "professionalType": "Business",
+    "restId": "1609405099578884096"
+  },
+  "profileImageShape": "Circle",
+  "restId": "955870293179944961",
+  "tipjarSettings": {}
+}

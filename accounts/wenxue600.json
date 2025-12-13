@@ -1,0 +1,94 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxMzY0ODg2MjMwNjU2MTE0Njky",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Thu Feb 25 10:33:37 +0000 2021",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "Giga Chad @AbstractChain ，对内容有洁癖，不造假、不刷量，宁缺毋滥\n\n撸毛必备OKX钱包：https://t.co/XiX8RtCrn6\n交易必备Binance：https://t.co/lMc7r62VBL",
+    "entities": {
+      "description": {
+        "urls": [
+          {
+            "display_url": "web3.okx.com/ul/joindex?ref…",
+            "expanded_url": "https://web3.okx.com/ul/joindex?ref=DAREN",
+            "url": "https://t.co/XiX8RtCrn6",
+            "indices": [
+              57,
+              80
+            ]
+          },
+          {
+            "display_url": "bit.ly/BinanceCryptoA…",
+            "expanded_url": "http://bit.ly/BinanceCryptoApp",
+            "url": "https://t.co/lMc7r62VBL",
+            "indices": [
+              93,
+              116
+            ]
+          }
+        ]
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "binance.com/zh-CN/square/p…",
+            "expanded_url": "https://www.binance.com/zh-CN/square/profile/Square-Creator-5ec434265",
+            "url": "https://t.co/Tfgc1gC2CN",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 14339,
+    "followersCount": 113535,
+    "following": true,
+    "friendsCount": 7441,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 2090,
+    "location": "#Binance 广场",
+    "mediaCount": 3308,
+    "name": "链上达人",
+    "normalFollowersCount": 113535,
+    "pinnedTweetIdsStr": [
+      "1916821790862807145"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1364886230656114692/1638110381",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1755570127796375552/l17vMuwT_normal.png",
+    "profileInterstitialType": "",
+    "screenName": "wenxue600",
+    "statusesCount": 21248,
+    "translatorType": "none",
+    "url": "https://t.co/Tfgc1gC2CN",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [
+      {
+        "iconName": "IconBriefcaseStroke",
+        "id": 713,
+        "name": "Science & Technology"
+      }
+    ],
+    "professionalType": "Creator",
+    "restId": "1509710732153171979"
+  },
+  "profileImageShape": "Circle",
+  "restId": "1364886230656114692",
+  "tipjarSettings": {
+    "isEnabled": true
+  }
+}

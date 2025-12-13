@@ -1,0 +1,74 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxOTQ4MDU3NjM=",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Sat Sep 25 01:17:33 +0000 2010",
+    "defaultProfile": false,
+    "defaultProfileImage": false,
+    "description": "AI Agent Builder @finalroundai @worktrialai. ex @opencordai @PayPal @INSEAD @GTCSE",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "beacons.ai/kellyann3644",
+            "expanded_url": "http://beacons.ai/kellyann3644",
+            "url": "https://t.co/DUnFQCo8l0",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 12206,
+    "followedBy": true,
+    "followersCount": 1884,
+    "following": true,
+    "friendsCount": 1864,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 89,
+    "location": "Singapore",
+    "mediaCount": 432,
+    "name": "kelly",
+    "normalFollowersCount": 1884,
+    "pinnedTweetIdsStr": [
+      "1809899976274956395"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/194805763/1757119549",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1964127855992066048/vY7goET4_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "kellyann3644",
+    "statusesCount": 5783,
+    "translatorType": "none",
+    "url": "https://t.co/DUnFQCo8l0",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [
+      {
+        "iconName": "IconBriefcaseStroke",
+        "id": 958,
+        "name": "Entrepreneur"
+      }
+    ],
+    "professionalType": "Business",
+    "restId": "1692361596386042197"
+  },
+  "profileImageShape": "Circle",
+  "restId": "194805763",
+  "tipjarSettings": {}
+}

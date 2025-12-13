@@ -1,0 +1,53 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjo3MTgyOTI1NzAxMjA1ODExMjA=",
+  "isBlueVerified": false,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Fri Apr 08 04:21:08 +0000 2016",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "Whale Watcher gives you unparalleled, unbiased coverage of all-things  finance in real-time. World leading source for cryptocurrency news & insights.",
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 2192,
+    "followersCount": 14410,
+    "following": true,
+    "friendsCount": 221,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 20,
+    "location": "",
+    "mediaCount": 31,
+    "name": "Whale Watcher",
+    "normalFollowersCount": 14410,
+    "pinnedTweetIdsStr": [
+      "1832155094558625861"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/718292570120581120/1688483712",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1940309476008939520/omE8M5QI_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "TheWhaleWatche",
+    "statusesCount": 1811,
+    "translatorType": "none",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [],
+    "professionalType": "Creator",
+    "restId": "1496517160734060544"
+  },
+  "profileImageShape": "Circle",
+  "restId": "718292570120581120",
+  "tipjarSettings": {}
+}

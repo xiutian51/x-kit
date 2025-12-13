@@ -1,0 +1,68 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNDgxNjE0NjIxMjgyOTA2MTIw",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": false,
+    "createdAt": "Thu Jan 13 13:10:41 +0000 2022",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "Web3 investment Syndicate",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "aurion.capital",
+            "expanded_url": "https://aurion.capital",
+            "url": "https://t.co/9K696tJmID",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 3320,
+    "followersCount": 14588,
+    "following": true,
+    "friendsCount": 338,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 29,
+    "location": "",
+    "mediaCount": 53,
+    "name": "Fat Cats",
+    "normalFollowersCount": 14588,
+    "pinnedTweetIdsStr": [
+      "1787992449224220780"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1481614621282906120/1691666366",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1689596586626600960/Sp3RtRnj_normal.png",
+    "profileInterstitialType": "",
+    "_protected": true,
+    "screenName": "FatCatsGroup",
+    "statusesCount": 151,
+    "translatorType": "none",
+    "url": "https://t.co/9K696tJmID",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [],
+    "professionalType": "Creator",
+    "restId": "1500445315870175233"
+  },
+  "profileImageShape": "Circle",
+  "restId": "1481614621282906120",
+  "tipjarSettings": {}
+}

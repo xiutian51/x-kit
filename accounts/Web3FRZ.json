@@ -1,0 +1,50 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNjY4MTMxNDU1Mzk3MTYzMDA4",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Mon Jun 12 05:41:54 +0000 2023",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "睿亿资本RY Capital创始人｜睿亿科技CEO｜睿亿AI量投技术创始人｜21届全国职业金融投资大赛全国第一｜投资领域： 外贸、供应链、Web3、AI科技、传媒、电商、Crypto、证券、贵金属",
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 3668,
+    "followersCount": 75290,
+    "following": true,
+    "friendsCount": 1782,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 155,
+    "location": "Hong Kong",
+    "mediaCount": 237,
+    "name": "Web3小樊总",
+    "normalFollowersCount": 75290,
+    "pinnedTweetIdsStr": [
+      "1918349967250653628"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1668131455397163008/1686548996",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1671114633128869889/eakVcL4j_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "Web3FRZ",
+    "statusesCount": 1912,
+    "translatorType": "none",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "profileImageShape": "Circle",
+  "restId": "1668131455397163008",
+  "tipjarSettings": {
+    "isEnabled": true
+  }
+}

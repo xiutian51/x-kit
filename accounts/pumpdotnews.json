@@ -1,0 +1,71 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxODQ0MjE4OTQwODE1NDQxOTIx",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Thu Oct 10 03:31:18 +0000 2024",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "your social radar for memecoins",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "pump.news",
+            "expanded_url": "http://pump.news",
+            "url": "https://t.co/ryi5iqMsOD",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 509,
+    "followersCount": 2970,
+    "following": true,
+    "friendsCount": 468,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 50,
+    "location": "",
+    "mediaCount": 169,
+    "name": "pumpnews",
+    "normalFollowersCount": 2970,
+    "pinnedTweetIdsStr": [],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1844218940815441921/1734863931",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1867606057369186310/tnLH-22E_normal.png",
+    "profileInterstitialType": "",
+    "screenName": "pumpdotnews",
+    "statusesCount": 383,
+    "translatorType": "none",
+    "url": "https://t.co/ryi5iqMsOD",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [
+      {
+        "iconName": "IconBriefcaseStroke",
+        "id": 477,
+        "name": "Professional Services"
+      }
+    ],
+    "professionalType": "Business",
+    "restId": "1871049075564634389"
+  },
+  "profileImageShape": "Circle",
+  "restId": "1844218940815441921",
+  "tipjarSettings": {}
+}

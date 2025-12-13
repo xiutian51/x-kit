@@ -1,0 +1,67 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjozNzczNDEyMTg=",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": false,
+    "createdAt": "Wed Sep 21 12:32:20 +0000 2011",
+    "defaultProfile": false,
+    "defaultProfileImage": false,
+    "description": "Are you excited yet?\n\nCommunity Manager @OKX for Benelux & Ireland",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "youtube.com/@web3Investing",
+            "expanded_url": "https://www.youtube.com/@web3Investing",
+            "url": "https://t.co/tZhCCLzEEB",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 10982,
+    "followersCount": 1359,
+    "following": true,
+    "friendsCount": 465,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 8,
+    "location": "",
+    "mediaCount": 1092,
+    "name": "⬡ Keanu ⬡",
+    "normalFollowersCount": 1359,
+    "pinnedTweetIdsStr": [
+      "1941859519060914458"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/377341218/1730443544",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1838956061543329792/cMbKbt4j_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "BalouOnX",
+    "statusesCount": 5532,
+    "translatorType": "none",
+    "url": "https://t.co/tZhCCLzEEB",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [],
+    "professionalType": "Creator",
+    "restId": "1689281456294510906"
+  },
+  "profileImageShape": "Circle",
+  "restId": "377341218",
+  "tipjarSettings": {}
+}

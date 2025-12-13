@@ -1,0 +1,92 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNDgyOTk4NjkxODI4ODgzNDU2",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Mon Jan 17 08:50:42 +0000 2022",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "Next billion-dollar AI memecoins, directly to your wallet with AKI Meme Reactor X. \nTG → https://t.co/47p65FEv0L\nDiscord → https://t.co/F2cGIW4CsM",
+    "entities": {
+      "description": {
+        "urls": [
+          {
+            "display_url": "t.me/akiprotocol",
+            "expanded_url": "https://t.me/akiprotocol",
+            "url": "https://t.co/47p65FEv0L",
+            "indices": [
+              89,
+              112
+            ]
+          },
+          {
+            "display_url": "discord.gg/bxJvudjXGB",
+            "expanded_url": "https://discord.gg/bxJvudjXGB",
+            "url": "https://t.co/F2cGIW4CsM",
+            "indices": [
+              123,
+              146
+            ]
+          }
+        ]
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "akiprotocol.io",
+            "expanded_url": "https://akiprotocol.io/",
+            "url": "https://t.co/bDQN3QlBSB",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 532,
+    "followersCount": 174855,
+    "following": true,
+    "friendsCount": 156,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 104,
+    "location": "Shibuya, Tokyo",
+    "mediaCount": 307,
+    "name": "Aki Network",
+    "normalFollowersCount": 174855,
+    "pinnedTweetIdsStr": [
+      "1983803883983176050"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1482998691828883456/1747648945",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1760217824054886400/1N2NlLqV_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "aki_protocol",
+    "statusesCount": 903,
+    "translatorType": "none",
+    "url": "https://t.co/bDQN3QlBSB",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [
+      {
+        "iconName": "IconBriefcaseStroke",
+        "id": 713,
+        "name": "Science & Technology"
+      }
+    ],
+    "professionalType": "Business",
+    "restId": "1603671972256178176"
+  },
+  "profileImageShape": "Circle",
+  "restId": "1482998691828883456",
+  "tipjarSettings": {}
+}

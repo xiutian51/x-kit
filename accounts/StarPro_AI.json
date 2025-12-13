@@ -1,0 +1,62 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNTAxNjY3MzI4NzE0NTQ3MjA4",
+  "isBlueVerified": false,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Wed Mar 09 21:12:46 +0000 2022",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "Formerly MerlinStarter | AI Digital Human Incubation & Asset Platform | Create. Trade. Own. | Web3 meets AI",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "merlinstarter.com",
+            "expanded_url": "https://merlinstarter.com/",
+            "url": "https://t.co/hJQD32FXI0",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 533,
+    "followersCount": 184364,
+    "following": true,
+    "friendsCount": 504,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 272,
+    "location": "AI",
+    "mediaCount": 235,
+    "name": "Star AI 🟪",
+    "normalFollowersCount": 184364,
+    "pinnedTweetIdsStr": [
+      "1912337126810874133"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1501667328714547208/1745823931",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1916750597707231232/tInbuHCj_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "StarPro_AI",
+    "statusesCount": 599,
+    "translatorType": "none",
+    "url": "https://t.co/hJQD32FXI0",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "profileImageShape": "Circle",
+  "restId": "1501667328714547208",
+  "tipjarSettings": {}
+}

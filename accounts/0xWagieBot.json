@@ -1,0 +1,86 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNjQzNTg1NzExODc3MDk1NDI0",
+  "isBlueVerified": false,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Wed Apr 05 12:09:23 +0000 2023",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "Multichain Sniping, Tracking, Trading, Copy Trading and More directly to your Telegram 🤖 Try Wagie: https://t.co/ChvzKniXlR Discord: https://t.co/5TZiopGWP5",
+    "entities": {
+      "description": {
+        "urls": [
+          {
+            "display_url": "t.me/wagiebot",
+            "expanded_url": "http://t.me/wagiebot",
+            "url": "https://t.co/ChvzKniXlR",
+            "indices": [
+              100,
+              123
+            ]
+          },
+          {
+            "display_url": "discord.gg/wagie",
+            "expanded_url": "http://discord.gg/wagie",
+            "url": "https://t.co/5TZiopGWP5",
+            "indices": [
+              133,
+              156
+            ]
+          }
+        ]
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "wagiebot.com",
+            "expanded_url": "https://wagiebot.com",
+            "url": "https://t.co/0d0kjIo5Ax",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 286,
+    "followersCount": 4160,
+    "following": true,
+    "friendsCount": 14,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 70,
+    "location": "ETH, BSC, ARB, BERA, SOL",
+    "mediaCount": 58,
+    "name": "WagieBot",
+    "normalFollowersCount": 4160,
+    "pinnedTweetIdsStr": [
+      "1802686903248146943"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1643585711877095424/1706887408",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1754300592154144768/OUJ1AKEL_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "0xWagieBot",
+    "statusesCount": 157,
+    "translatorType": "none",
+    "url": "https://t.co/0d0kjIo5Ax",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [],
+    "professionalType": "Business",
+    "restId": "1740962574580294024"
+  },
+  "profileImageShape": "Circle",
+  "restId": "1643585711877095424",
+  "tipjarSettings": {}
+}

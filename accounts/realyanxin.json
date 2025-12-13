@@ -1,0 +1,86 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {
+    "label": {
+      "url": {
+        "url": "https://twitter.com/ethsign",
+        "urlType": "DeepLink"
+      },
+      "badge": {
+        "url": "https://pbs.twimg.com/profile_images/1796360582976991233/IVjAjN8S_bigger.jpg"
+      },
+      "description": "Sign",
+      "userLabelType": "BusinessLabel",
+      "userLabelDisplayType": "Badge"
+    }
+  },
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxMzIzMjA0ODM3OTEyMTgyNzg0",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Mon Nov 02 10:06:50 +0000 2020",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "CEO @ethsign. Powered by curiosity and imagination, building new systems.",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "sign.global",
+            "expanded_url": "http://sign.global",
+            "url": "https://t.co/ui1tWZhgdV",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 21711,
+    "followersCount": 19665,
+    "following": true,
+    "friendsCount": 1704,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 160,
+    "location": "Orange Dynasty",
+    "mediaCount": 442,
+    "name": "Xin",
+    "normalFollowersCount": 19665,
+    "pinnedTweetIdsStr": [
+      "1946078143338762628"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1323204837912182784/1763503855",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1880250306799538176/-uzQbIW8_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "realyanxin",
+    "statusesCount": 4871,
+    "translatorType": "none",
+    "url": "https://t.co/ui1tWZhgdV",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [
+      {
+        "iconName": "IconBriefcaseStroke",
+        "id": 713,
+        "name": "Science & Technology"
+      }
+    ],
+    "professionalType": "Business",
+    "restId": "1656661569454080006"
+  },
+  "profileImageShape": "Circle",
+  "restId": "1323204837912182784",
+  "tipjarSettings": {}
+}

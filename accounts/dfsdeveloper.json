@@ -1,0 +1,74 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNjk5NTIxOTE3NDU0MzIzNzEy",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Wed Sep 06 20:36:23 +0000 2023",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "building https://t.co/OY0dMK6fSI on X Layer  @dfsdotfun",
+    "entities": {
+      "description": {
+        "urls": [
+          {
+            "display_url": "dfs.fun",
+            "expanded_url": "http://dfs.fun",
+            "url": "https://t.co/OY0dMK6fSI",
+            "indices": [
+              9,
+              32
+            ]
+          }
+        ]
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "dfs.fun",
+            "expanded_url": "http://dfs.fun",
+            "url": "https://t.co/OY0dMK6fSI",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 70,
+    "followersCount": 9869,
+    "following": true,
+    "friendsCount": 804,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 113,
+    "location": "",
+    "mediaCount": 49,
+    "name": "🐷 猪弟｜DFS｜PPP",
+    "normalFollowersCount": 9869,
+    "pinnedTweetIdsStr": [],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1699521917454323712/1751624365",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1941190651976257536/w0Ihd3kx_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "dfsdeveloper",
+    "statusesCount": 305,
+    "translatorType": "none",
+    "url": "https://t.co/OY0dMK6fSI",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "profileImageShape": "Circle",
+  "restId": "1699521917454323712",
+  "tipjarSettings": {
+    "bitcoinHandle": "1BnUBhhLqYSpXh3NdXaJjjPxaLVjCgng9h",
+    "ethereumHandle": "0x26bb4aa8c16c3160077a95e13042c7d6df88b997",
+    "isEnabled": false
+  }
+}

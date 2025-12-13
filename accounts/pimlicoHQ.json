@@ -1,0 +1,72 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNjEwMzg1NzE1NTQ3NzQyMjEw",
+  "isBlueVerified": false,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Tue Jan 03 21:21:09 +0000 2023",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "Build with Smart Accounts | get started: https://t.co/XZqnyfVPLf",
+    "entities": {
+      "description": {
+        "urls": [
+          {
+            "display_url": "docs.pimlico.io",
+            "expanded_url": "https://docs.pimlico.io",
+            "url": "https://t.co/XZqnyfVPLf",
+            "indices": [
+              41,
+              64
+            ]
+          }
+        ]
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "pimlico.io",
+            "expanded_url": "https://pimlico.io",
+            "url": "https://t.co/MIu59bj2rM",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 513,
+    "followersCount": 7083,
+    "following": true,
+    "friendsCount": 28,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 126,
+    "location": "Pimlico, London",
+    "mediaCount": 32,
+    "name": "Pimlico",
+    "normalFollowersCount": 7083,
+    "pinnedTweetIdsStr": [
+      "1721890681185321018"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1610385715547742210/1693505854",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1693793364380938240/wvr-wszx_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "pimlicoHQ",
+    "statusesCount": 542,
+    "translatorType": "none",
+    "url": "https://t.co/MIu59bj2rM",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "profileImageShape": "Circle",
+  "restId": "1610385715547742210",
+  "tipjarSettings": {}
+}

@@ -1,0 +1,50 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjo5NzQ3MDE5OTA5MTA1Nzg2ODg=",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Fri Mar 16 17:40:38 +0000 2018",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "不知名交易员 | memecoin 从没赚过钱 | 懂王一生黑 | 非交易和投资建议 | hyperliquid 和 okx wallet 用户，邀请码都是： JERRYISCAT | 有手续费返还 | 谢谢你请我喝咖啡",
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 107,
+    "followersCount": 5131,
+    "following": true,
+    "friendsCount": 1603,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 128,
+    "location": "",
+    "mediaCount": 330,
+    "name": "Jerryiscat",
+    "normalFollowersCount": 5131,
+    "pinnedTweetIdsStr": [
+      "1977415133640233315"
+    ],
+    "possiblySensitive": false,
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1813111751338303488/8hXhYfY3_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "0xRunchen",
+    "statusesCount": 2044,
+    "translatorType": "none",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "profileImageShape": "Circle",
+  "restId": "974701990910578688",
+  "tipjarSettings": {
+    "bitcoinHandle": "39pzA9nr7Ez6At2dDxS9bh8iNhHYVJp8mV",
+    "isEnabled": true
+  }
+}

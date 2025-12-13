@@ -1,0 +1,73 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNDAyMTk0MTEzODQ0MzYzMjY3",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Tue Jun 08 09:21:51 +0000 2021",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "Security is no longer on shoulders of a person or a company, but in power of millions combined with DePIN and AI.",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "linktr.ee/datsproject",
+            "expanded_url": "https://linktr.ee/datsproject",
+            "url": "https://t.co/ikCWki1jkV",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 1290,
+    "followersCount": 109755,
+    "following": true,
+    "friendsCount": 87,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 81,
+    "location": "Decentralized",
+    "mediaCount": 664,
+    "name": "DATS",
+    "normalFollowersCount": 109755,
+    "pinnedTweetIdsStr": [
+      "1942275538774847549"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1402194113844363267/1732459689",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1822735289892114432/r5ulfZLf_normal.png",
+    "profileInterstitialType": "",
+    "screenName": "DATSProject",
+    "statusesCount": 1248,
+    "translatorType": "none",
+    "url": "https://t.co/ikCWki1jkV",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [
+      {
+        "iconName": "IconBriefcaseStroke",
+        "id": 983,
+        "name": "Technology-Security Company"
+      }
+    ],
+    "professionalType": "Business",
+    "restId": "1471753277633142787"
+  },
+  "profileImageShape": "Circle",
+  "restId": "1402194113844363267",
+  "tipjarSettings": {}
+}

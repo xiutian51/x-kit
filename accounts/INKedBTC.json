@@ -1,0 +1,67 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNzM2ODE0NTE4NDczMjkzODI0",
+  "isBlueVerified": false,
+  "legacy": {
+    "canDm": false,
+    "canMediaTag": true,
+    "createdAt": "Mon Dec 18 18:25:27 +0000 2023",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "https://t.co/YSkMHOeQvI\nhttps://t.co/vhg0Y1UVQI",
+    "entities": {
+      "description": {
+        "urls": [
+          {
+            "display_url": "discord.gg/inkedbtc",
+            "expanded_url": "http://discord.gg/inkedbtc",
+            "url": "https://t.co/YSkMHOeQvI",
+            "indices": [
+              0,
+              23
+            ]
+          },
+          {
+            "display_url": "magiceden.io/ordinals/marke…",
+            "expanded_url": "https://magiceden.io/ordinals/marketplace/ink",
+            "url": "https://t.co/vhg0Y1UVQI",
+            "indices": [
+              24,
+              47
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 1149,
+    "followersCount": 86566,
+    "following": true,
+    "friendsCount": 163,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 159,
+    "location": "",
+    "mediaCount": 143,
+    "name": "INK ®",
+    "normalFollowersCount": 86566,
+    "pinnedTweetIdsStr": [
+      "1887198720610996253"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1736814518473293824/1703739511",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1740182255748743169/dP--q9t3_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "INKedBTC",
+    "statusesCount": 421,
+    "translatorType": "none",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "profileImageShape": "Circle",
+  "restId": "1736814518473293824",
+  "tipjarSettings": {}
+}

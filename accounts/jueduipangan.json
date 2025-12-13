@@ -1,0 +1,57 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNTgyMjgyNjAwNDgzMjEzMzE5",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Tue Oct 18 08:09:14 +0000 2022",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "2020-2021，实盘5万合约打到一个亿，\n2022.3-4月直播从30万打到2000万\n多次1万u到50-100万u的滚仓复利\n擅长小资金高倍滚仓复利\n8年分时线实战选手\n 你想知道的交易逻辑理念知识全都懂",
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 1,
+    "followersCount": 3159,
+    "following": true,
+    "friendsCount": 26,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 29,
+    "location": "",
+    "mediaCount": 1,
+    "name": "绝对盘感比特Y",
+    "normalFollowersCount": 3159,
+    "pinnedTweetIdsStr": [],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1582282600483213319/1750065770",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1582282828548489216/UKRwDZCn_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "jueduipangan",
+    "statusesCount": 11,
+    "translatorType": "none",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [
+      {
+        "iconName": "IconBriefcaseStroke",
+        "id": 192,
+        "name": "Financial Services"
+      }
+    ],
+    "professionalType": "Creator",
+    "restId": "1582340455966347265"
+  },
+  "profileImageShape": "Circle",
+  "restId": "1582282600483213319",
+  "tipjarSettings": {}
+}

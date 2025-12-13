@@ -1,0 +1,45 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNDQ0ODQ0OTA0OTYyODM4NTI4",
+  "isBlueVerified": false,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Mon Oct 04 02:00:52 +0000 2021",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "MEV searcher (mid-tier), whitehat, blockchain surveyor",
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 996,
+    "followersCount": 7590,
+    "following": true,
+    "friendsCount": 36,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 181,
+    "location": "The mempool",
+    "mediaCount": 231,
+    "name": "MevRefund",
+    "normalFollowersCount": 7590,
+    "pinnedTweetIdsStr": [],
+    "possiblySensitive": false,
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1444857195049402372/4gUzigjx_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "MevRefund",
+    "statusesCount": 1110,
+    "translatorType": "none",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "profileImageShape": "Circle",
+  "restId": "1444844904962838528",
+  "tipjarSettings": {}
+}

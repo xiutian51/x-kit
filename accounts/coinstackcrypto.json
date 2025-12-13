@@ -1,0 +1,61 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxMzkyNDU5NDc5NTM1NTU4NjU5",
+  "isBlueVerified": false,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Wed May 12 12:39:59 +0000 2021",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "The institutional crypto newsletter and podcast. Writing about Blockchain, DeFi, Web 3.0, and the future of money.",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "coinstack.substack.com",
+            "expanded_url": "https://coinstack.substack.com/",
+            "url": "https://t.co/B7UzyJ3tPi",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 528,
+    "followedBy": true,
+    "followersCount": 1036,
+    "following": true,
+    "friendsCount": 1741,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 27,
+    "location": "Austin, TX",
+    "mediaCount": 253,
+    "name": "Coinstack",
+    "normalFollowersCount": 1036,
+    "pinnedTweetIdsStr": [],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1392459479535558659/1620826871",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1392475226655526915/dNkiYglr_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "coinstackcrypto",
+    "statusesCount": 645,
+    "translatorType": "none",
+    "url": "https://t.co/B7UzyJ3tPi",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "profileImageShape": "Circle",
+  "restId": "1392459479535558659",
+  "tipjarSettings": {}
+}

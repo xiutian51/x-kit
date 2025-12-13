@@ -1,0 +1,62 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxMjgzMTg2MzQxODA3NzAyMDE3",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Tue Jul 14 23:47:29 +0000 2020",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "@xlayerofficial Strictly DeFi | @wallet Extension PM",
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 2893,
+    "followedBy": true,
+    "followersCount": 1802,
+    "following": true,
+    "friendsCount": 5964,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 16,
+    "location": "Hong Kong",
+    "mediaCount": 107,
+    "name": "Eric Chung",
+    "normalFollowersCount": 1802,
+    "pinnedTweetIdsStr": [
+      "1938639165224296522"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1283186341807702017/1682361156",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1650567913374638081/kdmsJg5H_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "ericchung_web3",
+    "statusesCount": 1943,
+    "translatorType": "none",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [
+      {
+        "iconName": "IconBriefcaseStroke",
+        "id": 713,
+        "name": "Science & Technology"
+      }
+    ],
+    "professionalType": "Creator",
+    "restId": "1650821056209502215"
+  },
+  "profileImageShape": "Circle",
+  "restId": "1283186341807702017",
+  "tipjarSettings": {
+    "isEnabled": true
+  }
+}

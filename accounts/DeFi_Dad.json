@@ -1,0 +1,81 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjo5OTE3NDUxNjIyNzQ0Njc4NDA=",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Wed May 02 18:24:07 +0000 2018",
+    "defaultProfile": false,
+    "defaultProfileImage": false,
+    "description": "⟠ DeFi super-user, educator, angel\n🎙️ Host/Producer of The @Edge_Pod\n📰 FREE Newsletter: https://t.co/Pm9e0APe9B\n📺 Watch on https://t.co/txxZZAhqsW\n💫 Invests at @4RCapital",
+    "entities": {
+      "description": {
+        "urls": [
+          {
+            "display_url": "the-edge.xyz",
+            "expanded_url": "http://the-edge.xyz",
+            "url": "https://t.co/Pm9e0APe9B",
+            "indices": [
+              88,
+              111
+            ]
+          },
+          {
+            "display_url": "youtube.com/@defidad",
+            "expanded_url": "http://youtube.com/@defidad",
+            "url": "https://t.co/txxZZAhqsW",
+            "indices": [
+              123,
+              146
+            ]
+          }
+        ]
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "defidad.com",
+            "expanded_url": "http://defidad.com",
+            "url": "https://t.co/OLJgM3U8e4",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 114111,
+    "followersCount": 176724,
+    "following": true,
+    "friendsCount": 6051,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 4009,
+    "location": "",
+    "mediaCount": 11725,
+    "name": "DeFi Dad ⟠ defidad.eth",
+    "normalFollowersCount": 176724,
+    "pinnedTweetIdsStr": [
+      "1991632598804701259"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/991745162274467840/1726863467",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1613764698775633921/72tL5YzB_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "DeFi_Dad",
+    "statusesCount": 59176,
+    "translatorType": "none",
+    "url": "https://t.co/OLJgM3U8e4",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "profileImageShape": "Circle",
+  "restId": "991745162274467840",
+  "tipjarSettings": {}
+}

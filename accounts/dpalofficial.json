@@ -1,0 +1,70 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNjYxNTkyMjcxNjc2OTk3NjMz",
+  "isBlueVerified": false,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Thu May 25 04:37:40 +0000 2023",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "dpal wallet  = doge + web3 + payments + fun\n@mzydev\n if u want to talk, contact him",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "dpalwallet.io",
+            "expanded_url": "https://dpalwallet.io/",
+            "url": "https://t.co/Klk4bk94nH",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 81,
+    "followersCount": 3064,
+    "following": true,
+    "friendsCount": 11,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 17,
+    "location": "earth",
+    "mediaCount": 30,
+    "name": "DPalwallet",
+    "normalFollowersCount": 3064,
+    "pinnedTweetIdsStr": [],
+    "possiblySensitive": false,
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1666729571205660672/sJrnGTeo_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "dpalofficial",
+    "statusesCount": 201,
+    "translatorType": "none",
+    "url": "https://t.co/Klk4bk94nH",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [
+      {
+        "iconName": "IconBriefcaseStroke",
+        "id": 192,
+        "name": "Financial Services"
+      }
+    ],
+    "professionalType": "Business",
+    "restId": "1666694832365137925"
+  },
+  "profileImageShape": "Circle",
+  "restId": "1661592271676997633",
+  "tipjarSettings": {}
+}

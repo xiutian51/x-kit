@@ -1,0 +1,64 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {
+    "label": {
+      "url": {
+        "url": "https://twitter.com/UseUniversalX",
+        "urlType": "DeepLink"
+      },
+      "badge": {
+        "url": "https://pbs.twimg.com/profile_images/1885153504291102720/R7usrJag_bigger.jpg"
+      },
+      "description": "UniversalX",
+      "userLabelType": "BusinessLabel",
+      "userLabelDisplayType": "Badge"
+    }
+  },
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNTI0NDU1NDU2NzQzMjA2OTEy",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Wed May 11 18:24:44 +0000 2022",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "COO, sleepless @ParticleNtwrk @UseUniversalX. 19. Aviator, UX maxi.",
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 43532,
+    "followersCount": 7563,
+    "following": true,
+    "friendsCount": 2433,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 132,
+    "location": "Colorado",
+    "mediaCount": 867,
+    "name": "Ethan \"TABASCO\"",
+    "normalFollowersCount": 7563,
+    "pinnedTweetIdsStr": [
+      "1991450783846641892"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1524455456743206912/1765301661",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1998464049839845376/sYkYmvEx_normal.png",
+    "profileInterstitialType": "",
+    "screenName": "ethanfr",
+    "statusesCount": 11140,
+    "translatorType": "none",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "profileImageShape": "Circle",
+  "restId": "1524455456743206912",
+  "tipjarSettings": {
+    "ethereumHandle": "0x45794810982d2024901a0972ee101ACfBc018E0B",
+    "isEnabled": true
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNDk4MTc2OTE4MjUyMDM2MDk4",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": false,
+    "createdAt": "Mon Feb 28 06:03:20 +0000 2022",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "Gameta is Multi-layered Web3 Entertainment Ecosystem.\n@GametaHippo:NFT-centric community\n\ndiscord:https://t.co/L6vCM34ydM",
+    "entities": {
+      "description": {
+        "urls": [
+          {
+            "display_url": "discord.gg/8BMjZw6AB4",
+            "expanded_url": "https://discord.gg/8BMjZw6AB4",
+            "url": "https://t.co/L6vCM34ydM",
+            "indices": [
+              98,
+              121
+            ]
+          }
+        ]
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "linktr.ee/officialgameta",
+            "expanded_url": "https://linktr.ee/officialgameta",
+            "url": "https://t.co/dxUGL0tqat",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 1042,
+    "followersCount": 133553,
+    "following": true,
+    "friendsCount": 225,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 111,
+    "location": "",
+    "mediaCount": 542,
+    "name": "Gameta",
+    "normalFollowersCount": 133553,
+    "pinnedTweetIdsStr": [
+      "1781246259430613348"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1498176918252036098/1668656345",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1593092868150697984/dKe6TySp_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "Gameta_Official",
+    "statusesCount": 1458,
+    "translatorType": "none",
+    "url": "https://t.co/dxUGL0tqat",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [],
+    "professionalType": "Creator",
+    "restId": "1501734942484668416"
+  },
+  "profileImageShape": "Circle",
+  "restId": "1498176918252036098",
+  "tipjarSettings": {}
+}

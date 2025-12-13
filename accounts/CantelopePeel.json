@@ -1,0 +1,77 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {
+    "label": {
+      "url": {
+        "url": "https://twitter.com/thru_xyz",
+        "urlType": "DeepLink"
+      },
+      "badge": {
+        "url": "https://pbs.twimg.com/profile_images/1945506539193925634/n6yNokFM_bigger.png"
+      },
+      "description": "Thru",
+      "userLabelType": "BusinessLabel",
+      "userLabelDisplayType": "Badge"
+    }
+  },
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxMjU1ODg4MjAy",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": false,
+    "createdAt": "Sun Mar 10 02:23:50 +0000 2013",
+    "defaultProfile": false,
+    "defaultProfileImage": false,
+    "description": "Co-founder at @UntoLabs, building @thru_xyz. The only way out is Thru.",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "thru.org",
+            "expanded_url": "http://thru.org",
+            "url": "https://t.co/z2peDJNXCy",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 16018,
+    "followersCount": 10103,
+    "following": true,
+    "friendsCount": 1208,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 147,
+    "location": "",
+    "mediaCount": 573,
+    "name": "CANTELOPEPEEL",
+    "normalFollowersCount": 10103,
+    "pinnedTweetIdsStr": [
+      "1989434982931337672"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1255888202/1737562801",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1962951685804011520/odYI7_AX_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "CantelopePeel",
+    "statusesCount": 5980,
+    "translatorType": "none",
+    "url": "https://t.co/z2peDJNXCy",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "profileImageShape": "Circle",
+  "restId": "1255888202",
+  "tipjarSettings": {
+    "isEnabled": false
+  }
+}

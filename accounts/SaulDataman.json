@@ -1,0 +1,73 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNDMwMDU2Mzk3NzM2MDU0Nzg3",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": false,
+    "canMediaTag": true,
+    "createdAt": "Tue Aug 24 07:13:58 +0000 2021",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "Crypto Noob | punk#4318 - \"I work for #Bitcoin\"\nLab Key @CoinSummerLabs | @DewhalesCapital Member\n#AnimalFlow China Ambassador for Growth\n#MEME #AI #FTW",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "linktr.ee/sauldataman",
+            "expanded_url": "https://linktr.ee/sauldataman",
+            "url": "https://t.co/0IA8D4bBfB",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 1229,
+    "followersCount": 3363,
+    "following": true,
+    "friendsCount": 1220,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 96,
+    "location": "Mars",
+    "mediaCount": 184,
+    "name": "Saul Dataman 🚀⚖🦇🔊",
+    "normalFollowersCount": 3363,
+    "pinnedTweetIdsStr": [
+      "1828393480928010537"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1430056397736054787/1685386537",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1852229578401681410/lO6h1W0L_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "SaulDataman",
+    "statusesCount": 1290,
+    "translatorType": "none",
+    "url": "https://t.co/0IA8D4bBfB",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [
+      {
+        "iconName": "IconBriefcaseStroke",
+        "id": 958,
+        "name": "Entrepreneur"
+      }
+    ],
+    "professionalType": "Creator",
+    "restId": "1483390024288989200"
+  },
+  "profileImageShape": "Circle",
+  "restId": "1430056397736054787",
+  "tipjarSettings": {}
+}

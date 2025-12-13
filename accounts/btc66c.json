@@ -1,0 +1,92 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxMjg4MzE5NzI0NzcwNjY0NDQ4",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": false,
+    "createdAt": "Wed Jul 29 03:45:44 +0000 2020",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "实盘合约争霸赛全球第8/币安认证顶尖交易员！擅长超短线/趋势交易：交易手续费反佣币安https://t.co/anYuzeYFcL欧易https://t.co/Tc8dXFAw93   交流频道https://t.co/83uAiAMwwB",
+    "entities": {
+      "description": {
+        "urls": [
+          {
+            "display_url": "maxweb.black/join?ref=PK789",
+            "expanded_url": "https://www.maxweb.black/join?ref=PK789",
+            "url": "https://t.co/anYuzeYFcL",
+            "indices": [
+              42,
+              65
+            ]
+          },
+          {
+            "display_url": "lywebuuz.com/join/PK789",
+            "expanded_url": "https://www.lywebuuz.com/join/PK789",
+            "url": "https://t.co/Tc8dXFAw93",
+            "indices": [
+              67,
+              90
+            ]
+          },
+          {
+            "display_url": "t.me/+RdTTRf99TPFlN…",
+            "expanded_url": "https://t.me/+RdTTRf99TPFlN2Y1",
+            "url": "https://t.co/83uAiAMwwB",
+            "indices": [
+              97,
+              120
+            ]
+          }
+        ]
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "t.me/+RdTTRf99TPFlN…",
+            "expanded_url": "https://t.me/+RdTTRf99TPFlN2Y1",
+            "url": "https://t.co/83uAiAMwwB",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 277,
+    "followersCount": 998,
+    "following": true,
+    "friendsCount": 274,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 3,
+    "location": "Hong Kong",
+    "mediaCount": 107,
+    "name": "厂长",
+    "normalFollowersCount": 998,
+    "pinnedTweetIdsStr": [
+      "1780193823471407358"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1288319724770664448/1682419115",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1403812077064519682/VwNpRoeF_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "btc66c",
+    "statusesCount": 359,
+    "translatorType": "none",
+    "url": "https://t.co/83uAiAMwwB",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "profileImageShape": "Circle",
+  "restId": "1288319724770664448",
+  "tipjarSettings": {
+    "isEnabled": true
+  }
+}

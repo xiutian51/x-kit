@@ -1,0 +1,53 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxMzc4Njk4MzIzMjgwODYzMjM3",
+  "isBlueVerified": false,
+  "legacy": {
+    "canDm": false,
+    "canMediaTag": true,
+    "createdAt": "Sun Apr 04 13:18:06 +0000 2021",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "LP @Sequoia @IOSGvc @Qimingvc",
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 1036,
+    "followersCount": 5069,
+    "following": true,
+    "friendsCount": 1002,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 109,
+    "location": "Singapore",
+    "mediaCount": 151,
+    "name": "Cryptowilliam.eth",
+    "normalFollowersCount": 5069,
+    "pinnedTweetIdsStr": [
+      "1745087725986869382"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1378698323280863237/1681311101",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1766109632005918720/gNco-n1c_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "cryptowilliamm",
+    "statusesCount": 933,
+    "translatorType": "none",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [],
+    "professionalType": "Business",
+    "restId": "1517556912430419968"
+  },
+  "profileImageShape": "Circle",
+  "restId": "1378698323280863237",
+  "tipjarSettings": {}
+}

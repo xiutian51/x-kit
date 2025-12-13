@@ -1,0 +1,72 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxMjM1MjkyNzAwNjg3MTkyMDY0",
+  "isBlueVerified": false,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Wed Mar 04 19:55:15 +0000 2020",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "Unlock the full potential of crypto trading with https://t.co/YL9s1aKN1f. \n\nReal-time market insights with our comprehensive on and off-chain Super Feed.",
+    "entities": {
+      "description": {
+        "urls": [
+          {
+            "display_url": "Coinact.gg",
+            "expanded_url": "http://Coinact.gg",
+            "url": "https://t.co/YL9s1aKN1f",
+            "indices": [
+              49,
+              72
+            ]
+          }
+        ]
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "coinact.gg",
+            "expanded_url": "https://coinact.gg",
+            "url": "https://t.co/7HjLc9KWye",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 954,
+    "followersCount": 10618,
+    "following": true,
+    "friendsCount": 52,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 494,
+    "location": "",
+    "mediaCount": 54,
+    "name": "Coinact",
+    "normalFollowersCount": 10618,
+    "pinnedTweetIdsStr": [
+      "1852739895162187780"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1235292700687192064/1693752639",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1745024428985978880/87GIjHtX_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "coinactgg",
+    "statusesCount": 31692,
+    "translatorType": "none",
+    "url": "https://t.co/7HjLc9KWye",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "profileImageShape": "Circle",
+  "restId": "1235292700687192064",
+  "tipjarSettings": {}
+}

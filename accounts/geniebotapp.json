@@ -1,0 +1,62 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNjYzNDc1ODczMzM1NDQzNDU2",
+  "isBlueVerified": false,
+  "legacy": {
+    "canDm": false,
+    "canMediaTag": true,
+    "createdAt": "Tue May 30 09:22:21 +0000 2023",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "An AI-driven Telegram bot that effortlessly tackles project questions, updates its knowledge base with admin input, and smartly adapts to your whitepaper & more",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "linktr.ee/geniebotapp",
+            "expanded_url": "https://linktr.ee/geniebotapp",
+            "url": "https://t.co/ZWGK8cqTkq",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 85,
+    "followersCount": 2783,
+    "following": true,
+    "friendsCount": 0,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 37,
+    "location": "",
+    "mediaCount": 13,
+    "name": "GenieBot",
+    "normalFollowersCount": 2783,
+    "pinnedTweetIdsStr": [
+      "1704899718772625764"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1663475873335443456/1691682472",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1689664860366528512/2qW6WHag_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "geniebotapp",
+    "statusesCount": 123,
+    "translatorType": "none",
+    "url": "https://t.co/ZWGK8cqTkq",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "profileImageShape": "Circle",
+  "restId": "1663475873335443456",
+  "tipjarSettings": {}
+}

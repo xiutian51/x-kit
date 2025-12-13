@@ -1,0 +1,67 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNTgyMzYxNDcyMTY3OTQ4Mjg5",
+  "isBlueVerified": false,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Tue Oct 18 13:24:57 +0000 2022",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "建立在@GMX_IO $GLP 上的PvP-AMM永续合约交易协议 | 最低交易费 0.008% | 没有借贷费和持仓费 | 质押 $LP 双倍收入 | 官方@LionDEXOfficial",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "linktr.ee/liondex",
+            "expanded_url": "https://linktr.ee/liondex",
+            "url": "https://t.co/AzKFw9UzMC",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 44,
+    "followersCount": 5696,
+    "following": true,
+    "friendsCount": 322,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 45,
+    "location": "Arbitrum (💙,🧡)",
+    "mediaCount": 7,
+    "name": "LionDEX中文",
+    "normalFollowersCount": 5696,
+    "pinnedTweetIdsStr": [
+      "1697537054740226208"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1582361472167948289/1684509644",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1659476848315858944/hpzEErFT_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "LionDEX_CN",
+    "statusesCount": 226,
+    "translatorType": "none",
+    "url": "https://t.co/AzKFw9UzMC",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [],
+    "professionalType": "Creator",
+    "restId": "1625370072217960449"
+  },
+  "profileImageShape": "Circle",
+  "restId": "1582361472167948289",
+  "tipjarSettings": {}
+}

@@ -1,0 +1,84 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNTk4NzA3NTc2Mjk1ODkwOTQ2",
+  "isBlueVerified": false,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": false,
+    "createdAt": "Fri Dec 02 15:56:17 +0000 2022",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "AI-powered DeFi Sentiment Analytics & KOL Tracking powered by $ASCN.\n\nStaking → https://t.co/AtqKo6fRpG\nDocs → https://t.co/KgXwN4RGRD",
+    "entities": {
+      "description": {
+        "urls": [
+          {
+            "display_url": "staking.alphascan.xyz",
+            "expanded_url": "https://staking.alphascan.xyz",
+            "url": "https://t.co/AtqKo6fRpG",
+            "indices": [
+              80,
+              103
+            ]
+          },
+          {
+            "display_url": "alphascan.gitbook.io",
+            "expanded_url": "https://alphascan.gitbook.io/",
+            "url": "https://t.co/KgXwN4RGRD",
+            "indices": [
+              111,
+              134
+            ]
+          }
+        ]
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "app.alphascan.xyz",
+            "expanded_url": "https://app.alphascan.xyz",
+            "url": "https://t.co/7sP3vleI5v",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 3216,
+    "followersCount": 27777,
+    "following": true,
+    "friendsCount": 160,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 541,
+    "location": "",
+    "mediaCount": 1559,
+    "name": "AlphaScan AI (🎯,🚀)",
+    "normalFollowersCount": 27777,
+    "pinnedTweetIdsStr": [],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1598707576295890946/1708590037",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1658151243531923465/KB1EZmdA_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "alphascan_xyz",
+    "statusesCount": 5225,
+    "translatorType": "none",
+    "url": "https://t.co/7sP3vleI5v",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [],
+    "professionalType": "Business",
+    "restId": "1637166536849870851"
+  },
+  "profileImageShape": "Circle",
+  "restId": "1598707576295890946",
+  "tipjarSettings": {}
+}

@@ -1,0 +1,62 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxMDY0NDIxMzI1MTg2MzU5Mjk2",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Mon Nov 19 07:33:14 +0000 2018",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "\"The Humble Farmer” 🧑‍🌾 | Founder @HFAresearch 🐸 | Lad @0xSteadyLads 🌊 | Host @CryptoMarketWiz 🎙️ No ads/sponsors 🫡",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "youtube.com/@thehumblefarm…",
+            "expanded_url": "http://youtube.com/@thehumblefarmer",
+            "url": "https://t.co/eN1G9QisNV",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 7628,
+    "followersCount": 112224,
+    "following": true,
+    "friendsCount": 934,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 2560,
+    "location": "Education",
+    "mediaCount": 1804,
+    "name": "Taiki Maeda",
+    "normalFollowersCount": 112224,
+    "pinnedTweetIdsStr": [
+      "1836969763396096113"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1064421325186359296/1742184115",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1865978664535334912/H8YWnmXS_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "TaikiMaeda2",
+    "statusesCount": 8543,
+    "translatorType": "none",
+    "url": "https://t.co/eN1G9QisNV",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "profileImageShape": "Circle",
+  "restId": "1064421325186359296",
+  "tipjarSettings": {}
+}

@@ -1,0 +1,63 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjo3NzYwMTY4Njc0MjA5NjI4MTY=",
+  "isBlueVerified": false,
+  "legacy": {
+    "canDm": false,
+    "canMediaTag": true,
+    "createdAt": "Wed Sep 14 11:16:53 +0000 2016",
+    "defaultProfile": false,
+    "defaultProfileImage": false,
+    "description": "Financial Times Partner Content helps brands tell powerful stories that are relevant to our audience",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "linktr.ee/ftpartnerconte…",
+            "expanded_url": "https://linktr.ee/ftpartnercontent",
+            "url": "https://t.co/dzDn7HxAio",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 1,
+    "followersCount": 22599,
+    "following": true,
+    "friendsCount": 146,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 252,
+    "location": "London",
+    "mediaCount": 464,
+    "name": "FT Partner Content",
+    "normalFollowersCount": 22599,
+    "pinnedTweetIdsStr": [
+      "1360242342360449029"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/776016867420962816/1613081653",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/966292403530489856/9YWIrY5r_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "ft_content",
+    "statusesCount": 1810,
+    "translatorType": "none",
+    "url": "https://t.co/dzDn7HxAio",
+    "verified": false,
+    "verifiedType": "Business",
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "profileImageShape": "Square",
+  "restId": "776016867420962816",
+  "tipjarSettings": {}
+}

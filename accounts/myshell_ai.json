@@ -1,0 +1,84 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNjE2NjQ3MzcxMDgxMDI3NTg4",
+  "isBlueVerified": false,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Sat Jan 21 04:02:57 +0000 2023",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "The first AI consumer layer - build, share, and own AI Apps. | Join the community https://t.co/aYJMrYZxOA",
+    "entities": {
+      "description": {
+        "urls": [
+          {
+            "display_url": "discord.gg/myshell",
+            "expanded_url": "https://discord.gg/myshell",
+            "url": "https://t.co/aYJMrYZxOA",
+            "indices": [
+              82,
+              105
+            ]
+          }
+        ]
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "myshell.ai",
+            "expanded_url": "https://myshell.ai",
+            "url": "https://t.co/ZovndSjcc6",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 2352,
+    "followersCount": 199874,
+    "following": true,
+    "friendsCount": 733,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 876,
+    "location": "United States",
+    "mediaCount": 449,
+    "name": "MyShell.AI",
+    "normalFollowersCount": 199874,
+    "pinnedTweetIdsStr": [
+      "1957784579059974151"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1616647371081027588/1743674150",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1907733600507965440/PKdMImlG_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "myshell_ai",
+    "statusesCount": 1759,
+    "translatorType": "none",
+    "url": "https://t.co/ZovndSjcc6",
+    "verified": false,
+    "verifiedType": "Business",
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [
+      {
+        "iconName": "IconBriefcaseStroke",
+        "id": 713,
+        "name": "Science & Technology"
+      }
+    ],
+    "professionalType": "Creator",
+    "restId": "1644351651539722240"
+  },
+  "profileImageShape": "Square",
+  "restId": "1616647371081027588",
+  "tipjarSettings": {}
+}

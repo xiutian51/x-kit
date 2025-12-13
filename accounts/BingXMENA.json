@@ -1,0 +1,106 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {
+    "label": {
+      "url": {
+        "url": "https://twitter.com/BingXOfficial",
+        "urlType": "DeepLink"
+      },
+      "badge": {
+        "url": "https://pbs.twimg.com/profile_images/1927213403673636867/fAXIdHr__bigger.jpg"
+      },
+      "description": "BingX",
+      "userLabelType": "BusinessLabel",
+      "userLabelDisplayType": "Badge"
+    }
+  },
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNjU2NjMyOTU1NjA2MDI4Mjg5",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Thu May 11 12:11:27 +0000 2023",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "حساب منصة BingX الرسمي لمنطقةالشرق الأوسط وشمال أفريقيا-\nمجتمع تليجرام:\nhttps://t.co/IWbybfUAgB\nرابط التسجيل المميز🎁\nhttps://t.co/hiHZUruEA6",
+    "entities": {
+      "description": {
+        "urls": [
+          {
+            "display_url": "t.me/BingXArab",
+            "expanded_url": "https://t.me/BingXArab",
+            "url": "https://t.co/IWbybfUAgB",
+            "indices": [
+              72,
+              95
+            ]
+          },
+          {
+            "display_url": "bingx.com/partner/MENAre…",
+            "expanded_url": "https://bingx.com/partner/MENAregion",
+            "url": "https://t.co/hiHZUruEA6",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "bingx.com/partner/MENAre…",
+            "expanded_url": "https://bingx.com/partner/MENAregion",
+            "url": "https://t.co/hiHZUruEA6",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 2133,
+    "followersCount": 3705,
+    "following": true,
+    "friendsCount": 32,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 4,
+    "location": "الشرق الأوسط وشمال أفريقيا",
+    "mediaCount": 732,
+    "name": "BingX MENA",
+    "normalFollowersCount": 3705,
+    "pinnedTweetIdsStr": [],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1656632955606028289/1761123412",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1998665285763575809/KysiiiTW_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "BingXMENA",
+    "statusesCount": 1145,
+    "translatorType": "none",
+    "url": "https://t.co/hiHZUruEA6",
+    "verified": false,
+    "verifiedType": "Business",
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [
+      {
+        "iconName": "IconBriefcaseStroke",
+        "id": 1094,
+        "name": "Blockchain"
+      }
+    ],
+    "professionalType": "Business",
+    "restId": "1670461535091654662"
+  },
+  "profileImageShape": "Square",
+  "restId": "1656632955606028289",
+  "tipjarSettings": {
+    "isEnabled": true
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {
+    "label": {
+      "url": {
+        "url": "https://twitter.com/ARKInvest",
+        "urlType": "DeepLink"
+      },
+      "badge": {
+        "url": "https://pbs.twimg.com/profile_images/1189207021146509313/yvzyuloD_bigger.jpg"
+      },
+      "description": "ARK Invest",
+      "userLabelType": "BusinessLabel",
+      "userLabelDisplayType": "Badge"
+    }
+  },
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoyMzYxNjMxMDg4",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": false,
+    "createdAt": "Tue Feb 25 20:47:19 +0000 2014",
+    "defaultProfile": false,
+    "defaultProfileImage": false,
+    "description": "Founder, CEO and CIO @ARKinvest. Thematic portfolio manager for disruptive innovation, mom, economist, and women's advocate. Disclosure: https://t.co/chxRD4oWOd",
+    "entities": {
+      "description": {
+        "urls": [
+          {
+            "display_url": "arkinv.st/terms",
+            "expanded_url": "http://arkinv.st/terms",
+            "url": "https://t.co/chxRD4oWOd",
+            "indices": [
+              137,
+              160
+            ]
+          }
+        ]
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "ark-invest.com",
+            "expanded_url": "http://www.ark-invest.com",
+            "url": "https://t.co/c4j67UTEAe",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 3101,
+    "followersCount": 1910110,
+    "following": true,
+    "friendsCount": 500,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 13849,
+    "location": "St. Petersburg, FL",
+    "mediaCount": 365,
+    "name": "Cathie Wood",
+    "normalFollowersCount": 1910110,
+    "pinnedTweetIdsStr": [],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/2361631088/1593641030",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1782845672829423617/xuyhQIY5_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "CathieDWood",
+    "statusesCount": 6875,
+    "translatorType": "none",
+    "url": "https://t.co/c4j67UTEAe",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "profileImageShape": "Circle",
+  "restId": "2361631088",
+  "tipjarSettings": {}
+}

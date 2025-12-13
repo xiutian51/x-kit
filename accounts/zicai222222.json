@@ -1,0 +1,57 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNDY4ODc0OTk1MTM2NzUzNjY0",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": false,
+    "canMediaTag": false,
+    "createdAt": "Thu Dec 09 09:27:50 +0000 2021",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "BAYC #2222",
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 190,
+    "followersCount": 4195,
+    "following": true,
+    "friendsCount": 868,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 81,
+    "location": "北京",
+    "mediaCount": 41,
+    "name": "zicai.poker",
+    "normalFollowersCount": 4195,
+    "pinnedTweetIdsStr": [],
+    "possiblySensitive": true,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1468874995136753664/1654605297",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1594535410478116865/P9SVGW6H_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "zicai222222",
+    "statusesCount": 213,
+    "translatorType": "none",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [
+      {
+        "iconName": "IconBriefcaseStroke",
+        "id": 934,
+        "name": "Social Media Influencer"
+      }
+    ],
+    "professionalType": "Creator",
+    "restId": "1523934901505912832"
+  },
+  "profileImageShape": "Circle",
+  "restId": "1468874995136753664",
+  "tipjarSettings": {}
+}

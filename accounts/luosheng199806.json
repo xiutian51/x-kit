@@ -1,0 +1,62 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNTI2Nzc5MDg1MjU0MzY1MTg0",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": false,
+    "createdAt": "Wed May 18 04:18:18 +0000 2022",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "行情本身从未波动，所看到的价格跳动只是参与者的心在动。\n等心定了以后，便看不到价格的波动，眼里只有趋势和信号。\n\n推特X很少更新，主要做长视频发布在油管\n【谨防盗版注意推特0关注】\n电报唯一账号BestTraderCriss\n唯一手机：+44 7422 523359",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "youtube.com/channel/UC0ME4…",
+            "expanded_url": "https://www.youtube.com/channel/UC0ME4F7Sn9Xb-LBjGrKWSgg",
+            "url": "https://t.co/BNvarYuETn",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 644,
+    "followersCount": 18839,
+    "following": true,
+    "friendsCount": 0,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 266,
+    "location": "",
+    "mediaCount": 83,
+    "name": "罗晟",
+    "normalFollowersCount": 18839,
+    "pinnedTweetIdsStr": [
+      "1526836757261520896"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1526779085254365184/1716280432",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1526779982042673153/XHNIpiGS_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "luosheng199806",
+    "statusesCount": 420,
+    "translatorType": "none",
+    "url": "https://t.co/BNvarYuETn",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "profileImageShape": "Circle",
+  "restId": "1526779085254365184",
+  "tipjarSettings": {}
+}

@@ -1,0 +1,59 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxMzk4NTU2MTUzNDk2MzA5NzYx",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Sat May 29 08:26:00 +0000 2021",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "😹 dog beater = 打狗😹",
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 444,
+    "followersCount": 8087,
+    "following": true,
+    "friendsCount": 1250,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 188,
+    "location": "",
+    "mediaCount": 403,
+    "name": "飞狐",
+    "normalFollowersCount": 8087,
+    "pinnedTweetIdsStr": [
+      "1966494554871250966"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1398556153496309761/1667951521",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1797567912125063168/SaTkE-uD_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "web3foxcn",
+    "statusesCount": 5750,
+    "translatorType": "none",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [
+      {
+        "iconName": "IconBriefcaseStroke",
+        "id": 192,
+        "name": "Financial Services"
+      }
+    ],
+    "professionalType": "Creator",
+    "restId": "1599165080628736000"
+  },
+  "profileImageShape": "Circle",
+  "restId": "1398556153496309761",
+  "tipjarSettings": {}
+}

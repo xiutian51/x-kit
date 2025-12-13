@@ -1,0 +1,104 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {
+    "label": {
+      "url": {
+        "url": "https://twitter.com/okx",
+        "urlType": "DeepLink"
+      },
+      "badge": {
+        "url": "https://pbs.twimg.com/profile_images/1968722816154345472/vEj4j3o9_bigger.jpg"
+      },
+      "description": "OKX",
+      "userLabelType": "BusinessLabel",
+      "userLabelDisplayType": "Badge"
+    }
+  },
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNDYxMjI0OTk0NzA1NjQ5Njcx",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Thu Nov 18 06:49:35 +0000 2021",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "全球领先的加密资产交易平台和Web3平台｜@mancity @mclarenf1 赞助商\n注册领奖励：https://t.co/WUckrWaDMh\n中文油管频道：https://t.co/qu5oz24nVW\n*某些产品服务或推广活动不适用于部分地区",
+    "entities": {
+      "description": {
+        "urls": [
+          {
+            "display_url": "okx.com/ul/6CngT5?chan…",
+            "expanded_url": "https://www.okx.com/ul/6CngT5?channelId=TWITTERCN",
+            "url": "https://t.co/WUckrWaDMh",
+            "indices": [
+              51,
+              74
+            ]
+          },
+          {
+            "display_url": "youtube.com/@OKX",
+            "expanded_url": "https://www.youtube.com/@OKX",
+            "url": "https://t.co/qu5oz24nVW",
+            "indices": [
+              82,
+              105
+            ]
+          }
+        ]
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "okx.com/ul/6CngT5?chan…",
+            "expanded_url": "https://www.okx.com/ul/6CngT5?channelId=TWITTERCN",
+            "url": "https://t.co/WUckrWaDMh",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 7349,
+    "followersCount": 709584,
+    "following": true,
+    "friendsCount": 327,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 1651,
+    "location": "",
+    "mediaCount": 5775,
+    "name": "OKX中文",
+    "normalFollowersCount": 709584,
+    "pinnedTweetIdsStr": [
+      "1997688369552498904"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1461224994705649671/1762955767",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1873911184954712065/nUfQZKah_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "okxchinese",
+    "statusesCount": 13422,
+    "translatorType": "none",
+    "url": "https://t.co/WUckrWaDMh",
+    "verified": false,
+    "verifiedType": "Business",
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [],
+    "professionalType": "Business",
+    "restId": "1468146192404336642"
+  },
+  "profileImageShape": "Square",
+  "restId": "1461224994705649671",
+  "tipjarSettings": {
+    "bitcoinHandle": "396iZz54rdPj2T6qDTdBqNDkreNH6cBxUq",
+    "ethereumHandle": "0x719A9C353d11B99ad57c8C24222fE7C7A49717f9",
+    "isEnabled": false
+  }
+}

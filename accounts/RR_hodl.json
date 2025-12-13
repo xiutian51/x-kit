@@ -1,0 +1,54 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjo3MjI2NTE3OTA2ODA5MzIzNTM=",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Wed Apr 20 05:03:07 +0000 2016",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "",
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 11185,
+    "followedBy": true,
+    "followersCount": 17661,
+    "following": true,
+    "friendsCount": 2713,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 565,
+    "location": "In-N-Out",
+    "mediaCount": 454,
+    "name": "R",
+    "normalFollowersCount": 17661,
+    "pinnedTweetIdsStr": [
+      "1979577101440438373"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/722651790680932353/1671542883",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1821821815339311104/dtQeVTOr_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "RR_hodl",
+    "statusesCount": 4625,
+    "translatorType": "none",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [],
+    "professionalType": "Business",
+    "restId": "1636281157984583684"
+  },
+  "profileImageShape": "Circle",
+  "restId": "722651790680932353",
+  "tipjarSettings": {}
+}

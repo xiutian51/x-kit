@@ -1,0 +1,48 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjo5MzMzMTkwMzcyODI0MzA5Nzc=",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Wed Nov 22 12:59:33 +0000 2017",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "BD @0xcatalysis — Onchain risk coverage for instutional DeFi | delegate @0xPolygon, @shoalresearch| prev. @luganodes, @2077Research | @thenetworkstate fellow",
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 15634,
+    "followersCount": 1737,
+    "following": true,
+    "friendsCount": 4373,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 26,
+    "location": "verifiable cloud",
+    "mediaCount": 334,
+    "name": "0xyanshu (d/acc)",
+    "normalFollowersCount": 1737,
+    "pinnedTweetIdsStr": [
+      "1998075762079867138"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/933319037282430977/1729622329",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1683174953817092096/tOSnq-HP_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "0xyanshu",
+    "statusesCount": 4105,
+    "translatorType": "none",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "profileImageShape": "Circle",
+  "restId": "933319037282430977",
+  "tipjarSettings": {}
+}

@@ -1,0 +1,47 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjo4ODg0MTkxNzcxOTQ2MzkzNjE=",
+  "isBlueVerified": false,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": false,
+    "createdAt": "Fri Jul 21 15:23:32 +0000 2017",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "做了十年程序员，2017年入圈加密货币的老韭菜",
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 4629,
+    "followersCount": 227,
+    "following": true,
+    "friendsCount": 77,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 2,
+    "location": "Hong Kong",
+    "mediaCount": 51,
+    "name": "阿杰",
+    "normalFollowersCount": 227,
+    "pinnedTweetIdsStr": [],
+    "possiblySensitive": false,
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1756138946256568320/dpvYQtFE_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "CryptoJie2017",
+    "statusesCount": 2826,
+    "translatorType": "none",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "profileImageShape": "Circle",
+  "restId": "888419177194639361",
+  "tipjarSettings": {
+    "isEnabled": true
+  }
+}

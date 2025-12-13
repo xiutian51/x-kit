@@ -1,0 +1,45 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNDY5MjI0NTkyMzYzNDY2NzUy",
+  "isBlueVerified": false,
+  "legacy": {
+    "canDm": false,
+    "canMediaTag": true,
+    "createdAt": "Fri Dec 10 08:37:01 +0000 2021",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "",
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 340,
+    "followersCount": 20,
+    "following": true,
+    "friendsCount": 3,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 9,
+    "location": "",
+    "mediaCount": 0,
+    "name": "K",
+    "normalFollowersCount": 20,
+    "pinnedTweetIdsStr": [],
+    "possiblySensitive": false,
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1888312167331504128/TD-MzLgS_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "eatingbtc",
+    "statusesCount": 16,
+    "translatorType": "none",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "profileImageShape": "Circle",
+  "restId": "1469224592363466752",
+  "tipjarSettings": {}
+}

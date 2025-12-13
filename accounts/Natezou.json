@@ -1,0 +1,72 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjozNDQxMDc0NA==",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Wed Apr 22 21:47:48 +0000 2009",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "trustwallet.com",
+            "expanded_url": "https://trustwallet.com/",
+            "url": "https://t.co/snlFZpfOYu",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 84,
+    "followedBy": true,
+    "followersCount": 4052,
+    "following": true,
+    "friendsCount": 408,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 18,
+    "location": "San Ramon, CA",
+    "mediaCount": 15,
+    "name": "Nate",
+    "normalFollowersCount": 4052,
+    "pinnedTweetIdsStr": [],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/34410744/1653838711",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1899642700615557120/hMZ9ART-_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "Natezou",
+    "statusesCount": 401,
+    "translatorType": "none",
+    "url": "https://t.co/snlFZpfOYu",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [
+      {
+        "iconName": "IconBriefcaseStroke",
+        "id": 192,
+        "name": "Financial Services"
+      }
+    ],
+    "professionalType": "Creator",
+    "restId": "1530265968777187328"
+  },
+  "profileImageShape": "Circle",
+  "restId": "34410744",
+  "tipjarSettings": {}
+}

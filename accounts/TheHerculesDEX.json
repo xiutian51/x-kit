@@ -1,0 +1,62 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNjM3MTkxNjQzMzYyMTA3Mzky",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Sat Mar 18 20:38:31 +0000 2023",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "Bringing composability and custom liquidity to Metis.",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "linktr.ee/theherculesdex",
+            "expanded_url": "https://linktr.ee/theherculesdex",
+            "url": "https://t.co/jn4p2AnDDr",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 3260,
+    "followersCount": 49513,
+    "following": true,
+    "friendsCount": 165,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 60,
+    "location": "Metis",
+    "mediaCount": 1695,
+    "name": "Hercules 🌿",
+    "normalFollowersCount": 49513,
+    "pinnedTweetIdsStr": [
+      "1886844100043006448"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1637191643362107392/1710871632",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1743362340840423424/OFanWgp6_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "TheHerculesDEX",
+    "statusesCount": 4562,
+    "translatorType": "none",
+    "url": "https://t.co/jn4p2AnDDr",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "profileImageShape": "Circle",
+  "restId": "1637191643362107392",
+  "tipjarSettings": {}
+}

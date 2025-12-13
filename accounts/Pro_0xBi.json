@@ -1,0 +1,49 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNDMyMzk1MjI3Njk2NzQ2NDk4",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Mon Aug 30 17:30:22 +0000 2021",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "已成废人,输出靠AI | Crypto套利&交易| 数据分析师 | 亏得明明白白，赚得稀里糊涂 |  Build Dashboard @SixdegreeLab",
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 2113,
+    "followedBy": true,
+    "followersCount": 14862,
+    "following": true,
+    "friendsCount": 3206,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 610,
+    "location": "Metaverse",
+    "mediaCount": 812,
+    "name": "0xBi",
+    "normalFollowersCount": 14862,
+    "pinnedTweetIdsStr": [],
+    "possiblySensitive": false,
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1825112983527424000/fq3g5mIO_normal.png",
+    "profileInterstitialType": "",
+    "screenName": "Pro_0xBi",
+    "statusesCount": 2219,
+    "translatorType": "none",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "profileImageShape": "Circle",
+  "restId": "1432395227696746498",
+  "tipjarSettings": {
+    "bitcoinHandle": "15sPDMv7pu2wRPddLY8r5BEDhvmHHFwo7b",
+    "isEnabled": true
+  }
+}

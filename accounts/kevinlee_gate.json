@@ -1,0 +1,98 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {
+    "label": {
+      "url": {
+        "url": "https://twitter.com/Gate",
+        "urlType": "DeepLink"
+      },
+      "badge": {
+        "url": "https://pbs.twimg.com/profile_images/1998278164578177024/mA5FhGeZ_bigger.jpg"
+      },
+      "description": "Gate",
+      "userLabelType": "BusinessLabel",
+      "userLabelDisplayType": "Badge"
+    }
+  },
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxODY3MzM1MQ==",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": false,
+    "canMediaTag": false,
+    "createdAt": "Tue Jan 06 13:08:39 +0000 2009",
+    "defaultProfile": false,
+    "defaultProfileImage": false,
+    "description": "Chief Business Officer of Gate (🟦,🟩) | On a mission to civilize | Not financial advice | @gate | https://t.co/213h8Jk0hJ | 大門交易所 🚪 馬甲哥 🦺",
+    "entities": {
+      "description": {
+        "urls": [
+          {
+            "display_url": "gate.com",
+            "expanded_url": "http://gate.com",
+            "url": "https://t.co/213h8Jk0hJ",
+            "indices": [
+              97,
+              120
+            ]
+          }
+        ]
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "gate.com",
+            "expanded_url": "http://gate.com",
+            "url": "https://t.co/213h8Jk0hJ",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 4156,
+    "followersCount": 29686,
+    "following": true,
+    "friendsCount": 3933,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 78,
+    "location": "Gateway to Crypto",
+    "mediaCount": 620,
+    "name": "Kevin Lee",
+    "normalFollowersCount": 29686,
+    "pinnedTweetIdsStr": [
+      "1997218708335608250"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/18673351/1754900401",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1920501252674166784/YNmRKnfi_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "kevinlee_gate",
+    "statusesCount": 4095,
+    "translatorType": "none",
+    "url": "https://t.co/213h8Jk0hJ",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [
+      {
+        "iconName": "IconBriefcaseStroke",
+        "id": 958,
+        "name": "Entrepreneur"
+      }
+    ],
+    "professionalType": "Creator",
+    "restId": "1492480115040677896"
+  },
+  "profileImageShape": "Circle",
+  "restId": "18673351",
+  "tipjarSettings": {
+    "isEnabled": false
+  }
+}

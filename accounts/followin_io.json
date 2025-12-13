@@ -1,0 +1,77 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNTU2NjI2ODc4NDg3ODQyODE2",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Mon Aug 08 13:03:20 +0000 2022",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "Your AI-powered crypto headlines. One-stop APP for Trending News and Alpha Insights.\n\n🇨🇳 @followin_io_zh\n🇻🇳 @Followinvietnam\n🇰🇷  https://t.co/6qBoEcQqYB",
+    "entities": {
+      "description": {
+        "urls": [
+          {
+            "display_url": "t.me/followin_ko",
+            "expanded_url": "http://t.me/followin_ko",
+            "url": "https://t.co/6qBoEcQqYB",
+            "indices": [
+              129,
+              152
+            ]
+          }
+        ]
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "followin.io",
+            "expanded_url": "https://followin.io",
+            "url": "https://t.co/HRbqmnxPo7",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 834,
+    "followersCount": 86000,
+    "following": true,
+    "friendsCount": 99,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 180,
+    "location": "Metaverse",
+    "mediaCount": 1834,
+    "name": "Followin",
+    "normalFollowersCount": 86000,
+    "pinnedTweetIdsStr": [
+      "1970046503839519151"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1556626878487842816/1759128210",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1998661133235007495/m_yYVJNu_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "followin_io",
+    "statusesCount": 4165,
+    "translatorType": "none",
+    "url": "https://t.co/HRbqmnxPo7",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [],
+    "professionalType": "Business",
+    "restId": "1586045322559918080"
+  },
+  "profileImageShape": "Circle",
+  "restId": "1556626878487842816",
+  "tipjarSettings": {}
+}

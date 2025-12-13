@@ -1,0 +1,82 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxMzI1MjgyNTE=",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": false,
+    "createdAt": "Tue Apr 13 13:54:26 +0000 2010",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "#Binance 你的数字货币购买/交易平台，就是 #币安👉 https://t.co/iJp6ewnZKM $MMT #momentum @MMTFinance",
+    "entities": {
+      "description": {
+        "urls": [
+          {
+            "display_url": "accounts.binance.com/zh-CN/register…",
+            "expanded_url": "https://accounts.binance.com/zh-CN/register?ref=179734529",
+            "url": "https://t.co/iJp6ewnZKM",
+            "indices": [
+              31,
+              54
+            ]
+          }
+        ]
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "t.me/+VA2Rh-mqjS0zY…",
+            "expanded_url": "https://t.me/+VA2Rh-mqjS0zYWM1",
+            "url": "https://t.co/FBZi8qgOzK",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 2106,
+    "followersCount": 22286,
+    "following": true,
+    "friendsCount": 3100,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 268,
+    "location": "Buenos Aires, Argentina",
+    "mediaCount": 1092,
+    "name": "秋荣",
+    "normalFollowersCount": 22286,
+    "pinnedTweetIdsStr": [],
+    "possiblySensitive": false,
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1971525728295591936/hczJKif7_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "joakja",
+    "statusesCount": 24851,
+    "translatorType": "none",
+    "url": "https://t.co/FBZi8qgOzK",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [
+      {
+        "iconName": "IconBriefcaseStroke",
+        "id": 192,
+        "name": "Financial Services"
+      }
+    ],
+    "professionalType": "Creator",
+    "restId": "1462808384411881474"
+  },
+  "profileImageShape": "Circle",
+  "restId": "132528251",
+  "tipjarSettings": {
+    "isEnabled": true
+  }
+}

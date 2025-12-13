@@ -1,0 +1,63 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNDgzNDU1ODc3NDkxNTk3MzE1",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Tue Jan 18 15:07:11 +0000 2022",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "Independent Musician | Rapper | Video Content Creator｜Sound System Producer｜调伏心性ing",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "youtube.com/@0xRasTrack",
+            "expanded_url": "https://www.youtube.com/@0xRasTrack",
+            "url": "https://t.co/ZFeLjtW7Nt",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 1323,
+    "followedBy": true,
+    "followersCount": 5774,
+    "following": true,
+    "friendsCount": 440,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 26,
+    "location": "Web3",
+    "mediaCount": 63,
+    "name": "0xRasTrack",
+    "normalFollowersCount": 5774,
+    "pinnedTweetIdsStr": [
+      "1877709537471521161"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1483455877491597315/1706510506",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1751852534015377408/Ihp9Nu9U_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "0xrastrack",
+    "statusesCount": 1063,
+    "translatorType": "none",
+    "url": "https://t.co/ZFeLjtW7Nt",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "profileImageShape": "Circle",
+  "restId": "1483455877491597315",
+  "tipjarSettings": {}
+}

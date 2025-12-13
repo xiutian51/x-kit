@@ -1,0 +1,61 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjozMTc4MjMx",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Mon Apr 02 03:42:14 +0000 2007",
+    "defaultProfile": false,
+    "defaultProfileImage": false,
+    "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "baoyu.io",
+            "expanded_url": "https://baoyu.io",
+            "url": "https://t.co/icobX4A3Ae",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 40563,
+    "followersCount": 155985,
+    "following": true,
+    "friendsCount": 1469,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 2624,
+    "location": "Chicago, IL",
+    "mediaCount": 4920,
+    "name": "宝玉",
+    "normalFollowersCount": 155985,
+    "pinnedTweetIdsStr": [
+      "1996285439867556304"
+    ],
+    "possiblySensitive": false,
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
+    "profileInterstitialType": "",
+    "screenName": "dotey",
+    "statusesCount": 28000,
+    "translatorType": "none",
+    "url": "https://t.co/icobX4A3Ae",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "profileImageShape": "Circle",
+  "restId": "3178231",
+  "tipjarSettings": {}
+}

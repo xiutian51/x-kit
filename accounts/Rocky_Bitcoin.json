@@ -1,0 +1,53 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxMDAzOTA4NzU0ODEzOTM1NjIx",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Tue Jun 05 07:57:53 +0000 2018",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "Long term investor #BTC #TAO #SOL #SUI #XRP| MeMe Professional Data Player | Crypto since 2017 | Not financial advice, DYOR🙏",
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 3445,
+    "followersCount": 130515,
+    "following": true,
+    "friendsCount": 3055,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 2620,
+    "location": "",
+    "mediaCount": 7152,
+    "name": "Rocky",
+    "normalFollowersCount": 130515,
+    "pinnedTweetIdsStr": [
+      "1883261227826344133"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1003908754813935621/1741170537",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1549242558098046976/bU2ZeoEU_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "Rocky_Bitcoin",
+    "statusesCount": 31037,
+    "translatorType": "none",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "profileImageShape": "Circle",
+  "restId": "1003908754813935621",
+  "superFollowEligible": true,
+  "tipjarSettings": {
+    "bitcoinHandle": "",
+    "ethereumHandle": "0xeC66376146db4bCCC11bb3D9eb7C3D99125ca90e",
+    "isEnabled": true
+  }
+}

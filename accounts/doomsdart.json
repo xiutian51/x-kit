@@ -1,0 +1,53 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNDEzMzUyNDA4NTM3NzYzODQ3",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": false,
+    "createdAt": "Fri Jul 09 04:20:58 +0000 2021",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "Nfa, dyor.",
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 11854,
+    "followersCount": 29651,
+    "following": true,
+    "friendsCount": 1979,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 1020,
+    "location": "",
+    "mediaCount": 1485,
+    "name": "Bera",
+    "normalFollowersCount": 29651,
+    "pinnedTweetIdsStr": [
+      "1979170206552592853"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1413352408537763847/1717237550",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1962898843823230976/6Niy5C-f_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "doomsdart",
+    "statusesCount": 14284,
+    "translatorType": "none",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [],
+    "professionalType": "Creator",
+    "restId": "1622599513448886272"
+  },
+  "profileImageShape": "Circle",
+  "restId": "1413352408537763847",
+  "tipjarSettings": {}
+}

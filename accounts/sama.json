@@ -1,0 +1,72 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {
+    "label": {
+      "url": {
+        "url": "https://twitter.com/OpenAI",
+        "urlType": "DeepLink"
+      },
+      "badge": {
+        "url": "https://pbs.twimg.com/profile_images/1885410181409820672/ztsaR0JW_bigger.jpg"
+      },
+      "description": "OpenAI",
+      "userLabelType": "BusinessLabel",
+      "userLabelDisplayType": "Badge"
+    }
+  },
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNjA1",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": false,
+    "canMediaTag": false,
+    "createdAt": "Sun Jul 16 22:01:55 +0000 2006",
+    "defaultProfile": false,
+    "defaultProfileImage": false,
+    "description": "AI is cool i guess",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "blog.samaltman.com",
+            "expanded_url": "http://blog.samaltman.com",
+            "url": "https://t.co/teHmy8EFSH",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 1019,
+    "followersCount": 4149040,
+    "following": true,
+    "friendsCount": 976,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 25582,
+    "location": "SF",
+    "mediaCount": 376,
+    "name": "Sam Altman",
+    "normalFollowersCount": 4149040,
+    "pinnedTweetIdsStr": [],
+    "possiblySensitive": false,
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1904933748015255552/k43GMz63_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "sama",
+    "statusesCount": 7304,
+    "translatorType": "none",
+    "url": "https://t.co/teHmy8EFSH",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "profileImageShape": "Circle",
+  "restId": "1605",
+  "tipjarSettings": {}
+}

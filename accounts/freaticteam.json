@@ -1,0 +1,62 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNTgyNTU5NDEzNzkzMDcxMTA0",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Wed Oct 19 02:29:11 +0000 2022",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "Connecting you to the right opportunity before anyone else.\n\nBacked by @a16zcrypto\n\nFounding team: @0x8ES, @0x8ME, and @0x8QE",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "freatic.team",
+            "expanded_url": "https://freatic.team",
+            "url": "https://t.co/U2EGuefCui",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 109,
+    "followersCount": 3943,
+    "following": true,
+    "friendsCount": 7,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 43,
+    "location": "Ethereum",
+    "mediaCount": 11,
+    "name": "Freatic",
+    "normalFollowersCount": 3943,
+    "pinnedTweetIdsStr": [
+      "1704524743485886945"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1582559413793071104/1694986988",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1703552964344918016/zJSL1HDi_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "freaticteam",
+    "statusesCount": 107,
+    "translatorType": "none",
+    "url": "https://t.co/U2EGuefCui",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "profileImageShape": "Circle",
+  "restId": "1582559413793071104",
+  "tipjarSettings": {}
+}

@@ -1,0 +1,60 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNzI2OTI1OTQ4",
+  "isBlueVerified": false,
+  "legacy": {
+    "canDm": false,
+    "canMediaTag": true,
+    "createdAt": "Tue Sep 03 23:21:01 +0000 2013",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "Global Affiliate BDM from @bitgetglobal\nBusiness Inquiries: kevin@bitget.com",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "t.me/bg_kevin",
+            "expanded_url": "http://t.me/bg_kevin",
+            "url": "https://t.co/jh7E5t7B5l",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 14,
+    "followersCount": 105,
+    "following": true,
+    "friendsCount": 278,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 6,
+    "location": "Singapore",
+    "mediaCount": 0,
+    "name": "Kevin @Bitget",
+    "normalFollowersCount": 105,
+    "pinnedTweetIdsStr": [],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1726925948/1633682609",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1442828232588292097/-8eqeio6_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "Kevin_Bitget",
+    "statusesCount": 23,
+    "translatorType": "none",
+    "url": "https://t.co/jh7E5t7B5l",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "profileImageShape": "Circle",
+  "restId": "1726925948",
+  "tipjarSettings": {}
+}

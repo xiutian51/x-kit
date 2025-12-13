@@ -1,0 +1,72 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxODU3MzAzMDM2NjE3NDQxMjgw",
+  "isBlueVerified": false,
+  "legacy": {
+    "canDm": false,
+    "canMediaTag": true,
+    "createdAt": "Fri Nov 15 06:02:09 +0000 2024",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "building algorithmic trading strategies to frontrun the on-chain market, one $flower at a time. | beta discord (hold 1m tokens) https://t.co/hODsmu6eZY",
+    "entities": {
+      "description": {
+        "urls": [
+          {
+            "display_url": "discord.gg/MmSEXJZUPq",
+            "expanded_url": "https://discord.gg/MmSEXJZUPq",
+            "url": "https://t.co/hODsmu6eZY",
+            "indices": [
+              128,
+              151
+            ]
+          }
+        ]
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "flowerai.app",
+            "expanded_url": "https://flowerai.app/",
+            "url": "https://t.co/P0mKj9fnc3",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 44,
+    "followersCount": 7729,
+    "following": true,
+    "friendsCount": 4,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 58,
+    "location": "the garden 🌸",
+    "mediaCount": 67,
+    "name": "FlowerAI🌸",
+    "normalFollowersCount": 7729,
+    "pinnedTweetIdsStr": [
+      "1861927702636179509"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1857303036617441280/1731709399",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1857303300216881152/63PvSlAb_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "flowerAI_sol",
+    "statusesCount": 185,
+    "translatorType": "none",
+    "url": "https://t.co/P0mKj9fnc3",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "profileImageShape": "Circle",
+  "restId": "1857303036617441280",
+  "tipjarSettings": {}
+}

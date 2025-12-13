@@ -1,0 +1,65 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNDAxNzI0MTU3MTUxMzA1NzI5",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Mon Jun 07 02:15:30 +0000 2021",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "Mint Ventures is a research-driven venture firm that specializes in cryptocurrency and early-stage blockchain projects.",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "link3.to/mintventures",
+            "expanded_url": "https://link3.to/mintventures",
+            "url": "https://t.co/OMBOQpfGz5",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 152,
+    "followersCount": 8808,
+    "following": true,
+    "friendsCount": 185,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 309,
+    "location": "",
+    "mediaCount": 33,
+    "name": "Mint Ventures",
+    "normalFollowersCount": 8808,
+    "pinnedTweetIdsStr": [],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1401724157151305729/1659337059",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1402573536271683588/vNjo_UVw_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "Mint_Ventures",
+    "statusesCount": 386,
+    "translatorType": "none",
+    "url": "https://t.co/OMBOQpfGz5",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [],
+    "professionalType": "Business",
+    "restId": "1544046305923694593"
+  },
+  "profileImageShape": "Circle",
+  "restId": "1401724157151305729",
+  "tipjarSettings": {}
+}

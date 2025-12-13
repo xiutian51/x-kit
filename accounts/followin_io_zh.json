@@ -1,0 +1,90 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNzAwNDA0NTM0Mzk5NjE0OTc2",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Sat Sep 09 07:03:37 +0000 2023",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "AI驱动的币圈头条一站式追踪热点与Alpha 👉 英文： @followin_io 🏦 资讯：https://t.co/11erLQiCke ⚡️快讯：https://t.co/38YxAXS7IJ 💬alpha 频道：https://t.co/2rLhL05t7l",
+    "entities": {
+      "description": {
+        "urls": [
+          {
+            "display_url": "t.me/Followin_news_…",
+            "expanded_url": "http://t.me/Followin_news_cn",
+            "url": "https://t.co/11erLQiCke",
+            "indices": [
+              47,
+              70
+            ]
+          },
+          {
+            "display_url": "t.me/followin_zh",
+            "expanded_url": "http://t.me/followin_zh",
+            "url": "https://t.co/38YxAXS7IJ",
+            "indices": [
+              76,
+              99
+            ]
+          },
+          {
+            "display_url": "t.me/FWalpha",
+            "expanded_url": "https://t.me/FWalpha",
+            "url": "https://t.co/2rLhL05t7l",
+            "indices": [
+              110,
+              133
+            ]
+          }
+        ]
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "followin.io/zh-Hans",
+            "expanded_url": "https://followin.io/zh-Hans",
+            "url": "https://t.co/LTbQY9lMQF",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 890,
+    "followersCount": 23826,
+    "following": true,
+    "friendsCount": 492,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 333,
+    "location": "",
+    "mediaCount": 2096,
+    "name": "Followin 华语 - 热点风向标🫡",
+    "normalFollowersCount": 23826,
+    "pinnedTweetIdsStr": [
+      "1997959438884544792"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1700404534399614976/1759126793",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1951929534754033664/pLkC5dJ9_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "followin_io_zh",
+    "statusesCount": 5005,
+    "translatorType": "none",
+    "url": "https://t.co/LTbQY9lMQF",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "profileImageShape": "Circle",
+  "restId": "1700404534399614976",
+  "tipjarSettings": {}
+}

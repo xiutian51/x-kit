@@ -1,0 +1,48 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxOTU0NzMxOTk2Nzg3NDM3NTY5",
+  "isBlueVerified": false,
+  "legacy": {
+    "canDm": false,
+    "canMediaTag": true,
+    "createdAt": "Mon Aug 11 02:30:10 +0000 2025",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "VALUE is an x402-native currency for paid requests on @XLayerOfficial",
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 10,
+    "followersCount": 214,
+    "following": true,
+    "friendsCount": 1,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 5,
+    "location": "x402",
+    "mediaCount": 16,
+    "name": "VALUE",
+    "normalFollowersCount": 214,
+    "pinnedTweetIdsStr": [
+      "1982850805469425868"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1954731996787437569/1761550493",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1982707396720852992/Udxk04Cq_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "VALUEx402",
+    "statusesCount": 21,
+    "translatorType": "none",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "profileImageShape": "Circle",
+  "restId": "1954731996787437569",
+  "tipjarSettings": {}
+}

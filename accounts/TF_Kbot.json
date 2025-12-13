@@ -1,0 +1,72 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxMzEwNzUzNTAxMTc4MzMxMTM2",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Tue Sep 29 01:29:32 +0000 2020",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "Founder of https://t.co/7BXv5bCJ29  欢迎私信提需求.",
+    "entities": {
+      "description": {
+        "urls": [
+          {
+            "display_url": "Kbot.club",
+            "expanded_url": "http://Kbot.club",
+            "url": "https://t.co/7BXv5bCJ29",
+            "indices": [
+              11,
+              34
+            ]
+          }
+        ]
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "kbot.club",
+            "expanded_url": "https://kbot.club",
+            "url": "https://t.co/rLTGE0btLx",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 360,
+    "followersCount": 1098,
+    "following": true,
+    "friendsCount": 537,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 30,
+    "location": "Ethereum. Solana. ",
+    "mediaCount": 99,
+    "name": "100x",
+    "normalFollowersCount": 1098,
+    "pinnedTweetIdsStr": [],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1310753501178331136/1710645952",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1777177150292123648/5KjBZzG7_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "TF_Kbot",
+    "statusesCount": 419,
+    "translatorType": "none",
+    "url": "https://t.co/rLTGE0btLx",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "profileImageShape": "Circle",
+  "restId": "1310753501178331136",
+  "tipjarSettings": {
+    "isEnabled": true
+  }
+}

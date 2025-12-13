@@ -1,0 +1,100 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {
+    "label": {
+      "url": {
+        "url": "https://twitter.com/gmgnai",
+        "urlType": "DeepLink"
+      },
+      "badge": {
+        "url": "https://pbs.twimg.com/profile_images/1998601173205659657/8noZT-3I_bigger.jpg"
+      },
+      "description": "GMGN.Ai",
+      "userLabelType": "BusinessLabel",
+      "userLabelDisplayType": "Badge"
+    }
+  },
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNDkwOTQ5NTAyMjYxNjY1Nzky",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": false,
+    "createdAt": "Tue Feb 08 07:24:16 +0000 2022",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "Angel Investor | AI\n\n链上工具未来 https://t.co/FTXTQaE6qo\n\n合约PVP指路\n#OKX https://t.co/NXhCSu43si",
+    "entities": {
+      "description": {
+        "urls": [
+          {
+            "display_url": "gmgn.ai/?ref=Z4NRyYFe",
+            "expanded_url": "https://gmgn.ai/?ref=Z4NRyYFe",
+            "url": "https://t.co/FTXTQaE6qo",
+            "indices": [
+              28,
+              51
+            ]
+          },
+          {
+            "display_url": "bit.ly/3DtFSTS",
+            "expanded_url": "https://bit.ly/3DtFSTS",
+            "url": "https://t.co/NXhCSu43si",
+            "indices": [
+              66,
+              89
+            ]
+          }
+        ]
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "t.me/yuyue_chris_in…",
+            "expanded_url": "https://t.me/yuyue_chris_info",
+            "url": "https://t.co/RC1jJYWGEQ",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 54325,
+    "followedBy": true,
+    "followersCount": 102650,
+    "following": true,
+    "friendsCount": 7319,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 2583,
+    "location": "Crypto",
+    "mediaCount": 1839,
+    "name": "Yuyue",
+    "normalFollowersCount": 102650,
+    "pinnedTweetIdsStr": [
+      "1985374213621100916"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1490949502261665792/1743146241",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1930996097566265344/OvMn12UY_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "yuyue_chris",
+    "statusesCount": 18775,
+    "translatorType": "none",
+    "url": "https://t.co/RC1jJYWGEQ",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [],
+    "professionalType": "Creator",
+    "restId": "1518242348341538818"
+  },
+  "profileImageShape": "Circle",
+  "restId": "1490949502261665792",
+  "tipjarSettings": {}
+}

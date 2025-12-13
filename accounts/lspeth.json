@@ -1,0 +1,50 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxMjQwMTU4ODYwNzU0NTc1MzYw",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Wed Mar 18 06:11:46 +0000 2020",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "破而后立",
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 2727,
+    "followersCount": 69226,
+    "following": true,
+    "friendsCount": 1542,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 549,
+    "location": "新加坡",
+    "mediaCount": 576,
+    "name": "Lsp",
+    "normalFollowersCount": 69226,
+    "pinnedTweetIdsStr": [],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1240158860754575360/1737413974",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1435500502180003844/SyStGjmb_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "lspeth",
+    "statusesCount": 3136,
+    "translatorType": "none",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "profileImageShape": "Circle",
+  "restId": "1240158860754575360",
+  "tipjarSettings": {
+    "bitcoinHandle": "18hu3orc3EQncsKkwhEV9UvitZauR1xmqZ",
+    "ethereumHandle": "0xb4883b44a1f28945c4a481d5f476a50982e61ec2",
+    "isEnabled": true
+  }
+}

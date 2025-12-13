@@ -1,0 +1,63 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNjk2ODYwMjE=",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Thu Jul 22 23:00:05 +0000 2010",
+    "defaultProfile": false,
+    "defaultProfileImage": false,
+    "description": "",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "YEEZY.COM",
+            "expanded_url": "http://YEEZY.COM",
+            "url": "https://t.co/sQVN5G99kI",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 48,
+    "followersCount": 30965928,
+    "following": true,
+    "friendsCount": 1,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 41151,
+    "location": "",
+    "mediaCount": 503,
+    "name": "ye",
+    "normalFollowersCount": 30965928,
+    "pinnedTweetIdsStr": [
+      "1283507551586459648"
+    ],
+    "possiblySensitive": true,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/169686021/1428444619",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1885922338983579649/W-5uks-5_normal.jpg",
+    "profileInterstitialType": "sensitive_media",
+    "screenName": "kanyewest",
+    "statusesCount": 1571,
+    "translatorType": "none",
+    "url": "https://t.co/sQVN5G99kI",
+    "verified": false,
+    "verifiedType": "Business",
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "profileImageShape": "Square",
+  "restId": "169686021",
+  "tipjarSettings": {}
+}

@@ -1,0 +1,68 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjo5MDk2NDUyMTA0MDA4NTgxMTI=",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Mon Sep 18 05:08:13 +0000 2017",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "币圈老媒体人， 商务合作微信号wechat：krxzs168\nBinance你的数字货币交易平台，就是币安 https://t.co/HwIyBY4CNb\n新人首选okx，安全简单 https://t.co/bUZROCeQxH",
+    "entities": {
+      "description": {
+        "urls": [
+          {
+            "display_url": "binance.com/join?ref=10031…",
+            "expanded_url": "http://www.binance.com/join?ref=10031961",
+            "url": "https://t.co/HwIyBY4CNb",
+            "indices": [
+              54,
+              77
+            ]
+          },
+          {
+            "display_url": "okx.com/join/2723966",
+            "expanded_url": "http://okx.com/join/2723966",
+            "url": "https://t.co/bUZROCeQxH",
+            "indices": [
+              91,
+              114
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 3186,
+    "followersCount": 47478,
+    "following": true,
+    "friendsCount": 824,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 822,
+    "location": "Los Angeles",
+    "mediaCount": 814,
+    "name": "Kuang Ren 狂人说趋势",
+    "normalFollowersCount": 47478,
+    "pinnedTweetIdsStr": [],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/909645210400858112/1747635311",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/932509064101105664/ocTNEBHH_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "liujia0224",
+    "statusesCount": 4080,
+    "translatorType": "none",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "profileImageShape": "Circle",
+  "restId": "909645210400858112",
+  "tipjarSettings": {
+    "bitcoinHandle": "15S9qv1da2tyzd4v8xGFZcpRYoFTktUJ3R",
+    "isEnabled": true
+  }
+}

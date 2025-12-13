@@ -1,0 +1,65 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNzYwNjIzNzkxMzgwODQ0NTQ0",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Thu Feb 22 11:13:35 +0000 2024",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "democratizing gambling @pmx_trade",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "github.com/affaan-m",
+            "expanded_url": "https://github.com/affaan-m",
+            "url": "https://t.co/4AU8rBUXOb",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 10062,
+    "followersCount": 10577,
+    "following": true,
+    "friendsCount": 757,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 107,
+    "location": "sf / seattle",
+    "mediaCount": 336,
+    "name": "Affaan Mustafa",
+    "normalFollowersCount": 10577,
+    "pinnedTweetIdsStr": [
+      "1997318659648467349"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1760623791380844544/1753468249",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1948813157193187335/hDd1bwj9_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "affaanmustafa",
+    "statusesCount": 3679,
+    "translatorType": "none",
+    "url": "https://t.co/4AU8rBUXOb",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "profileImageShape": "Circle",
+  "restId": "1760623791380844544",
+  "tipjarSettings": {
+    "ethereumHandle": "0x31E44432C1BfF7bd5b38656a963668d3e2337356",
+    "isEnabled": true
+  }
+}

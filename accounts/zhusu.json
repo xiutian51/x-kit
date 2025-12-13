@@ -1,0 +1,58 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjo3OTcxNDE3Mg==",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": false,
+    "canMediaTag": false,
+    "createdAt": "Sun Oct 04 11:57:26 +0000 2009",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "🇨🇳🇸🇬",
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 29476,
+    "followersCount": 623102,
+    "following": true,
+    "friendsCount": 2020,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 10267,
+    "location": "",
+    "mediaCount": 1235,
+    "name": "Zhu Su",
+    "normalFollowersCount": 623102,
+    "pinnedTweetIdsStr": [],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/79714172/1758885340",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1971534080123744256/U3j6e-Qn_normal.jpg",
+    "profileInterstitialType": "",
+    "_protected": true,
+    "screenName": "zhusu",
+    "statusesCount": 11418,
+    "translatorType": "none",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [
+      {
+        "iconName": "IconBriefcaseStroke",
+        "id": 958,
+        "name": "Entrepreneur"
+      }
+    ],
+    "professionalType": "Business",
+    "restId": "1506284424463523842"
+  },
+  "profileImageShape": "Circle",
+  "restId": "79714172",
+  "tipjarSettings": {}
+}

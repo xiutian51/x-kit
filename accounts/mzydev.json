@@ -1,0 +1,59 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjo0NzIzOTE1NzE3",
+  "isBlueVerified": false,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Thu Jan 07 14:39:40 +0000 2016",
+    "defaultProfile": false,
+    "defaultProfileImage": false,
+    "description": "afk",
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 451,
+    "followersCount": 3083,
+    "following": true,
+    "friendsCount": 176,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 28,
+    "location": "Tokyo",
+    "mediaCount": 81,
+    "name": "mzydev",
+    "normalFollowersCount": 3083,
+    "pinnedTweetIdsStr": [],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/4723915717/1725213302",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1806925733857746944/Fix2QXdk_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "mzydev",
+    "statusesCount": 1761,
+    "translatorType": "none",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [
+      {
+        "iconName": "IconBriefcaseStroke",
+        "id": 713,
+        "name": "Science & Technology"
+      }
+    ],
+    "professionalType": "Creator",
+    "restId": "1616792134463655940"
+  },
+  "profileImageShape": "Circle",
+  "restId": "4723915717",
+  "tipjarSettings": {
+    "isEnabled": true
+  }
+}

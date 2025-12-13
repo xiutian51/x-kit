@@ -1,0 +1,57 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNDczOTQ2ODc0MjA2MTA5Njk2",
+  "isBlueVerified": false,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Thu Dec 23 09:22:08 +0000 2021",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "🌐 区块链探索者 | Web3 & DeFi 热情倡导者\n🚀 职业：白日梦想家，夜晚Web3产品经理\n💹 专长：#Web3项目研究 #DeFi #Gamefi\n🔥 经历：5年币圈深度参与者",
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 88,
+    "followersCount": 1316,
+    "following": true,
+    "friendsCount": 957,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 12,
+    "location": "",
+    "mediaCount": 45,
+    "name": "ZhuiMeng🔆",
+    "normalFollowersCount": 1316,
+    "pinnedTweetIdsStr": [],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1473946874206109696/1689924606",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1930846537422405632/VZnLpnUs_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "ZhuiMeng_eth",
+    "statusesCount": 804,
+    "translatorType": "none",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [
+      {
+        "iconName": "IconBriefcaseStroke",
+        "id": 724,
+        "name": "Internet Company"
+      }
+    ],
+    "professionalType": "Creator",
+    "restId": "1610590199276515329"
+  },
+  "profileImageShape": "Circle",
+  "restId": "1473946874206109696",
+  "tipjarSettings": {}
+}

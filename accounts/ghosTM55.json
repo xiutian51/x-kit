@@ -1,0 +1,75 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjo1MDUwNDA5MQ==",
+  "isBlueVerified": false,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": false,
+    "createdAt": "Thu Jun 25 01:08:40 +0000 2009",
+    "defaultProfile": false,
+    "defaultProfileImage": false,
+    "description": "Hacker | Entrepreneur | Archer | Gamer | World Citizen",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "thomasyao.wtf",
+            "expanded_url": "https://thomasyao.wtf",
+            "url": "https://t.co/mpiR6TMRQO",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 6120,
+    "followersCount": 19581,
+    "following": true,
+    "friendsCount": 203,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 216,
+    "location": "Mobil Avenue Station",
+    "mediaCount": 2061,
+    "name": "Thomas Yao ",
+    "normalFollowersCount": 19581,
+    "pinnedTweetIdsStr": [],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/50504091/1749471830",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1966460645685260289/xs5NZror_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "ghosTM55",
+    "statusesCount": 29600,
+    "translatorType": "regular",
+    "url": "https://t.co/mpiR6TMRQO",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [
+      {
+        "iconName": "IconBriefcaseStroke",
+        "id": 958,
+        "name": "Entrepreneur"
+      }
+    ],
+    "professionalType": "Creator",
+    "restId": "1528933804534304768"
+  },
+  "profileImageShape": "Circle",
+  "restId": "50504091",
+  "tipjarSettings": {
+    "bitcoinHandle": "3CeaQ59DjEkwLLqmbkuiLpdiPGW3uJhGTD",
+    "ethereumHandle": "0x518FCBEa7e078832819A4Baf2f707F872910456C",
+    "isEnabled": true
+  }
+}

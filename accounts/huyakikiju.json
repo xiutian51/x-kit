@@ -1,0 +1,60 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjo5NzQxNjE4MzczODUxMTc2OTY=",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Thu Mar 15 05:54:15 +0000 2018",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "bybit返佣高反：https://t.co/bKlj4e7krw",
+    "entities": {
+      "description": {
+        "urls": [
+          {
+            "display_url": "partner.bybit.com/b/84437",
+            "expanded_url": "https://partner.bybit.com/b/84437",
+            "url": "https://t.co/bKlj4e7krw",
+            "indices": [
+              10,
+              33
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 10486,
+    "followersCount": 6354,
+    "following": true,
+    "friendsCount": 4167,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 43,
+    "location": "🚪520/1314 不约线下",
+    "mediaCount": 1663,
+    "name": "huya1.eth（重开版）",
+    "normalFollowersCount": 6354,
+    "pinnedTweetIdsStr": [
+      "1664601975902859264"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/974161837385117696/1645388852",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1853465759726669824/1OwaLrbN_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "huyakikiju",
+    "statusesCount": 9442,
+    "translatorType": "none",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "profileImageShape": "Circle",
+  "restId": "974161837385117696",
+  "tipjarSettings": {
+    "isEnabled": true
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjo3Mzg2MjIwODg=",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": false,
+    "createdAt": "Sun Aug 05 13:55:09 +0000 2012",
+    "defaultProfile": false,
+    "defaultProfileImage": false,
+    "description": "gentleman of leisure . co-founded @viamirror, director of eng @Dharma_HQ. Started @CryptoSocietyS1.",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "g.mirror.xyz",
+            "expanded_url": "https://g.mirror.xyz",
+            "url": "https://t.co/j9AshpwOUG",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 17513,
+    "followersCount": 19830,
+    "following": true,
+    "friendsCount": 2067,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 293,
+    "location": "New York, USA",
+    "mediaCount": 94,
+    "name": "Graeme",
+    "normalFollowersCount": 19830,
+    "pinnedTweetIdsStr": [],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/738622088/1760759024",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1819786708289781761/DBxOkADj_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "strangechances",
+    "statusesCount": 1804,
+    "translatorType": "none",
+    "url": "https://t.co/j9AshpwOUG",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "profileImageShape": "Circle",
+  "restId": "738622088",
+  "tipjarSettings": {}
+}

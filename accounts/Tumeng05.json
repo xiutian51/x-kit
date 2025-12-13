@@ -1,0 +1,74 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxMzg1MjUwNDAzMTM5Mjc2ODAw",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Thu Apr 22 15:13:47 +0000 2021",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "👨‍💻 ：TorchV（萌嘉科技）Funder 🆔：AI / RAG/ 企业知识库 / 创业公司 👉：微信公众号 @土猛的员外",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "torchv.com",
+            "expanded_url": "https://www.torchv.com",
+            "url": "https://t.co/oVB1XFr7DN",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 1433,
+    "followedBy": true,
+    "followersCount": 4754,
+    "following": true,
+    "friendsCount": 519,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 64,
+    "location": "Hangzhou, China",
+    "mediaCount": 577,
+    "name": "土猛的员外",
+    "normalFollowersCount": 4754,
+    "pinnedTweetIdsStr": [
+      "1952554482614861997"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1385250403139276800/1696661451",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1858077874231836672/n_qA62wp_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "Tumeng05",
+    "statusesCount": 2345,
+    "translatorType": "none",
+    "url": "https://t.co/oVB1XFr7DN",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [
+      {
+        "iconName": "IconBriefcaseStroke",
+        "id": 713,
+        "name": "Science & Technology"
+      }
+    ],
+    "professionalType": "Creator",
+    "restId": "1673948717794336768"
+  },
+  "profileImageShape": "Circle",
+  "restId": "1385250403139276800",
+  "tipjarSettings": {}
+}

@@ -1,0 +1,64 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNDUzNzExNzQ0NDUxMzEzNjY5",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Thu Oct 28 13:14:38 +0000 2021",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "3年硬件开发，2年券商投研，10年加密投资。目前专注AI量化 vibe coding 公益投研平台@GryphsisAcademy 联合创始人  商务联系(tg): scott_cheung",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "gryphsis.com",
+            "expanded_url": "https://www.gryphsis.com",
+            "url": "https://t.co/LzSRniGitd",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 710,
+    "followersCount": 13355,
+    "following": true,
+    "friendsCount": 1279,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 365,
+    "location": "Bangkok",
+    "mediaCount": 363,
+    "name": "AI索罗斯科特",
+    "normalFollowersCount": 13355,
+    "pinnedTweetIdsStr": [
+      "1913545821691482469"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1453711744451313669/1726973879",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1914140013060849664/VKG38tuf_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "0xScottBTC",
+    "statusesCount": 1677,
+    "translatorType": "none",
+    "url": "https://t.co/LzSRniGitd",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "profileImageShape": "Circle",
+  "restId": "1453711744451313669",
+  "tipjarSettings": {
+    "isEnabled": true
+  }
+}

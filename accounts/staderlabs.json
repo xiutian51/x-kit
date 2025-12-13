@@ -1,0 +1,75 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxMzg3OTI0ODA3NDgwNjY0MDY3",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Fri Apr 30 00:20:38 +0000 2021",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "🧘‍♂️ Non-custodial & secure liquid staking \n\n🔰 Live on Ethereum, Polygon, BNB & Hedera\n\n🔗 https://t.co/1pJvBHvKxk",
+    "entities": {
+      "description": {
+        "urls": [
+          {
+            "display_url": "linktr.ee/staderlabs",
+            "expanded_url": "https://linktr.ee/staderlabs",
+            "url": "https://t.co/1pJvBHvKxk",
+            "indices": [
+              90,
+              113
+            ]
+          }
+        ]
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "staderlabs.com",
+            "expanded_url": "https://staderlabs.com/",
+            "url": "https://t.co/8V8GWKO4xS",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 6866,
+    "followersCount": 97306,
+    "following": true,
+    "friendsCount": 659,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 898,
+    "location": "Stakerverse",
+    "mediaCount": 1717,
+    "name": "Stader Labs",
+    "normalFollowersCount": 97306,
+    "pinnedTweetIdsStr": [],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1387924807480664067/1727193460",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1658886871378968577/j-TUyZEq_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "staderlabs",
+    "statusesCount": 7783,
+    "translatorType": "none",
+    "url": "https://t.co/8V8GWKO4xS",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [],
+    "professionalType": "Business",
+    "restId": "1473787533859319808"
+  },
+  "profileImageShape": "Circle",
+  "restId": "1387924807480664067",
+  "tipjarSettings": {}
+}

@@ -1,0 +1,77 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {
+    "label": {
+      "url": {
+        "url": "https://twitter.com/dragonfly_xyz",
+        "urlType": "DeepLink"
+      },
+      "badge": {
+        "url": "https://pbs.twimg.com/profile_images/1559161186658271232/yRlWnnm8_bigger.jpg"
+      },
+      "description": "Dragonfly ＞|＜",
+      "userLabelType": "BusinessLabel",
+      "userLabelDisplayType": "Badge"
+    }
+  },
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxMzQ2OTUyNzUwMzQxNDgwNDQ4",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Wed Jan 06 22:52:32 +0000 2021",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "head of data @dragonfly_xyz / host @indexed_pod / dunes @ https://t.co/EDeqWMUyvq",
+    "entities": {
+      "description": {
+        "urls": [
+          {
+            "display_url": "dune.com/hildobby",
+            "expanded_url": "http://dune.com/hildobby",
+            "url": "https://t.co/EDeqWMUyvq",
+            "indices": [
+              58,
+              81
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 23403,
+    "followersCount": 31016,
+    "following": true,
+    "friendsCount": 2313,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 887,
+    "location": "",
+    "mediaCount": 1257,
+    "name": "hildobby",
+    "normalFollowersCount": 31016,
+    "pinnedTweetIdsStr": [],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1346952750341480448/1754006250",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1957946501340037120/zPqx4_pU_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "hildobby",
+    "statusesCount": 7152,
+    "translatorType": "none",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [],
+    "professionalType": "Creator",
+    "restId": "1490356329373999113"
+  },
+  "profileImageShape": "Circle",
+  "restId": "1346952750341480448",
+  "tipjarSettings": {
+    "ethereumHandle": "0x09a5943a6d10919571eE2C9F63380aEA747ECA97",
+    "isEnabled": true
+  }
+}

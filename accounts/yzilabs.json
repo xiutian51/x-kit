@@ -1,0 +1,63 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjo5NjAwMzY0NDQ4ODU1NjU0NDI=",
+  "isBlueVerified": false,
+  "legacy": {
+    "canDm": false,
+    "canMediaTag": true,
+    "createdAt": "Sun Feb 04 06:24:59 +0000 2018",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "YZi Labs invests in ventures at every stage, prioritizing those with solid fundamentals in Web3, AI, and biotech.",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "yzilabs.com",
+            "expanded_url": "https://www.yzilabs.com/",
+            "url": "https://t.co/q9yMjUUPFF",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 0,
+    "followersCount": 757042,
+    "following": true,
+    "friendsCount": 368,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 5449,
+    "location": "Global",
+    "mediaCount": 278,
+    "name": "YZi Labs",
+    "normalFollowersCount": 757042,
+    "pinnedTweetIdsStr": [
+      "1882428714581172552"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/960036444885565442/1737640771",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1882427944750190592/dkLQ6Yh6_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "yzilabs",
+    "statusesCount": 1681,
+    "translatorType": "none",
+    "url": "https://t.co/q9yMjUUPFF",
+    "verified": false,
+    "verifiedType": "Business",
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "profileImageShape": "Square",
+  "restId": "960036444885565442",
+  "tipjarSettings": {}
+}

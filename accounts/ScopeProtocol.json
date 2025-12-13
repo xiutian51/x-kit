@@ -1,0 +1,92 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNDY1OTM5NDI3NjEyNjY3OTA2",
+  "isBlueVerified": false,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Wed Dec 01 07:03:51 +0000 2021",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "The AI Data Layer For Web3 AI Applications. \n\nMaker of 📈 https://t.co/HWUy9dowSb | 🦜 @lmkfun\n\nJoin us https://t.co/aFafmkrW0c",
+    "entities": {
+      "description": {
+        "urls": [
+          {
+            "display_url": "ai.0xscope.com",
+            "expanded_url": "https://ai.0xscope.com",
+            "url": "https://t.co/HWUy9dowSb",
+            "indices": [
+              57,
+              80
+            ]
+          },
+          {
+            "display_url": "t.me/scope_official",
+            "expanded_url": "https://t.me/scope_official",
+            "url": "https://t.co/aFafmkrW0c",
+            "indices": [
+              102,
+              125
+            ]
+          }
+        ]
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "link3.to/0xscope",
+            "expanded_url": "https://link3.to/0xscope",
+            "url": "https://t.co/iasjWxOng1",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 1239,
+    "followersCount": 161656,
+    "following": true,
+    "friendsCount": 376,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 828,
+    "location": "block",
+    "mediaCount": 1316,
+    "name": "0xScope",
+    "normalFollowersCount": 161656,
+    "pinnedTweetIdsStr": [
+      "1875211828688506939"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1465939427612667906/1733893209",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1681267711450693632/3jBiDYMk_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "ScopeProtocol",
+    "statusesCount": 3022,
+    "translatorType": "none",
+    "url": "https://t.co/iasjWxOng1",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [
+      {
+        "iconName": "IconBriefcaseStroke",
+        "id": 714,
+        "name": "Technology Company"
+      }
+    ],
+    "professionalType": "Business",
+    "restId": "1650066542112153600"
+  },
+  "profileImageShape": "Circle",
+  "restId": "1465939427612667906",
+  "tipjarSettings": {}
+}

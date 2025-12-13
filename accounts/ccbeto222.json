@@ -1,0 +1,60 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxMzgxMjg5NTYxOTA5Njg2Mjc0",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Sun Apr 11 16:54:44 +0000 2021",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "企业经营者｜投资人｜Web3重度参与者｜喜欢美女｜All in AI｜爆富分享， ———不小心就让你财富自由提前退休了 🤣 . 没事再随手记录加密世界的幻觉与清醒。",
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 2052,
+    "followersCount": 2844,
+    "following": true,
+    "friendsCount": 2395,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 23,
+    "location": "Japan",
+    "mediaCount": 465,
+    "name": "Beto加密阿拉丁",
+    "normalFollowersCount": 2844,
+    "pinnedTweetIdsStr": [],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1381289561909686274/1664792039",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1739247500492742656/wEMYGwEz_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "ccbeto222",
+    "statusesCount": 4706,
+    "translatorType": "none",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [
+      {
+        "iconName": "IconBriefcaseStroke",
+        "id": 985,
+        "name": "Destination Marketing Organization (DMO)"
+      }
+    ],
+    "professionalType": "Creator",
+    "restId": "1508718974678142976"
+  },
+  "profileImageShape": "Circle",
+  "restId": "1381289561909686274",
+  "tipjarSettings": {
+    "ethereumHandle": "0x0ee3DDeBcb35532E6ffaD5d2d7B16A6576A9F810",
+    "isEnabled": true
+  }
+}

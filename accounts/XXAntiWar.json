@@ -1,0 +1,71 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjo3MjU5ODQzNzE5NDYwODIzMDQ=",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": false,
+    "canMediaTag": false,
+    "createdAt": "Fri Apr 29 09:45:37 +0000 2016",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "iq5. NFT degen @0xSunNFT @corleonefnf @LaserCatNft | Shitcoin degen | Turned $5k to $7.5m in a week. | Turned $6m to $32m in 2 days. RETIRED :)",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "opensea.io/sneakerninjapa…",
+            "expanded_url": "https://opensea.io/sneakerninjapants",
+            "url": "https://t.co/fR2mnc9u0l",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 3655,
+    "followersCount": 44012,
+    "following": true,
+    "friendsCount": 2857,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 833,
+    "location": "Munich",
+    "mediaCount": 550,
+    "name": "XX",
+    "normalFollowersCount": 44012,
+    "pinnedTweetIdsStr": [
+      "1881196016915112383"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/725984371946082304/1670160656",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1839912440387289088/AVnbfuLw_normal.jpg",
+    "profileInterstitialType": "",
+    "_protected": true,
+    "screenName": "XXAntiWar",
+    "statusesCount": 2461,
+    "translatorType": "none",
+    "url": "https://t.co/fR2mnc9u0l",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [],
+    "professionalType": "Creator",
+    "restId": "1675513602927919104"
+  },
+  "profileImageShape": "Circle",
+  "restId": "725984371946082304",
+  "tipjarSettings": {
+    "ethereumHandle": "0x0653e299Ee741808F12427277FC8a062d9C718E1",
+    "isEnabled": true
+  }
+}

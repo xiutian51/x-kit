@@ -1,0 +1,68 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjo4Njc2MTc4NDkyMDgwMzczNzc=",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": false,
+    "createdAt": "Thu May 25 05:46:29 +0000 2017",
+    "defaultProfile": false,
+    "defaultProfileImage": false,
+    "description": "A new alternative for your crypto journey | Self-custody & dApps: @Wallet | Support: @OKXHelpDesk | UK users: @OKX_UK",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "okx.com",
+            "expanded_url": "https://www.okx.com",
+            "url": "https://t.co/zUK2ThuSHs",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 21150,
+    "followersCount": 5702258,
+    "following": true,
+    "friendsCount": 325,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 8111,
+    "location": "",
+    "mediaCount": 14103,
+    "name": "OKX",
+    "normalFollowersCount": 5702258,
+    "pinnedTweetIdsStr": [
+      "1999256385633005609"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/867617849208037377/1760060058",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1968722816154345472/vEj4j3o9_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "okx",
+    "statusesCount": 42372,
+    "translatorType": "none",
+    "url": "https://t.co/zUK2ThuSHs",
+    "verified": false,
+    "verifiedType": "Business",
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [],
+    "professionalType": "Business",
+    "restId": "1547228355451314177"
+  },
+  "profileImageShape": "Square",
+  "restId": "867617849208037377",
+  "tipjarSettings": {}
+}

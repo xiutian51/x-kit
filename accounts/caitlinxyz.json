@@ -1,0 +1,61 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {
+    "label": {
+      "url": {
+        "url": "https://twitter.com/paradigm",
+        "urlType": "DeepLink"
+      },
+      "badge": {
+        "url": "https://pbs.twimg.com/profile_images/1833567202458669058/vA9KidqD_bigger.jpg"
+      },
+      "description": "Paradigm",
+      "userLabelType": "BusinessLabel",
+      "userLabelDisplayType": "Badge"
+    }
+  },
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxMTk2NTEyMDMyODI2Mjg2MDg5",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Mon Nov 18 19:34:44 +0000 2019",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "investment partner @paradigm // walking around the internet",
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 5956,
+    "followersCount": 15338,
+    "following": true,
+    "friendsCount": 965,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 289,
+    "location": "New York, NY",
+    "mediaCount": 67,
+    "name": "caitlin",
+    "normalFollowersCount": 15338,
+    "pinnedTweetIdsStr": [
+      "1932819279508091065"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1196512032826286089/1693208945",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1847353914309382144/HPW6redn_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "caitlinxyz",
+    "statusesCount": 845,
+    "translatorType": "none",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "profileImageShape": "Circle",
+  "restId": "1196512032826286089",
+  "tipjarSettings": {}
+}

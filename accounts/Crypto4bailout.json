@@ -1,0 +1,77 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxMDE1MzQ1NDQwNDg3ODcwNDY0",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Fri Jul 06 21:23:12 +0000 2018",
+    "defaultProfile": false,
+    "defaultProfileImage": false,
+    "description": "Crypto since 16, Marketing Consultant | Helping Web 3 projects grow | Airdrop Maxi | Started from $0 Not afraid to try new things | Trying to build for Millions",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "linktr.ee/Crypto4bailout",
+            "expanded_url": "https://linktr.ee/Crypto4bailout",
+            "url": "https://t.co/HAqpvB8X0G",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 43387,
+    "followersCount": 139833,
+    "following": true,
+    "friendsCount": 1989,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 447,
+    "location": "Elon Musk",
+    "mediaCount": 6148,
+    "name": "🥞C4B Freedom🥞",
+    "normalFollowersCount": 139833,
+    "pinnedTweetIdsStr": [
+      "1672526595976843265"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1015345440487870464/1724189085",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1925474734323519488/J_470IzK_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "Crypto4bailout",
+    "statusesCount": 48695,
+    "translatorType": "none",
+    "url": "https://t.co/HAqpvB8X0G",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [
+      {
+        "iconName": "IconBriefcaseStroke",
+        "id": 1094,
+        "name": "Blockchain"
+      }
+    ],
+    "professionalType": "Business",
+    "restId": "1512965227670904842"
+  },
+  "profileImageShape": "Circle",
+  "restId": "1015345440487870464",
+  "superFollowEligible": true,
+  "tipjarSettings": {
+    "ethereumHandle": "0x9c47a86B485099C24F10227AC5e7CF3a43584e42",
+    "isEnabled": true
+  }
+}

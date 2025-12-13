@@ -1,0 +1,83 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNjMwNDgwMjA0ODI4MzkzNDc0",
+  "isBlueVerified": false,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Tue Feb 28 08:09:32 +0000 2023",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "The World's Largest #UBI & #DePin Project\n\nBuild on @Arbitrum, using orbit by @offchainlabs\n\nJoin Us Now: https://t.co/xuntnNqU3J",
+    "entities": {
+      "description": {
+        "urls": [
+          {
+            "display_url": "linktr.ee/avive_world",
+            "expanded_url": "http://linktr.ee/avive_world",
+            "url": "https://t.co/xuntnNqU3J",
+            "indices": [
+              106,
+              129
+            ]
+          }
+        ]
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "avive.world",
+            "expanded_url": "https://www.avive.world/",
+            "url": "https://t.co/4Kpwg7ewtj",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 502,
+    "followersCount": 941842,
+    "following": true,
+    "friendsCount": 449,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 275,
+    "location": "Web3",
+    "mediaCount": 549,
+    "name": "Avive World",
+    "normalFollowersCount": 941842,
+    "pinnedTweetIdsStr": [
+      "1853726448500330554"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1630480204828393474/1688469807",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1633444569655443456/kMegvVU__normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "Avive_World",
+    "statusesCount": 2181,
+    "translatorType": "none",
+    "url": "https://t.co/4Kpwg7ewtj",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [
+      {
+        "iconName": "IconBriefcaseStroke",
+        "id": 958,
+        "name": "Entrepreneur"
+      }
+    ],
+    "professionalType": "Business",
+    "restId": "1660895662580580365"
+  },
+  "profileImageShape": "Circle",
+  "restId": "1630480204828393474",
+  "tipjarSettings": {}
+}

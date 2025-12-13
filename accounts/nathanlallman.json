@@ -1,0 +1,75 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {
+    "label": {
+      "url": {
+        "url": "https://twitter.com/OndoFinance",
+        "urlType": "DeepLink"
+      },
+      "badge": {
+        "url": "https://pbs.twimg.com/profile_images/1614113185652670466/YeihoVJk_bigger.jpg"
+      },
+      "description": "Ondo Finance",
+      "userLabelType": "BusinessLabel",
+      "userLabelDisplayType": "Badge"
+    }
+  },
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjo5Mzg5ODcyOTExOTk5NDI2NTc=",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Fri Dec 08 04:23:10 +0000 2017",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "CEO @ondofinance // Prev: Digital Assets @goldmansachs | @brownuniversity",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "ondo.finance",
+            "expanded_url": "http://ondo.finance",
+            "url": "https://t.co/HOZCSAi0zy",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 6117,
+    "followersCount": 21691,
+    "following": true,
+    "friendsCount": 2288,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 233,
+    "location": "",
+    "mediaCount": 46,
+    "name": "Nathan Allman 🌊",
+    "normalFollowersCount": 21691,
+    "pinnedTweetIdsStr": [
+      "1963246514249073119"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/938987291199942657/1534559159",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1599117993866166273/_Ohm9uLF_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "nathanlallman",
+    "statusesCount": 1376,
+    "translatorType": "none",
+    "url": "https://t.co/HOZCSAi0zy",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "profileImageShape": "Circle",
+  "restId": "938987291199942657",
+  "tipjarSettings": {}
+}

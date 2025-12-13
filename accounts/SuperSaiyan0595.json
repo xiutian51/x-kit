@@ -1,0 +1,59 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNDk0Mjk5MzI4MDI2MTI0Mjg5",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": false,
+    "canMediaTag": false,
+    "createdAt": "Thu Feb 17 13:15:02 +0000 2022",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "威科夫量价 + 周期交易选手 ｜观察宏观市场，市场情绪与流动性为辅 ｜ 交易 BTC, ETH, XRP, 黄金, 白银, 纳指, 避险资产｜ “市场不是在风险板块，就是在避险板块”",
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 2113,
+    "followersCount": 4270,
+    "following": true,
+    "friendsCount": 643,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 80,
+    "location": "",
+    "mediaCount": 465,
+    "name": "SuperSaiyan",
+    "normalFollowersCount": 4270,
+    "pinnedTweetIdsStr": [
+      "1985381966418432413"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1494299328026124289/1762789993",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1815726248427196416/szf4owiP_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "SuperSaiyan0595",
+    "statusesCount": 3263,
+    "translatorType": "none",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [
+      {
+        "iconName": "IconBriefcaseStroke",
+        "id": 713,
+        "name": "Science & Technology"
+      }
+    ],
+    "professionalType": "Creator",
+    "restId": "1987066571614003556"
+  },
+  "profileImageShape": "Circle",
+  "restId": "1494299328026124289",
+  "tipjarSettings": {}
+}

@@ -1,0 +1,87 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {
+    "label": {
+      "badge": {
+        "url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig"
+      },
+      "description": "Automated",
+      "longDescription": {
+        "text": "Automated by @fangkuai_bot",
+        "entities": [
+          {
+            "fromIndex": 13,
+            "toIndex": 26,
+            "ref": {
+              "type": "TimelineRichTextMention",
+              "screen_name": "fangkuai_bot",
+              "mention_results": {
+                "result": {
+                  "__typename": "User",
+                  "legacy": {
+                    "screen_name": "fangkuai_bot"
+                  },
+                  "rest_id": "1873348403498987520"
+                }
+              }
+            }
+          }
+        ]
+      },
+      "userLabelType": "AutomatedLabel"
+    }
+  },
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNDQ0NDcwMzY0NjY3NDQ5MzQ0",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Sun Oct 03 01:12:49 +0000 2021",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "温和的 #bitcoin Maxi I 经常在旁氏里游泳 Always trying new ponzi",
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 16420,
+    "followersCount": 4354,
+    "following": true,
+    "friendsCount": 1645,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 86,
+    "location": "Bitcoin",
+    "mediaCount": 246,
+    "name": "FangKuai.eth",
+    "normalFollowersCount": 4354,
+    "pinnedTweetIdsStr": [],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1444470364667449344/1635523624",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1518149350828003329/hfxKJ2M1_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "fangkuai_real",
+    "statusesCount": 1480,
+    "translatorType": "none",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [
+      {
+        "iconName": "IconBriefcaseStroke",
+        "id": 713,
+        "name": "Science & Technology"
+      }
+    ],
+    "professionalType": "Creator",
+    "restId": "1520202135559827456"
+  },
+  "profileImageShape": "Circle",
+  "restId": "1444470364667449344",
+  "tipjarSettings": {}
+}

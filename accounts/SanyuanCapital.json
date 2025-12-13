@@ -1,0 +1,72 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxMzYxODcyMzU0MTM4MjI2Njg5",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Wed Feb 17 02:57:37 +0000 2021",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "A Dao-driven venture capital. We focus on Web3.0 , DeFi and AI.\nTelegram：\nhttps://t.co/4ZpkSvG9MT",
+    "entities": {
+      "description": {
+        "urls": [
+          {
+            "display_url": "t.me/TernaryCapital",
+            "expanded_url": "http://t.me/TernaryCapital",
+            "url": "https://t.co/4ZpkSvG9MT",
+            "indices": [
+              74,
+              97
+            ]
+          }
+        ]
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "sanyuanlab.com",
+            "expanded_url": "https://www.sanyuanlab.com/",
+            "url": "https://t.co/wRFWHopDxi",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 428,
+    "followersCount": 18211,
+    "following": true,
+    "friendsCount": 556,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 118,
+    "location": "Shinagawa-ku, Tokyo",
+    "mediaCount": 539,
+    "name": "SANYUAN Capital 三元资本",
+    "normalFollowersCount": 18211,
+    "pinnedTweetIdsStr": [
+      "1748537206380355959"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1361872354138226689/1634181676",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1659565693258592257/cn7guO-N_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "SanyuanCapital",
+    "statusesCount": 1819,
+    "translatorType": "none",
+    "url": "https://t.co/wRFWHopDxi",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "profileImageShape": "Circle",
+  "restId": "1361872354138226689",
+  "tipjarSettings": {}
+}

@@ -1,0 +1,61 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNDMzNjU4ODI5NTM5OTk5NzQ1",
+  "isBlueVerified": false,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Fri Sep 03 05:11:23 +0000 2021",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "猫饼Club创始人😶‍🌫️ Makoin创始人| | 资深6年老韭菜 || 从来没赚过钱🤕| | 爱好打点无畏契约  Scalping高手",
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 91,
+    "followersCount": 582,
+    "following": true,
+    "friendsCount": 171,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 0,
+    "location": "Singapore",
+    "mediaCount": 43,
+    "name": "陌白爱吃饼🫓（Merlin🔮🧙）",
+    "normalFollowersCount": 582,
+    "pinnedTweetIdsStr": [
+      "1981332129209602258"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1433658829539999745/1701437176",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1651059357390635008/grt7Lf2v_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "MoBaiovo",
+    "statusesCount": 305,
+    "translatorType": "none",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [
+      {
+        "iconName": "IconBriefcaseStroke",
+        "id": 192,
+        "name": "Financial Services"
+      }
+    ],
+    "professionalType": "Creator",
+    "restId": "1530730462662230016"
+  },
+  "profileImageShape": "Circle",
+  "restId": "1433658829539999745",
+  "tipjarSettings": {
+    "isEnabled": true
+  }
+}

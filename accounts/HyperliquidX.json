@@ -1,0 +1,67 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNTI3MDIwMjk1MDU5NjQ4NTEz",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Wed May 18 20:16:31 +0000 2022",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "The blockchain to house all finance. Trade, build apps, and launch tokens on the same hyper-performant chain. X by Hyper Foundation",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "hyperfoundation.org",
+            "expanded_url": "https://hyperfoundation.org/",
+            "url": "https://t.co/mc1LyCLkYq",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 5417,
+    "followersCount": 363311,
+    "following": true,
+    "friendsCount": 7,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 2327,
+    "location": "",
+    "mediaCount": 375,
+    "name": "Hyperliquid",
+    "normalFollowersCount": 363311,
+    "pinnedTweetIdsStr": [
+      "1981045910672200114"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1527020295059648513/1681508375",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1646991609416806408/vKLEZxhh_normal.png",
+    "profileInterstitialType": "",
+    "screenName": "HyperliquidX",
+    "statusesCount": 1172,
+    "translatorType": "none",
+    "url": "https://t.co/mc1LyCLkYq",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [],
+    "professionalType": "Business",
+    "restId": "1589106049700724736"
+  },
+  "profileImageShape": "Circle",
+  "restId": "1527020295059648513",
+  "tipjarSettings": {}
+}

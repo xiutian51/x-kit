@@ -1,0 +1,73 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNjY5NjQxMDYwNzQ0ODI2ODgw",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Fri Jun 16 09:40:50 +0000 2023",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "Building A Reality-Perceiving Complex Adaptive System (CAS)",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "linktr.ee/BitAgere",
+            "expanded_url": "https://linktr.ee/BitAgere",
+            "url": "https://t.co/LFblgfUMLJ",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 413,
+    "followersCount": 335347,
+    "following": true,
+    "friendsCount": 127,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 484,
+    "location": "#Bitcoin",
+    "mediaCount": 702,
+    "name": "GEB",
+    "normalFollowersCount": 335347,
+    "pinnedTweetIdsStr": [
+      "1983378031285809340"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1669641060744826880/1745304647",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1899674850010300416/aRrr61_G_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "BitAgere",
+    "statusesCount": 1779,
+    "translatorType": "none",
+    "url": "https://t.co/LFblgfUMLJ",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [
+      {
+        "iconName": "IconBriefcaseStroke",
+        "id": 1094,
+        "name": "Blockchain"
+      }
+    ],
+    "professionalType": "Business",
+    "restId": "1759152030202188141"
+  },
+  "profileImageShape": "Circle",
+  "restId": "1669641060744826880",
+  "tipjarSettings": {}
+}

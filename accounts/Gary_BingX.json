@@ -1,0 +1,77 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxMTU4ODA2OTE0NzgxNzM2OTYx",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": false,
+    "createdAt": "Tue Aug 06 18:27:52 +0000 2019",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "Analyst | #BTC holder from $28000 | #MEME KING \n| BingX Listing:https://t.co/t3eeaYBiRB  or  gary.l@bingx.com",
+    "entities": {
+      "description": {
+        "urls": [
+          {
+            "display_url": "t.me/Gary_BingX",
+            "expanded_url": "http://t.me/Gary_BingX",
+            "url": "https://t.co/t3eeaYBiRB",
+            "indices": [
+              64,
+              87
+            ]
+          }
+        ]
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "t.me/Gary_BingX",
+            "expanded_url": "http://t.me/Gary_BingX",
+            "url": "https://t.co/t3eeaYBiRB",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 183,
+    "followersCount": 23069,
+    "following": true,
+    "friendsCount": 385,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 22,
+    "location": "Dubai",
+    "mediaCount": 252,
+    "name": "Gary | BingX",
+    "normalFollowersCount": 23069,
+    "pinnedTweetIdsStr": [],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1158806914781736961/1722695162",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1538234168873668609/qCl_HP7y_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "Gary_BingX",
+    "statusesCount": 2153,
+    "translatorType": "none",
+    "url": "https://t.co/t3eeaYBiRB",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [],
+    "professionalType": "Creator",
+    "restId": "1455714838248714240"
+  },
+  "profileImageShape": "Circle",
+  "restId": "1158806914781736961",
+  "tipjarSettings": {
+    "isEnabled": true
+  }
+}

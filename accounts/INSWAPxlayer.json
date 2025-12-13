@@ -1,0 +1,63 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNDA0Nzg3MTk=",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Wed May 05 16:00:00 +0000 2010",
+    "defaultProfile": false,
+    "defaultProfileImage": false,
+    "description": "Swap instantly. Pay 0% tax.\n-\nBacked by @OKXinsiders\nBuild INSWAP/INS402",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "linktr.ee/INSWAP",
+            "expanded_url": "https://linktr.ee/INSWAP",
+            "url": "https://t.co/jo4aB0K5dg",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 68,
+    "followersCount": 324,
+    "following": true,
+    "friendsCount": 29,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 5,
+    "location": "X-Layer",
+    "mediaCount": 16,
+    "name": "INSWAP",
+    "normalFollowersCount": 324,
+    "notifications": true,
+    "pinnedTweetIdsStr": [
+      "1982851972089950335"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/140478719/1761546769",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1980874280708526080/VVzMcDil_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "INSWAPxlayer",
+    "statusesCount": 58,
+    "translatorType": "none",
+    "url": "https://t.co/jo4aB0K5dg",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "profileImageShape": "Circle",
+  "restId": "140478719",
+  "tipjarSettings": {}
+}

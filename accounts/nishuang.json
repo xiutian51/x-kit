@@ -1,0 +1,67 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoyMDU4ODk3MA==",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": false,
+    "createdAt": "Wed Feb 11 13:17:01 +0000 2009",
+    "defaultProfile": false,
+    "defaultProfileImage": false,
+    "description": "倪爽，设计顾问。 超过 20 年经验资深设计师，在美国运营 Honest Dot Design / 倪爽设计工作室，为中国及北美企业提供品牌营销设计、UX 设计两类设计咨询服务",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "nishuang.net",
+            "expanded_url": "https://nishuang.net/",
+            "url": "https://t.co/kn7zsOTWuW",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 21990,
+    "followersCount": 100552,
+    "following": true,
+    "friendsCount": 799,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 1032,
+    "location": "United States",
+    "mediaCount": 15507,
+    "name": "倪爽",
+    "normalFollowersCount": 100552,
+    "pinnedTweetIdsStr": [
+      "1902092248306643441"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/20588970/1720543960",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1615204555/bg_green_300x300_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "nishuang",
+    "statusesCount": 42111,
+    "translatorType": "none",
+    "url": "https://t.co/kn7zsOTWuW",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [],
+    "professionalType": "Business",
+    "restId": "1793644639108403291"
+  },
+  "profileImageShape": "Circle",
+  "restId": "20588970",
+  "tipjarSettings": {}
+}

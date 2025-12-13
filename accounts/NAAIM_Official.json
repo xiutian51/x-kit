@@ -1,0 +1,60 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxMzkyNDkzMTIy",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": false,
+    "canMediaTag": false,
+    "createdAt": "Tue Apr 30 16:48:48 +0000 2013",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "National Association of Active Investment Managers",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "naaim.org",
+            "expanded_url": "http://www.naaim.org/",
+            "url": "https://t.co/PUWID9FKae",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 49,
+    "followersCount": 2432,
+    "following": true,
+    "friendsCount": 166,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 59,
+    "location": "United States",
+    "mediaCount": 1175,
+    "name": "NAAIM",
+    "normalFollowersCount": 2432,
+    "pinnedTweetIdsStr": [],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1392493122/1753114573",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1718304057683496960/WF7kRvc1_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "NAAIM_Official",
+    "statusesCount": 2023,
+    "translatorType": "none",
+    "url": "https://t.co/PUWID9FKae",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "profileImageShape": "Circle",
+  "restId": "1392493122",
+  "tipjarSettings": {}
+}

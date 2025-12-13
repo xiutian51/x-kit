@@ -1,0 +1,74 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNDk1MzEyMjQ5ODMzMDE3MzQ0",
+  "isBlueVerified": false,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Sun Feb 20 08:20:05 +0000 2022",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "Manage your token approvals and protect yourself from scams on 100+ networks. Founded by @RoscoKalis.",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "revoke.cash",
+            "expanded_url": "https://revoke.cash",
+            "url": "https://t.co/zePbQD8xBf",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 13529,
+    "followersCount": 84080,
+    "following": true,
+    "friendsCount": 52,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 414,
+    "location": "Amsterdam, The Netherlands",
+    "mediaCount": 382,
+    "name": "Revoke.cash",
+    "normalFollowersCount": 84080,
+    "pinnedTweetIdsStr": [
+      "1920075207819067578"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1495312249833017344/1718986384",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1948277825812742144/O--5n9jZ_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "RevokeCash",
+    "statusesCount": 3020,
+    "translatorType": "none",
+    "url": "https://t.co/zePbQD8xBf",
+    "verified": false,
+    "verifiedType": "Business",
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [
+      {
+        "iconName": "IconBriefcaseStroke",
+        "id": 715,
+        "name": "Software Company"
+      }
+    ],
+    "professionalType": "Business",
+    "restId": "1645426948754079744"
+  },
+  "profileImageShape": "Square",
+  "restId": "1495312249833017344",
+  "tipjarSettings": {}
+}

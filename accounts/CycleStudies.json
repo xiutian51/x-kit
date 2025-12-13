@@ -1,0 +1,78 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNDQxMjg3MzQ2MTgwMTMyODY5",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": false,
+    "createdAt": "Fri Sep 24 06:24:30 +0000 2021",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "美股自营基金日内交易员 | 纽约大学数据科学 | 极限运动 | Proprietary Day Trader | NYU Data Science | X Sports\n\n社群：https://t.co/2QYcd4H2hZ \n\n直播：https://t.co/UkDBLCTolD",
+    "entities": {
+      "description": {
+        "urls": [
+          {
+            "display_url": "discord.gg/yE4kUzpgN4",
+            "expanded_url": "http://discord.gg/yE4kUzpgN4",
+            "url": "https://t.co/2QYcd4H2hZ",
+            "indices": [
+              89,
+              112
+            ]
+          },
+          {
+            "display_url": "youtube.com/@cyclestudiesB…",
+            "expanded_url": "http://youtube.com/@cyclestudiesBTC",
+            "url": "https://t.co/UkDBLCTolD",
+            "indices": [
+              118,
+              141
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 7688,
+    "followersCount": 71803,
+    "following": true,
+    "friendsCount": 837,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 1479,
+    "location": "Boston | NY | NJ",
+    "mediaCount": 4749,
+    "name": "百萬Eric | Day Trader",
+    "normalFollowersCount": 71803,
+    "pinnedTweetIdsStr": [
+      "1909421936318480552"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1441287346180132869/1760068136",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1982606819244605440/2IYiLUQI_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "CycleStudies",
+    "statusesCount": 14429,
+    "translatorType": "none",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [
+      {
+        "iconName": "IconBriefcaseStroke",
+        "id": 192,
+        "name": "Financial Services"
+      }
+    ],
+    "professionalType": "Creator",
+    "restId": "1502199820739493890"
+  },
+  "profileImageShape": "Circle",
+  "restId": "1441287346180132869",
+  "tipjarSettings": {}
+}

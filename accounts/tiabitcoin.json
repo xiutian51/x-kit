@@ -1,0 +1,107 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNDA2ODUyMjQ5MDMzMjQ4Nzcw",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Mon Jun 21 05:51:40 +0000 2021",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "一個每天就琢磨bitcoin這麼點事的人。\nhttps://t.co/rnD0d6csxw \n最常用交易所Bybit：https://t.co/9dExsToL3n \n幣安減40%手續費：https://t.co/KCimqEuXe9 \n老牌可靠OKX歐易：https://t.co/RB0YLNwHcH",
+    "entities": {
+      "description": {
+        "urls": [
+          {
+            "display_url": "youtube.com/@tiabtc",
+            "expanded_url": "http://youtube.com/@tiabtc",
+            "url": "https://t.co/rnD0d6csxw",
+            "indices": [
+              22,
+              45
+            ]
+          },
+          {
+            "display_url": "bit.ly/tiabtc",
+            "expanded_url": "https://bit.ly/tiabtc",
+            "url": "https://t.co/9dExsToL3n",
+            "indices": [
+              59,
+              82
+            ]
+          },
+          {
+            "display_url": "bit.ly/tiaba",
+            "expanded_url": "https://bit.ly/tiaba",
+            "url": "https://t.co/KCimqEuXe9",
+            "indices": [
+              94,
+              117
+            ]
+          },
+          {
+            "display_url": "bit.ly/tiok",
+            "expanded_url": "https://bit.ly/tiok",
+            "url": "https://t.co/RB0YLNwHcH",
+            "indices": [
+              129,
+              152
+            ]
+          }
+        ]
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "bit.ly/tia_discord",
+            "expanded_url": "http://bit.ly/tia_discord",
+            "url": "https://t.co/yU1w7GayPn",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 499,
+    "followersCount": 96523,
+    "following": true,
+    "friendsCount": 113,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 1714,
+    "location": "United States",
+    "mediaCount": 1805,
+    "name": "提阿非羅TiaBTC",
+    "normalFollowersCount": 96523,
+    "pinnedTweetIdsStr": [
+      "1969626934658408752"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1406852249033248770/1638174241",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1768106284878827520/1YnfMkEr_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "tiabitcoin",
+    "statusesCount": 3853,
+    "translatorType": "none",
+    "url": "https://t.co/yU1w7GayPn",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [],
+    "professionalType": "Creator",
+    "restId": "1461442852727234560"
+  },
+  "profileImageShape": "Circle",
+  "restId": "1406852249033248770",
+  "tipjarSettings": {
+    "bitcoinHandle": "bc1qqpahwg29fypnm7jneqsa36m4ed2zen30p9lusg",
+    "isEnabled": true
+  }
+}

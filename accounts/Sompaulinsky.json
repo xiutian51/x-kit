@@ -1,0 +1,48 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjo3NzMxODgxNDQ1NjQ5Mjg1MTI=",
+  "isBlueVerified": false,
+  "legacy": {
+    "canDm": false,
+    "canMediaTag": true,
+    "createdAt": "Tue Sep 06 15:56:33 +0000 2016",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "Yonatan sompolinsky maxi 🚀🌙",
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 9180,
+    "followersCount": 1482,
+    "following": true,
+    "friendsCount": 688,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 13,
+    "location": "On the moon",
+    "mediaCount": 363,
+    "name": "Som Paul in s𐤊y",
+    "normalFollowersCount": 1482,
+    "pinnedTweetIdsStr": [
+      "1688662426068439040"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/773188144564928512/1694320443",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1943595966537334784/cVL_aBqM_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "Sompaulinsky",
+    "statusesCount": 2042,
+    "translatorType": "none",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "profileImageShape": "Circle",
+  "restId": "773188144564928512",
+  "tipjarSettings": {}
+}

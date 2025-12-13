@@ -1,0 +1,47 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNjU0MzEyMTUyMjIyODE4MzA0",
+  "isBlueVerified": false,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Fri May 05 02:28:54 +0000 2023",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "",
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 56,
+    "followedBy": true,
+    "followersCount": 488,
+    "following": true,
+    "friendsCount": 340,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 13,
+    "location": "",
+    "mediaCount": 348,
+    "name": "冲meme的小女孩",
+    "normalFollowersCount": 488,
+    "pinnedTweetIdsStr": [],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1654312152222818304/1684981424",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1922839343900786688/QSV1xUMC_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "lumaogirl",
+    "statusesCount": 1118,
+    "translatorType": "none",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "profileImageShape": "Circle",
+  "restId": "1654312152222818304",
+  "tipjarSettings": {}
+}

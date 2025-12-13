@@ -1,0 +1,71 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjo5OTYyMjA4MDA0MzE2NjkyNDg=",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Tue May 15 02:48:42 +0000 2018",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "meme coins lover | 喜欢分享新链早期meme，风险大，别随便跟 | telegram @EinsteinLee",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "t.me/FindTheGoldenC…",
+            "expanded_url": "http://t.me/FindTheGoldenChannel",
+            "url": "https://t.co/trt4spHNb6",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 9752,
+    "followersCount": 53898,
+    "following": true,
+    "friendsCount": 1987,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 808,
+    "location": "",
+    "mediaCount": 2877,
+    "name": "爱因斯坦一撇",
+    "normalFollowersCount": 53898,
+    "pinnedTweetIdsStr": [],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/996220800431669248/1678113279",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1871177198725636096/Mz4xWCzP_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "EinsteinYipie",
+    "statusesCount": 18408,
+    "translatorType": "none",
+    "url": "https://t.co/trt4spHNb6",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [
+      {
+        "iconName": "IconBriefcaseStroke",
+        "id": 934,
+        "name": "Social Media Influencer"
+      }
+    ],
+    "professionalType": "Creator",
+    "restId": "1502536057174208512"
+  },
+  "profileImageShape": "Circle",
+  "restId": "996220800431669248",
+  "tipjarSettings": {}
+}

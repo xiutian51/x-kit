@@ -1,0 +1,88 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNDYxNjAxNTkyMzc3OTUwMjEx",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": false,
+    "createdAt": "Fri Nov 19 07:45:58 +0000 2021",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "📩 DM for Collab⚡️币圈资深老韭菜｜⚡️阿尔法信息挖掘 ｜BTC 信仰者  ｜交易员丨  \n\n#binance  近3亿用户的共同选择就在币安：   https://t.co/P5aZcTjHCp",
+    "entities": {
+      "description": {
+        "urls": [
+          {
+            "display_url": "binance.com/zh-CN/join?ref…",
+            "expanded_url": "http://binance.com/zh-CN/join?ref=10125991",
+            "url": "https://t.co/P5aZcTjHCp",
+            "indices": [
+              82,
+              105
+            ]
+          }
+        ]
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "t.me/jingtu8888",
+            "expanded_url": "http://t.me/jingtu8888",
+            "url": "https://t.co/BGE3w1SOAL",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 95372,
+    "followedBy": true,
+    "followersCount": 17928,
+    "following": true,
+    "friendsCount": 13965,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 370,
+    "location": "合作联系👉",
+    "mediaCount": 652,
+    "name": "寻一方净土 | MemeMax ⚡️",
+    "normalFollowersCount": 17928,
+    "pinnedTweetIdsStr": [
+      "1940248082350055431"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1461601592377950211/1758097617",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1991427363373215744/w5Pd44oT_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "TUGE8888",
+    "statusesCount": 60585,
+    "translatorType": "none",
+    "url": "https://t.co/BGE3w1SOAL",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [
+      {
+        "iconName": "IconBriefcaseStroke",
+        "id": 934,
+        "name": "Social Media Influencer"
+      }
+    ],
+    "professionalType": "Creator",
+    "restId": "1618206255780364290"
+  },
+  "profileImageShape": "Circle",
+  "restId": "1461601592377950211",
+  "superFollowEligible": true,
+  "tipjarSettings": {
+    "ethereumHandle": "0x9fB54B2Ba0936eA1286Ba77c9043f5955D8E3888",
+    "isEnabled": true
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNTQ3MDMxODgzNzExNjUxODQw",
+  "isBlueVerified": false,
+  "legacy": {
+    "canDm": false,
+    "canMediaTag": true,
+    "createdAt": "Wed Jul 13 01:35:19 +0000 2022",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "ORC-20 - Open #ordinal token standard on #BTC $orc #orc20\n\n🟠🪄 https://t.co/JOcHtO7fbb",
+    "entities": {
+      "description": {
+        "urls": [
+          {
+            "display_url": "docs.orc20.org",
+            "expanded_url": "http://docs.orc20.org",
+            "url": "https://t.co/JOcHtO7fbb",
+            "indices": [
+              62,
+              85
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 384,
+    "followersCount": 7896,
+    "following": true,
+    "friendsCount": 354,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 63,
+    "location": "Bitcoin",
+    "mediaCount": 56,
+    "name": "OrcDAO",
+    "normalFollowersCount": 7896,
+    "pinnedTweetIdsStr": [
+      "1681478538002669568"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1547031883711651840/1684330289",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1658827565002366979/DdaTFVJ3_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "OrcDAO",
+    "statusesCount": 268,
+    "translatorType": "none",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [
+      {
+        "iconName": "IconBriefcaseStroke",
+        "id": 1009,
+        "name": "Community"
+      }
+    ],
+    "professionalType": "Creator",
+    "restId": "1652917263228616704"
+  },
+  "profileImageShape": "Circle",
+  "restId": "1547031883711651840",
+  "tipjarSettings": {}
+}

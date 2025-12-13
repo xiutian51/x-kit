@@ -1,0 +1,72 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNjE1OTI0MDg4NTQ3MTkyODMz",
+  "isBlueVerified": false,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Thu Jan 19 04:08:45 +0000 2023",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "https://t.co/LtlllRR36X",
+    "entities": {
+      "description": {
+        "urls": [
+          {
+            "display_url": "patreon.com/user?u=84521170",
+            "expanded_url": "http://patreon.com/user?u=84521170",
+            "url": "https://t.co/LtlllRR36X",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "patreon.com/user?u=84521170",
+            "expanded_url": "http://patreon.com/user?u=84521170",
+            "url": "https://t.co/LtlllRR36X",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 1429,
+    "followersCount": 29952,
+    "following": true,
+    "friendsCount": 277,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 261,
+    "location": "",
+    "mediaCount": 176,
+    "name": "まう",
+    "normalFollowersCount": 29952,
+    "pinnedTweetIdsStr": [
+      "1726227264227197223"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1615924088547192833/1677827236",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1631599635059048448/29hPfJsy_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "mawnori",
+    "statusesCount": 1058,
+    "translatorType": "none",
+    "url": "https://t.co/LtlllRR36X",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "profileImageShape": "Circle",
+  "restId": "1615924088547192833",
+  "tipjarSettings": {}
+}

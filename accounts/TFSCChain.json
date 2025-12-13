@@ -1,0 +1,90 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNTE3MDAxOTkyODYxNzE2NDgw",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Thu Apr 21 04:47:24 +0000 2022",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "A public chain of parallel processing by multiple block producers.\nLinktree: https://t.co/e5kfCKhdsw\nTFSC Community Bot: https://t.co/q6ZApIH6JL",
+    "entities": {
+      "description": {
+        "urls": [
+          {
+            "display_url": "linktr.ee/tfscchain",
+            "expanded_url": "https://linktr.ee/tfscchain",
+            "url": "https://t.co/e5kfCKhdsw",
+            "indices": [
+              77,
+              100
+            ]
+          },
+          {
+            "display_url": "t.me/TFSCCommunityB…",
+            "expanded_url": "https://t.me/TFSCCommunityBot",
+            "url": "https://t.co/q6ZApIH6JL",
+            "indices": [
+              121,
+              144
+            ]
+          }
+        ]
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "tfsc.io",
+            "expanded_url": "https://www.tfsc.io",
+            "url": "https://t.co/tl0rw4tNdy",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 299,
+    "followersCount": 25174,
+    "following": true,
+    "friendsCount": 125,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 16,
+    "location": "USA",
+    "mediaCount": 375,
+    "name": "Transformers",
+    "normalFollowersCount": 25174,
+    "pinnedTweetIdsStr": [],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1517001992861716480/1711016435",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1518843782522761216/6CAk4T7R_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "TFSCChain",
+    "statusesCount": 1252,
+    "translatorType": "none",
+    "url": "https://t.co/tl0rw4tNdy",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [
+      {
+        "iconName": "IconBriefcaseStroke",
+        "id": 713,
+        "name": "Science & Technology"
+      }
+    ],
+    "professionalType": "Business",
+    "restId": "1521561620417515520"
+  },
+  "profileImageShape": "Circle",
+  "restId": "1517001992861716480",
+  "tipjarSettings": {}
+}

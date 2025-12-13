@@ -1,0 +1,62 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxMzg0NTM1NDM1NTc4Mzg0Mzg2",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Tue Apr 20 15:52:36 +0000 2021",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "Investment Partner at @L1D_xyz\n\nDisciple of History. Seeker of inefficiencies.\n\nOpinions expressed are my own.",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "L1D.com",
+            "expanded_url": "https://L1D.com/",
+            "url": "https://t.co/mFB5p9pPxp",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 78731,
+    "followersCount": 9883,
+    "following": true,
+    "friendsCount": 2249,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 327,
+    "location": "",
+    "mediaCount": 591,
+    "name": "0xLouisT",
+    "normalFollowersCount": 9883,
+    "pinnedTweetIdsStr": [
+      "1902755985803858168"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1384535435578384386/1719313671",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1462728427899863044/QWjhYKYa_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "0xLouisT",
+    "statusesCount": 3462,
+    "translatorType": "none",
+    "url": "https://t.co/mFB5p9pPxp",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "profileImageShape": "Circle",
+  "restId": "1384535435578384386",
+  "tipjarSettings": {}
+}

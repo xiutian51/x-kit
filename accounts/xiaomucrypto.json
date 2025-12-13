@@ -1,0 +1,62 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNTA3NjMxNTQxMzAzNzEzNzkz",
+  "isBlueVerified": false,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Sat Mar 26 08:12:38 +0000 2022",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "自由 crypto 纯二级韭菜交易员 -所有内容不构成任何投资建议-不会参与接受任何推广和广告-不私聊不碰任何人资金",
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 6824,
+    "followersCount": 175653,
+    "following": true,
+    "friendsCount": 832,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 3037,
+    "location": "萨尔瓦多",
+    "mediaCount": 4992,
+    "name": "川沐｜Trumoo🐮",
+    "normalFollowersCount": 175653,
+    "pinnedTweetIdsStr": [],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1507631541303713793/1736677111",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1595742328450211840/oO6w9IYm_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "xiaomucrypto",
+    "statusesCount": 11446,
+    "translatorType": "none",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [
+      {
+        "iconName": "IconBriefcaseStroke",
+        "id": 635,
+        "name": "Lasik/Laser Eye Surgeon"
+      }
+    ],
+    "professionalType": "Business",
+    "restId": "1654701341640458241"
+  },
+  "profileImageShape": "Circle",
+  "restId": "1507631541303713793",
+  "superFollowEligible": true,
+  "tipjarSettings": {
+    "bitcoinHandle": "3MeAffGDAoczf7wQmAhTJGh34SzG7YbnBe",
+    "ethereumHandle": "0x7FC402E0315d00325877397F088072ED14288210",
+    "isEnabled": true
+  }
+}

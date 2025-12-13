@@ -1,0 +1,67 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNDMxMzYzODkwNzcyNzg3MjAx",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Fri Aug 27 21:12:13 +0000 2021",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "AMKT: The crypto market in a single index. Founders of the Do Nothing Club.",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "amkt.com",
+            "expanded_url": "https://amkt.com",
+            "url": "https://t.co/xtvtoVF0ta",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 8697,
+    "followersCount": 52151,
+    "following": true,
+    "friendsCount": 20,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 313,
+    "location": "Find $AMKT →",
+    "mediaCount": 562,
+    "name": "Alongside",
+    "normalFollowersCount": 52151,
+    "pinnedTweetIdsStr": [
+      "1720123413988004157"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1431363890772787201/1704827851",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1625308873442689026/ilFKYctj_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "alongsidefi",
+    "statusesCount": 3377,
+    "translatorType": "none",
+    "url": "https://t.co/xtvtoVF0ta",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [],
+    "professionalType": "Business",
+    "restId": "1475760188850376705"
+  },
+  "profileImageShape": "Circle",
+  "restId": "1431363890772787201",
+  "tipjarSettings": {}
+}

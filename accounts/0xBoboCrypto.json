@@ -1,0 +1,57 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNTEzMTg0Nzc3Njk1NzI3NjE3",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Sun Apr 10 15:59:07 +0000 2022",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "⛳️Dad, Dreamer, Trader, Strategist, Philosopher —📖关于期权交易，欢迎付费交流学习~#crypto #btc #options",
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 1148,
+    "followersCount": 2558,
+    "following": true,
+    "friendsCount": 531,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 63,
+    "location": "副业读书，健身，帮助朋友",
+    "mediaCount": 362,
+    "name": "Yuezige｜Options Trader👨‍🎓",
+    "normalFollowersCount": 2558,
+    "pinnedTweetIdsStr": [],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1513184777695727617/1716953684",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1795659895305588736/uCp_ecDa_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "0xBoboCrypto",
+    "statusesCount": 1749,
+    "translatorType": "none",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [
+      {
+        "iconName": "IconBriefcaseStroke",
+        "id": 192,
+        "name": "Financial Services"
+      }
+    ],
+    "professionalType": "Creator",
+    "restId": "1831569223497461805"
+  },
+  "profileImageShape": "Circle",
+  "restId": "1513184777695727617",
+  "tipjarSettings": {}
+}

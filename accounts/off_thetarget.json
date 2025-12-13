@@ -1,0 +1,83 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {
+    "label": {
+      "url": {
+        "url": "https://twitter.com/0xinfini",
+        "urlType": "DeepLink"
+      },
+      "badge": {
+        "url": "https://pbs.twimg.com/profile_images/1966496740435222529/UCDLDWO2_bigger.jpg"
+      },
+      "description": "Infini",
+      "userLabelType": "BusinessLabel",
+      "userLabelDisplayType": "Badge"
+    }
+  },
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjo0MjYxODYzNzky",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Tue Nov 17 00:06:58 +0000 2015",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "🔶经济模型设计/盘子设计 No Ponzi, No Finance.\n🔶 花椒盘学八字 「掐头去尾 中间留水」花椒经济学 @pepperfr1ends",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "youtube.com/@cryptopepper8",
+            "expanded_url": "https://www.youtube.com/@cryptopepper8",
+            "url": "https://t.co/KLaNSlRxAd",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 3499,
+    "followersCount": 32430,
+    "following": true,
+    "friendsCount": 2647,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 692,
+    "location": "大群限时开放",
+    "mediaCount": 2342,
+    "name": "pepper 花椒",
+    "normalFollowersCount": 32430,
+    "pinnedTweetIdsStr": [
+      "1902982279640596500"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/4261863792/1723970525",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1996158597559091200/GJIXnWBi_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "off_thetarget",
+    "statusesCount": 23607,
+    "translatorType": "none",
+    "url": "https://t.co/KLaNSlRxAd",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [],
+    "professionalType": "Creator",
+    "restId": "1518543635695816709"
+  },
+  "profileImageShape": "Circle",
+  "restId": "4261863792",
+  "tipjarSettings": {
+    "ethereumHandle": "0xB188eF9Ee0f05201BfAC2Ba014006Cb1292A226E",
+    "isEnabled": true
+  }
+}

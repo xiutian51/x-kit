@@ -1,0 +1,92 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNTE2OTQxOTM2OTcxNTU0ODE3",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Thu Apr 21 00:48:42 +0000 2022",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "数据分析｜信息整理｜全职韭菜｜兼职傻逼｜币安返佣：https://t.co/0iHUM5kFgG｜买 Memecoin 推荐使用 GMGN：https://t.co/So9qyNKHTQ",
+    "entities": {
+      "description": {
+        "urls": [
+          {
+            "display_url": "accounts.binance.me/zh-CN/register…",
+            "expanded_url": "http://accounts.binance.me/zh-CN/register?ref=LX8RL8CK",
+            "url": "https://t.co/0iHUM5kFgG",
+            "indices": [
+              25,
+              48
+            ]
+          },
+          {
+            "display_url": "gmgn.ai/?ref=rYYybUsv&…",
+            "expanded_url": "http://gmgn.ai/?ref=rYYybUsv&chain=sol",
+            "url": "https://t.co/So9qyNKHTQ",
+            "indices": [
+              70,
+              93
+            ]
+          }
+        ]
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "linktr.ee/killthewolf",
+            "expanded_url": "http://linktr.ee/killthewolf",
+            "url": "https://t.co/qzROKKvQHj",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 48659,
+    "followersCount": 819561,
+    "following": true,
+    "friendsCount": 6850,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 3597,
+    "location": "交易所返佣链接 👉",
+    "mediaCount": 2535,
+    "name": "杀破狼 WolfyXBT",
+    "normalFollowersCount": 819561,
+    "pinnedTweetIdsStr": [
+      "1980990613739970728"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1516941936971554817/1734990370",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1680938637628944384/2FYk0Ft4_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "wolfyxbt",
+    "statusesCount": 20019,
+    "translatorType": "none",
+    "url": "https://t.co/qzROKKvQHj",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [],
+    "professionalType": "Creator",
+    "restId": "1543922767808319488"
+  },
+  "profileImageShape": "Circle",
+  "restId": "1516941936971554817",
+  "superFollowEligible": true,
+  "tipjarSettings": {
+    "bitcoinHandle": "3AHicBvURkHFjVdTYHPYbQg4zWLPUKejmZ",
+    "ethereumHandle": "0xC652368B05a27dD70d135F636536714E2806bd9a",
+    "isEnabled": true,
+    "patreonHandle": "killthewolf"
+  }
+}

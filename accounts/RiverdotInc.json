@@ -1,0 +1,68 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNzQ5MzA3OTg2NDQ5OTg1NTM2",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": false,
+    "canMediaTag": true,
+    "createdAt": "Mon Jan 22 05:48:41 +0000 2024",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "River is building a chain-abstraction stablecoin system that connects assets, liquidity, and yield across multiple chains.",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "linktr.ee/river.inc",
+            "expanded_url": "https://linktr.ee/river.inc",
+            "url": "https://t.co/aHpDN8u8sG",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 7859,
+    "followersCount": 188943,
+    "following": true,
+    "friendsCount": 21,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 203,
+    "location": "",
+    "mediaCount": 558,
+    "name": "River",
+    "normalFollowersCount": 188943,
+    "pinnedTweetIdsStr": [
+      "1979225134180503601"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1749307986449985536/1747146437",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1922297594988085248/O8VnTF4-_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "RiverdotInc",
+    "statusesCount": 1313,
+    "translatorType": "none",
+    "url": "https://t.co/aHpDN8u8sG",
+    "verified": false,
+    "verifiedType": "Business",
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [],
+    "professionalType": "Business",
+    "restId": "1749309133256634800"
+  },
+  "profileImageShape": "Square",
+  "restId": "1749307986449985536",
+  "tipjarSettings": {}
+}

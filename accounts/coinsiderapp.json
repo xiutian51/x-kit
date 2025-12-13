@@ -1,0 +1,62 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxODY1NTkzNDgyNDczMzEyMjU2",
+  "isBlueVerified": false,
+  "legacy": {
+    "canDm": false,
+    "canMediaTag": true,
+    "createdAt": "Sun Dec 08 03:05:54 +0000 2024",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "coinsider.app",
+            "expanded_url": "https://coinsider.app/",
+            "url": "https://t.co/6YkWDzwjpN",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 8,
+    "followersCount": 816,
+    "following": true,
+    "friendsCount": 19,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 11,
+    "location": "Tokyo",
+    "mediaCount": 8,
+    "name": "coinsider",
+    "normalFollowersCount": 816,
+    "pinnedTweetIdsStr": [
+      "1886400958151987449"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1865593482473312256/1733972009",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1867013107916451840/cmNvV-cR_normal.png",
+    "profileInterstitialType": "",
+    "screenName": "coinsiderapp",
+    "statusesCount": 11,
+    "translatorType": "none",
+    "url": "https://t.co/6YkWDzwjpN",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "profileImageShape": "Circle",
+  "restId": "1865593482473312256",
+  "tipjarSettings": {}
+}

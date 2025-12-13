@@ -1,0 +1,60 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjo3NTU5MTgyMzc4Njc1OTc4MjQ=",
+  "isBlueVerified": false,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Thu Jul 21 00:12:07 +0000 2016",
+    "defaultProfile": false,
+    "defaultProfileImage": false,
+    "description": "The first open #blockchain platform that democratises access to Fine #Art.",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "maecenas.co",
+            "expanded_url": "https://www.maecenas.co",
+            "url": "https://t.co/KhW7AALG2Z",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 313,
+    "followersCount": 7457,
+    "following": true,
+    "friendsCount": 160,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 92,
+    "location": "Singapore",
+    "mediaCount": 494,
+    "name": "Maecenas",
+    "normalFollowersCount": 7457,
+    "pinnedTweetIdsStr": [],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/755918237867597824/1563442670",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/756306369746198528/p9znJPRJ_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "maecenasart",
+    "statusesCount": 839,
+    "translatorType": "none",
+    "url": "https://t.co/KhW7AALG2Z",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "profileImageShape": "Circle",
+  "restId": "755918237867597824",
+  "tipjarSettings": {}
+}

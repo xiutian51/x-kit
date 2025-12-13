@@ -1,0 +1,48 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNjk3NDM4NDEzODU3ODg2MjA4",
+  "isBlueVerified": false,
+  "legacy": {
+    "canDm": false,
+    "canMediaTag": true,
+    "createdAt": "Fri Sep 01 02:37:36 +0000 2023",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "Map address matrix networks, monitor real-time on-chain data, build predictive models, discover trading opportunities, alert potential risks.",
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 8,
+    "followersCount": 137,
+    "following": true,
+    "friendsCount": 8,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 4,
+    "location": "",
+    "mediaCount": 45,
+    "name": "Simplewin",
+    "normalFollowersCount": 137,
+    "pinnedTweetIdsStr": [
+      "1699095378526929246"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1697438413857886208/1693536130",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1697439141351608320/GVPlWtkP_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "simplewintrade",
+    "statusesCount": 206,
+    "translatorType": "none",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "profileImageShape": "Circle",
+  "restId": "1697438413857886208",
+  "tipjarSettings": {}
+}

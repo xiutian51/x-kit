@@ -1,0 +1,57 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxMTQ3MTEwMTgyMDcxMDY2NjI0",
+  "isBlueVerified": false,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": false,
+    "createdAt": "Fri Jul 05 11:49:14 +0000 2019",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "",
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 354,
+    "followedBy": true,
+    "followersCount": 336,
+    "following": true,
+    "friendsCount": 273,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 0,
+    "location": "",
+    "mediaCount": 2,
+    "name": "Liang",
+    "normalFollowersCount": 336,
+    "pinnedTweetIdsStr": [],
+    "possiblySensitive": false,
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1795094475490086912/GnNnE_yu_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "f2poolliang",
+    "statusesCount": 136,
+    "translatorType": "none",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [
+      {
+        "iconName": "IconBriefcaseStroke",
+        "id": 1009,
+        "name": "Community"
+      }
+    ],
+    "professionalType": "Business",
+    "restId": "1531475978098442241"
+  },
+  "profileImageShape": "Circle",
+  "restId": "1147110182071066624",
+  "tipjarSettings": {}
+}

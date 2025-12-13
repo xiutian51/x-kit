@@ -1,0 +1,71 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxMzY3MDk1MDI0MDY5MDYyNjU3",
+  "isBlueVerified": false,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Wed Mar 03 12:50:54 +0000 2021",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "The home of web3 🦍 https://t.co/BbBuhMV3oN",
+    "entities": {
+      "description": {
+        "urls": [
+          {
+            "display_url": "discord.gg/cyberkongz",
+            "expanded_url": "http://discord.gg/cyberkongz",
+            "url": "https://t.co/BbBuhMV3oN",
+            "indices": [
+              19,
+              42
+            ]
+          }
+        ]
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "cyberkongz.com",
+            "expanded_url": "http://cyberkongz.com",
+            "url": "https://t.co/8LV4QFff0f",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 11151,
+    "followersCount": 323432,
+    "following": true,
+    "friendsCount": 466,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 1477,
+    "location": "Wall-Street-Kongz",
+    "mediaCount": 1039,
+    "name": "CyberKongz",
+    "normalFollowersCount": 323432,
+    "pinnedTweetIdsStr": [],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1367095024069062657/1755532367",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1957457914957881344/M36UPHMW_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "CyberKongz",
+    "statusesCount": 4567,
+    "translatorType": "none",
+    "url": "https://t.co/8LV4QFff0f",
+    "verified": false,
+    "verifiedType": "Business",
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "profileImageShape": "Square",
+  "restId": "1367095024069062657",
+  "tipjarSettings": {}
+}

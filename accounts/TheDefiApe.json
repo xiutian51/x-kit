@@ -1,0 +1,73 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {
+    "label": {
+      "url": {
+        "url": "https://twitter.com/luckio",
+        "urlType": "DeepLink"
+      },
+      "badge": {
+        "url": "https://pbs.twimg.com/profile_images/1914799649799467008/IwKDx9yQ_bigger.png"
+      },
+      "description": "Luck.io",
+      "userLabelType": "BusinessLabel",
+      "userLabelDisplayType": "Badge"
+    }
+  },
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoyODA2MzAwNzgx",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": false,
+    "createdAt": "Sat Oct 04 21:37:17 +0000 2014",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "Crypto Everyday Since 2017. Partners: @polymarket @shufflecom @luckio",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "linktr.ee/Thedefiape",
+            "expanded_url": "https://linktr.ee/Thedefiape",
+            "url": "https://t.co/6snxovZmjL",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 51820,
+    "followersCount": 86628,
+    "following": true,
+    "friendsCount": 10286,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 327,
+    "location": "",
+    "mediaCount": 2462,
+    "name": "APE",
+    "normalFollowersCount": 86628,
+    "pinnedTweetIdsStr": [],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/2806300781/1756581544",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1316553322627846144/1D5ypUwm_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "TheDefiApe",
+    "statusesCount": 13922,
+    "translatorType": "none",
+    "url": "https://t.co/6snxovZmjL",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "profileImageShape": "Circle",
+  "restId": "2806300781",
+  "tipjarSettings": {}
+}

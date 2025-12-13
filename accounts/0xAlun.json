@@ -1,0 +1,51 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNjczMTE5OTg1NTE3MDg4NzY5",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": false,
+    "createdAt": "Mon Jun 26 00:04:34 +0000 2023",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "在计划忙碌一些事情，随缘更新！",
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 3979,
+    "followersCount": 8004,
+    "following": true,
+    "friendsCount": 2390,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 21,
+    "location": "",
+    "mediaCount": 214,
+    "name": "阿伦｜0xAlun",
+    "normalFollowersCount": 8004,
+    "pinnedTweetIdsStr": [],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1673119985517088769/1726586769",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1950701246152921088/NBdwssZo_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "0xAlun",
+    "statusesCount": 3254,
+    "translatorType": "none",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [],
+    "professionalType": "Creator",
+    "restId": "1912354126375354557"
+  },
+  "profileImageShape": "Circle",
+  "restId": "1673119985517088769",
+  "tipjarSettings": {}
+}

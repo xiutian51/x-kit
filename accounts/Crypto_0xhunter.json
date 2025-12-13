@@ -1,0 +1,63 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxMzM5MTU4MjU1MTUxMzk4OTEy",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Wed Dec 16 10:39:53 +0000 2020",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "Love and peace｜Opinions are my own 🚀🍺 ｜Cooking @ChainCatcher_ @CatcherVC  Core Building @RootDataCrypto 🛫🌕 Mr.做对的事",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "RootData.com",
+            "expanded_url": "http://RootData.com",
+            "url": "https://t.co/pJUcwz396Q",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 2062,
+    "followedBy": true,
+    "followersCount": 2196,
+    "following": true,
+    "friendsCount": 2260,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 44,
+    "location": "Right",
+    "mediaCount": 251,
+    "name": "Hunter.Right",
+    "normalFollowersCount": 2196,
+    "pinnedTweetIdsStr": [
+      "1901906467789451720"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1339158255151398912/1647862791",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1986711296780210176/DFoshKun_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "Crypto_0xhunter",
+    "statusesCount": 1297,
+    "translatorType": "none",
+    "url": "https://t.co/pJUcwz396Q",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "profileImageShape": "Circle",
+  "restId": "1339158255151398912",
+  "tipjarSettings": {}
+}

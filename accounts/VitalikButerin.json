@@ -1,0 +1,67 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoyOTUyMTg5MDE=",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": false,
+    "canMediaTag": true,
+    "createdAt": "Sun May 08 16:03:03 +0000 2011",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "I choose balance. First-level balance.\n\nmi pinxe lo crino tcati\n\nhttps://t.co/gCQrmCb0ih",
+    "entities": {
+      "description": {
+        "urls": [
+          {
+            "display_url": "slatestarcodex.com/2018/09/12/in-…",
+            "expanded_url": "https://slatestarcodex.com/2018/09/12/in-the-balance/",
+            "url": "https://t.co/gCQrmCb0ih",
+            "indices": [
+              65,
+              88
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 10973,
+    "followersCount": 5862673,
+    "following": true,
+    "friendsCount": 533,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 39193,
+    "location": "Earth",
+    "mediaCount": 935,
+    "name": "vitalik.eth",
+    "normalFollowersCount": 5862673,
+    "pinnedTweetIdsStr": [],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/295218901/1740846090",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1895872023944937472/Uoyc5-p8_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "VitalikButerin",
+    "statusesCount": 21412,
+    "translatorType": "none",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [
+      {
+        "iconName": "IconBriefcaseStroke",
+        "id": 958,
+        "name": "Entrepreneur"
+      }
+    ],
+    "professionalType": "Business",
+    "restId": "1814799464940642445"
+  },
+  "profileImageShape": "Circle",
+  "restId": "295218901",
+  "tipjarSettings": {}
+}

@@ -1,0 +1,67 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNjQ4NDg4NDYxODIzNzk5Mjk2",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Wed Apr 19 00:47:46 +0000 2023",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "Crypto's Investment Bank\n\nbacked by @a16zcrypto CSX, @orangeDAOxyz\nteam from @Harvard, @GoldmanSachs, @Synthetix, @USAirForce\n\nformerly known as Collar",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "votre.xyz",
+            "expanded_url": "http://votre.xyz",
+            "url": "https://t.co/6YxQjNVHmU",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 402,
+    "followersCount": 18959,
+    "following": true,
+    "friendsCount": 167,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 25,
+    "location": "Base",
+    "mediaCount": 31,
+    "name": "Votre ⚜️",
+    "normalFollowersCount": 18959,
+    "pinnedTweetIdsStr": [
+      "1949936879211524152"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1648488461823799296/1750452121",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1936162643095523328/C9gfl5fD_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "Votre_Inc",
+    "statusesCount": 287,
+    "translatorType": "none",
+    "url": "https://t.co/6YxQjNVHmU",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [],
+    "professionalType": "Business",
+    "restId": "1648489056903233536"
+  },
+  "profileImageShape": "Circle",
+  "restId": "1648488461823799296",
+  "tipjarSettings": {}
+}

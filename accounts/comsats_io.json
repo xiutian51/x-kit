@@ -1,0 +1,90 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNjI3MzQzNTc3NDQwNDg1Mzc2",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": false,
+    "createdAt": "Sun Feb 19 16:25:50 +0000 2023",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "OG BRC20 - Memecoin on Bitcoin\n\nToken: https://t.co/iAutnP2AfV\nEN TG: https://t.co/rHW7M4bHXv\nCN TG: https://t.co/Jinf89YkMH",
+    "entities": {
+      "description": {
+        "urls": [
+          {
+            "display_url": "unisat.io/brc20/csas",
+            "expanded_url": "https://unisat.io/brc20/csas",
+            "url": "https://t.co/iAutnP2AfV",
+            "indices": [
+              39,
+              62
+            ]
+          },
+          {
+            "display_url": "t.me/comsats_io",
+            "expanded_url": "https://t.me/comsats_io",
+            "url": "https://t.co/rHW7M4bHXv",
+            "indices": [
+              70,
+              93
+            ]
+          },
+          {
+            "display_url": "t.me/ComsatsChinese",
+            "expanded_url": "https://t.me/ComsatsChinese",
+            "url": "https://t.co/Jinf89YkMH",
+            "indices": [
+              101,
+              124
+            ]
+          }
+        ]
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "comsats.io",
+            "expanded_url": "https://comsats.io",
+            "url": "https://t.co/0uwpyOHqE7",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 573,
+    "followersCount": 9178,
+    "following": true,
+    "friendsCount": 72,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 57,
+    "location": "Bitcoin",
+    "mediaCount": 94,
+    "name": "Comsats",
+    "normalFollowersCount": 9178,
+    "pinnedTweetIdsStr": [
+      "1922611930830901434"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1627343577440485376/1683970409",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1657318130035851264/hap121rl_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "comsats_io",
+    "statusesCount": 249,
+    "translatorType": "none",
+    "url": "https://t.co/0uwpyOHqE7",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "profileImageShape": "Circle",
+  "restId": "1627343577440485376",
+  "tipjarSettings": {}
+}

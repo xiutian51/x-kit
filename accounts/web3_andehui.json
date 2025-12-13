@@ -1,0 +1,62 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNTQ5OTQ0NDYwNzEyNTA5NDQw",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Thu Jul 21 02:29:04 +0000 2022",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "重度定存 #BTC 患者\n自私无聊爱慕虚荣人还挺贱",
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 7330,
+    "followersCount": 2810,
+    "following": true,
+    "friendsCount": 270,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 9,
+    "location": "London, England",
+    "mediaCount": 1053,
+    "name": "AH.₿tc",
+    "normalFollowersCount": 2810,
+    "pinnedTweetIdsStr": [],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1549944460712509440/1758298176",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1995485108695080960/UsVhfTzX_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "web3_andehui",
+    "statusesCount": 5046,
+    "translatorType": "none",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [
+      {
+        "iconName": "IconBriefcaseStroke",
+        "id": 933,
+        "name": "Media Personality"
+      }
+    ],
+    "professionalType": "Creator",
+    "restId": "1843958052745330887"
+  },
+  "profileImageShape": "Circle",
+  "restId": "1549944460712509440",
+  "tipjarSettings": {
+    "bitcoinHandle": "1Jxr9va3oVscouGkpdmUv95YKzhV3ihq1s",
+    "ethereumHandle": "0xfc892ee1ccb17da7ed93008308788eaa7da0518e",
+    "isEnabled": true,
+    "patreonHandle": ""
+  }
+}

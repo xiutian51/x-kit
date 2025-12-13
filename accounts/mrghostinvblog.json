@@ -1,0 +1,76 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxMDk5NjAwODEzODY3OTc4NzUz",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Sun Feb 24 09:23:58 +0000 2019",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "PFP #BAYC 3009, @BoredApeYC holder, #NFT #Crypto investor, play twitter purpose for practice english and share opinion",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "opensea.io/mrghostforfun",
+            "expanded_url": "https://opensea.io/mrghostforfun",
+            "url": "https://t.co/UsXQozxjtb",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 6812,
+    "followersCount": 24000,
+    "following": true,
+    "friendsCount": 346,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 204,
+    "location": "Hong Kong",
+    "mediaCount": 2163,
+    "name": "mr.ghost",
+    "normalFollowersCount": 24000,
+    "pinnedTweetIdsStr": [
+      "1965795903719227522"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1099600813867978753/1755354246",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1544670935172751363/myuXnLnX_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "mrghostinvblog",
+    "statusesCount": 8963,
+    "translatorType": "none",
+    "url": "https://t.co/UsXQozxjtb",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [
+      {
+        "iconName": "IconBriefcaseStroke",
+        "id": 933,
+        "name": "Media Personality"
+      }
+    ],
+    "professionalType": "Creator",
+    "restId": "1505159676417163268"
+  },
+  "profileImageShape": "Circle",
+  "restId": "1099600813867978753",
+  "tipjarSettings": {
+    "ethereumHandle": "0xa7078ddf23d29e9d6e54e34909cd2ac1b33a67c5",
+    "isEnabled": false
+  }
+}

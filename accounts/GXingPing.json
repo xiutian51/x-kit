@@ -1,0 +1,60 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxMzk0MjQ2NjczNjU2NzgyODcy",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": false,
+    "createdAt": "Mon May 17 11:01:43 +0000 2021",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "@initia OG 🪢 / @Sign ee 🧡 \n@EspressoSys ☕️ @boundless_xyz 🍓贡献者  \n没有免费群，也没有收费群",
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 7260,
+    "followersCount": 5145,
+    "following": true,
+    "friendsCount": 257,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 125,
+    "location": "",
+    "mediaCount": 858,
+    "name": "金灰",
+    "normalFollowersCount": 5145,
+    "pinnedTweetIdsStr": [],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1394246673656782872/1763136346",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1991472151241846784/vNoL5msE_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "GXingPing",
+    "statusesCount": 7369,
+    "translatorType": "none",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [
+      {
+        "iconName": "IconBriefcaseStroke",
+        "id": 1009,
+        "name": "Community"
+      }
+    ],
+    "professionalType": "Business",
+    "restId": "1589350219472216064"
+  },
+  "profileImageShape": "Circle",
+  "restId": "1394246673656782872",
+  "tipjarSettings": {
+    "ethereumHandle": "0x101dF0ae91C566DFbdA67a894710073873C0a0C0",
+    "isEnabled": true
+  }
+}

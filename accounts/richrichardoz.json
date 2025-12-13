@@ -1,0 +1,58 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxMTMzMDczMzQxMjM1OTc4MjQw",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": false,
+    "createdAt": "Mon May 27 18:11:50 +0000 2019",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "韭菜爱幻想",
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 2376,
+    "followersCount": 21031,
+    "following": true,
+    "friendsCount": 447,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 620,
+    "location": "",
+    "mediaCount": 718,
+    "name": "小Z",
+    "normalFollowersCount": 21031,
+    "pinnedTweetIdsStr": [],
+    "possiblySensitive": false,
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1478180213024563202/lHcD2or4_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "richrichardoz",
+    "statusesCount": 4259,
+    "translatorType": "none",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [
+      {
+        "iconName": "IconBriefcaseStroke",
+        "id": 192,
+        "name": "Financial Services"
+      }
+    ],
+    "professionalType": "Business",
+    "restId": "1646645860447715328"
+  },
+  "profileImageShape": "Circle",
+  "restId": "1133073341235978240",
+  "tipjarSettings": {
+    "isEnabled": true
+  }
+}

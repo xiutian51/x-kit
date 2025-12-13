@@ -1,0 +1,76 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxMjA2MDg0NjU1ODQzMTgwNTQ1",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": false,
+    "createdAt": "Sun Dec 15 05:33:22 +0000 2019",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "Twitter is my Chain-Of-Thought. Reading history is my end-to-end training. Not financial advice. 一言不合就拉黑。评论区只对订阅用户开放。\n\nRunner: 1 km, 3'49; 5 km, 23'07",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "chuan.us",
+            "expanded_url": "http://chuan.us/",
+            "url": "https://t.co/YBNRuUoM9a",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 3949,
+    "followersCount": 169660,
+    "following": true,
+    "friendsCount": 464,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 1668,
+    "location": "",
+    "mediaCount": 424,
+    "name": "硅谷王川 Chuan",
+    "normalFollowersCount": 169660,
+    "pinnedTweetIdsStr": [
+      "1992758864572502496"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1206084655843180545/1629847981",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1206267442546167808/hizG_npB_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "Svwang1",
+    "statusesCount": 9464,
+    "translatorType": "none",
+    "url": "https://t.co/YBNRuUoM9a",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [
+      {
+        "iconName": "IconBriefcaseStroke",
+        "id": 713,
+        "name": "Science & Technology"
+      }
+    ],
+    "professionalType": "Creator",
+    "restId": "1474646155782877185"
+  },
+  "profileImageShape": "Circle",
+  "restId": "1206084655843180545",
+  "superFollowEligible": true,
+  "tipjarSettings": {
+    "isEnabled": true
+  }
+}

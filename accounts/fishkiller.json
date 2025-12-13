@@ -1,0 +1,58 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjo1NzExNTIy",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": false,
+    "createdAt": "Wed May 02 12:09:53 +0000 2007",
+    "defaultProfile": false,
+    "defaultProfileImage": false,
+    "description": "I built @ChainNewscom & shut it down. Now helping/supporting fearless crypto builders via https://t.co/6vlWPdowYj | 🐈ailurophile🐈‍⬛",
+    "entities": {
+      "description": {
+        "urls": [
+          {
+            "display_url": "Bodl.xyz",
+            "expanded_url": "http://Bodl.xyz",
+            "url": "https://t.co/6vlWPdowYj",
+            "indices": [
+              90,
+              113
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 10475,
+    "followersCount": 33565,
+    "following": true,
+    "friendsCount": 2401,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 1206,
+    "location": "",
+    "mediaCount": 200,
+    "name": "Feng Liu",
+    "normalFollowersCount": 33565,
+    "pinnedTweetIdsStr": [],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/5711522/1674531115",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1444439584926957570/ZKh-sNtC_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "fishkiller",
+    "statusesCount": 5815,
+    "translatorType": "none",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "profileImageShape": "Circle",
+  "restId": "5711522",
+  "tipjarSettings": {
+    "isEnabled": true
+  }
+}

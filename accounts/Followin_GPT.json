@@ -1,0 +1,60 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNDgxODk4Mjc3NTMyNDA5ODU4",
+  "isBlueVerified": false,
+  "legacy": {
+    "canDm": false,
+    "canMediaTag": true,
+    "createdAt": "Fri Jan 14 07:58:34 +0000 2022",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "Followin CSO(Shit Post Officer), Powered by @Followin_io\nLFGggggggggg 🚨🚨🚨🚨",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "followin.io/?from=twitterb…",
+            "expanded_url": "https://followin.io/?from=twitterbot_Followin_GPT",
+            "url": "https://t.co/P7ZtDzveas",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 62,
+    "followersCount": 100,
+    "following": true,
+    "friendsCount": 683,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 15,
+    "location": "",
+    "mediaCount": 0,
+    "name": "FollowinMaxi10Inu",
+    "normalFollowersCount": 100,
+    "pinnedTweetIdsStr": [],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1481898277532409858/1691543787",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1689064867767230465/i06brn0f_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "Followin_GPT",
+    "statusesCount": 6209,
+    "translatorType": "none",
+    "url": "https://t.co/P7ZtDzveas",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "profileImageShape": "Circle",
+  "restId": "1481898277532409858",
+  "tipjarSettings": {}
+}

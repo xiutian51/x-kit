@@ -1,0 +1,83 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {
+    "label": {
+      "url": {
+        "url": "https://twitter.com/Gate",
+        "urlType": "DeepLink"
+      },
+      "badge": {
+        "url": "https://pbs.twimg.com/profile_images/1998278164578177024/mA5FhGeZ_bigger.jpg"
+      },
+      "description": "Gate",
+      "userLabelType": "BusinessLabel",
+      "userLabelDisplayType": "Badge"
+    }
+  },
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxMTI4OTQ3NDE=",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": false,
+    "canMediaTag": true,
+    "createdAt": "Wed Feb 10 01:51:11 +0000 2010",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "Founder & CEO of https://t.co/RKAVyKldKJ. Now bridging life with Crypto. Tweets not financial advice. @Gate",
+    "entities": {
+      "description": {
+        "urls": [
+          {
+            "display_url": "Gate.com",
+            "expanded_url": "https://www.Gate.com/",
+            "url": "https://t.co/RKAVyKldKJ",
+            "indices": [
+              17,
+              40
+            ]
+          }
+        ]
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "gate.com",
+            "expanded_url": "http://www.gate.com",
+            "url": "https://t.co/8wD4Ds4JLK",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 8,
+    "followersCount": 51529,
+    "following": true,
+    "friendsCount": 115,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 121,
+    "location": "",
+    "mediaCount": 24,
+    "name": "Dr. Han",
+    "normalFollowersCount": 51529,
+    "pinnedTweetIdsStr": [],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/112894741/1706081026",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1919707465924673538/kTtDZ_Gz_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "Han_Gate",
+    "statusesCount": 346,
+    "translatorType": "none",
+    "url": "https://t.co/8wD4Ds4JLK",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "profileImageShape": "Circle",
+  "restId": "112894741",
+  "tipjarSettings": {}
+}

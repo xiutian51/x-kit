@@ -1,0 +1,74 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {
+    "label": {
+      "url": {
+        "url": "https://twitter.com/0xinfini",
+        "urlType": "DeepLink"
+      },
+      "badge": {
+        "url": "https://pbs.twimg.com/profile_images/1966496740435222529/UCDLDWO2_bigger.jpg"
+      },
+      "description": "Infini",
+      "userLabelType": "BusinessLabel",
+      "userLabelDisplayType": "Badge"
+    }
+  },
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxMzkyMzk0NjE3Mzc1NTE4NzIx",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": false,
+    "canMediaTag": true,
+    "createdAt": "Wed May 12 08:22:12 +0000 2021",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "web3 builder | web2 entrepreneur | $BTC $ETH $SOL believer | Cryptogeek | @33daoweb3 member NFA, only sharing thoughts",
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 1507,
+    "followersCount": 6229,
+    "following": true,
+    "friendsCount": 5264,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 183,
+    "location": "",
+    "mediaCount": 86,
+    "name": "wilsonng.eth",
+    "normalFollowersCount": 6229,
+    "pinnedTweetIdsStr": [
+      "1560353953283354624"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1392394617375518721/1639856291",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1932872853319462912/99LOxTf__normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "wilsonng2019",
+    "statusesCount": 1372,
+    "translatorType": "none",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [
+      {
+        "iconName": "IconBriefcaseStroke",
+        "id": 724,
+        "name": "Internet Company"
+      }
+    ],
+    "professionalType": "Creator",
+    "restId": "1472289955791933440"
+  },
+  "profileImageShape": "Circle",
+  "restId": "1392394617375518721",
+  "tipjarSettings": {
+    "isEnabled": true
+  }
+}

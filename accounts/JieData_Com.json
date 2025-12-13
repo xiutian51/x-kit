@@ -1,0 +1,71 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxMDI2NDcyNDc0Njc2ODcxMTY4",
+  "isBlueVerified": false,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Mon Aug 06 14:18:03 +0000 2018",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "我们为机构和个人投资者提供专业的链上数据分析工具和数据分析报告。这些工具和报告能够帮助您深入了解区块链上的数据，让您更好地了解市场和行业趋势，以便做出更明智的决策。",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "jiedata.com",
+            "expanded_url": "http://www.jiedata.com",
+            "url": "https://t.co/92RDHrxvsC",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 128,
+    "followersCount": 16602,
+    "following": true,
+    "friendsCount": 32,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 488,
+    "location": "香港",
+    "mediaCount": 1454,
+    "name": "JieData_CN",
+    "normalFollowersCount": 16602,
+    "pinnedTweetIdsStr": [],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1026472474676871168/1652346750",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1504350722590076933/Y-FZXWS4_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "JieData_Com",
+    "statusesCount": 2484,
+    "translatorType": "none",
+    "url": "https://t.co/92RDHrxvsC",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [
+      {
+        "iconName": "IconBriefcaseStroke",
+        "id": 192,
+        "name": "Financial Services"
+      }
+    ],
+    "professionalType": "Creator",
+    "restId": "1455739295218626564"
+  },
+  "profileImageShape": "Circle",
+  "restId": "1026472474676871168",
+  "tipjarSettings": {}
+}

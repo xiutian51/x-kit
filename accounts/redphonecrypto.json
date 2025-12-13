@@ -1,0 +1,72 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxMjU3MTI4NzM5ODg2MDUxMzMw",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": false,
+    "createdAt": "Mon May 04 02:03:53 +0000 2020",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "Archivist-poet of acceleration. Helping crypto x AI startups tell their stories at @delphi_labs. Proposed BRC-20. Mbr @pleasrDAO ✨ https://t.co/QVtuTKUeHQ",
+    "entities": {
+      "description": {
+        "urls": [
+          {
+            "display_url": "zora.co/@redphone",
+            "expanded_url": "https://zora.co/@redphone",
+            "url": "https://t.co/QVtuTKUeHQ",
+            "indices": [
+              131,
+              154
+            ]
+          }
+        ]
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "redphone.substack.com",
+            "expanded_url": "https://redphone.substack.com",
+            "url": "https://t.co/zvOr0qBybB",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 29417,
+    "followersCount": 62038,
+    "following": true,
+    "friendsCount": 7524,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 1929,
+    "location": "The Metaverse",
+    "mediaCount": 1296,
+    "name": "redphone ☎️",
+    "normalFollowersCount": 62038,
+    "pinnedTweetIdsStr": [
+      "1872771031359766628"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1257128739886051330/1698068702",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1920927361438044160/vwXihuHv_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "redphonecrypto",
+    "statusesCount": 11500,
+    "translatorType": "none",
+    "url": "https://t.co/zvOr0qBybB",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "profileImageShape": "Circle",
+  "restId": "1257128739886051330",
+  "tipjarSettings": {}
+}

@@ -1,0 +1,96 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxMzMzMzM0Mjc3NDcyMTc0MDgw",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": false,
+    "createdAt": "Mon Nov 30 08:57:30 +0000 2020",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "00后链上玩家，人物史官，流量/市场顾问 ｜链上全返https://t.co/1qO9sbhHI0 https://t.co/X8YRBF7VKb｜打狗频道TG Channel：https://t.co/fpAaZMmUS8",
+    "entities": {
+      "description": {
+        "urls": [
+          {
+            "display_url": "bit.ly/gmgnsky",
+            "expanded_url": "https://bit.ly/gmgnsky",
+            "url": "https://t.co/1qO9sbhHI0",
+            "indices": [
+              26,
+              49
+            ]
+          },
+          {
+            "display_url": "bit.ly/Skybn",
+            "expanded_url": "https://bit.ly/Skybn",
+            "url": "https://t.co/X8YRBF7VKb",
+            "indices": [
+              50,
+              73
+            ]
+          },
+          {
+            "display_url": "t.me/alphacall30x",
+            "expanded_url": "https://t.me/alphacall30x",
+            "url": "https://t.co/fpAaZMmUS8",
+            "indices": [
+              89,
+              112
+            ]
+          }
+        ]
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "bit.ly/4oJnOa9",
+            "expanded_url": "https://bit.ly/4oJnOa9",
+            "url": "https://t.co/0Ykud4lJbr",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 15829,
+    "followersCount": 36968,
+    "following": true,
+    "friendsCount": 1489,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 436,
+    "location": "扫链社区",
+    "mediaCount": 2842,
+    "name": "Sky. XiaoChen（吸吸喜气版）",
+    "normalFollowersCount": 36968,
+    "pinnedTweetIdsStr": [
+      "1996941284637135325"
+    ],
+    "possiblySensitive": false,
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1976154867589853184/FZmQs8HV_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "sky_gpt",
+    "statusesCount": 15103,
+    "translatorType": "none",
+    "url": "https://t.co/0Ykud4lJbr",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [],
+    "professionalType": "Creator",
+    "restId": "1519049212402429952"
+  },
+  "profileImageShape": "Circle",
+  "restId": "1333334277472174080",
+  "tipjarSettings": {
+    "isEnabled": true
+  }
+}

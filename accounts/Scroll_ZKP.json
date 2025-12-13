@@ -1,0 +1,74 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxMzYxOTA5NjMxMTg3MDAxMzUw",
+  "isBlueVerified": false,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Wed Feb 17 05:25:42 +0000 2021",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "The secure and performant network for the Open Economy.",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "scroll.io",
+            "expanded_url": "http://scroll.io",
+            "url": "https://t.co/Pwca4Btay1",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 7030,
+    "followersCount": 758370,
+    "following": true,
+    "friendsCount": 22,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 2415,
+    "location": "",
+    "mediaCount": 1129,
+    "name": "Scroll",
+    "normalFollowersCount": 758370,
+    "pinnedTweetIdsStr": [
+      "1982812033180397600"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1361909631187001350/1747132794",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1696531511519150080/Fq5O0LeN_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "Scroll_ZKP",
+    "statusesCount": 5822,
+    "translatorType": "none",
+    "url": "https://t.co/Pwca4Btay1",
+    "verified": false,
+    "verifiedType": "Business",
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [
+      {
+        "iconName": "IconBriefcaseStroke",
+        "id": 713,
+        "name": "Science & Technology"
+      }
+    ],
+    "professionalType": "Business",
+    "restId": "1641669587505668096"
+  },
+  "profileImageShape": "Square",
+  "restId": "1361909631187001350",
+  "tipjarSettings": {}
+}

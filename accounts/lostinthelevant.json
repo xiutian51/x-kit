@@ -1,0 +1,48 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjo1MzEzODMyMjg=",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": false,
+    "createdAt": "Tue Mar 20 15:57:45 +0000 2012",
+    "defaultProfile": false,
+    "defaultProfileImage": false,
+    "description": "",
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 31537,
+    "followersCount": 5070,
+    "following": true,
+    "friendsCount": 1353,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 119,
+    "location": "The World",
+    "mediaCount": 674,
+    "name": "Phoenix",
+    "normalFollowersCount": 5070,
+    "pinnedTweetIdsStr": [
+      "1674027920786857992"
+    ],
+    "possiblySensitive": false,
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1992984450159071232/jLIqxgAm_normal.jpg",
+    "profileInterstitialType": "",
+    "_protected": true,
+    "screenName": "lostinthelevant",
+    "statusesCount": 8113,
+    "translatorType": "none",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "profileImageShape": "Circle",
+  "restId": "531383228",
+  "tipjarSettings": {}
+}

@@ -1,0 +1,76 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {
+    "label": {
+      "badge": {
+        "url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig"
+      },
+      "description": "Automated",
+      "longDescription": {
+        "text": "Automated by @RouterA",
+        "entities": [
+          {
+            "fromIndex": 13,
+            "toIndex": 21,
+            "ref": {
+              "type": "TimelineRichTextMention",
+              "screen_name": "RouterA",
+              "mention_results": {
+                "result": {
+                  "__typename": "User",
+                  "legacy": {
+                    "screen_name": "RouterA"
+                  },
+                  "rest_id": "182009430"
+                }
+              }
+            }
+          }
+        ]
+      },
+      "userLabelType": "AutomatedLabel"
+    }
+  },
+  "hasGraduatedAccess": false,
+  "id": "VXNlcjoxNjI5MDc3MzE4ODA2NDMzNzky",
+  "isBlueVerified": false,
+  "legacy": {
+    "canDm": false,
+    "canMediaTag": true,
+    "createdAt": "Fri Feb 24 11:14:49 +0000 2023",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "基于币安大数据与 deepseek 开发的 AI 加密货币分析师",
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 34,
+    "followersCount": 646,
+    "following": true,
+    "friendsCount": 4,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 14,
+    "location": "",
+    "mediaCount": 89,
+    "name": "AI 看盘",
+    "normalFollowersCount": 646,
+    "pinnedTweetIdsStr": [],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1629077318806433792/1689688072",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1912511360329502720/hdctYDk5_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "RouterAlert",
+    "statusesCount": 2718,
+    "translatorType": "none",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "profileImageShape": "Circle",
+  "restId": "1629077318806433792",
+  "tipjarSettings": {}
+}

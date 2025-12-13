@@ -1,0 +1,86 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {
+    "label": {
+      "url": {
+        "url": "https://twitter.com/solanalabs",
+        "urlType": "DeepLink"
+      },
+      "badge": {
+        "url": "https://pbs.twimg.com/profile_images/1468225297703223311/QRZZdxtn_bigger.jpg"
+      },
+      "description": "Solana Labs",
+      "userLabelType": "BusinessLabel",
+      "userLabelDisplayType": "Badge"
+    }
+  },
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoyMzI3NDA3NTY5",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": false,
+    "canMediaTag": true,
+    "createdAt": "Thu Feb 06 05:03:51 +0000 2014",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "Co-Founder of Solana Labs. Award winning phone creator. NFA, don’t trust me, mostly technical gibberish. https://t.co/LomgbTpb6h",
+    "entities": {
+      "description": {
+        "urls": [
+          {
+            "display_url": "solanamobile.com",
+            "expanded_url": "http://solanamobile.com",
+            "url": "https://t.co/LomgbTpb6h",
+            "indices": [
+              105,
+              128
+            ]
+          }
+        ]
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "solanamobile.com",
+            "expanded_url": "http://solanamobile.com",
+            "url": "https://t.co/LomgbTpb6h",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 128367,
+    "followersCount": 661099,
+    "following": true,
+    "friendsCount": 6552,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 7472,
+    "location": "🏔️🏔️🏔️",
+    "mediaCount": 1973,
+    "name": "toly 🇺🇸",
+    "normalFollowersCount": 661099,
+    "pinnedTweetIdsStr": [
+      "1996289745073389808"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/2327407569/1700516506",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1997797102014148608/ML5_gfmF_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "aeyakovenko",
+    "statusesCount": 103161,
+    "translatorType": "none",
+    "url": "https://t.co/LomgbTpb6h",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "profileImageShape": "Circle",
+  "restId": "2327407569",
+  "superFollowEligible": true,
+  "tipjarSettings": {}
+}

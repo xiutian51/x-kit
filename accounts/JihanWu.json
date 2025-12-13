@@ -1,0 +1,45 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjozMDIyNzc1NDI0",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": false,
+    "canMediaTag": false,
+    "createdAt": "Mon Feb 16 17:54:08 +0000 2015",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "Chairman&CEO of Bitdeer. $BTDR. Co-founder of Matrixport.",
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 1207,
+    "followersCount": 115893,
+    "following": true,
+    "friendsCount": 1078,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 2471,
+    "location": "Singapore",
+    "mediaCount": 59,
+    "name": "Jihan Wu",
+    "normalFollowersCount": 115893,
+    "pinnedTweetIdsStr": [],
+    "possiblySensitive": true,
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/567383388659523585/S15iNdqD_normal.jpeg",
+    "profileInterstitialType": "",
+    "screenName": "JihanWu",
+    "statusesCount": 1073,
+    "translatorType": "none",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "profileImageShape": "Circle",
+  "restId": "3022775424",
+  "tipjarSettings": {}
+}

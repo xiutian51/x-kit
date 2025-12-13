@@ -1,0 +1,74 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNzI1Njg4MzM1OTY3MTA1MDI0",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Sat Nov 18 01:32:33 +0000 2023",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "All in BSC 脸上终于笑了 #BNB ｜ 📷视频创作者｜近3亿用户的共同选择，启程Web3，就在币安：⬇️ 🏝️ https://t.co/2QxYCEJmP3 #Binance",
+    "entities": {
+      "description": {
+        "urls": [
+          {
+            "display_url": "binance.com/join?ref=64241…",
+            "expanded_url": "https://www.binance.com/join?ref=64241929",
+            "url": "https://t.co/2QxYCEJmP3",
+            "indices": [
+              61,
+              84
+            ]
+          }
+        ]
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "app.infinex.xyz/?r=ZHV9RJTH",
+            "expanded_url": "https://app.infinex.xyz?r=ZHV9RJTH",
+            "url": "https://t.co/8sKeq3Ih84",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 12821,
+    "followersCount": 40084,
+    "following": true,
+    "friendsCount": 7642,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 414,
+    "location": "iceland",
+    "mediaCount": 3986,
+    "name": "李狗蛋3.0 🔶",
+    "normalFollowersCount": 40084,
+    "pinnedTweetIdsStr": [
+      "1791927616519458973"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1725688335967105024/1746428855",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1987050371701960704/qclK7L4a_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "zkgoudan",
+    "statusesCount": 38225,
+    "translatorType": "none",
+    "url": "https://t.co/8sKeq3Ih84",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "profileImageShape": "Circle",
+  "restId": "1725688335967105024",
+  "tipjarSettings": {
+    "isEnabled": true
+  }
+}

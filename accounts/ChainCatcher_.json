@@ -1,0 +1,74 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxMzYyNzk3NjAxOTYwMDcxMTcx",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Fri Feb 19 16:14:13 +0000 2021",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "为你带来最新资讯的专业 #crypto 媒体，与创新者共建 #Web3 世界\n\n开启 🔔 ，及时获取最新加密资讯；评论、转发，打破加密信息传播的壁垒",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "link3.to/chaincatcher",
+            "expanded_url": "https://link3.to/chaincatcher",
+            "url": "https://t.co/hZ1VxhvUKm",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 6900,
+    "followersCount": 36179,
+    "following": true,
+    "friendsCount": 1708,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 493,
+    "location": "Web3",
+    "mediaCount": 1876,
+    "name": "ChainCatcher",
+    "normalFollowersCount": 36179,
+    "pinnedTweetIdsStr": [],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1362797601960071171/1667299042",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1742468413048700929/UHVAy44V_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "ChainCatcher_",
+    "statusesCount": 25328,
+    "translatorType": "none",
+    "url": "https://t.co/hZ1VxhvUKm",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [
+      {
+        "iconName": "IconBriefcaseStroke",
+        "id": 580,
+        "name": "Media & News Company"
+      }
+    ],
+    "professionalType": "Business",
+    "restId": "1505813155661950980"
+  },
+  "profileImageShape": "Circle",
+  "restId": "1362797601960071171",
+  "tipjarSettings": {
+    "ethereumHandle": "0x9d04b5956DB6b416EaA5f4d2D3D779b66Ccc0Fad",
+    "isEnabled": true
+  }
+}

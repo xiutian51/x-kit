@@ -1,0 +1,73 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxMDU3NzIyMTM1OTc0NTM5MjY0",
+  "isBlueVerified": false,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Wed Oct 31 19:53:03 +0000 2018",
+    "defaultProfile": false,
+    "defaultProfileImage": false,
+    "description": "Building a full suite of products: Lite, @0xFluid, @Avowallet to bring DeFi to the masses.\n\nhttps://t.co/iA8kG0w5Wa",
+    "entities": {
+      "description": {
+        "urls": [
+          {
+            "display_url": "linktr.ee/instadapp",
+            "expanded_url": "http://linktr.ee/instadapp",
+            "url": "https://t.co/iA8kG0w5Wa",
+            "indices": [
+              92,
+              115
+            ]
+          }
+        ]
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "instadapp.io",
+            "expanded_url": "https://instadapp.io",
+            "url": "https://t.co/BvoK9jcR5k",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 2301,
+    "followersCount": 51112,
+    "following": true,
+    "friendsCount": 1,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 730,
+    "location": "",
+    "mediaCount": 228,
+    "name": "Instadapp",
+    "normalFollowersCount": 51112,
+    "pinnedTweetIdsStr": [
+      "1760722484658360377"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1057722135974539264/1612782307",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1356327530446385158/30hFM0-n_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "Instadapp",
+    "statusesCount": 1243,
+    "translatorType": "none",
+    "url": "https://t.co/BvoK9jcR5k",
+    "verified": false,
+    "verifiedType": "Business",
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "profileImageShape": "Square",
+  "restId": "1057722135974539264",
+  "tipjarSettings": {}
+}

@@ -1,0 +1,46 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxMzQwNjY4MTg1MTU0OTY5NjAw",
+  "isBlueVerified": false,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Sun Dec 20 14:39:50 +0000 2020",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "CMO & Capybara lover @ LSP capital",
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 4530,
+    "followersCount": 3857,
+    "following": true,
+    "friendsCount": 4364,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 111,
+    "location": "仙境",
+    "mediaCount": 617,
+    "name": "Capybara Mulan 木兰 ラン",
+    "normalFollowersCount": 3857,
+    "pinnedTweetIdsStr": [],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1340668185154969600/1662648472",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1971822929400025089/cVea2qsi_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "Mulan0x",
+    "statusesCount": 4739,
+    "translatorType": "none",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "profileImageShape": "Circle",
+  "restId": "1340668185154969600",
+  "tipjarSettings": {}
+}

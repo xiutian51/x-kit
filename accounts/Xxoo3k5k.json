@@ -1,0 +1,50 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNjc5NzI0OTg3NjAxNzg4OTI5",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Fri Jul 14 05:31:02 +0000 2023",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "专注大盘分析，无任何团队，不带单，不接广告，不建议合约，所发只是基于个人的技术面理解和交易逻辑，属于学术性研究成果，并非直接买卖依据。 #Bitget 60%手续费永久减免邀请码：7fez （自动开，自动返）",
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 34047,
+    "followersCount": 17627,
+    "following": true,
+    "friendsCount": 211,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 261,
+    "location": "",
+    "mediaCount": 3852,
+    "name": "加密前线（糖哥）",
+    "normalFollowersCount": 17627,
+    "pinnedTweetIdsStr": [
+      "1997153890907967760"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1679724987601788929/1755664433",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1742542709137551360/faYDVuG5_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "Xxoo3k5k",
+    "statusesCount": 27478,
+    "translatorType": "none",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "profileImageShape": "Circle",
+  "restId": "1679724987601788929",
+  "tipjarSettings": {
+    "isEnabled": true
+  }
+}

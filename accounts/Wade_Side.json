@@ -1,0 +1,60 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNjU1NTAyNjE0MzEyOTMxMzI5",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": false,
+    "canMediaTag": true,
+    "createdAt": "Mon May 08 09:20:43 +0000 2023",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "A movement aimed at creating a new culture that goes beyond web3 and web2 by @cripco_official & IPX (@_LINEFRIENDS).",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "mint.wade.club",
+            "expanded_url": "http://mint.wade.club",
+            "url": "https://t.co/IOfoXq2yVV",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 472,
+    "followersCount": 35821,
+    "following": true,
+    "friendsCount": 22,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 32,
+    "location": "",
+    "mediaCount": 106,
+    "name": "WADESIDE",
+    "normalFollowersCount": 35821,
+    "pinnedTweetIdsStr": [],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1655502614312931329/1698824268",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1719569961121968128/49unm7Xm_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "Wade_Side",
+    "statusesCount": 220,
+    "translatorType": "none",
+    "url": "https://t.co/IOfoXq2yVV",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "profileImageShape": "Circle",
+  "restId": "1655502614312931329",
+  "tipjarSettings": {}
+}

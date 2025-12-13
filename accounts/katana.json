@@ -1,0 +1,68 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxMzIxMzk4MzcwMTA0MDA0NjA4",
+  "isBlueVerified": false,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Wed Oct 28 10:28:23 +0000 2020",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "a defi chain forged to bring dead bags to life via deep liquidity & real yield built by katana foundation, incubated by @0xpolygon x @gsr_io.",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "app.katana.network",
+            "expanded_url": "https://app.katana.network/",
+            "url": "https://t.co/1RVQ0DKmkv",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 8414,
+    "followersCount": 302363,
+    "following": true,
+    "friendsCount": 735,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 1101,
+    "location": "",
+    "mediaCount": 187,
+    "name": "katana ⚔️",
+    "normalFollowersCount": 302363,
+    "pinnedTweetIdsStr": [
+      "1939797530587312366"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1321398370104004608/1748444186",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1927769809216843776/IJexy9VY_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "katana",
+    "statusesCount": 2249,
+    "translatorType": "none",
+    "url": "https://t.co/1RVQ0DKmkv",
+    "verified": false,
+    "verifiedType": "Business",
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [],
+    "professionalType": "Business",
+    "restId": "1455880668118876171"
+  },
+  "profileImageShape": "Square",
+  "restId": "1321398370104004608",
+  "tipjarSettings": {}
+}

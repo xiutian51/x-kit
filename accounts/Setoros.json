@@ -1,0 +1,77 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": false,
+  "id": "VXNlcjoxNjI1Mjc1NzM3MDMxOTcwODE3",
+  "isBlueVerified": false,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Mon Feb 13 23:28:41 +0000 2023",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "The FIRST On-Chain Sportsbook on Base Network | https://t.co/zKpUkiqmIl",
+    "entities": {
+      "description": {
+        "urls": [
+          {
+            "display_url": "setoros.com",
+            "expanded_url": "http://www.setoros.com",
+            "url": "https://t.co/zKpUkiqmIl",
+            "indices": [
+              48,
+              71
+            ]
+          }
+        ]
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "link3.to/setoros",
+            "expanded_url": "https://link3.to/setoros",
+            "url": "https://t.co/oCf5LdgyNk",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 1426,
+    "followersCount": 1229,
+    "following": true,
+    "friendsCount": 23,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 14,
+    "location": "",
+    "mediaCount": 73,
+    "name": "Setoros Sportsbook | #BuildOnBase",
+    "normalFollowersCount": 1229,
+    "pinnedTweetIdsStr": [
+      "1722521985509675178"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1625275737031970817/1699862778",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1676572063832887296/gUMr1VR3_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "Setoros",
+    "statusesCount": 362,
+    "translatorType": "none",
+    "url": "https://t.co/oCf5LdgyNk",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [],
+    "professionalType": "Business",
+    "restId": "1674562094602280960"
+  },
+  "profileImageShape": "Circle",
+  "restId": "1625275737031970817",
+  "tipjarSettings": {}
+}

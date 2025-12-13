@@ -1,0 +1,81 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjo3MTY5MjQ0NTk2NjQyNzc1MDQ=",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Mon Apr 04 09:44:45 +0000 2016",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "华语地区最具影响力的 Web3 媒体之一\nAPP下载：https://t.co/OLT6bjIOZr\n联系我们：Contact@theblockbeats.org",
+    "entities": {
+      "description": {
+        "urls": [
+          {
+            "display_url": "m.theblockbeats.info/downloads",
+            "expanded_url": "https://m.theblockbeats.info/downloads",
+            "url": "https://t.co/OLT6bjIOZr",
+            "indices": [
+              27,
+              50
+            ]
+          }
+        ]
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "theblockbeats.info",
+            "expanded_url": "https://www.theblockbeats.info/",
+            "url": "https://t.co/dUdRMGoyt6",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 1923,
+    "followersCount": 79088,
+    "following": true,
+    "friendsCount": 2221,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 1302,
+    "location": "",
+    "mediaCount": 6032,
+    "name": "BlockBeats｜We're hiring!",
+    "normalFollowersCount": 79088,
+    "pinnedTweetIdsStr": [],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/716924459664277504/1710484576",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1588454205739929600/i4el9P5L_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "BlockBeatsAsia",
+    "statusesCount": 13099,
+    "translatorType": "none",
+    "url": "https://t.co/dUdRMGoyt6",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [
+      {
+        "iconName": "IconBriefcaseStroke",
+        "id": 580,
+        "name": "Media & News Company"
+      }
+    ],
+    "professionalType": "Business",
+    "restId": "1468489755860303878"
+  },
+  "profileImageShape": "Circle",
+  "restId": "716924459664277504",
+  "tipjarSettings": {}
+}

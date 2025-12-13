@@ -1,0 +1,73 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxODUzMjIwNzQ5NzMwODI0MTky",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Sun Nov 03 23:41:23 +0000 2024",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "Launch the Future.\nVisit https://t.co/l47kkLd8Wn for support (beware of impersonators)",
+    "entities": {
+      "description": {
+        "urls": [
+          {
+            "display_url": "discord.gg/buidlpad",
+            "expanded_url": "http://discord.gg/buidlpad",
+            "url": "https://t.co/l47kkLd8Wn",
+            "indices": [
+              25,
+              48
+            ]
+          }
+        ]
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Buidlpad.com",
+            "expanded_url": "http://Buidlpad.com",
+            "url": "https://t.co/yrCCJ59L2B",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 1621,
+    "followersCount": 231644,
+    "following": true,
+    "friendsCount": 9,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 301,
+    "location": "With the Community",
+    "mediaCount": 254,
+    "name": "Buidlpad",
+    "normalFollowersCount": 231644,
+    "pinnedTweetIdsStr": [
+      "1984105379035492694"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1853220749730824192/1765449142",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1957698888766545920/RoM4JwlF_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "buidlpad",
+    "statusesCount": 1855,
+    "translatorType": "none",
+    "url": "https://t.co/yrCCJ59L2B",
+    "verified": false,
+    "verifiedType": "Business",
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "profileImageShape": "Square",
+  "restId": "1853220749730824192",
+  "tipjarSettings": {}
+}

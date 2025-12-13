@@ -1,0 +1,78 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoyOTM1NjE4ODk4",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Fri Dec 19 03:19:51 +0000 2014",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "The latest Apple news. Not affiliated with Apple Inc.",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "theapplehub.com",
+            "expanded_url": "http://theapplehub.com",
+            "url": "https://t.co/wpnh7msa2G",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 4537,
+    "followersCount": 1305624,
+    "following": true,
+    "friendsCount": 162,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 2478,
+    "location": "Los Angeles, CA",
+    "mediaCount": 5507,
+    "name": "Apple Hub",
+    "normalFollowersCount": 1305624,
+    "pinnedTweetIdsStr": [
+      "1999248090910662768"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/2935618898/1670404168",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1950994510047006723/VEDB1XpP_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "theapplehub",
+    "statusesCount": 8493,
+    "translatorType": "none",
+    "url": "https://t.co/wpnh7msa2G",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [
+      {
+        "iconName": "IconBriefcaseStroke",
+        "id": 1042,
+        "name": "Content Creator"
+      }
+    ],
+    "professionalType": "Creator",
+    "restId": "1460906261847760903"
+  },
+  "profileImageShape": "Circle",
+  "restId": "2935618898",
+  "superFollowEligible": true,
+  "tipjarSettings": {
+    "cashAppHandle": "",
+    "isEnabled": true,
+    "venmoHandle": "theapplehub"
+  }
+}

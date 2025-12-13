@@ -1,0 +1,86 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {
+    "label": {
+      "url": {
+        "url": "https://twitter.com/MMTFinance",
+        "urlType": "DeepLink"
+      },
+      "badge": {
+        "url": "https://pbs.twimg.com/profile_images/1987925262877814790/ML8sCKe4_bigger.jpg"
+      },
+      "description": "MomentumⓂ️Ⓜ️T",
+      "userLabelType": "BusinessLabel",
+      "userLabelDisplayType": "Badge"
+    }
+  },
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxMTQ5ODE0MjU1MTQ0NzE4MzM2",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": false,
+    "canMediaTag": true,
+    "createdAt": "Fri Jul 12 22:54:15 +0000 2019",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "Cooking at Momentum. Founder of @MMTFinance prev @meta",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "mmt.finance",
+            "expanded_url": "https://www.mmt.finance",
+            "url": "https://t.co/Sj70KW8QI5",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 564,
+    "followersCount": 85860,
+    "following": true,
+    "friendsCount": 330,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 33,
+    "location": "",
+    "mediaCount": 42,
+    "name": "ChefWENⓂ️Ⓜ️T",
+    "normalFollowersCount": 85860,
+    "pinnedTweetIdsStr": [
+      "1905158826904719832"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1149814255144718336/1660780236",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1927629354877747200/AijaSN5Z_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "ChefMMT_X",
+    "statusesCount": 368,
+    "translatorType": "none",
+    "url": "https://t.co/Sj70KW8QI5",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [
+      {
+        "iconName": "IconBriefcaseStroke",
+        "id": 713,
+        "name": "Science & Technology"
+      }
+    ],
+    "professionalType": "Creator",
+    "restId": "1514461776443633667"
+  },
+  "profileImageShape": "Circle",
+  "restId": "1149814255144718336",
+  "tipjarSettings": {}
+}

@@ -1,0 +1,62 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNTIzNjUxODQ1OTU2MTI4NzY4",
+  "isBlueVerified": false,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Mon May 09 13:11:46 +0000 2022",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "$UDOG-The first doge launched with $UNI on @unichain\nBy the community\nFor the community\nOnly on @UniDerpFun",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "t.me/udogunichain",
+            "expanded_url": "https://t.me/udogunichain",
+            "url": "https://t.co/dFytRpKQAY",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 2172,
+    "followersCount": 5602,
+    "following": true,
+    "friendsCount": 7,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 24,
+    "location": "",
+    "mediaCount": 15,
+    "name": "UDOG",
+    "normalFollowersCount": 5602,
+    "pinnedTweetIdsStr": [],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1523651845956128768/1759142427",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1972610044278820864/v7_H3rpo_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "UniUdog",
+    "statusesCount": 76,
+    "translatorType": "none",
+    "url": "https://t.co/dFytRpKQAY",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "profileImageShape": "Circle",
+  "restId": "1523651845956128768",
+  "tipjarSettings": {
+    "isEnabled": true
+  }
+}

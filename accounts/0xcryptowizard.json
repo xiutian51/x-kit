@@ -1,0 +1,82 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {
+    "label": {
+      "url": {
+        "url": "https://twitter.com/gmgnai",
+        "urlType": "DeepLink"
+      },
+      "badge": {
+        "url": "https://pbs.twimg.com/profile_images/1998601173205659657/8noZT-3I_bigger.jpg"
+      },
+      "description": "GMGN.Ai",
+      "userLabelType": "BusinessLabel",
+      "userLabelDisplayType": "Badge"
+    }
+  },
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxMTk1NzI4MTM5ODk4Mzc2MTkz",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": false,
+    "createdAt": "Sat Nov 16 15:39:49 +0000 2019",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "||🐿️🥜 $pnut\n|| 🌞🌕https://t.co/nnmTLYbIfK\n|| AI meme infra agent\n|| Defi & Meme Degen \n|| NFA 非投资建议\n⚠️没有任何tg群，不要被钓鱼链接诈骗⚠️",
+    "entities": {
+      "description": {
+        "urls": [
+          {
+            "display_url": "gmgn.ai",
+            "expanded_url": "http://gmgn.ai",
+            "url": "https://t.co/nnmTLYbIfK",
+            "indices": [
+              17,
+              40
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 20160,
+    "followersCount": 227151,
+    "following": true,
+    "friendsCount": 6363,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 6259,
+    "location": "Metaverse",
+    "mediaCount": 1420,
+    "name": "0xWizard",
+    "normalFollowersCount": 227151,
+    "pinnedTweetIdsStr": [
+      "1854423667842953534"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1195728139898376193/1748246152",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1865248625678520325/K8QQsqDl_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "0xcryptowizard",
+    "statusesCount": 22620,
+    "translatorType": "none",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [
+      {
+        "iconName": "IconBriefcaseStroke",
+        "id": 934,
+        "name": "Social Media Influencer"
+      }
+    ],
+    "professionalType": "Creator",
+    "restId": "1481925708498837504"
+  },
+  "profileImageShape": "Circle",
+  "restId": "1195728139898376193",
+  "tipjarSettings": {}
+}

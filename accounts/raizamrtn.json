@@ -1,0 +1,60 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNTQ4MDUyOTUyNTEzNzc3NjY2",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": false,
+    "canMediaTag": true,
+    "createdAt": "Fri Jul 15 21:12:51 +0000 2022",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "Co-founder //  @gethuxe 🎧 Previously at @NotebookLM @GoogleLabs",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "huxe.com",
+            "expanded_url": "http://huxe.com",
+            "url": "https://t.co/SGSWrt7iIE",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 4654,
+    "followersCount": 24271,
+    "following": true,
+    "friendsCount": 779,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 449,
+    "location": "California",
+    "mediaCount": 121,
+    "name": "Raiza Martin",
+    "normalFollowersCount": 24271,
+    "pinnedTweetIdsStr": [],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1548052952513777666/1726332463",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1995733711237853184/ySKR3i9L_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "raizamrtn",
+    "statusesCount": 1475,
+    "translatorType": "none",
+    "url": "https://t.co/SGSWrt7iIE",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "profileImageShape": "Circle",
+  "restId": "1548052952513777666",
+  "tipjarSettings": {}
+}

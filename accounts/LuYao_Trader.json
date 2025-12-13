@@ -1,0 +1,77 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNDQ0NTI4ODMyNjA2NjYyNjY0",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": false,
+    "createdAt": "Sun Oct 03 05:05:10 +0000 2021",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "路遥，全职奶爸、家庭煮夫，励志成为旅行美食博主！\n\n同时为B圈段子手兼全职在家蹲喝西北风交易猿\n反指达人，交易菜逼，亏钱小能手，佛系躺平ing...\n\n孤独的交易者\n思考、享受交易，体验、感悟人生。",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "cn.tradingview.com/u/Trader-LuYao/",
+            "expanded_url": "https://cn.tradingview.com/u/Trader-LuYao/",
+            "url": "https://t.co/W6x5ffYR48",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 2173,
+    "followersCount": 88383,
+    "following": true,
+    "friendsCount": 356,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 1187,
+    "location": "CHINA",
+    "mediaCount": 2608,
+    "name": "路遥 | Trader",
+    "normalFollowersCount": 88383,
+    "pinnedTweetIdsStr": [
+      "1991829874194153521"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1444528832606662664/1674733514",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1929217566750515201/vEiguLrW_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "LuYao_Trader",
+    "statusesCount": 18408,
+    "translatorType": "none",
+    "url": "https://t.co/W6x5ffYR48",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [
+      {
+        "iconName": "IconBriefcaseStroke",
+        "id": 192,
+        "name": "Financial Services"
+      }
+    ],
+    "professionalType": "Creator",
+    "restId": "1606565778266148864"
+  },
+  "profileImageShape": "Circle",
+  "restId": "1444528832606662664",
+  "tipjarSettings": {
+    "bitcoinHandle": "1C39ub8ujdCiwJViQNNvPPRfbn994YtUWx",
+    "ethereumHandle": "0x43ec3d0417c83f42d2cf82184a0cb9284d9b496f",
+    "isEnabled": true
+  }
+}

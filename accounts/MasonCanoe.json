@@ -1,0 +1,75 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {
+    "label": {
+      "url": {
+        "url": "https://twitter.com/gmgnai",
+        "urlType": "DeepLink"
+      },
+      "badge": {
+        "url": "https://pbs.twimg.com/profile_images/1998601173205659657/8noZT-3I_bigger.jpg"
+      },
+      "description": "GMGN.Ai",
+      "userLabelType": "BusinessLabel",
+      "userLabelDisplayType": "Badge"
+    }
+  },
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNjM5NzIyMDY1ODYyNDU5Mzk0",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": false,
+    "createdAt": "Sat Mar 25 20:13:09 +0000 2023",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "𝑪𝒖𝒕 𝒚𝒐𝒖𝒓 𝒍𝒐𝒔𝒔𝒆𝒔 𝒔𝒉𝒐𝒓𝒕 𝒂𝒏𝒅 𝒍𝒆𝒕 𝒚𝒐𝒖𝒓 𝒘𝒊𝒏𝒏𝒆𝒓𝒔 𝒓𝒖𝒏.",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "t.me/+_3ndcx_3P9xiY…",
+            "expanded_url": "https://t.me/+_3ndcx_3P9xiYTU1",
+            "url": "https://t.co/27l9YUmpIJ",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 6589,
+    "followersCount": 15433,
+    "following": true,
+    "friendsCount": 275,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 431,
+    "location": "Fortune Club",
+    "mediaCount": 235,
+    "name": "CaNoe",
+    "normalFollowersCount": 15433,
+    "pinnedTweetIdsStr": [
+      "1920424996884901933"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1639722065862459394/1748856164",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1905279387467198464/RT4I2EGx_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "MasonCanoe",
+    "statusesCount": 1652,
+    "translatorType": "none",
+    "url": "https://t.co/27l9YUmpIJ",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "profileImageShape": "Circle",
+  "restId": "1639722065862459394",
+  "tipjarSettings": {}
+}

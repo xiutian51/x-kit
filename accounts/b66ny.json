@@ -1,0 +1,68 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNjQ1MjI4MDYzNTk1MzI3NDg4",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Mon Apr 10 00:51:59 +0000 2023",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "crypto & web3, @propwglobal CPO",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "propw.com/zh_TW/referral…",
+            "expanded_url": "https://www.propw.com/zh_TW/referral-code?r=3772240",
+            "url": "https://t.co/wtYH9J1paG",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 31972,
+    "followedBy": true,
+    "followersCount": 21265,
+    "following": true,
+    "friendsCount": 420,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 218,
+    "location": "",
+    "mediaCount": 1525,
+    "name": "b12ny",
+    "normalFollowersCount": 21265,
+    "pinnedTweetIdsStr": [
+      "1742955319557513597"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1645228063595327488/1763389904",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1989138107929882630/7iQh4zvw_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "b66ny",
+    "statusesCount": 7038,
+    "translatorType": "none",
+    "url": "https://t.co/wtYH9J1paG",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [],
+    "professionalType": "Creator",
+    "restId": "1652546601725100032"
+  },
+  "profileImageShape": "Circle",
+  "restId": "1645228063595327488",
+  "tipjarSettings": {}
+}

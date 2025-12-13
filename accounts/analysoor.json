@@ -1,0 +1,60 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNTI4OTM3NTkyMDUzNTM4ODE5",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Tue May 24 03:15:11 +0000 2022",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "First Solana Meta Protocol",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "linktr.ee/analysoor",
+            "expanded_url": "https://linktr.ee/analysoor",
+            "url": "https://t.co/whLCYTZcrm",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 1717,
+    "followersCount": 23351,
+    "following": true,
+    "friendsCount": 36,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 149,
+    "location": "Onchain",
+    "mediaCount": 319,
+    "name": "Analysoor",
+    "normalFollowersCount": 23351,
+    "pinnedTweetIdsStr": [],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1528937592053538819/1708486370",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1555980720019062785/R_qkC7Jd_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "analysoor",
+    "statusesCount": 1285,
+    "translatorType": "none",
+    "url": "https://t.co/whLCYTZcrm",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "profileImageShape": "Circle",
+  "restId": "1528937592053538819",
+  "tipjarSettings": {}
+}

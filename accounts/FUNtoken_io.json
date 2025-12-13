@@ -1,0 +1,83 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxMzY0NTI5ODY3MDUyNzQ4ODA0",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": false,
+    "canMediaTag": false,
+    "createdAt": "Wed Feb 24 10:57:37 +0000 2021",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "🎲 FUNToken - Welcome to the future of GameFi https://t.co/1tYGUKVmHf",
+    "entities": {
+      "description": {
+        "urls": [
+          {
+            "display_url": "t.me/FUNToken_Offic…",
+            "expanded_url": "https://t.me/FUNToken_OfficialChat",
+            "url": "https://t.co/1tYGUKVmHf",
+            "indices": [
+              45,
+              68
+            ]
+          }
+        ]
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "funtoken.io",
+            "expanded_url": "https://funtoken.io",
+            "url": "https://t.co/ygiFyBBmTJ",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 1227,
+    "followersCount": 62255,
+    "following": true,
+    "friendsCount": 7,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 177,
+    "location": "",
+    "mediaCount": 1457,
+    "name": "FUNToken",
+    "normalFollowersCount": 62255,
+    "pinnedTweetIdsStr": [
+      "1981661869137084825"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1364529867052748804/1746698011",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1774763162094501888/xLAQajJe_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "FUNtoken_io",
+    "statusesCount": 2453,
+    "translatorType": "none",
+    "url": "https://t.co/ygiFyBBmTJ",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [
+      {
+        "iconName": "IconBriefcaseStroke",
+        "id": 1009,
+        "name": "Community"
+      }
+    ],
+    "professionalType": "Business",
+    "restId": "1508838282880241678"
+  },
+  "profileImageShape": "Circle",
+  "restId": "1364529867052748804",
+  "tipjarSettings": {}
+}

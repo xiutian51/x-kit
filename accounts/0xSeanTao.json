@@ -1,0 +1,73 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxMDg5NzkzOTc1NjcyNzU4Mjcy",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": false,
+    "canMediaTag": true,
+    "createdAt": "Mon Jan 28 07:55:05 +0000 2019",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "Cofounder of Edgen, building next-gen AI copilot for stock and crypto investors @edgentech | Founding Partner @EVGHQ",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "edgen.tech",
+            "expanded_url": "http://www.edgen.tech/",
+            "url": "https://t.co/35CTj9VOpc",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 3224,
+    "followersCount": 77757,
+    "following": true,
+    "friendsCount": 1039,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 30,
+    "location": "Hong Kong",
+    "mediaCount": 93,
+    "name": "Sean Tao",
+    "normalFollowersCount": 77757,
+    "pinnedTweetIdsStr": [
+      "1972649565955514616"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1089793975672758272/1744186467",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1953710074037493760/jpw84gHL_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "0xSeanTao",
+    "statusesCount": 968,
+    "translatorType": "none",
+    "url": "https://t.co/35CTj9VOpc",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [
+      {
+        "iconName": "IconBriefcaseStroke",
+        "id": 1094,
+        "name": "Blockchain"
+      }
+    ],
+    "professionalType": "Creator",
+    "restId": "1774727817491792148"
+  },
+  "profileImageShape": "Circle",
+  "restId": "1089793975672758272",
+  "tipjarSettings": {}
+}

@@ -1,0 +1,76 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNTM3NzcwNjU3MTk4NDQ0NTQ1",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": false,
+    "createdAt": "Fri Jun 17 12:14:41 +0000 2022",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "13年买入BTC持有至今从未主动出售过 | 国内第一款手机交易比特币APP BitCat作者 | 前交易所CTO | 投资过矿场，媒体，钱包，交易所 | 黄天威跑路受害者",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "t.me/Chaoge_Channel",
+            "expanded_url": "https://t.me/Chaoge_Channel",
+            "url": "https://t.co/roKfL0hdzX",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 10085,
+    "followersCount": 16221,
+    "following": true,
+    "friendsCount": 1356,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 79,
+    "location": "Hong Kong",
+    "mediaCount": 358,
+    "name": "超哥BTC",
+    "normalFollowersCount": 16221,
+    "pinnedTweetIdsStr": [
+      "1994731657530880276"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1537770657198444545/1727683354",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1537770768225882112/xJ3lFpur_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "chaoge_btc",
+    "statusesCount": 3247,
+    "translatorType": "none",
+    "url": "https://t.co/roKfL0hdzX",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [
+      {
+        "iconName": "IconBriefcaseStroke",
+        "id": 1094,
+        "name": "Blockchain"
+      }
+    ],
+    "professionalType": "Business",
+    "restId": "1646018822904897537"
+  },
+  "profileImageShape": "Circle",
+  "restId": "1537770657198444545",
+  "tipjarSettings": {
+    "ethereumHandle": "",
+    "isEnabled": true
+  }
+}

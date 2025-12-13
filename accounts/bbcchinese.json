@@ -1,0 +1,71 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjo3OTExOTc=",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Fri Feb 23 17:46:38 +0000 2007",
+    "defaultProfile": false,
+    "defaultProfileImage": false,
+    "description": "This is the official account of BBC News Chinese, the @BBC's Chinese language news service. 这是 BBC News 中文 的正式账户。",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "bbc.com/chinese",
+            "expanded_url": "http://bbc.com/chinese",
+            "url": "https://t.co/xPNsBSpeEC",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 60,
+    "followersCount": 5143352,
+    "following": true,
+    "friendsCount": 73,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 11886,
+    "location": "London, UK",
+    "mediaCount": 24201,
+    "name": "BBC News 中文",
+    "normalFollowersCount": 5143352,
+    "pinnedTweetIdsStr": [],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/791197/1538550757",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1004638591308435457/tiacF_Yg_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "bbcchinese",
+    "statusesCount": 154512,
+    "translatorType": "none",
+    "url": "https://t.co/xPNsBSpeEC",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [
+      {
+        "iconName": "IconBriefcaseStroke",
+        "id": 580,
+        "name": "Media & News Company"
+      }
+    ],
+    "professionalType": "Creator",
+    "restId": "1608696825439219716"
+  },
+  "profileImageShape": "Circle",
+  "restId": "791197",
+  "tipjarSettings": {}
+}

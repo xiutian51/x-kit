@@ -1,0 +1,68 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjo5NDE2MTc3NzQ0OTI4MjM1NTI=",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": false,
+    "createdAt": "Fri Dec 15 10:35:46 +0000 2017",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "Crypto’s favorite automated journal used by 50,000+ traders since 2017. Try it for free: 👇",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "app.coinmarketman.com",
+            "expanded_url": "https://app.coinmarketman.com/",
+            "url": "https://t.co/FINuwRtSQk",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 144909,
+    "followersCount": 22353,
+    "following": true,
+    "friendsCount": 742,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 244,
+    "location": "💻",
+    "mediaCount": 4626,
+    "name": "CMM",
+    "normalFollowersCount": 22353,
+    "pinnedTweetIdsStr": [
+      "1983813625757192540"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/941617774492823552/1736333923",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1876946914035277824/oZtnVaNW_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "CoinMarketMan",
+    "statusesCount": 18298,
+    "translatorType": "none",
+    "url": "https://t.co/FINuwRtSQk",
+    "verified": false,
+    "verifiedType": "Business",
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [],
+    "professionalType": "Business",
+    "restId": "1591093203570147329"
+  },
+  "profileImageShape": "Square",
+  "restId": "941617774492823552",
+  "tipjarSettings": {}
+}

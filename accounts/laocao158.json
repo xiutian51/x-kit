@@ -1,0 +1,58 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNzg0ODgwOTUyMzc3ODA2ODQ4",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Mon Apr 29 09:42:44 +0000 2024",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "比特币早期布道者/币圈爱好者/抓住趋势/努力破局/抱着宁可错过也不亏钱的心理/专研币圈市场\n￥商务合作电报：https://t.co/kP6eub1Grj",
+    "entities": {
+      "description": {
+        "urls": [
+          {
+            "display_url": "t.me/Laocao158",
+            "expanded_url": "https://t.me/Laocao158",
+            "url": "https://t.co/kP6eub1Grj",
+            "indices": [
+              54,
+              77
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 3750,
+    "followersCount": 10232,
+    "following": true,
+    "friendsCount": 686,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 41,
+    "location": "",
+    "mediaCount": 892,
+    "name": "老曹.btc",
+    "normalFollowersCount": 10232,
+    "pinnedTweetIdsStr": [
+      "1842468572737802496"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1784880952377806848/1714384015",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1865224067734974464/FzNZkckr_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "laocao158",
+    "statusesCount": 2524,
+    "translatorType": "none",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "profileImageShape": "Circle",
+  "restId": "1784880952377806848",
+  "tipjarSettings": {}
+}

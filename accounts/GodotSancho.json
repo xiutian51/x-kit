@@ -1,0 +1,77 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxMjMyMTg3NTUyNTI3ODc2MDk2",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": false,
+    "createdAt": "Tue Feb 25 06:17:03 +0000 2020",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "Head Research @MantaNetwork, Designer and advisor of  █████ \n\n一个正常人\n\n#Binance https://t.co/q9ITYMsGr6\n\n区块链知识图谱（戈多版）👇",
+    "entities": {
+      "description": {
+        "urls": [
+          {
+            "display_url": "accounts.suitechsui.online/register?ref=2…",
+            "expanded_url": "https://accounts.suitechsui.online/register?ref=28355715",
+            "url": "https://t.co/q9ITYMsGr6",
+            "indices": [
+              78,
+              101
+            ]
+          }
+        ]
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "web3godot.notion.site/godot",
+            "expanded_url": "https://web3godot.notion.site/godot",
+            "url": "https://t.co/b2xG0TH5t2",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 3105,
+    "followersCount": 13050,
+    "following": true,
+    "friendsCount": 1574,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 170,
+    "location": "Manta Network",
+    "mediaCount": 398,
+    "name": "戈多Godot（🔱,🔱）.manta",
+    "normalFollowersCount": 13050,
+    "pinnedTweetIdsStr": [
+      "1985245588091458020"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1232187552527876096/1690876553",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1757708801766248448/iSH6x2DM_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "GodotSancho",
+    "statusesCount": 3272,
+    "translatorType": "none",
+    "url": "https://t.co/b2xG0TH5t2",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [],
+    "professionalType": "Creator",
+    "restId": "1506642149554548736"
+  },
+  "profileImageShape": "Circle",
+  "restId": "1232187552527876096",
+  "tipjarSettings": {}
+}

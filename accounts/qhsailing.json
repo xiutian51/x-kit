@@ -1,0 +1,90 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {
+    "label": {
+      "url": {
+        "url": "https://twitter.com/0xinfini",
+        "urlType": "DeepLink"
+      },
+      "badge": {
+        "url": "https://pbs.twimg.com/profile_images/1966496740435222529/UCDLDWO2_bigger.jpg"
+      },
+      "description": "Infini",
+      "userLabelType": "BusinessLabel",
+      "userLabelDisplayType": "Badge"
+    }
+  },
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNDg3MDk3NjM4MTMwMzg4OTky",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Fri Jan 28 16:18:09 +0000 2022",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "product ｜ The past whatever path I'm on must be the best path",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "t.me/qhsailing",
+            "expanded_url": "http://t.me/qhsailing",
+            "url": "https://t.co/oD4ynem8rd",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 80696,
+    "followedBy": true,
+    "followersCount": 2674,
+    "following": true,
+    "friendsCount": 5638,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 20,
+    "location": "CN",
+    "mediaCount": 284,
+    "name": "Sailing",
+    "normalFollowersCount": 2674,
+    "pinnedTweetIdsStr": [
+      "1943709764674023641"
+    ],
+    "possiblySensitive": false,
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1754103424009015296/4gUQVhKz_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "qhsailing",
+    "statusesCount": 5376,
+    "translatorType": "none",
+    "url": "https://t.co/oD4ynem8rd",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [
+      {
+        "iconName": "IconBriefcaseStroke",
+        "id": 713,
+        "name": "Science & Technology"
+      }
+    ],
+    "professionalType": "Business",
+    "restId": "1928375408216641608"
+  },
+  "profileImageShape": "Circle",
+  "restId": "1487097638130388992",
+  "tipjarSettings": {
+    "bitcoinHandle": "bc1qekxvxyur45rq20wl28vuwufjqc98dmdt9hyyc8",
+    "ethereumHandle": "0x3CCFC95726606575a873369b9a9f90E2C3E7e349",
+    "isEnabled": true
+  }
+}

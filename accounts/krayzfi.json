@@ -1,0 +1,60 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNTA4MTkwNDIwOTM2ODkyNDIx",
+  "isBlueVerified": false,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": false,
+    "createdAt": "Sun Mar 27 21:13:18 +0000 2022",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "Maker of @DefiWars_. Only thing I’m a maxi of is data.",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "defiwars.xyz",
+            "expanded_url": "https://defiwars.xyz",
+            "url": "https://t.co/7NiTlS6ki7",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 243,
+    "followersCount": 537,
+    "following": true,
+    "friendsCount": 129,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 9,
+    "location": "",
+    "mediaCount": 2,
+    "name": "Krayz",
+    "normalFollowersCount": 537,
+    "pinnedTweetIdsStr": [],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1508190420936892421/1648991233",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1508190626818502658/ZI_sl5Ky_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "krayzfi",
+    "statusesCount": 132,
+    "translatorType": "none",
+    "url": "https://t.co/7NiTlS6ki7",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "profileImageShape": "Circle",
+  "restId": "1508190420936892421",
+  "tipjarSettings": {}
+}

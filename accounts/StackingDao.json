@@ -1,0 +1,62 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNjk3Njc1NjM1Mjg2NTA3NTIx",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Fri Sep 01 18:19:52 +0000 2023",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "Liquid Stacking on @Stacks. Earn up to 10% APY on STX with instant liquidity 📈",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "linktr.ee/stackingdao",
+            "expanded_url": "https://linktr.ee/stackingdao",
+            "url": "https://t.co/hADppWkExj",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 11020,
+    "followersCount": 51520,
+    "following": true,
+    "friendsCount": 160,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 166,
+    "location": "Proof of Transfer",
+    "mediaCount": 908,
+    "name": "Stacking DAO",
+    "normalFollowersCount": 51520,
+    "pinnedTweetIdsStr": [
+      "1976286622942662666"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1697675635286507521/1712319853",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1778432446641356802/XaQ4H9h-_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "StackingDao",
+    "statusesCount": 7995,
+    "translatorType": "none",
+    "url": "https://t.co/hADppWkExj",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "profileImageShape": "Circle",
+  "restId": "1697675635286507521",
+  "tipjarSettings": {}
+}

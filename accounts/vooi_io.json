@@ -1,0 +1,63 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNjc4NTEzNjIxMjY0MTQyMzM2",
+  "isBlueVerified": false,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Mon Jul 10 21:17:24 +0000 2023",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "Trading Marketplace, Powered by Chain Abstraction | Backed by Community via @echodotxyz & @YZiLabs | Points — LIVE",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "linktr.ee/vooi_app",
+            "expanded_url": "https://linktr.ee/vooi_app",
+            "url": "https://t.co/AdS7YQT7dm",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 3258,
+    "followersCount": 191851,
+    "following": true,
+    "friendsCount": 102,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 226,
+    "location": "🦇🔉",
+    "mediaCount": 446,
+    "name": "vooi",
+    "normalFollowersCount": 191851,
+    "pinnedTweetIdsStr": [
+      "1939957418894438911"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1678513621264142336/1751286723",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1938271243876155393/fXAC9P_h_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "vooi_io",
+    "statusesCount": 1856,
+    "translatorType": "none",
+    "url": "https://t.co/AdS7YQT7dm",
+    "verified": false,
+    "verifiedType": "Business",
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "profileImageShape": "Square",
+  "restId": "1678513621264142336",
+  "tipjarSettings": {}
+}

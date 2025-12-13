@@ -1,0 +1,72 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNjg2NjUyODk3Mzg2NDc1NTIw",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Wed Aug 02 08:19:34 +0000 2023",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "Every nobody is somebody. Building a Web3 based IP facing the mainstream Web2 audiences. https://t.co/kn6gag8WUb",
+    "entities": {
+      "description": {
+        "urls": [
+          {
+            "display_url": "discord.gg/PAwkqNgXAd",
+            "expanded_url": "https://discord.gg/PAwkqNgXAd",
+            "url": "https://t.co/kn6gag8WUb",
+            "indices": [
+              89,
+              112
+            ]
+          }
+        ]
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "link3.to/realnobodyxyz",
+            "expanded_url": "https://link3.to/realnobodyxyz",
+            "url": "https://t.co/sHZflhT8v0",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 11287,
+    "followersCount": 154605,
+    "following": true,
+    "friendsCount": 238,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 103,
+    "location": "🌟",
+    "mediaCount": 348,
+    "name": "Nobody🌟",
+    "normalFollowersCount": 154605,
+    "pinnedTweetIdsStr": [
+      "1992952235228332532"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1686652897386475520/1712243945",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1742752128148606976/UMDBRS8x_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "realnobodyxyz",
+    "statusesCount": 2433,
+    "translatorType": "none",
+    "url": "https://t.co/sHZflhT8v0",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "profileImageShape": "Circle",
+  "restId": "1686652897386475520",
+  "tipjarSettings": {}
+}

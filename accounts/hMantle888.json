@@ -1,0 +1,50 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNDMzMjcxMTc2MTE4MjE0NjU2",
+  "isBlueVerified": false,
+  "legacy": {
+    "canDm": false,
+    "canMediaTag": false,
+    "createdAt": "Thu Sep 02 03:30:58 +0000 2021",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "经历极致的低谷才能重生",
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 1415,
+    "followersCount": 3603,
+    "following": true,
+    "friendsCount": 2732,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 80,
+    "location": "距离你520m",
+    "mediaCount": 141,
+    "name": "黄馒头",
+    "normalFollowersCount": 3603,
+    "pinnedTweetIdsStr": [],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1433271176118214656/1711088122",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1908009304319471617/hh6l2YB2_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "hMantle888",
+    "statusesCount": 1375,
+    "translatorType": "none",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "profileImageShape": "Circle",
+  "restId": "1433271176118214656",
+  "tipjarSettings": {
+    "bitcoinHandle": "3AMyLJhLu4GpCFSifPJVCqP7H5TVb4DWXn",
+    "ethereumHandle": "0x2394713EE35F9fa2f75136089DF9Ff8c7958a9d7",
+    "isEnabled": true
+  }
+}

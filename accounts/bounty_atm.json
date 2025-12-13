@@ -1,0 +1,88 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxODA3NDIyMjY=",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": false,
+    "createdAt": "Fri Aug 20 10:51:29 +0000 2010",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "Korea Crypto KOL 🇰🇷\n\nTelegram : https://t.co/dKap2cterV \nYoutube : https://t.co/EGDPffSuex",
+    "entities": {
+      "description": {
+        "urls": [
+          {
+            "display_url": "t.me/bounty_atm",
+            "expanded_url": "http://t.me/bounty_atm",
+            "url": "https://t.co/dKap2cterV",
+            "indices": [
+              32,
+              55
+            ]
+          },
+          {
+            "display_url": "youtube.com/@airdropatm",
+            "expanded_url": "http://youtube.com/@airdropatm",
+            "url": "https://t.co/EGDPffSuex",
+            "indices": [
+              67,
+              90
+            ]
+          }
+        ]
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "linktr.ee/bountyatm",
+            "expanded_url": "https://linktr.ee/bountyatm",
+            "url": "https://t.co/VPCNWs4LER",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 17872,
+    "followersCount": 30027,
+    "following": true,
+    "friendsCount": 3415,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 63,
+    "location": "Korea",
+    "mediaCount": 1677,
+    "name": "ATM 🇰🇷",
+    "normalFollowersCount": 30027,
+    "pinnedTweetIdsStr": [
+      "1998794026154328327"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/180742226/1690983358",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1971107360518307841/uJUbm_G9_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "bounty_atm",
+    "statusesCount": 12670,
+    "translatorType": "none",
+    "url": "https://t.co/VPCNWs4LER",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [],
+    "professionalType": "Creator",
+    "restId": "1471510465335336969"
+  },
+  "profileImageShape": "Circle",
+  "restId": "180742226",
+  "tipjarSettings": {
+    "isEnabled": false
+  }
+}

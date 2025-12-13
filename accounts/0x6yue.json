@@ -1,0 +1,71 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxMzg0NjgwODY1NTYxNjA0MDk3",
+  "isBlueVerified": false,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": false,
+    "createdAt": "Wed Apr 21 01:30:32 +0000 2021",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "🔍不猜多空，逆向思维，投资的尽头是玄学🌟 📅每天一篇加密解读，专门分享看不见的区块链知识 仅此一个号，其它均为假号，谨防受骗，没有任何群，不收费 我的频道https://t.co/xmkO0nLc9Z\n历史战绩：cake、Sui、SOL...",
+    "entities": {
+      "description": {
+        "urls": [
+          {
+            "display_url": "youtube.com/@0x6yue",
+            "expanded_url": "http://youtube.com/@0x6yue",
+            "url": "https://t.co/xmkO0nLc9Z",
+            "indices": [
+              77,
+              100
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 8326,
+    "followersCount": 25373,
+    "following": true,
+    "friendsCount": 688,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 285,
+    "location": "",
+    "mediaCount": 1220,
+    "name": "☀️加密日夜说🌜️夏六月🌟",
+    "normalFollowersCount": 25373,
+    "pinnedTweetIdsStr": [
+      "1910542789630476319"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1384680865561604097/1701530537",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1740293484320542720/9ebD516Z_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "0x6yue",
+    "statusesCount": 7165,
+    "translatorType": "none",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [
+      {
+        "iconName": "IconBriefcaseStroke",
+        "id": 934,
+        "name": "Social Media Influencer"
+      }
+    ],
+    "professionalType": "Creator",
+    "restId": "1590213596721864704"
+  },
+  "profileImageShape": "Circle",
+  "restId": "1384680865561604097",
+  "tipjarSettings": {
+    "isEnabled": true
+  }
+}

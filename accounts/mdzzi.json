@@ -1,0 +1,62 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjo3NjE3MDg1MzQyNjY0OTA4ODA=",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": false,
+    "createdAt": "Fri Aug 05 23:40:41 +0000 2016",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "山色迤逦皆因我 |心澄如镜，写皆所得｜DEX researcher | 无限进步",
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 24382,
+    "followersCount": 10117,
+    "following": true,
+    "friendsCount": 1060,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 272,
+    "location": "Manchester, England",
+    "mediaCount": 612,
+    "name": "茶不思",
+    "normalFollowersCount": 10117,
+    "pinnedTweetIdsStr": [
+      "1928873243408035921"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/761708534266490880/1759078001",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1915950285991907332/xK3zVp9__normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "mdzzi",
+    "statusesCount": 12227,
+    "translatorType": "none",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [
+      {
+        "iconName": "IconBriefcaseStroke",
+        "id": 132,
+        "name": "Commercial & Industrial"
+      }
+    ],
+    "professionalType": "Creator",
+    "restId": "1468574550518829057"
+  },
+  "profileImageShape": "Circle",
+  "restId": "761708534266490880",
+  "tipjarSettings": {
+    "ethereumHandle": "0x0348113f8490bCF81a53AE947Bc6a3160B816771",
+    "isEnabled": true
+  }
+}

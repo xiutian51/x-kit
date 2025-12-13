@@ -1,0 +1,101 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxMzk5NTA5NTg0MDY3MjYwNDE4",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Mon May 31 23:34:34 +0000 2021",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "TG: https://t.co/yQiVL2VMXH\nChannel: https://t.co/pqckzT3ZQ6, https://t.co/TmOVHgZpGj\n#BITCOIN $BTC #MEMECOINS",
+    "entities": {
+      "description": {
+        "urls": [
+          {
+            "display_url": "t.me/detour168",
+            "expanded_url": "https://t.me/detour168",
+            "url": "https://t.co/yQiVL2VMXH",
+            "indices": [
+              4,
+              27
+            ]
+          },
+          {
+            "display_url": "t.me/leoclub168c",
+            "expanded_url": "https://t.me/leoclub168c",
+            "url": "https://t.co/pqckzT3ZQ6",
+            "indices": [
+              37,
+              60
+            ]
+          },
+          {
+            "display_url": "t.me/leoclub168g",
+            "expanded_url": "https://t.me/leoclub168g",
+            "url": "https://t.co/TmOVHgZpGj",
+            "indices": [
+              62,
+              85
+            ]
+          }
+        ]
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "t.me/leoclub168c",
+            "expanded_url": "http://t.me/leoclub168c",
+            "url": "https://t.co/oWipmdUz7T",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 11121,
+    "followersCount": 35712,
+    "following": true,
+    "friendsCount": 624,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 289,
+    "location": "",
+    "mediaCount": 941,
+    "name": "leochain",
+    "normalFollowersCount": 35712,
+    "pinnedTweetIdsStr": [
+      "1976474856289169882"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1399509584067260418/1759625727",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1685831340917460992/EvKN-QOe_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "leochain0",
+    "statusesCount": 6654,
+    "translatorType": "none",
+    "url": "https://t.co/oWipmdUz7T",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [
+      {
+        "iconName": "IconBriefcaseStroke",
+        "id": 1009,
+        "name": "Community"
+      }
+    ],
+    "professionalType": "Creator",
+    "restId": "1646037138067292160"
+  },
+  "profileImageShape": "Circle",
+  "restId": "1399509584067260418",
+  "tipjarSettings": {}
+}

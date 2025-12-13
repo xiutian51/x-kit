@@ -1,0 +1,74 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxMDUxMzcxNTkwNTczNzk3Mzc3",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": false,
+    "createdAt": "Sun Oct 14 07:18:15 +0000 2018",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "Investor&trader | https://t.co/cfoT9NJ0He | https://t.co/SMq9oeqx7S | tg channel https://t.co/hNKkRMH73O",
+    "entities": {
+      "description": {
+        "urls": [
+          {
+            "display_url": "gmgn.ai",
+            "expanded_url": "http://gmgn.ai",
+            "url": "https://t.co/cfoT9NJ0He",
+            "indices": [
+              18,
+              41
+            ]
+          },
+          {
+            "display_url": "okx.com",
+            "expanded_url": "http://okx.com",
+            "url": "https://t.co/SMq9oeqx7S",
+            "indices": [
+              44,
+              67
+            ]
+          },
+          {
+            "display_url": "t.me/timotimo007",
+            "expanded_url": "https://t.me/timotimo007",
+            "url": "https://t.co/hNKkRMH73O",
+            "indices": [
+              81,
+              104
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 8491,
+    "followersCount": 51968,
+    "following": true,
+    "friendsCount": 942,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 1236,
+    "location": "",
+    "mediaCount": 207,
+    "name": "Timo",
+    "normalFollowersCount": 51968,
+    "pinnedTweetIdsStr": [],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1051371590573797377/1759642821",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1974392176974118912/PW9-9Izc_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "timotimo007",
+    "statusesCount": 7942,
+    "translatorType": "none",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "profileImageShape": "Circle",
+  "restId": "1051371590573797377",
+  "tipjarSettings": {}
+}

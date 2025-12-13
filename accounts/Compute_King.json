@@ -1,0 +1,59 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxODM4MTExNDE3ODUxMDU2MTI4",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Mon Sep 23 07:01:43 +0000 2024",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "Husband, Father, Life-time Learner, Creator and Innovator. AI and HPC Computing Guru in Decentralized Manner. (所有内容均不构成投资建议,请勿转发!)",
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 19847,
+    "followersCount": 17955,
+    "following": true,
+    "friendsCount": 561,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 307,
+    "location": "Earth",
+    "mediaCount": 1103,
+    "name": "Compute King",
+    "normalFollowersCount": 17955,
+    "pinnedTweetIdsStr": [
+      "1891049365894238564"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1838111417851056128/1727075153",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1838112469690314752/ibylXVMX_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "Compute_King",
+    "statusesCount": 7715,
+    "translatorType": "none",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [
+      {
+        "iconName": "IconBriefcaseStroke",
+        "id": 713,
+        "name": "Science & Technology"
+      }
+    ],
+    "professionalType": "Creator",
+    "restId": "1905559768863047963"
+  },
+  "profileImageShape": "Circle",
+  "restId": "1838111417851056128",
+  "tipjarSettings": {}
+}

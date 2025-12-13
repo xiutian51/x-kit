@@ -1,0 +1,67 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxMzYzMDAyNDA5MzkyMzczNzY0",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": false,
+    "createdAt": "Sat Feb 20 05:48:01 +0000 2021",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "t.me/tuzidao",
+            "expanded_url": "https://t.me/tuzidao",
+            "url": "https://t.co/JbBHJyP0a7",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 2275,
+    "followersCount": 11563,
+    "following": true,
+    "friendsCount": 164,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 161,
+    "location": "私聊兔子",
+    "mediaCount": 1379,
+    "name": "技术流兔子🐰 | 钱兔无量",
+    "normalFollowersCount": 11563,
+    "pinnedTweetIdsStr": [],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1363002409392373764/1730776022",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1854194273522208768/3aYKGSYx_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "tuzibtc",
+    "statusesCount": 5875,
+    "translatorType": "none",
+    "url": "https://t.co/JbBHJyP0a7",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [],
+    "professionalType": "Creator",
+    "restId": "1463034232645767170"
+  },
+  "profileImageShape": "Circle",
+  "restId": "1363002409392373764",
+  "tipjarSettings": {
+    "isEnabled": false
+  }
+}

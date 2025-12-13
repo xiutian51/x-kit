@@ -1,0 +1,82 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNDk4MDI5NjAyMjYxOTA1NDA4",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Sun Feb 27 20:17:48 +0000 2022",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "All-in-one crypto wallet and exchange.\n\nDownload https://t.co/MJWUHy1OAb\nSign up https://t.co/SX7kaAPloO\nJoin @MadLads",
+    "entities": {
+      "description": {
+        "urls": [
+          {
+            "display_url": "backpack.app",
+            "expanded_url": "https://backpack.app/",
+            "url": "https://t.co/MJWUHy1OAb",
+            "indices": [
+              49,
+              72
+            ]
+          },
+          {
+            "display_url": "backpack.exchange",
+            "expanded_url": "https://backpack.exchange/",
+            "url": "https://t.co/SX7kaAPloO",
+            "indices": [
+              81,
+              104
+            ]
+          }
+        ]
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "discord.gg/backpack",
+            "expanded_url": "http://discord.gg/backpack",
+            "url": "https://t.co/WtbN6mvcL0",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 12402,
+    "followersCount": 310327,
+    "following": true,
+    "friendsCount": 767,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 1197,
+    "location": "",
+    "mediaCount": 2158,
+    "name": "Backpack 🎒",
+    "normalFollowersCount": 310327,
+    "pinnedTweetIdsStr": [
+      "1991298134484611276"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1498029602261905408/1763977721",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1957829985143791616/sA2YoWNq_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "Backpack",
+    "statusesCount": 6597,
+    "translatorType": "none",
+    "url": "https://t.co/WtbN6mvcL0",
+    "verified": false,
+    "verifiedType": "Business",
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "profileImageShape": "Square",
+  "restId": "1498029602261905408",
+  "tipjarSettings": {}
+}

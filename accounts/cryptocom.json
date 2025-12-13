@@ -1,0 +1,68 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjo4NjQzNDc5MDIwMjk3MDkzMTQ=",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": false,
+    "canMediaTag": true,
+    "createdAt": "Tue May 16 05:12:53 +0000 2017",
+    "defaultProfile": false,
+    "defaultProfileImage": false,
+    "description": "The best place to buy, sell, and pay with crypto #BTC #CRO #DeFi #FFTB",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "crypto.com",
+            "expanded_url": "https://crypto.com/",
+            "url": "https://t.co/8S7PpFXx1q",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 4814,
+    "followersCount": 3064316,
+    "following": true,
+    "friendsCount": 495,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 14908,
+    "location": "",
+    "mediaCount": 10267,
+    "name": "Crypto.com",
+    "normalFollowersCount": 3064316,
+    "pinnedTweetIdsStr": [
+      "1960323582627823841"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/864347902029709314/1756810932",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1873578819833204736/t-8bwuwM_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "cryptocom",
+    "statusesCount": 19489,
+    "translatorType": "none",
+    "url": "https://t.co/8S7PpFXx1q",
+    "verified": false,
+    "verifiedType": "Business",
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [],
+    "professionalType": "Business",
+    "restId": "1646328216595075072"
+  },
+  "profileImageShape": "Square",
+  "restId": "864347902029709314",
+  "tipjarSettings": {}
+}

@@ -1,0 +1,72 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNzQ3NzA4OTY4NTY1MTc4MzY4",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Wed Jan 17 19:55:32 +0000 2024",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "Internet Native Investing.\nInstitutional-grade Assets built for the Open Web. \n\nBacked by @hiFramework, @strobefund, @GSR_io, @cbventures.",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "midas.app",
+            "expanded_url": "https://midas.app/",
+            "url": "https://t.co/na7iPE5gyI",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 1761,
+    "followersCount": 549658,
+    "following": true,
+    "friendsCount": 171,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 294,
+    "location": "",
+    "mediaCount": 300,
+    "name": "Midas",
+    "normalFollowersCount": 549658,
+    "pinnedTweetIdsStr": [],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1747708968565178368/1726870517",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1831765328314933248/LObrXaFC_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "MidasRWA",
+    "statusesCount": 1139,
+    "translatorType": "none",
+    "url": "https://t.co/na7iPE5gyI",
+    "verified": false,
+    "verifiedType": "Business",
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [
+      {
+        "iconName": "IconBriefcaseStroke",
+        "id": 1094,
+        "name": "Blockchain"
+      }
+    ],
+    "professionalType": "Business",
+    "restId": "1772307946090684817"
+  },
+  "profileImageShape": "Square",
+  "restId": "1747708968565178368",
+  "tipjarSettings": {}
+}

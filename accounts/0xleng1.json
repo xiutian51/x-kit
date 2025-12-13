@@ -1,0 +1,59 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxMzg1MzUxNDgyMjMzNDc1MDc4",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": false,
+    "createdAt": "Thu Apr 22 21:55:15 +0000 2021",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "ido打新/空投/铭文/NFT早期项目研究， 不构成任何投资建议。合作DM 希望都对自己的钱负责，所有推文都不能保证你亏钱或者赚钱。",
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 325,
+    "followersCount": 37416,
+    "following": true,
+    "friendsCount": 352,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 879,
+    "location": "",
+    "mediaCount": 615,
+    "name": "Leng",
+    "normalFollowersCount": 37416,
+    "pinnedTweetIdsStr": [
+      "1961742676812026335"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1385351482233475078/1744031031",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1985745032691728384/0qhoMtLw_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "0xleng1",
+    "statusesCount": 7024,
+    "translatorType": "none",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [
+      {
+        "iconName": "IconBriefcaseStroke",
+        "id": 934,
+        "name": "Social Media Influencer"
+      }
+    ],
+    "professionalType": "Business",
+    "restId": "1590455692267343873"
+  },
+  "profileImageShape": "Circle",
+  "restId": "1385351482233475078",
+  "tipjarSettings": {}
+}

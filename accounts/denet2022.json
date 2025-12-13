@@ -1,0 +1,110 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNTEyMDU3ODg3Mjc0OTg3NTIy",
+  "isBlueVerified": false,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Thu Apr 07 13:21:19 +0000 2022",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "A Powerful Business Growth Platform\nTg-Channel: https://t.co/O6KUkLzmi4\nTg-En: https://t.co/h1A3wHLjqp \nTg-Cn: https://t.co/89KFVFEgqZ\nLinkTree: https://t.co/iqzVRVbRI2",
+    "entities": {
+      "description": {
+        "urls": [
+          {
+            "display_url": "t.me/Giveawaylist",
+            "expanded_url": "http://t.me/Giveawaylist",
+            "url": "https://t.co/O6KUkLzmi4",
+            "indices": [
+              48,
+              71
+            ]
+          },
+          {
+            "display_url": "t.me/denetpro",
+            "expanded_url": "http://t.me/denetpro",
+            "url": "https://t.co/h1A3wHLjqp",
+            "indices": [
+              79,
+              102
+            ]
+          },
+          {
+            "display_url": "t.me/denet_cn",
+            "expanded_url": "http://t.me/denet_cn",
+            "url": "https://t.co/89KFVFEgqZ",
+            "indices": [
+              111,
+              134
+            ]
+          },
+          {
+            "display_url": "linktr.ee/denetofficial",
+            "expanded_url": "http://linktr.ee/denetofficial",
+            "url": "https://t.co/iqzVRVbRI2",
+            "indices": [
+              145,
+              168
+            ]
+          }
+        ]
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "denet.me",
+            "expanded_url": "https://denet.me/",
+            "url": "https://t.co/Wdq1SMHyLf",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 406,
+    "followersCount": 72016,
+    "following": true,
+    "friendsCount": 419,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 19,
+    "location": "",
+    "mediaCount": 12,
+    "name": "DeNet",
+    "normalFollowersCount": 72016,
+    "pinnedTweetIdsStr": [
+      "1759496121213472905"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1512057887274987522/1680861052",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1520016441550204928/b4m1B84Q_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "denet2022",
+    "statusesCount": 1085,
+    "translatorType": "none",
+    "url": "https://t.co/Wdq1SMHyLf",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [
+      {
+        "iconName": "IconBriefcaseStroke",
+        "id": 1009,
+        "name": "Community"
+      }
+    ],
+    "professionalType": "Business",
+    "restId": "1561557185788002304"
+  },
+  "profileImageShape": "Circle",
+  "restId": "1512057887274987522",
+  "tipjarSettings": {}
+}

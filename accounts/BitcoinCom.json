@@ -1,0 +1,74 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjozODAwNjkzOTE=",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Mon Sep 26 01:12:18 +0000 2011",
+    "defaultProfile": false,
+    "defaultProfileImage": false,
+    "description": "Empowering 75M+ wallets with btc & crypto. Buy, sell, swap, earn, & more. Trade/earn our official token @VerseEcosystem | UK users: @BitcoinCom_UK",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "linktr.ee/bitcoincom",
+            "expanded_url": "https://linktr.ee/bitcoincom",
+            "url": "https://t.co/CNSxmvFtxI",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 6225,
+    "followersCount": 102598,
+    "following": true,
+    "friendsCount": 349,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 573,
+    "location": "Worldwide",
+    "mediaCount": 2300,
+    "name": "Bitcoin.com",
+    "normalFollowersCount": 102598,
+    "pinnedTweetIdsStr": [
+      "1986722134123577573"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/380069391/1745997524",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1917480016348323840/DivPie9n_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "BitcoinCom",
+    "statusesCount": 10903,
+    "translatorType": "none",
+    "url": "https://t.co/CNSxmvFtxI",
+    "verified": false,
+    "verifiedType": "Business",
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [
+      {
+        "iconName": "IconBriefcaseStroke",
+        "id": 962,
+        "name": "Mobile Application"
+      }
+    ],
+    "professionalType": "Business",
+    "restId": "1526770318240808961"
+  },
+  "profileImageShape": "Square",
+  "restId": "380069391",
+  "tipjarSettings": {}
+}

@@ -1,0 +1,60 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxMzA5MzczNDMzNjcxNjM5MDQx",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": false,
+    "createdAt": "Fri Sep 25 06:05:39 +0000 2020",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "Baseball⚾Tracker/MLB/WBC/+Japan Prospects: shohei ohtani, yoshinobu yamamoto, roki sasaki & japan prospects news on X | (大谷翔平¹⁷山本由伸¹⁸佐々木朗希¹¹) 日本人選手メジャーリーガー🎯",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "japan.gg/mlb-shop-guide",
+            "expanded_url": "https://japan.gg/mlb-shop-guide",
+            "url": "https://t.co/s96mJZ1aMt",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 16873,
+    "followersCount": 67243,
+    "following": true,
+    "friendsCount": 19854,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 119,
+    "location": "tracker🎯",
+    "mediaCount": 621,
+    "name": "Japan ⚔ Baseball",
+    "normalFollowersCount": 67243,
+    "pinnedTweetIdsStr": [],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1309373433671639041/1762102813",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1898146947061727232/lC9EqmQA_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "JapanggX",
+    "statusesCount": 3802,
+    "translatorType": "none",
+    "url": "https://t.co/s96mJZ1aMt",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "profileImageShape": "Circle",
+  "restId": "1309373433671639041",
+  "tipjarSettings": {}
+}

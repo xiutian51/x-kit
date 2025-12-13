@@ -1,0 +1,96 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNDA1ODI2Nzg5OTI3MTgyMzM3",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Fri Jun 18 09:56:45 +0000 2021",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "16年至今年资深币圈玩家，热衷于追寻热点 个人TG：@BQLSJ2023\nOK: https://t.co/ycjeIYG59w\nBN：https://t.co/GemZu6SVtO",
+    "entities": {
+      "description": {
+        "urls": [
+          {
+            "display_url": "okx.com/zh-hans/join/b…",
+            "expanded_url": "https://www.okx.com/zh-hans/join/bqlsj?shortCode=6CngT5",
+            "url": "https://t.co/ycjeIYG59w",
+            "indices": [
+              41,
+              64
+            ]
+          },
+          {
+            "display_url": "maxweb.black/join?ref=BQLSJ",
+            "expanded_url": "https://www.maxweb.black/join?ref=BQLSJ",
+            "url": "https://t.co/GemZu6SVtO",
+            "indices": [
+              68,
+              91
+            ]
+          }
+        ]
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "t.me/+atwGN9muCcIyN…",
+            "expanded_url": "https://t.me/+atwGN9muCcIyNzc1",
+            "url": "https://t.co/OeAknxSh72",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 2156,
+    "followersCount": 134468,
+    "following": true,
+    "friendsCount": 1754,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 1784,
+    "location": "日本",
+    "mediaCount": 5792,
+    "name": "币圈老司机🔶BNB",
+    "normalFollowersCount": 134468,
+    "pinnedTweetIdsStr": [
+      "1954478943119237403"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1405826789927182337/1628821058",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1896595804724359171/nvH8dGaA_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "Bqlsj2023",
+    "statusesCount": 22869,
+    "translatorType": "none",
+    "url": "https://t.co/OeAknxSh72",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [
+      {
+        "iconName": "IconBriefcaseStroke",
+        "id": 192,
+        "name": "Financial Services"
+      }
+    ],
+    "professionalType": "Creator",
+    "restId": "1466051048079241216"
+  },
+  "profileImageShape": "Circle",
+  "restId": "1405826789927182337",
+  "superFollowEligible": true,
+  "tipjarSettings": {
+    "bitcoinHandle": "3AoAgLKQtUECk27LZmk631Rv3M2d6tjWjM",
+    "isEnabled": true
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjozNzM3NjI4OTg=",
+  "isBlueVerified": false,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Thu Sep 15 04:37:33 +0000 2011",
+    "defaultProfile": false,
+    "defaultProfileImage": false,
+    "description": "一个正在成长中的白痴\n\ncreated @bodhi_wtf",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "zhangluyao.com",
+            "expanded_url": "http://zhangluyao.com",
+            "url": "https://t.co/0rVgDu70Jg",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 1654,
+    "followersCount": 3752,
+    "following": true,
+    "friendsCount": 261,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 83,
+    "location": "",
+    "mediaCount": 75,
+    "name": "Luyao",
+    "normalFollowersCount": 3752,
+    "pinnedTweetIdsStr": [
+      "544924856345571328"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/373762898/1679031600",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1924343817567682560/AffzwE4r_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "levi0214",
+    "statusesCount": 732,
+    "translatorType": "none",
+    "url": "https://t.co/0rVgDu70Jg",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "profileImageShape": "Circle",
+  "restId": "373762898",
+  "tipjarSettings": {}
+}

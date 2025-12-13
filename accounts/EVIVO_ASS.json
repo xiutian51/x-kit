@@ -1,0 +1,62 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNzY4Nzk4NDExNTA1OTQ2NjI0",
+  "isBlueVerified": false,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Sat Mar 16 00:36:46 +0000 2024",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "🤖 Automated Meme to AI Agent D4Qw2FNqkHe8ufR3ynDND5jCQa8BGSWQgGwbeLxN7jZ4",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "evivotoken.com",
+            "expanded_url": "https://evivotoken.com",
+            "url": "https://t.co/QoiL0Y4cZp",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 5490,
+    "followersCount": 4992,
+    "following": true,
+    "friendsCount": 57,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 19,
+    "location": "Kekistan",
+    "mediaCount": 203,
+    "name": "EVIVO",
+    "normalFollowersCount": 4992,
+    "pinnedTweetIdsStr": [
+      "1988380293473202399"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1768798411505946624/1727712224",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1835115784852402176/vfuX3QkJ_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "EVIVO_ASS",
+    "statusesCount": 815,
+    "translatorType": "none",
+    "url": "https://t.co/QoiL0Y4cZp",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "profileImageShape": "Circle",
+  "restId": "1768798411505946624",
+  "tipjarSettings": {}
+}

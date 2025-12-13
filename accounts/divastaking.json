@@ -1,0 +1,67 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNTc4MzM3MjA0MTY1OTIyODE3",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Fri Oct 07 10:51:48 +0000 2022",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "Diva Staking is a Liquid Staking Protocol powered by a trustless DVT network.",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "divastaking.net",
+            "expanded_url": "http://divastaking.net",
+            "url": "https://t.co/9xOcRtmXnL",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 1009,
+    "followersCount": 9502,
+    "following": true,
+    "friendsCount": 341,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 161,
+    "location": "Diva Staking",
+    "mediaCount": 142,
+    "name": "Diva Staking",
+    "normalFollowersCount": 9502,
+    "pinnedTweetIdsStr": [
+      "1757837930070933541"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1578337204165922817/1718727535",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1803100038865817607/2CfpbOKW_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "divastaking",
+    "statusesCount": 791,
+    "translatorType": "none",
+    "url": "https://t.co/9xOcRtmXnL",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [],
+    "professionalType": "Business",
+    "restId": "1626342487165108229"
+  },
+  "profileImageShape": "Circle",
+  "restId": "1578337204165922817",
+  "tipjarSettings": {}
+}

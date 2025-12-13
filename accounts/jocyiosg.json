@@ -1,0 +1,76 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjo0OTc2MTEyNTg=",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Mon Feb 20 05:29:43 +0000 2012",
+    "defaultProfile": false,
+    "defaultProfileImage": false,
+    "description": "In Web3 since 2013. Founding Partner @IOSGVC DM open",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "iosg.vc",
+            "expanded_url": "http://iosg.vc",
+            "url": "https://t.co/m69BYH4dQq",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 1455,
+    "followersCount": 8691,
+    "following": true,
+    "friendsCount": 2048,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 234,
+    "location": "🌍",
+    "mediaCount": 68,
+    "name": "Jocy@IOSGVC",
+    "normalFollowersCount": 8691,
+    "pinnedTweetIdsStr": [
+      "1980669427617263742"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/497611258/1552879095",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1914498436604252160/1UUAOuKh_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "jocyiosg",
+    "statusesCount": 527,
+    "translatorType": "none",
+    "url": "https://t.co/m69BYH4dQq",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [
+      {
+        "iconName": "IconBriefcaseStroke",
+        "id": 1094,
+        "name": "Blockchain"
+      }
+    ],
+    "professionalType": "Creator",
+    "restId": "1703800376582177209"
+  },
+  "profileImageShape": "Circle",
+  "restId": "497611258",
+  "tipjarSettings": {
+    "bitcoinHandle": "3KNPnpBttQoegozKdw99iW9QBBuHMJu2vK",
+    "isEnabled": true
+  }
+}

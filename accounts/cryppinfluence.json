@@ -1,0 +1,76 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNDQ3NTkyODI5Nzg2NjY5MDU2",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Mon Oct 11 16:00:29 +0000 2021",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "Founder @TrySweepFinance | Thread Writer | Chasing DeFi Alpha | 25/8 on X | Web3 since 2017 | Researching narratives and sharing my thoughts",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "polymarket.com/?via=crypp",
+            "expanded_url": "https://polymarket.com?via=crypp",
+            "url": "https://t.co/6olWibeBbw",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 30029,
+    "followersCount": 48698,
+    "following": true,
+    "friendsCount": 1052,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 720,
+    "location": "",
+    "mediaCount": 5291,
+    "name": "Crypp",
+    "normalFollowersCount": 48698,
+    "pinnedTweetIdsStr": [
+      "1993649748507533683"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1447592829786669056/1745662666",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1916074200415997952/7XPT66dk_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "cryppinfluence",
+    "statusesCount": 17796,
+    "translatorType": "none",
+    "url": "https://t.co/6olWibeBbw",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [
+      {
+        "iconName": "IconBriefcaseStroke",
+        "id": 934,
+        "name": "Social Media Influencer"
+      }
+    ],
+    "professionalType": "Creator",
+    "restId": "1503080625204613120"
+  },
+  "profileImageShape": "Circle",
+  "restId": "1447592829786669056",
+  "tipjarSettings": {
+    "ethereumHandle": "0x3dc4CB21788205775D6302b25e8631b7BFdd66Cb",
+    "isEnabled": true
+  }
+}

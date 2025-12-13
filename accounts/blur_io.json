@@ -1,0 +1,91 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNDgxMzQwMDU2NDI2MTQzNzQ0",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Wed Jan 12 18:59:41 +0000 2022",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "The NFT marketplace for pro traders. Backed by @Paradigm. Discord: https://t.co/UdIqx7HXI0 Foundation: https://t.co/2OWOiNFPEU Metrics: https://t.co/HSruM3o61E",
+    "entities": {
+      "description": {
+        "urls": [
+          {
+            "display_url": "discord.gg/blurdao",
+            "expanded_url": "http://discord.gg/blurdao",
+            "url": "https://t.co/UdIqx7HXI0",
+            "indices": [
+              67,
+              90
+            ]
+          },
+          {
+            "display_url": "blur.foundation",
+            "expanded_url": "http://blur.foundation",
+            "url": "https://t.co/2OWOiNFPEU",
+            "indices": [
+              103,
+              126
+            ]
+          },
+          {
+            "display_url": "docs.blur.foundation/metrics",
+            "expanded_url": "http://docs.blur.foundation/metrics",
+            "url": "https://t.co/HSruM3o61E",
+            "indices": [
+              136,
+              159
+            ]
+          }
+        ]
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "blur.io",
+            "expanded_url": "https://blur.io",
+            "url": "https://t.co/y9dH7jIK8n",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 1434,
+    "followersCount": 246301,
+    "following": true,
+    "friendsCount": 242,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 1361,
+    "location": "Ethereum",
+    "mediaCount": 215,
+    "name": "Blur",
+    "normalFollowersCount": 246301,
+    "pinnedTweetIdsStr": [
+      "1896679125106278610"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1481340056426143744/1646076761",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1518705644450291713/X2FLVDdn_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "blur_io",
+    "statusesCount": 1294,
+    "translatorType": "none",
+    "url": "https://t.co/y9dH7jIK8n",
+    "verified": false,
+    "verifiedType": "Business",
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "profileImageShape": "Square",
+  "restId": "1481340056426143744",
+  "tipjarSettings": {}
+}

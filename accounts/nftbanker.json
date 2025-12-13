@@ -1,0 +1,51 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxMjU4NTA2NTU1MjczNjc4ODQ4",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Thu May 07 21:19:02 +0000 2020",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "欧洲支付@SollPayHQ",
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 3595,
+    "followersCount": 32011,
+    "following": true,
+    "friendsCount": 3231,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 242,
+    "location": "Paris",
+    "mediaCount": 243,
+    "name": "小将",
+    "normalFollowersCount": 32011,
+    "pinnedTweetIdsStr": [],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1258506555273678848/1588890879",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1620933104277000193/i4Dghxkr_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "nftbanker",
+    "statusesCount": 4852,
+    "translatorType": "none",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [],
+    "professionalType": "Creator",
+    "restId": "1508042275288457227"
+  },
+  "profileImageShape": "Circle",
+  "restId": "1258506555273678848",
+  "tipjarSettings": {}
+}

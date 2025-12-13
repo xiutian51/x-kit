@@ -1,0 +1,62 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {
+    "label": {
+      "url": {
+        "url": "https://twitter.com/YeiFinance",
+        "urlType": "DeepLink"
+      },
+      "badge": {
+        "url": "https://pbs.twimg.com/profile_images/1959153542423617537/aPIUGIBX_bigger.jpg"
+      },
+      "description": "Yei Finance",
+      "userLabelType": "BusinessLabel",
+      "userLabelDisplayType": "Badge"
+    }
+  },
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNzgwNDIxMTc2MDE3NTAyMjA4",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Wed Apr 17 02:21:15 +0000 2024",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "prince of yield / intern @yeifinance",
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 10319,
+    "followedBy": true,
+    "followersCount": 1659,
+    "following": true,
+    "friendsCount": 1036,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 7,
+    "location": "",
+    "mediaCount": 611,
+    "name": "Yei intern",
+    "normalFollowersCount": 1659,
+    "pinnedTweetIdsStr": [
+      "1961353171386958311"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1780421176017502208/1743599644",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1907253525656350720/-um3E_pk_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "yei_intern",
+    "statusesCount": 4858,
+    "translatorType": "none",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "profileImageShape": "Circle",
+  "restId": "1780421176017502208",
+  "tipjarSettings": {}
+}

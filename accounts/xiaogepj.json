@@ -1,0 +1,75 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNDUwMzY5OTM4NjQwNjI5NzY0",
+  "isBlueVerified": false,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Tue Oct 19 07:55:22 +0000 2021",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "创始人@ratecoinai, 探索用AI挖掘高潜力加密项目，所发布内容不代表任何投资建议。",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "ratecoin.ai",
+            "expanded_url": "http://ratecoin.ai",
+            "url": "https://t.co/TS9OCVWLZa",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 1071,
+    "followersCount": 6301,
+    "following": true,
+    "friendsCount": 603,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 141,
+    "location": "Singapore",
+    "mediaCount": 96,
+    "name": "肖哥加密评级",
+    "normalFollowersCount": 6301,
+    "pinnedTweetIdsStr": [
+      "1911682958173606091"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1450369938640629764/1744621359",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1911051233403547648/yAFd7FN5_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "xiaogepj",
+    "statusesCount": 3925,
+    "translatorType": "none",
+    "url": "https://t.co/TS9OCVWLZa",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [
+      {
+        "iconName": "IconBriefcaseStroke",
+        "id": 713,
+        "name": "Science & Technology"
+      }
+    ],
+    "professionalType": "Creator",
+    "restId": "1471321657964855296"
+  },
+  "profileImageShape": "Circle",
+  "restId": "1450369938640629764",
+  "tipjarSettings": {
+    "isEnabled": true
+  }
+}

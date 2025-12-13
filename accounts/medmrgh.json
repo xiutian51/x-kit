@@ -1,0 +1,60 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNTk3MDU0NTM3",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Mon Jul 15 23:42:55 +0000 2013",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "Not Your Average Buidl0r  | @ridotto_io, @nakapad_io, and more ███▒▒▒",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "ridotto.io",
+            "expanded_url": "http://ridotto.io",
+            "url": "https://t.co/un6E6Xb08f",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 1421,
+    "followersCount": 9960,
+    "following": true,
+    "friendsCount": 485,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 9,
+    "location": "Paris",
+    "mediaCount": 213,
+    "name": "Med 🎰",
+    "normalFollowersCount": 9960,
+    "pinnedTweetIdsStr": [],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1597054537/1630691070",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1628502068884385792/ihkuM7fJ_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "medmrgh",
+    "statusesCount": 1238,
+    "translatorType": "none",
+    "url": "https://t.co/un6E6Xb08f",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "profileImageShape": "Circle",
+  "restId": "1597054537",
+  "tipjarSettings": {}
+}

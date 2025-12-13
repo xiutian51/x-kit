@@ -1,0 +1,67 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNDUyNDY4NDE5NjczMDE0Mjcy",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Mon Oct 25 05:16:32 +0000 2021",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "Trade smarter with AI-powered intelligence. Coming soon to iOS and Android.\n\nBacked by @hiFramework @TheSpartanGroup @Maven11Capital",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "discord.gg/voyagerapp",
+            "expanded_url": "https://discord.gg/voyagerapp",
+            "url": "https://t.co/emrtEAyqrp",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 7657,
+    "followersCount": 95179,
+    "following": true,
+    "friendsCount": 401,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 676,
+    "location": "Hyperliquid",
+    "mediaCount": 1631,
+    "name": "Voyager",
+    "normalFollowersCount": 95179,
+    "pinnedTweetIdsStr": [
+      "1993989820105019613"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1452468419673014272/1764238690",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1993988608731328512/kLDYv1kY_normal.png",
+    "profileInterstitialType": "",
+    "screenName": "VoyagerAppHQ",
+    "statusesCount": 4632,
+    "translatorType": "none",
+    "url": "https://t.co/emrtEAyqrp",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [],
+    "professionalType": "Business",
+    "restId": "1512152781695569939"
+  },
+  "profileImageShape": "Circle",
+  "restId": "1452468419673014272",
+  "tipjarSettings": {}
+}

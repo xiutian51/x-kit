@@ -1,0 +1,71 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNjc4MTYwODI=",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Sat Jul 17 15:56:05 +0000 2010",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "Founding Partner and CEO @waterdripfund，\nManaging partner of Pacific Waterdrip Digital Fund，\nEvangelist of #Bitcoin ，\nPh.D in EE,  Prev. An IC design engineer",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "waterdrip.io",
+            "expanded_url": "http://waterdrip.io",
+            "url": "https://t.co/5nzdiq0bFC",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 551,
+    "followersCount": 18199,
+    "following": true,
+    "friendsCount": 1772,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 361,
+    "location": "Shanghai",
+    "mediaCount": 95,
+    "name": "Jademont",
+    "normalFollowersCount": 18199,
+    "pinnedTweetIdsStr": [],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/167816082/1649511275",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1568576804516134913/_mjuRDPm_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "shanshan521",
+    "statusesCount": 855,
+    "translatorType": "none",
+    "url": "https://t.co/5nzdiq0bFC",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [
+      {
+        "iconName": "IconBriefcaseStroke",
+        "id": 958,
+        "name": "Entrepreneur"
+      }
+    ],
+    "professionalType": "Business",
+    "restId": "1514988263739592704"
+  },
+  "profileImageShape": "Circle",
+  "restId": "167816082",
+  "tipjarSettings": {}
+}

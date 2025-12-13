@@ -1,0 +1,62 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNzU2NTAyNDc0MjY4MjU0MjA4",
+  "isBlueVerified": false,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Sun Feb 11 02:16:45 +0000 2024",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "🔮 Welcome to the realm of Elixir! Merlin Chain Incubator💫 #merlinchain $BTC #Merlin $ELXR",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "linktr.ee/MerlinElixir",
+            "expanded_url": "https://linktr.ee/MerlinElixir",
+            "url": "https://t.co/B4Cm1YEM2F",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 466,
+    "followersCount": 1403,
+    "following": true,
+    "friendsCount": 27,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 9,
+    "location": "🔮 Merlin Chain",
+    "mediaCount": 33,
+    "name": "Elixir - Merlin🔮",
+    "normalFollowersCount": 1403,
+    "pinnedTweetIdsStr": [
+      "1777870079616491941"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1756502474268254208/1707621589",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1756508141666394112/ulFi9LoH_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "MerlinElixir",
+    "statusesCount": 142,
+    "translatorType": "none",
+    "url": "https://t.co/B4Cm1YEM2F",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "profileImageShape": "Circle",
+  "restId": "1756502474268254208",
+  "tipjarSettings": {}
+}

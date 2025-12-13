@@ -1,0 +1,60 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxMTU0ODY1MjIyODI3NjE4MzEw",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Fri Jul 26 21:25:00 +0000 2019",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "The #1 Rated Productivity Platform for the AI Era",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "usemotion.com",
+            "expanded_url": "http://usemotion.com",
+            "url": "https://t.co/k1QWwmkQe0",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 417,
+    "followersCount": 4821,
+    "following": true,
+    "friendsCount": 23,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 78,
+    "location": "",
+    "mediaCount": 126,
+    "name": "Motion",
+    "normalFollowersCount": 4821,
+    "pinnedTweetIdsStr": [],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1154865222827618310/1764777990",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1226239116787908608/V1aUc-7O_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "useMotion",
+    "statusesCount": 948,
+    "translatorType": "none",
+    "url": "https://t.co/k1QWwmkQe0",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "profileImageShape": "Circle",
+  "restId": "1154865222827618310",
+  "tipjarSettings": {}
+}

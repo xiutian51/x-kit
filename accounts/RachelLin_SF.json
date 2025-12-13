@@ -1,0 +1,71 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNDA1MTI2NjUwOTcxMzE2MjMw",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": false,
+    "canMediaTag": true,
+    "createdAt": "Wed Jun 16 11:34:45 +0000 2021",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "Co-founder and CEO of @SynFuturesDefi. TradFi to Fintech to Cefi to Defi: taking steps in the right direction.",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "synfutures.com",
+            "expanded_url": "http://www.synfutures.com",
+            "url": "https://t.co/nBDaiDaSOg",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 542,
+    "followersCount": 9263,
+    "following": true,
+    "friendsCount": 204,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 28,
+    "location": "",
+    "mediaCount": 106,
+    "name": "Rachel | SynFutures",
+    "normalFollowersCount": 9263,
+    "pinnedTweetIdsStr": [],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1405126650971316230/1624029578",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1903607833138237440/odWrQ5Ri_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "RachelLin_SF",
+    "statusesCount": 841,
+    "translatorType": "none",
+    "url": "https://t.co/nBDaiDaSOg",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [
+      {
+        "iconName": "IconBriefcaseStroke",
+        "id": 713,
+        "name": "Science & Technology"
+      }
+    ],
+    "professionalType": "Business",
+    "restId": "1607286014573432832"
+  },
+  "profileImageShape": "Circle",
+  "restId": "1405126650971316230",
+  "tipjarSettings": {}
+}

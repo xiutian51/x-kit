@@ -1,0 +1,81 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxMzg4NDg4MjYxMTMyMjM4ODQ5",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Sat May 01 13:39:56 +0000 2021",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "Trusted Data Engine for the AI era.\nAuthenticated storage • Programmable access • Liquid • Monetizable.\nChain-agnostic. \nhttps://t.co/EDegTaGWc8",
+    "entities": {
+      "description": {
+        "urls": [
+          {
+            "display_url": "linktr.ee/cessofficial",
+            "expanded_url": "http://linktr.ee/cessofficial",
+            "url": "https://t.co/EDegTaGWc8",
+            "indices": [
+              121,
+              144
+            ]
+          }
+        ]
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "cess.network",
+            "expanded_url": "http://cess.network/",
+            "url": "https://t.co/441Kzuh1Ch",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 5873,
+    "followersCount": 352811,
+    "following": true,
+    "friendsCount": 884,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 215,
+    "location": "UK",
+    "mediaCount": 1230,
+    "name": "CESS Network",
+    "normalFollowersCount": 352811,
+    "pinnedTweetIdsStr": [],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1388488261132238849/1762338815",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1879177446253355008/Lu931ofD_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "CESS_Storage",
+    "statusesCount": 3627,
+    "translatorType": "none",
+    "url": "https://t.co/441Kzuh1Ch",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [
+      {
+        "iconName": "IconBriefcaseStroke",
+        "id": 713,
+        "name": "Science & Technology"
+      }
+    ],
+    "professionalType": "Business",
+    "restId": "1492883660672241669"
+  },
+  "profileImageShape": "Circle",
+  "restId": "1388488261132238849",
+  "tipjarSettings": {}
+}

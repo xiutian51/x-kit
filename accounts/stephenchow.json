@@ -1,0 +1,60 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNTAxNzE2MTgwNTE1NTA4MjMw",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": false,
+    "canMediaTag": false,
+    "createdAt": "Thu Mar 10 00:27:22 +0000 2022",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "Creator",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "instagram.com/stephenchow/",
+            "expanded_url": "https://www.instagram.com/stephenchow/",
+            "url": "https://t.co/jjRyAWfWeL",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 12,
+    "followersCount": 11627,
+    "following": true,
+    "friendsCount": 4,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 36,
+    "location": "Multiverse",
+    "mediaCount": 6,
+    "name": "Stephen Chow",
+    "normalFollowersCount": 11627,
+    "pinnedTweetIdsStr": [],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1501716180515508230/1707296447",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1755154625081294848/WF-ybweF_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "stephenchow",
+    "statusesCount": 29,
+    "translatorType": "none",
+    "url": "https://t.co/jjRyAWfWeL",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "profileImageShape": "Circle",
+  "restId": "1501716180515508230",
+  "tipjarSettings": {}
+}

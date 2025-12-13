@@ -1,0 +1,93 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNDIzNzMzMTkxMDA1NzI0Njcy",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Fri Aug 06 19:51:07 +0000 2021",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "We're an AI research lab building search for the future | Most powerful web search API → https://t.co/M5QuIA55d2 | High compute web search → https://t.co/uHn3Ra50Tu",
+    "entities": {
+      "description": {
+        "urls": [
+          {
+            "display_url": "exa.ai",
+            "expanded_url": "https://exa.ai",
+            "url": "https://t.co/M5QuIA55d2",
+            "indices": [
+              89,
+              112
+            ]
+          },
+          {
+            "display_url": "exa.ai/websets",
+            "expanded_url": "https://exa.ai/websets",
+            "url": "https://t.co/uHn3Ra50Tu",
+            "indices": [
+              141,
+              164
+            ]
+          }
+        ]
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "exa.ai",
+            "expanded_url": "https://exa.ai",
+            "url": "https://t.co/M5QuIA55d2",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 1678,
+    "followersCount": 46463,
+    "following": true,
+    "friendsCount": 32,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 458,
+    "location": "SF",
+    "mediaCount": 222,
+    "name": "Exa",
+    "normalFollowersCount": 46463,
+    "pinnedTweetIdsStr": [
+      "1963262700123000947"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1423733191005724672/1756838435",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1989123748096798720/mALsMIPI_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "ExaAILabs",
+    "statusesCount": 698,
+    "translatorType": "none",
+    "url": "https://t.co/M5QuIA55d2",
+    "verified": false,
+    "verifiedType": "Business",
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [
+      {
+        "iconName": "IconBriefcaseStroke",
+        "id": 713,
+        "name": "Science & Technology"
+      }
+    ],
+    "professionalType": "Business",
+    "restId": "1648472150783983617"
+  },
+  "profileImageShape": "Square",
+  "restId": "1423733191005724672",
+  "tipjarSettings": {}
+}

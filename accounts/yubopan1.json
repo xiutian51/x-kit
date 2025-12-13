@@ -1,0 +1,49 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjo5OTAyNjE5MTAwNTc2ODQ5OTI=",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Sat Apr 28 16:10:12 +0000 2018",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "Founder @ChainCatcher_ Building @RootDataCrypto",
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 7346,
+    "followedBy": true,
+    "followersCount": 2497,
+    "following": true,
+    "friendsCount": 709,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 28,
+    "location": "新加坡",
+    "mediaCount": 15,
+    "name": "Pan",
+    "normalFollowersCount": 2497,
+    "pinnedTweetIdsStr": [
+      "1912687161234845954"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/990261910057684992/1677630556",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1630726816079151105/6eWhYArx_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "yubopan1",
+    "statusesCount": 538,
+    "translatorType": "none",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "profileImageShape": "Circle",
+  "restId": "990261910057684992",
+  "tipjarSettings": {}
+}

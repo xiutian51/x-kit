@@ -1,0 +1,72 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNDI2MjEzOTI1ODIxOTYwMTkz",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": false,
+    "canMediaTag": true,
+    "createdAt": "Fri Aug 13 16:08:24 +0000 2021",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "一站式AI金融服务平台，创新性地打造美股极简期权和自动跟单多人等功能。和Trading Agent Bobby互动，实现从实时投资机会捕捉、投资分析、交易策略构建到下单交易的完整闭环。\n让投资成为一种轻松愉悦的生活方式。https://t.co/hoYPPE43ow",
+    "entities": {
+      "description": {
+        "urls": [
+          {
+            "display_url": "linktr.ee/rockflowlinks",
+            "expanded_url": "https://linktr.ee/rockflowlinks",
+            "url": "https://t.co/hoYPPE43ow",
+            "indices": [
+              110,
+              133
+            ]
+          }
+        ]
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "rockflow.ai/download",
+            "expanded_url": "https://rockflow.ai/download",
+            "url": "https://t.co/NZP8lfofQT",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 794,
+    "followersCount": 3754,
+    "following": true,
+    "friendsCount": 125,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 23,
+    "location": "",
+    "mediaCount": 658,
+    "name": "RockFlow中文频道",
+    "normalFollowersCount": 3754,
+    "pinnedTweetIdsStr": [
+      "1993692770444419346"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1426213925821960193/1634037992",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1544845022905843712/ZU6n8Mt7_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "RockFlowApp",
+    "statusesCount": 2118,
+    "translatorType": "none",
+    "url": "https://t.co/NZP8lfofQT",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "profileImageShape": "Circle",
+  "restId": "1426213925821960193",
+  "tipjarSettings": {}
+}

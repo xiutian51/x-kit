@@ -1,0 +1,80 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {
+    "label": {
+      "url": {
+        "url": "https://twitter.com/kasmediadotcom",
+        "urlType": "DeepLink"
+      },
+      "badge": {
+        "url": "https://pbs.twimg.com/profile_images/1795119541145468928/-1dIY3pd_bigger.jpg"
+      },
+      "description": "KASmedia",
+      "userLabelType": "BusinessLabel",
+      "userLabelDisplayType": "Badge"
+    }
+  },
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxMzk0NjE5OTczMjY4NTAwNDgw",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": false,
+    "canMediaTag": true,
+    "createdAt": "Tue May 18 11:44:58 +0000 2021",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "Post-Keynesian-Deleuzian-Crypto-Economics Cofounder/Head of Research @KASmediadotcom Previously: Listings Research Lead @BinanceUS 🇺🇸 @UCBerkeley Alum 🐻",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "kasmedia.com",
+            "expanded_url": "http://www.kasmedia.com",
+            "url": "https://t.co/VwfeS9zYFn",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 9930,
+    "followersCount": 7435,
+    "following": true,
+    "friendsCount": 9900,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 41,
+    "location": "San Francisco, CA",
+    "mediaCount": 116,
+    "name": "Nicholas Sismil",
+    "normalFollowersCount": 7435,
+    "pinnedTweetIdsStr": [
+      "1748896266917175498"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1394619973268500480/1764219410",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1967926756788297728/pNnslufo_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "NicholasSismil",
+    "statusesCount": 1910,
+    "translatorType": "none",
+    "url": "https://t.co/VwfeS9zYFn",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [],
+    "professionalType": "Creator",
+    "restId": "1968394395125957057"
+  },
+  "profileImageShape": "Circle",
+  "restId": "1394619973268500480",
+  "tipjarSettings": {}
+}

@@ -1,0 +1,47 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxMzkwNTkxODQ0Nzg3MDQ4NDUz",
+  "isBlueVerified": false,
+  "legacy": {
+    "canDm": false,
+    "canMediaTag": true,
+    "createdAt": "Fri May 07 09:00:11 +0000 2021",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "",
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 29,
+    "followersCount": 20786,
+    "following": true,
+    "friendsCount": 1,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 119,
+    "location": "",
+    "mediaCount": 0,
+    "name": "Assembly",
+    "normalFollowersCount": 20786,
+    "pinnedTweetIdsStr": [
+      "1704118636061880631"
+    ],
+    "possiblySensitive": false,
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1467788079167590403/hiqQxH0R_normal.png",
+    "profileInterstitialType": "",
+    "screenName": "assembly_net",
+    "statusesCount": 2,
+    "translatorType": "none",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "profileImageShape": "Circle",
+  "restId": "1390591844787048453",
+  "tipjarSettings": {}
+}

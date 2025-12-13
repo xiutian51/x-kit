@@ -1,0 +1,72 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxMzczNDE0MTIyMjI2OTEzMjgw",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": false,
+    "createdAt": "Sat Mar 20 23:20:25 +0000 2021",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "Angel | Gamer | Collectoor | Autodidact | Aspiring Polymath\nCo-Founder @resonance_lab\nhttps://t.co/rkWy3j9Sv9",
+    "entities": {
+      "description": {
+        "urls": [
+          {
+            "display_url": "gallery.so/shatt",
+            "expanded_url": "http://gallery.so/shatt",
+            "url": "https://t.co/rkWy3j9Sv9",
+            "indices": [
+              86,
+              109
+            ]
+          }
+        ]
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "linktr.ee/shatt",
+            "expanded_url": "https://linktr.ee/shatt",
+            "url": "https://t.co/5U8xbtpPN7",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 16747,
+    "followersCount": 8565,
+    "following": true,
+    "friendsCount": 1622,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 110,
+    "location": "Metaverse",
+    "mediaCount": 365,
+    "name": "ShattGPT (Shatt)",
+    "normalFollowersCount": 8565,
+    "pinnedTweetIdsStr": [
+      "1427644713486766093"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1373414122226913280/1640730827",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1728513167628939264/Ra96sHGp_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "Shatt_Eth",
+    "statusesCount": 1434,
+    "translatorType": "none",
+    "url": "https://t.co/5U8xbtpPN7",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "profileImageShape": "Circle",
+  "restId": "1373414122226913280",
+  "tipjarSettings": {}
+}

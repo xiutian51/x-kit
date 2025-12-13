@@ -1,0 +1,60 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjo0MTM2NTEyOQ==",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": false,
+    "canMediaTag": true,
+    "createdAt": "Wed May 20 14:09:57 +0000 2009",
+    "defaultProfile": false,
+    "defaultProfileImage": false,
+    "description": "Official Twitter page for Tintin, the world's best known young reporter.",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "tintin.com",
+            "expanded_url": "http://www.tintin.com",
+            "url": "https://t.co/NmRqupR3qP",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 151,
+    "followersCount": 33800,
+    "following": true,
+    "friendsCount": 53,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 309,
+    "location": "Brussels",
+    "mediaCount": 811,
+    "name": "Tintin",
+    "normalFollowersCount": 33800,
+    "pinnedTweetIdsStr": [],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/41365129/1603098803",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/781518772259749888/lmEHgoQP_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "Tintin",
+    "statusesCount": 4977,
+    "translatorType": "none",
+    "url": "https://t.co/NmRqupR3qP",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "profileImageShape": "Circle",
+  "restId": "41365129",
+  "tipjarSettings": {}
+}

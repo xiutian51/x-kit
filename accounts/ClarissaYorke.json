@@ -1,0 +1,72 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoyNTQyMzQ4NzI0",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Mon Jun 02 22:58:30 +0000 2014",
+    "defaultProfile": false,
+    "defaultProfileImage": false,
+    "description": "Partner/KOL manager at @AgencyLaser //// NONE OF MY POSTS ARE FINANCIAL ADVICE // // Tweets: 🇵🇹🇬🇧🇨🇳",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "t.me/Clarissayorke",
+            "expanded_url": "https://t.me/Clarissayorke",
+            "url": "https://t.co/u3RwcWXaNB",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 434712,
+    "followersCount": 2394984,
+    "following": true,
+    "friendsCount": 17055,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 715,
+    "location": "Lisboa, Portugal",
+    "mediaCount": 64383,
+    "name": "Clarissa Yorke",
+    "normalFollowersCount": 2394984,
+    "pinnedTweetIdsStr": [],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/2542348724/1726500181",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1682379992066412544/qx8S_4aD_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "ClarissaYorke",
+    "statusesCount": 128900,
+    "translatorType": "regular",
+    "url": "https://t.co/u3RwcWXaNB",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [
+      {
+        "iconName": "IconBriefcaseStroke",
+        "id": 934,
+        "name": "Social Media Influencer"
+      }
+    ],
+    "professionalType": "Creator",
+    "restId": "1575902878706941952"
+  },
+  "profileImageShape": "Circle",
+  "restId": "2542348724",
+  "superFollowEligible": true,
+  "tipjarSettings": {}
+}

@@ -1,0 +1,62 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxOTc4NTMyNTIwMjI5NTQzOTM2",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": false,
+    "canMediaTag": true,
+    "createdAt": "Wed Oct 15 18:45:52 +0000 2025",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "First memecoin launched on x402. Inspired by the \"ping\" network administration software. No utility, no financial advice, pure early adopter $PING vibes 🏝️",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "dexscreener.com/base/0x98c8f03…",
+            "expanded_url": "https://dexscreener.com/base/0x98c8f03094a9e65ccedc14c40130e4a5dd0ce14fb12ea58cbeac11f662b458b9",
+            "url": "https://t.co/5QQ3JY9Hhu",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 333,
+    "followersCount": 16666,
+    "following": true,
+    "friendsCount": 136,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 107,
+    "location": "Base",
+    "mediaCount": 51,
+    "name": "ping.observer",
+    "normalFollowersCount": 16666,
+    "pinnedTweetIdsStr": [
+      "1993988628935033169"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1978532520229543936/1760556600",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1978542358661619713/caUAszB8_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "pingobserver",
+    "statusesCount": 227,
+    "translatorType": "none",
+    "url": "https://t.co/5QQ3JY9Hhu",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "profileImageShape": "Circle",
+  "restId": "1978532520229543936",
+  "tipjarSettings": {}
+}

@@ -1,0 +1,73 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {
+    "label": {
+      "url": {
+        "url": "https://twitter.com/dango",
+        "urlType": "DeepLink"
+      },
+      "badge": {
+        "url": "https://pbs.twimg.com/profile_images/1940431337912971264/h2G3EAC1_bigger.jpg"
+      },
+      "description": "dango🍡",
+      "userLabelType": "BusinessLabel",
+      "userLabelDisplayType": "Badge"
+    }
+  },
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxMTM0MTUxMzU1Nzc2NTg1NzI5",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Thu May 30 17:35:29 +0000 2019",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "Founder at @dango",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "dango.exchange",
+            "expanded_url": "https://dango.exchange/",
+            "url": "https://t.co/eyuymiCwqv",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 119950,
+    "followersCount": 39809,
+    "following": true,
+    "friendsCount": 2088,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 654,
+    "location": "",
+    "mediaCount": 2471,
+    "name": "Larry Engineer 🍡",
+    "normalFollowersCount": 39809,
+    "pinnedTweetIdsStr": [],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1134151355776585729/1753197113",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1925558454699110401/_a21WPgv_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "larry0x",
+    "statusesCount": 20855,
+    "translatorType": "none",
+    "url": "https://t.co/eyuymiCwqv",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "profileImageShape": "Circle",
+  "restId": "1134151355776585729",
+  "tipjarSettings": {}
+}

@@ -1,0 +1,92 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjo1NTU2MzQ3NDA=",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Tue Apr 17 00:56:17 +0000 2012",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "只是个搬砖的，偶尔恰饭\n不奢求，不浪费\nGlassNode 重度使用者\n没有群也不收费，所有分析回答均不构成投资建议\n近3亿用户共同选择Binance：https://t.co/JukzSnpfwD\nCrypto入口OKX就够了：https://t.co/vPOAfIjmpB\n做有温度的Bitget：https://t.co/VZ8RxZe5N7",
+    "entities": {
+      "description": {
+        "urls": [
+          {
+            "display_url": "Binance.com",
+            "expanded_url": "http://Binance.com",
+            "url": "https://t.co/JukzSnpfwD",
+            "indices": [
+              76,
+              99
+            ]
+          },
+          {
+            "display_url": "okx.com",
+            "expanded_url": "http://okx.com",
+            "url": "https://t.co/vPOAfIjmpB",
+            "indices": [
+              115,
+              138
+            ]
+          },
+          {
+            "display_url": "Bitget.com",
+            "expanded_url": "http://Bitget.com",
+            "url": "https://t.co/VZ8RxZe5N7",
+            "indices": [
+              151,
+              174
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 117344,
+    "followersCount": 366319,
+    "following": true,
+    "friendsCount": 5430,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 5166,
+    "location": "4XLABS 辅导全球Web3项目落地华语市场",
+    "mediaCount": 15884,
+    "name": "Phyrex",
+    "normalFollowersCount": 366319,
+    "pinnedTweetIdsStr": [
+      "1998628295202484579"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/555634740/1747377528",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1596374669824696320/MGne6qLH_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "Phyrex_Ni",
+    "statusesCount": 249572,
+    "translatorType": "none",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [
+      {
+        "iconName": "IconBriefcaseStroke",
+        "id": 192,
+        "name": "Financial Services"
+      }
+    ],
+    "professionalType": "Creator",
+    "restId": "1462369876400644097"
+  },
+  "profileImageShape": "Circle",
+  "restId": "555634740",
+  "superFollowEligible": true,
+  "tipjarSettings": {
+    "bitcoinHandle": "39P5Jx48P4y9td6LaNmyAxqSTj2nQ1DMDX",
+    "ethereumHandle": "0xdDa424d9bB3140bE68b0AAadCaf7CADf7c36A046",
+    "isEnabled": true
+  }
+}

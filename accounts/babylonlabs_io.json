@@ -1,0 +1,74 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNTU4NzMxNzIzMjQzODEwODE2",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Sun Aug 14 08:27:39 +0000 2022",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "Making Bitcoin Productive. Trustlessly. Now.",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "linktr.ee/babylonlabs",
+            "expanded_url": "https://linktr.ee/babylonlabs",
+            "url": "https://t.co/Lsj16Hycw3",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 3831,
+    "followersCount": 445810,
+    "following": true,
+    "friendsCount": 255,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 1343,
+    "location": "RT ≠ endorsement",
+    "mediaCount": 1356,
+    "name": "Babylon",
+    "normalFollowersCount": 445810,
+    "pinnedTweetIdsStr": [
+      "1996161811167760610"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1558731723243810816/1763155864",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1998503728303779840/LwGCRt3m_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "babylonlabs_io",
+    "statusesCount": 4335,
+    "translatorType": "none",
+    "url": "https://t.co/Lsj16Hycw3",
+    "verified": false,
+    "verifiedType": "Business",
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [
+      {
+        "iconName": "IconBriefcaseStroke",
+        "id": 713,
+        "name": "Science & Technology"
+      }
+    ],
+    "professionalType": "Business",
+    "restId": "1617642875378110466"
+  },
+  "profileImageShape": "Square",
+  "restId": "1558731723243810816",
+  "tipjarSettings": {}
+}

@@ -1,0 +1,59 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjo5NTAyMzE3Mzc1MTgzMjE2NjY=",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Mon Jan 08 05:04:35 +0000 2018",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "Founder of @LD_Capital (Liquid Capital)，Build @Trend_Research_ ,  2015-BTC/ETH",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "ldcap.com",
+            "expanded_url": "http://www.ldcap.com",
+            "url": "https://t.co/GeOP4bng67",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 402,
+    "followersCount": 37877,
+    "following": true,
+    "friendsCount": 711,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 690,
+    "location": "Hong Kong",
+    "mediaCount": 43,
+    "name": "JackYi",
+    "normalFollowersCount": 37877,
+    "pinnedTweetIdsStr": [],
+    "possiblySensitive": false,
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1688806729675689984/7SGFia9C_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "Jackyi_ld",
+    "statusesCount": 567,
+    "translatorType": "none",
+    "url": "https://t.co/GeOP4bng67",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "profileImageShape": "Circle",
+  "restId": "950231737518321666",
+  "tipjarSettings": {}
+}

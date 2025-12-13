@@ -1,0 +1,58 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjo0ODc2OTUwMQ==",
+  "isBlueVerified": false,
+  "legacy": {
+    "canDm": false,
+    "canMediaTag": false,
+    "createdAt": "Fri Jun 19 17:32:12 +0000 2009",
+    "defaultProfile": false,
+    "defaultProfileImage": false,
+    "description": "Trader, entrepreneur, geek, fake coder and real Scuderia Ferrari fan.",
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 528,
+    "followersCount": 14206,
+    "following": true,
+    "friendsCount": 152,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 314,
+    "location": "Melbourne",
+    "mediaCount": 2016,
+    "name": "felixhsu",
+    "normalFollowersCount": 14206,
+    "pinnedTweetIdsStr": [
+      "81593213223321600"
+    ],
+    "possiblySensitive": false,
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/427793871666302976/ni8mbSAZ_normal.jpeg",
+    "profileInterstitialType": "",
+    "screenName": "Felix_Hsu",
+    "statusesCount": 9769,
+    "translatorType": "none",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [
+      {
+        "iconName": "IconBriefcaseStroke",
+        "id": 192,
+        "name": "Financial Services"
+      }
+    ],
+    "professionalType": "Business",
+    "restId": "1689843162553225305"
+  },
+  "profileImageShape": "Circle",
+  "restId": "48769501",
+  "tipjarSettings": {}
+}

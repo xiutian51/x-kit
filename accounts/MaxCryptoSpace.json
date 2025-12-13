@@ -1,0 +1,86 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxMzI0MjI4ODM0MTA3OTUzMTU1",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Thu Nov 05 05:55:38 +0000 2020",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "Crypto YouTuber (https://t.co/YdSkRMjKyS) & Researcher｜Author of Taiwan’s #1 Crypto Newsletter\n\n最強加密出金卡 EtherFi：https://t.co/QZc7v91t5D",
+    "entities": {
+      "description": {
+        "urls": [
+          {
+            "display_url": "youtube.com/@maxcryptospace",
+            "expanded_url": "http://youtube.com/@maxcryptospace",
+            "url": "https://t.co/YdSkRMjKyS",
+            "indices": [
+              17,
+              40
+            ]
+          },
+          {
+            "display_url": "ether.fi/refer/2e4cc55b",
+            "expanded_url": "https://www.ether.fi/refer/2e4cc55b",
+            "url": "https://t.co/QZc7v91t5D",
+            "indices": [
+              112,
+              135
+            ]
+          }
+        ]
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "maxcrypto.space/subscribe",
+            "expanded_url": "https://www.maxcrypto.space/subscribe",
+            "url": "https://t.co/cgPUgk0LiD",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 2319,
+    "followersCount": 3194,
+    "following": true,
+    "friendsCount": 687,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 52,
+    "location": "Join 4.5k+ subscribers →",
+    "mediaCount": 328,
+    "name": "MasWooX｜Max 的區塊鏈空間",
+    "normalFollowersCount": 3194,
+    "pinnedTweetIdsStr": [
+      "1937355104014995773"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1324228834107953155/1687844718",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1605606060827750402/EJ3KBHYS_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "MaxCryptoSpace",
+    "statusesCount": 1827,
+    "translatorType": "none",
+    "url": "https://t.co/cgPUgk0LiD",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [],
+    "professionalType": "Creator",
+    "restId": "1605449663838294016"
+  },
+  "profileImageShape": "Circle",
+  "restId": "1324228834107953155",
+  "tipjarSettings": {}
+}

@@ -1,0 +1,81 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {
+    "label": {
+      "url": {
+        "url": "https://twitter.com/Uniswap",
+        "urlType": "DeepLink"
+      },
+      "badge": {
+        "url": "https://pbs.twimg.com/profile_images/1831348758753206272/y2Z0hMrl_bigger.jpg"
+      },
+      "description": "Uniswap Labs 🦄",
+      "userLabelType": "BusinessLabel",
+      "userLabelDisplayType": "Badge"
+    }
+  },
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjo3MDI2NTQ1NDAzODcxMjcyOTY=",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Thu Feb 25 00:41:11 +0000 2016",
+    "defaultProfile": false,
+    "defaultProfileImage": false,
+    "description": "Invented the Uniswap protocol, Founder @Uniswap",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "uniswap.org",
+            "expanded_url": "https://uniswap.org/",
+            "url": "https://t.co/AjUjSA2CZn",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 6227,
+    "followersCount": 326847,
+    "following": true,
+    "friendsCount": 636,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 5029,
+    "location": "Ethereum",
+    "mediaCount": 612,
+    "name": "Hayden Adams 🦄",
+    "normalFollowersCount": 326847,
+    "pinnedTweetIdsStr": [],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/702654540387127296/1627957891",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1988767491254857728/ISVZrouR_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "haydenzadams",
+    "statusesCount": 7364,
+    "translatorType": "none",
+    "url": "https://t.co/AjUjSA2CZn",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [],
+    "professionalType": "Creator",
+    "restId": "1465791281905520640"
+  },
+  "profileImageShape": "Circle",
+  "restId": "702654540387127296",
+  "tipjarSettings": {
+    "ethereumHandle": "0x11E4857Bb9993a50c685A79AFad4E6F65D518DDa",
+    "isEnabled": true
+  }
+}

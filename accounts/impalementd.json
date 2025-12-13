@@ -1,0 +1,76 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjozNDYxODE5NTMz",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": false,
+    "createdAt": "Sat Sep 05 17:54:35 +0000 2015",
+    "defaultProfile": false,
+    "defaultProfileImage": false,
+    "description": "Saying korean trends┃Clipping 🇰🇷┃@WolvesDAO┃ex Gaming Journalist┃Built 110k+ follower based on Naver",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "t.me/NousKr",
+            "expanded_url": "http://t.me/NousKr",
+            "url": "https://t.co/A0kB1aEqbJ",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 20464,
+    "followersCount": 9491,
+    "following": true,
+    "friendsCount": 1435,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 125,
+    "location": "",
+    "mediaCount": 4578,
+    "name": "1mpal",
+    "normalFollowersCount": 9491,
+    "pinnedTweetIdsStr": [
+      "1874147546467295403"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/3461819533/1764796083",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1994270949303308288/OnHPBQsz_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "impalementd",
+    "statusesCount": 17210,
+    "translatorType": "none",
+    "url": "https://t.co/A0kB1aEqbJ",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [
+      {
+        "iconName": "IconBriefcaseStroke",
+        "id": 955,
+        "name": "Journalist"
+      }
+    ],
+    "professionalType": "Creator",
+    "restId": "1510747802032558083"
+  },
+  "profileImageShape": "Circle",
+  "restId": "3461819533",
+  "tipjarSettings": {
+    "ethereumHandle": "0xb1874da9a07be98c698fda4b9977f30436f03ef5",
+    "isEnabled": true
+  }
+}

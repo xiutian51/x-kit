@@ -1,0 +1,76 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNDc4NDA0MzY5ODc5OTUzNDA4",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Tue Jan 04 16:34:17 +0000 2022",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "记录生活，分享偏见。#猩球 社区👇",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "t.me/APEGEGE",
+            "expanded_url": "https://t.me/APEGEGE",
+            "url": "https://t.co/XRennSJyal",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 7672,
+    "followersCount": 24437,
+    "following": true,
+    "friendsCount": 1293,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 466,
+    "location": "上海",
+    "mediaCount": 2156,
+    "name": "Meta 猿 🦍",
+    "normalFollowersCount": 24437,
+    "pinnedTweetIdsStr": [
+      "1902039437305168011"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1478404369879953408/1728563462",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1959964162676883456/EJIg0d9g_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "Metabape",
+    "statusesCount": 19524,
+    "translatorType": "none",
+    "url": "https://t.co/XRennSJyal",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [
+      {
+        "iconName": "IconBriefcaseStroke",
+        "id": 958,
+        "name": "Entrepreneur"
+      }
+    ],
+    "professionalType": "Business",
+    "restId": "1630850009498533888"
+  },
+  "profileImageShape": "Circle",
+  "restId": "1478404369879953408",
+  "tipjarSettings": {
+    "ethereumHandle": "0x1BFC9A53345EC9aBb362Eb9d5953e7689acE1cd3",
+    "isEnabled": true
+  }
+}

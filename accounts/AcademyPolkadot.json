@@ -1,0 +1,87 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {
+    "label": {
+      "url": {
+        "url": "https://twitter.com/Polkadot",
+        "urlType": "DeepLink"
+      },
+      "badge": {
+        "url": "https://pbs.twimg.com/profile_images/1944665239502323712/0FMaAZ31_bigger.jpg"
+      },
+      "description": "Polkadot",
+      "userLabelType": "BusinessLabel",
+      "userLabelDisplayType": "Badge"
+    }
+  },
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNTk5NzMzOTM4NjQ5NDU2NjQx",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Mon Dec 05 11:55:05 +0000 2022",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "Join a global Web3 community! 🚀 World-class blockchain education by Polkadot leaders. Empowering builders for a decentralized future. #PBA",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "polkadot.academy",
+            "expanded_url": "https://polkadot.academy/",
+            "url": "https://t.co/xU84az9ORQ",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 4727,
+    "followersCount": 9693,
+    "following": true,
+    "friendsCount": 216,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 97,
+    "location": "",
+    "mediaCount": 951,
+    "name": "Polkadot Blockchain Academy",
+    "normalFollowersCount": 9693,
+    "pinnedTweetIdsStr": [
+      "1996684286800310614"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1599733938649456641/1756131000",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1867204415733530624/MmPlKc9K_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "AcademyPolkadot",
+    "statusesCount": 2213,
+    "translatorType": "none",
+    "url": "https://t.co/xU84az9ORQ",
+    "verified": false,
+    "verifiedType": "Business",
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [
+      {
+        "iconName": "IconBriefcaseStroke",
+        "id": 144,
+        "name": "Education"
+      }
+    ],
+    "professionalType": "Creator",
+    "restId": "1694027549293064396"
+  },
+  "profileImageShape": "Square",
+  "restId": "1599733938649456641",
+  "tipjarSettings": {}
+}

@@ -1,0 +1,95 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjo5Njc3NzIxMDM5MTgyODQ4MDI=",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Sun Feb 25 14:43:44 +0000 2018",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "猫本8年穿越牛熊Trader,杰尼社区创始人\n微信Jieni177\nQ群217346456\n电报群https://t.co/pbirntl05Z\n商务联系TG@Edward1886\n近3亿用户的共同选择，出入金安全，启程Web3，就在币安：\n币安20%返佣https://t.co/DkcY3NrsDo  码JN188\n#Binance",
+    "entities": {
+      "description": {
+        "urls": [
+          {
+            "display_url": "t.me/Jienibaby",
+            "expanded_url": "http://t.me/Jienibaby",
+            "url": "https://t.co/pbirntl05Z",
+            "indices": [
+              49,
+              72
+            ]
+          },
+          {
+            "display_url": "bit.ly/BNB188",
+            "expanded_url": "http://bit.ly/BNB188",
+            "url": "https://t.co/DkcY3NrsDo",
+            "indices": [
+              128,
+              151
+            ]
+          }
+        ]
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "linktr.ee/Meta588",
+            "expanded_url": "https://linktr.ee/Meta588",
+            "url": "https://t.co/7FkLwYc0CA",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 1586,
+    "followersCount": 100866,
+    "following": true,
+    "friendsCount": 2930,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 1254,
+    "location": "Melbourne, Victoria",
+    "mediaCount": 10696,
+    "name": "机灵的杰尼君🔶BNB",
+    "normalFollowersCount": 100866,
+    "pinnedTweetIdsStr": [
+      "1966494498768220630"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/967772103918284802/1650813565",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1530002268334223360/lwFqoY3E_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "Meta8Mate",
+    "statusesCount": 30095,
+    "translatorType": "none",
+    "url": "https://t.co/7FkLwYc0CA",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [
+      {
+        "iconName": "IconBriefcaseStroke",
+        "id": 192,
+        "name": "Financial Services"
+      }
+    ],
+    "professionalType": "Creator",
+    "restId": "1484314716873031680"
+  },
+  "profileImageShape": "Circle",
+  "restId": "967772103918284802",
+  "tipjarSettings": {
+    "ethereumHandle": "0xac706EF4BA6fB3477d86ea9e19Df2AF96d13A2d4",
+    "isEnabled": true
+  }
+}

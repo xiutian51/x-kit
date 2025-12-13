@@ -1,0 +1,62 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxMTA5NTMzOTYzMzc3NDM0NjI3",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Sat Mar 23 19:14:45 +0000 2019",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "Market Watcher 👀 || Community Analyst @cryptoquant_com 🏆 || Quoted by CNBC, Bloomberg 📰",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "linktr.ee/JA_Maartun",
+            "expanded_url": "https://linktr.ee/JA_Maartun",
+            "url": "https://t.co/AyHWt6b07O",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 19738,
+    "followersCount": 46587,
+    "following": true,
+    "friendsCount": 943,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 1062,
+    "location": "Nederland",
+    "mediaCount": 4737,
+    "name": "Maartunn",
+    "normalFollowersCount": 46587,
+    "pinnedTweetIdsStr": [
+      "1998393208825602221"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1109533963377434627/1668089126",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1585951872275415040/XMXK3bXW_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "JA_Maartun",
+    "statusesCount": 11412,
+    "translatorType": "none",
+    "url": "https://t.co/AyHWt6b07O",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "profileImageShape": "Circle",
+  "restId": "1109533963377434627",
+  "tipjarSettings": {}
+}

@@ -1,0 +1,83 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNDkzNjA1MDk4MjY1OTMxNzc3",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Tue Feb 15 15:16:32 +0000 2022",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "web3 Investor｜tg：A981139｜OKX Web3钱包一个就够https://t.co/lXJbU1Md1l｜#Binance 你的数字货币购买/交易平台👉 ：https://t.co/6ro6g4TpWJ",
+    "entities": {
+      "description": {
+        "urls": [
+          {
+            "display_url": "ouxyi.link/ul/6CngT5?chan…",
+            "expanded_url": "https://www.ouxyi.link/ul/6CngT5?channelId=17598019",
+            "url": "https://t.co/lXJbU1Md1l",
+            "indices": [
+              39,
+              62
+            ]
+          },
+          {
+            "display_url": "binance.info/join?ref=44356…",
+            "expanded_url": "https://www.binance.info/join?ref=443568634",
+            "url": "https://t.co/6ro6g4TpWJ",
+            "indices": [
+              88,
+              111
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 16175,
+    "followersCount": 74396,
+    "following": true,
+    "friendsCount": 1182,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 259,
+    "location": "Japan",
+    "mediaCount": 2145,
+    "name": "尤可欣Isadora",
+    "normalFollowersCount": 74396,
+    "pinnedTweetIdsStr": [
+      "1877206203287171558"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1493605098265931777/1644938518",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1974769851584675840/WTw1mfNq_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "isadora288881",
+    "statusesCount": 29866,
+    "translatorType": "none",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [
+      {
+        "iconName": "IconBriefcaseStroke",
+        "id": 192,
+        "name": "Financial Services"
+      }
+    ],
+    "professionalType": "Business",
+    "restId": "1538019646523076611"
+  },
+  "profileImageShape": "Circle",
+  "restId": "1493605098265931777",
+  "superFollowEligible": true,
+  "tipjarSettings": {
+    "bitcoinHandle": "3NPnawZ7MNQVFB8oU1aWiyWSAHPdcbJE7S",
+    "ethereumHandle": "0x12891aB2bee40E2c95058d8c2005C6CeAC0B3735",
+    "isEnabled": true
+  }
+}

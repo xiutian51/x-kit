@@ -1,0 +1,90 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {
+    "label": {
+      "url": {
+        "url": "https://twitter.com/masknetwork",
+        "urlType": "DeepLink"
+      },
+      "badge": {
+        "url": "https://pbs.twimg.com/profile_images/1742603812932575232/_nC2nYOC_bigger.jpg"
+      },
+      "description": "Mask Network (mask.io)",
+      "userLabelType": "BusinessLabel",
+      "userLabelDisplayType": "Badge"
+    }
+  },
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjo2MzU2ODI3NDk=",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Sat Jul 14 21:54:18 +0000 2012",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "founder of @masknetwork / @thefireflyapp 💜🔥🎭🐦 Maintain some fediverse instances sujiyan.eth NFA DYOR",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "web3.bio/sujiyan.eth",
+            "expanded_url": "http://web3.bio/sujiyan.eth",
+            "url": "https://t.co/sDE7I8zmPK",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 53331,
+    "followersCount": 33854,
+    "following": true,
+    "friendsCount": 5566,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 620,
+    "location": "Cyberspace",
+    "mediaCount": 1292,
+    "name": "Suji Yan 💜🔥🎭",
+    "normalFollowersCount": 33854,
+    "pinnedTweetIdsStr": [],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/635682749/1667624958",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1893512782584168448/-D6eX9i8_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "suji_yan",
+    "statusesCount": 21338,
+    "translatorType": "none",
+    "url": "https://t.co/sDE7I8zmPK",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [
+      {
+        "iconName": "IconBriefcaseStroke",
+        "id": 958,
+        "name": "Entrepreneur"
+      }
+    ],
+    "professionalType": "Creator",
+    "restId": "1484230645974913024"
+  },
+  "profileImageShape": "Circle",
+  "restId": "635682749",
+  "superFollowEligible": true,
+  "tipjarSettings": {
+    "bitcoinHandle": "3HGDdf9ptTPNaY7C53gREMUnUsUVUoqm8G",
+    "cashAppHandle": "$SujiYan",
+    "ethereumHandle": "0x7cbba07e31dc7b12bb69a1209c5b11a8ac50acf5",
+    "isEnabled": true
+  }
+}

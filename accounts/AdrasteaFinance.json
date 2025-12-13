@@ -1,0 +1,62 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNzAyNDI0NDYxODg1MDE0MDE2",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Thu Sep 14 20:50:13 +0000 2023",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "Enterprise-grade @Solana infrastructure",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "adrastea.fi",
+            "expanded_url": "http://adrastea.fi",
+            "url": "https://t.co/HqeRMqaA23",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 2816,
+    "followersCount": 10623,
+    "following": true,
+    "friendsCount": 41,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 94,
+    "location": "",
+    "mediaCount": 1721,
+    "name": "ADRA",
+    "normalFollowersCount": 10623,
+    "pinnedTweetIdsStr": [
+      "1996528081419526631"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1702424461885014016/1764605472",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1734608542622236672/PzSwqj4J_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "AdrasteaFinance",
+    "statusesCount": 2606,
+    "translatorType": "none",
+    "url": "https://t.co/HqeRMqaA23",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "profileImageShape": "Circle",
+  "restId": "1702424461885014016",
+  "tipjarSettings": {}
+}

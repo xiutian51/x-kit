@@ -1,0 +1,83 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNjY1NzA2NDU5Mjc0MDMxMTA0",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Mon Jun 05 13:05:48 +0000 2023",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "🤖🤖Crypto Intelligence Network\n🚀🚀Invested by @BinanceLabs\n💫💫@SolanaFndn (MCM) Grantee\n🔑 🔑Explore $GPT on @okx | https://t.co/YSFF1kOc54",
+    "entities": {
+      "description": {
+        "urls": [
+          {
+            "display_url": "okx.com/price/qna3-ai-…",
+            "expanded_url": "https://www.okx.com/price/qna3-ai-gpt",
+            "url": "https://t.co/YSFF1kOc54",
+            "indices": [
+              111,
+              134
+            ]
+          }
+        ]
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "qna3.ai",
+            "expanded_url": "https://qna3.ai",
+            "url": "https://t.co/KG9zYPmt4Q",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 538,
+    "followersCount": 106350,
+    "following": true,
+    "friendsCount": 24,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 203,
+    "location": "Global",
+    "mediaCount": 315,
+    "name": "QnA3.AI",
+    "normalFollowersCount": 106350,
+    "pinnedTweetIdsStr": [
+      "1828449665492353150"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1665706459274031104/1711018681",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1770767583848861697/bOMENFMp_normal.png",
+    "profileInterstitialType": "",
+    "screenName": "qnaweb3",
+    "statusesCount": 748,
+    "translatorType": "none",
+    "url": "https://t.co/KG9zYPmt4Q",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [
+      {
+        "iconName": "IconBriefcaseStroke",
+        "id": 713,
+        "name": "Science & Technology"
+      }
+    ],
+    "professionalType": "Business",
+    "restId": "1684428834060521474"
+  },
+  "profileImageShape": "Circle",
+  "restId": "1665706459274031104",
+  "tipjarSettings": {}
+}

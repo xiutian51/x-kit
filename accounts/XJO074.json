@@ -1,0 +1,52 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjo2OTI1ODQy",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": false,
+    "createdAt": "Tue Jun 19 12:12:42 +0000 2007",
+    "defaultProfile": false,
+    "defaultProfileImage": false,
+    "description": "喜歡研究與分析的業餘金融占星玩家，BITGET邀請碼tazt",
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 2867,
+    "followersCount": 5383,
+    "following": true,
+    "friendsCount": 712,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 75,
+    "location": "台灣",
+    "mediaCount": 1042,
+    "name": "荷包蛋",
+    "normalFollowersCount": 5383,
+    "pinnedTweetIdsStr": [
+      "1992155102870933692"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/6925842/1746069971",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1917782313154535426/eAKtfNaC_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "XJO074",
+    "statusesCount": 6444,
+    "translatorType": "none",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "profileImageShape": "Circle",
+  "restId": "6925842",
+  "tipjarSettings": {
+    "bitcoinHandle": "1DGKUMZ4GpLDP73vDtTf3CrgtUYc5JGvKg",
+    "ethereumHandle": "0xB0dC582B82140d288aEe83b043c1a79057B6213E",
+    "isEnabled": true
+  }
+}

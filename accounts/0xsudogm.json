@@ -1,0 +1,71 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {
+    "label": {
+      "url": {
+        "url": "https://twitter.com/dragonfly_xyz",
+        "urlType": "DeepLink"
+      },
+      "badge": {
+        "url": "https://pbs.twimg.com/profile_images/1559161186658271232/yRlWnnm8_bigger.jpg"
+      },
+      "description": "Dragonfly ＞|＜",
+      "userLabelType": "BusinessLabel",
+      "userLabelDisplayType": "Badge"
+    }
+  },
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjo5MDkzMjExOTM3MDE4ODM5MDQ=",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": false,
+    "createdAt": "Sun Sep 17 07:40:41 +0000 2017",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "investing @dragonfly_xyz //https://t.co/933lWnjuvR //Ex: Engineer @chainlink",
+    "entities": {
+      "description": {
+        "urls": [
+          {
+            "display_url": "MEV.wtf",
+            "expanded_url": "http://MEV.wtf",
+            "url": "https://t.co/933lWnjuvR",
+            "indices": [
+              27,
+              50
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 19786,
+    "followersCount": 17622,
+    "following": true,
+    "friendsCount": 3295,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 439,
+    "location": "",
+    "mediaCount": 663,
+    "name": "GM ＞|＜",
+    "normalFollowersCount": 17622,
+    "pinnedTweetIdsStr": [
+      "1863182120900088046"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/909321193701883904/1632756155",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1928100215938240513/45JQMPSB_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "0xsudogm",
+    "statusesCount": 2948,
+    "translatorType": "none",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "profileImageShape": "Circle",
+  "restId": "909321193701883904",
+  "tipjarSettings": {}
+}

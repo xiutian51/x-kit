@@ -1,0 +1,60 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxMzc3NjM3MDA5ODcxNzk4Mjc3",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": false,
+    "createdAt": "Thu Apr 01 15:00:44 +0000 2021",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "香港流动性社区，专注于defi、套利及其他的earn，主要进社区的方式是老带新，您可以和你身边本末群友充分了解后，再考虑让他介绍您进社区。 其他合作找里里老师@Riconomi",
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 913,
+    "followersCount": 92090,
+    "following": true,
+    "friendsCount": 1751,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 1998,
+    "location": "The Earth, Moon & Mars",
+    "mediaCount": 352,
+    "name": "benmo.eth",
+    "normalFollowersCount": 92090,
+    "pinnedTweetIdsStr": [],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1377637009871798277/1623342238",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1771547450467340288/_heCcJFw_normal.jpg",
+    "profileInterstitialType": "",
+    "_protected": true,
+    "screenName": "Super4DeFi",
+    "statusesCount": 4486,
+    "translatorType": "none",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [
+      {
+        "iconName": "IconBriefcaseStroke",
+        "id": 713,
+        "name": "Science & Technology"
+      }
+    ],
+    "professionalType": "Creator",
+    "restId": "1519109572127903745"
+  },
+  "profileImageShape": "Circle",
+  "restId": "1377637009871798277",
+  "tipjarSettings": {
+    "isEnabled": true
+  }
+}

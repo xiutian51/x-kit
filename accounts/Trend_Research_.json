@@ -1,0 +1,48 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNDYxNjE0MjMwNzI2MTMxNzE0",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": false,
+    "canMediaTag": true,
+    "createdAt": "Fri Nov 19 08:36:14 +0000 2021",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "An active investment firm specializing in secondary markets, identifying potential projects via systematic analysis, active strategies to enhance value & scale.",
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 156,
+    "followersCount": 10093,
+    "following": true,
+    "friendsCount": 112,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 134,
+    "location": "HK",
+    "mediaCount": 54,
+    "name": "Trend Research",
+    "normalFollowersCount": 10093,
+    "pinnedTweetIdsStr": [
+      "1947145797881204959"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1461614230726131714/1740978502",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1896427398423527424/RqPDWTs8_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "Trend_Research_",
+    "statusesCount": 270,
+    "translatorType": "none",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "profileImageShape": "Circle",
+  "restId": "1461614230726131714",
+  "tipjarSettings": {}
+}

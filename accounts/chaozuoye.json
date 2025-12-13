@@ -1,0 +1,72 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxMjI0MDY2NDAyODc0NjE3ODU2",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": false,
+    "createdAt": "Sun Feb 02 20:25:55 +0000 2020",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "不是KOL ,公众号理财博主（已封）喂饭级博主｜\nbuild @grvt_io @StandX_Official｜\nTG: @chaozuoye｜\nOKX Web3钱包现已支持130+公链\n提供钱包、多链 Swap、NFT 市场、DeFi 挖矿一站式服务 \n#web3入口 一个就够 https://t.co/mb4fnWyLJ3",
+    "entities": {
+      "description": {
+        "urls": [
+          {
+            "display_url": "okx.com/join/ZUOYE",
+            "expanded_url": "http://okx.com/join/ZUOYE",
+            "url": "https://t.co/mb4fnWyLJ3",
+            "indices": [
+              142,
+              165
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 17233,
+    "followersCount": 53641,
+    "following": true,
+    "friendsCount": 2968,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 798,
+    "location": "",
+    "mediaCount": 2385,
+    "name": "作业借你抄",
+    "normalFollowersCount": 53641,
+    "pinnedTweetIdsStr": [
+      "1945368762942939293"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1224066402874617856/1748546529",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1646523340264448008/KQm44dbS_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "chaozuoye",
+    "statusesCount": 16675,
+    "translatorType": "none",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [
+      {
+        "iconName": "IconBriefcaseStroke",
+        "id": 192,
+        "name": "Financial Services"
+      }
+    ],
+    "professionalType": "Creator",
+    "restId": "1486913331545866240"
+  },
+  "profileImageShape": "Circle",
+  "restId": "1224066402874617856",
+  "tipjarSettings": {
+    "ethereumHandle": "0x9442E251f839EF877266E956B34D4930697D9F81",
+    "isEnabled": false
+  }
+}

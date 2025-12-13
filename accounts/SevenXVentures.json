@@ -1,0 +1,60 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxMzMyMjEzMDAzNTU5NjYxNTY5",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Fri Nov 27 06:42:12 +0000 2020",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "Unearthing, cultivating, and investing in the blockchain frontier through pioneering research with SevenX.",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "7xvc.com",
+            "expanded_url": "http://www.7xvc.com",
+            "url": "https://t.co/nTaf9fduge",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 202,
+    "followersCount": 35581,
+    "following": true,
+    "friendsCount": 342,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 311,
+    "location": "Metaverse",
+    "mediaCount": 208,
+    "name": "SevenX Ventures",
+    "normalFollowersCount": 35581,
+    "pinnedTweetIdsStr": [],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1332213003559661569/1716171616",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1715315244128747520/ftqy2U3__normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "SevenXVentures",
+    "statusesCount": 786,
+    "translatorType": "none",
+    "url": "https://t.co/nTaf9fduge",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "profileImageShape": "Circle",
+  "restId": "1332213003559661569",
+  "tipjarSettings": {}
+}

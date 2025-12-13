@@ -1,0 +1,50 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxMzU3OTUzMTYyODIxMjY3NDYy",
+  "isBlueVerified": false,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Sat Feb 06 07:24:06 +0000 2021",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "$ORDI $ATOM 长期持有者",
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 1630,
+    "followersCount": 18258,
+    "following": true,
+    "friendsCount": 779,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 552,
+    "location": "",
+    "mediaCount": 255,
+    "name": "白菜 ⚛️",
+    "normalFollowersCount": 18258,
+    "pinnedTweetIdsStr": [],
+    "possiblySensitive": false,
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1774313857051475969/UXe5vbLk_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "Ca1aba93",
+    "statusesCount": 2705,
+    "translatorType": "none",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [],
+    "professionalType": "Business",
+    "restId": "1660483711014686720"
+  },
+  "profileImageShape": "Circle",
+  "restId": "1357953162821267462",
+  "tipjarSettings": {}
+}

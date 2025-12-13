@@ -1,0 +1,83 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjo0NTkzODEx",
+  "isBlueVerified": false,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": false,
+    "createdAt": "Sat Apr 14 11:43:54 +0000 2007",
+    "defaultProfile": false,
+    "defaultProfileImage": false,
+    "description": "Jason Yin (殷建松-校园VC), Campus VC Founder and Angel investor in Beijing, https://t.co/8Y4SSdsRJs",
+    "entities": {
+      "description": {
+        "urls": [
+          {
+            "display_url": "me.xiaoyuanvc.com",
+            "expanded_url": "http://me.xiaoyuanvc.com/",
+            "url": "https://t.co/8Y4SSdsRJs",
+            "indices": [
+              71,
+              94
+            ]
+          }
+        ]
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "xiaoyuanvc.com",
+            "expanded_url": "http://www.xiaoyuanvc.com",
+            "url": "https://t.co/ZMt2v7A6fJ",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 829,
+    "followedBy": true,
+    "followersCount": 507,
+    "following": true,
+    "friendsCount": 5907,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 9,
+    "location": "Beijing",
+    "mediaCount": 11,
+    "name": "Jason Yin - Campus VC",
+    "normalFollowersCount": 507,
+    "pinnedTweetIdsStr": [
+      "1956629482854392151"
+    ],
+    "possiblySensitive": false,
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1378294150278209539/8OETll6m_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "jasonyin",
+    "statusesCount": 226,
+    "translatorType": "none",
+    "url": "https://t.co/ZMt2v7A6fJ",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [
+      {
+        "iconName": "IconBriefcaseStroke",
+        "id": 958,
+        "name": "Entrepreneur"
+      }
+    ],
+    "professionalType": "Business",
+    "restId": "1525301742790795264"
+  },
+  "profileImageShape": "Circle",
+  "restId": "4593811",
+  "tipjarSettings": {}
+}

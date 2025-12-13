@@ -1,0 +1,75 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {
+    "label": {
+      "url": {
+        "url": "https://twitter.com/paradigm",
+        "urlType": "DeepLink"
+      },
+      "badge": {
+        "url": "https://pbs.twimg.com/profile_images/1833567202458669058/vA9KidqD_bigger.jpg"
+      },
+      "description": "Paradigm",
+      "userLabelType": "BusinessLabel",
+      "userLabelDisplayType": "Badge"
+    }
+  },
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjo4MDQwMjkyMDAzMTUzMzQ2NTY=",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Wed Nov 30 18:27:54 +0000 2016",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "very greek accent. general partner & cto @paradigm. eng lead @tempo. optimist and rustacean 🦀 // team lead of reth, foundry, alloy. join us.",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "gakonst.com",
+            "expanded_url": "https://gakonst.com",
+            "url": "https://t.co/RWNX8fz2K9",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 75127,
+    "followersCount": 147896,
+    "following": true,
+    "friendsCount": 2267,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 2570,
+    "location": "",
+    "mediaCount": 1355,
+    "name": "Georgios Konstantopoulos",
+    "normalFollowersCount": 147896,
+    "pinnedTweetIdsStr": [
+      "1998412828223615392"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/804029200315334656/1617694299",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1596214564470734849/1Tg5-gNh_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "gakonst",
+    "statusesCount": 21632,
+    "translatorType": "none",
+    "url": "https://t.co/RWNX8fz2K9",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "profileImageShape": "Circle",
+  "restId": "804029200315334656",
+  "tipjarSettings": {}
+}

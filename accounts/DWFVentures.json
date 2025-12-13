@@ -1,0 +1,81 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {
+    "label": {
+      "url": {
+        "url": "https://twitter.com/DWFLabs",
+        "urlType": "DeepLink"
+      },
+      "badge": {
+        "url": "https://pbs.twimg.com/profile_images/1578704446577840129/AYRr3eB7_bigger.jpg"
+      },
+      "description": "DWF Labs",
+      "userLabelType": "BusinessLabel",
+      "userLabelDisplayType": "Badge"
+    }
+  },
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNjU2NDkyMjQ0OTA2NzA4OTky",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Thu May 11 02:51:53 +0000 2023",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "not a fictional character but a financial character. \n\nWeb3 Venture Capital︱Managing Partner @ag_dwf \n\n☒NFA & DYOR✎",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "dwf-labs.com/ventures",
+            "expanded_url": "https://www.dwf-labs.com/ventures",
+            "url": "https://t.co/eINFIpBxTm",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 1167,
+    "followersCount": 24161,
+    "following": true,
+    "friendsCount": 29,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 264,
+    "location": "next alpha",
+    "mediaCount": 492,
+    "name": "DWF Ventures",
+    "normalFollowersCount": 24161,
+    "pinnedTweetIdsStr": [
+      "1994239857078751260"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1656492244906708992/1685117023",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1662019897512316929/RofngELV_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "DWFVentures",
+    "statusesCount": 1549,
+    "translatorType": "none",
+    "url": "https://t.co/eINFIpBxTm",
+    "verified": false,
+    "verifiedType": "Business",
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [],
+    "professionalType": "Creator",
+    "restId": "1662016801839149058"
+  },
+  "profileImageShape": "Square",
+  "restId": "1656492244906708992",
+  "tipjarSettings": {}
+}

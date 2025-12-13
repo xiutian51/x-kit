@@ -1,0 +1,85 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjozNzg5MTY0MjQ=",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Sat Sep 24 01:41:39 +0000 2011",
+    "defaultProfile": false,
+    "defaultProfileImage": false,
+    "description": "✰𝐁𝐥𝐮𝐞𝐜𝐡𝐢𝐩 𝐂𝐨𝐧𝐬𝐞𝐧𝐬𝐮𝐬 𝐁𝐮𝐢𝐥𝐝𝐞𝐫 @Trader_Program\n✰𝐋𝐢𝐪𝐮𝐢𝐝𝐢𝐭𝐲 𝐓𝐫𝐚𝐝𝐞𝐫 丨 波段/周内交易\n✰三无人员丨无收费无返佣无带单\n✰交易员计划🔗https://t.co/AhWSW5BkdC",
+    "entities": {
+      "description": {
+        "urls": [
+          {
+            "display_url": "bc-con.com",
+            "expanded_url": "https://www.bc-con.com",
+            "url": "https://t.co/AhWSW5BkdC",
+            "indices": [
+              95,
+              118
+            ]
+          }
+        ]
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "discord.gg/nbhc7jCQk2",
+            "expanded_url": "https://discord.gg/nbhc7jCQk2",
+            "url": "https://t.co/ul9ihr4nAb",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 28,
+    "followersCount": 6336,
+    "following": true,
+    "friendsCount": 152,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 99,
+    "location": "点击链接加入Discord报名👉",
+    "mediaCount": 995,
+    "name": "煙鬼𝗬𝗮𝗻-𝗚𝘂𝗶丨𝗧𝗿𝗮𝗱𝗲𝗿",
+    "normalFollowersCount": 6336,
+    "pinnedTweetIdsStr": [
+      "1991827561454985451"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/378916424/1763743607",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1962331601620381696/zxHGV75O_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "crypto_yan_gui",
+    "statusesCount": 1827,
+    "translatorType": "regular",
+    "url": "https://t.co/ul9ihr4nAb",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [
+      {
+        "iconName": "IconBriefcaseStroke",
+        "id": 414,
+        "name": "Chimney Sweeper"
+      }
+    ],
+    "professionalType": "Creator",
+    "restId": "1530118878100979713"
+  },
+  "profileImageShape": "Circle",
+  "restId": "378916424",
+  "tipjarSettings": {
+    "isEnabled": true
+  }
+}

@@ -1,0 +1,92 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxMzA4MTk2MzE3ODUyNjU1NjE4",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Tue Sep 22 00:08:36 +0000 2020",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "Universal privacy layer for crypto assets\n\nwIRON contract (Base): 0x166e70941262ae7cbf9df5c8897a6242c546457d\n\nhttps://t.co/NLpBnWoWTu | https://t.co/zZ72v3lowX",
+    "entities": {
+      "description": {
+        "urls": [
+          {
+            "display_url": "discord.ironfish.network",
+            "expanded_url": "http://discord.ironfish.network",
+            "url": "https://t.co/NLpBnWoWTu",
+            "indices": [
+              110,
+              133
+            ]
+          },
+          {
+            "display_url": "ironfish.network",
+            "expanded_url": "http://ironfish.network",
+            "url": "https://t.co/zZ72v3lowX",
+            "indices": [
+              136,
+              159
+            ]
+          }
+        ]
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "ironfish.network",
+            "expanded_url": "https://www.ironfish.network/",
+            "url": "https://t.co/hWMxOtWjfO",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 3196,
+    "followersCount": 40975,
+    "following": true,
+    "friendsCount": 223,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 445,
+    "location": "",
+    "mediaCount": 308,
+    "name": "Iron Fish",
+    "normalFollowersCount": 40975,
+    "pinnedTweetIdsStr": [
+      "1897748957721403602"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1308196317852655618/1614891929",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1367581984986296320/kxDDjheA_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "ironfishcrypto",
+    "statusesCount": 2272,
+    "translatorType": "none",
+    "url": "https://t.co/hWMxOtWjfO",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [
+      {
+        "iconName": "IconBriefcaseStroke",
+        "id": 713,
+        "name": "Science & Technology"
+      }
+    ],
+    "professionalType": "Business",
+    "restId": "1623011832964296705"
+  },
+  "profileImageShape": "Circle",
+  "restId": "1308196317852655618",
+  "tipjarSettings": {}
+}

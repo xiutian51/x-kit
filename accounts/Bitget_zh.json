@@ -1,0 +1,86 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {
+    "label": {
+      "url": {
+        "url": "https://twitter.com/bitget",
+        "urlType": "DeepLink"
+      },
+      "badge": {
+        "url": "https://pbs.twimg.com/profile_images/1974032533588250624/sMfy8bGo_bigger.jpg"
+      },
+      "description": "Bitget",
+      "userLabelType": "BusinessLabel",
+      "userLabelDisplayType": "Badge"
+    }
+  },
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNTk3MTU4OTQyNjY4MjI2NTYw",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Mon Nov 28 09:22:26 +0000 2022",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "全球最大的 UEX 全景交易所，优质资产一站式交易 #Bitget \nBitget VIP，费率更低，福利更狠！\n官方中文社群：https://t.co/WnPfdfyp1K",
+    "entities": {
+      "description": {
+        "urls": [
+          {
+            "display_url": "t.me/Bitget_CNOffic…",
+            "expanded_url": "https://t.me/Bitget_CNOfficial",
+            "url": "https://t.co/WnPfdfyp1K",
+            "indices": [
+              64,
+              87
+            ]
+          }
+        ]
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "partner.bitget.fit/bg/gsvbqfr6",
+            "expanded_url": "https://partner.bitget.fit/bg/gsvbqfr6",
+            "url": "https://t.co/K55RAh2G97",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 4999,
+    "followersCount": 102025,
+    "following": true,
+    "friendsCount": 595,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 411,
+    "location": "注册获20%手续费返还👉",
+    "mediaCount": 6138,
+    "name": "Bitget中文",
+    "normalFollowersCount": 102025,
+    "pinnedTweetIdsStr": [
+      "1998261937759719863"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1597158942668226560/1759509747",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1974153079474806784/5--tt6Dx_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "Bitget_zh",
+    "statusesCount": 10697,
+    "translatorType": "none",
+    "url": "https://t.co/K55RAh2G97",
+    "verified": false,
+    "verifiedType": "Business",
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "profileImageShape": "Square",
+  "restId": "1597158942668226560",
+  "tipjarSettings": {}
+}

@@ -1,0 +1,96 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjo3NDc4MzU4OTg5MTAzNTk1NTI=",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": false,
+    "createdAt": "Tue Jun 28 16:55:47 +0000 2016",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "16年进入加密货币行业，玄學奇门遁甲预测加密货币|命运的改变始于看见 🛎️ ｜TG：https://t.co/mYpb4t0ty4｜币安广场创作者|币安返佣：https://t.co/AlkjvJSGtf ｜商务合作DM",
+    "entities": {
+      "description": {
+        "urls": [
+          {
+            "display_url": "t.me/btcpiggy538",
+            "expanded_url": "https://t.me/btcpiggy538",
+            "url": "https://t.co/mYpb4t0ty4",
+            "indices": [
+              42,
+              65
+            ]
+          },
+          {
+            "display_url": "bmwweb.net/join?ref=L2EZS…",
+            "expanded_url": "https://www.bmwweb.net/join?ref=L2EZSYM5",
+            "url": "https://t.co/AlkjvJSGtf",
+            "indices": [
+              79,
+              102
+            ]
+          }
+        ]
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "discord.gg/aERJ3z59A2",
+            "expanded_url": "https://discord.gg/aERJ3z59A2",
+            "url": "https://t.co/jUlpniZSLh",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 94953,
+    "followersCount": 29786,
+    "following": true,
+    "friendsCount": 2595,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 329,
+    "location": "",
+    "mediaCount": 1925,
+    "name": "开挂的金兔子☯️🍊",
+    "normalFollowersCount": 29786,
+    "pinnedTweetIdsStr": [
+      "1923361552754999697"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/747835898910359552/1751573452",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1992068457035386880/tOKeDb8i_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "btcpiggy",
+    "statusesCount": 49555,
+    "translatorType": "none",
+    "url": "https://t.co/jUlpniZSLh",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [
+      {
+        "iconName": "IconBriefcaseStroke",
+        "id": 530,
+        "name": "Astrologist"
+      }
+    ],
+    "professionalType": "Creator",
+    "restId": "1499402939374338053"
+  },
+  "profileImageShape": "Circle",
+  "restId": "747835898910359552",
+  "tipjarSettings": {
+    "bitcoinHandle": "3NqTEUWe7yhvymS2KtHyfjU2bCfuzgRPvu",
+    "ethereumHandle": "0x633C0eD895cfFF11634778758605F482f815f5FF",
+    "isEnabled": true
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjo2MDM2MDY4MjA=",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Sat Jun 09 13:36:57 +0000 2012",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "人称币圈范冰冰  #Web3/#crypto @bitgetglobal Ambassador IG：https://t.co/MxxRxe0sHa",
+    "entities": {
+      "description": {
+        "urls": [
+          {
+            "display_url": "katt.song",
+            "expanded_url": "http://katt.song",
+            "url": "https://t.co/MxxRxe0sHa",
+            "indices": [
+              51,
+              74
+            ]
+          }
+        ]
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "bitget.com",
+            "expanded_url": "http://bitget.com",
+            "url": "https://t.co/9MZO0mcUNO",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 526,
+    "followedBy": true,
+    "followersCount": 1984,
+    "following": true,
+    "friendsCount": 823,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 16,
+    "location": "Downtown, Vancouver",
+    "mediaCount": 153,
+    "name": "0x凯瑟琳",
+    "normalFollowersCount": 1984,
+    "pinnedTweetIdsStr": [],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/603606820/1642997019",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1530412556312932352/0hrYmCDk_normal.png",
+    "profileInterstitialType": "",
+    "screenName": "0xKatt",
+    "statusesCount": 949,
+    "translatorType": "none",
+    "url": "https://t.co/9MZO0mcUNO",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [
+      {
+        "iconName": "IconBriefcaseStroke",
+        "id": 1094,
+        "name": "Blockchain"
+      }
+    ],
+    "professionalType": "Business",
+    "restId": "1962147121727242647"
+  },
+  "profileImageShape": "Circle",
+  "restId": "603606820",
+  "tipjarSettings": {
+    "ethereumHandle": "0x573E1Ef2451Fe553B17DB324eA28d1D1C1E9Fb31",
+    "isEnabled": true
+  }
+}

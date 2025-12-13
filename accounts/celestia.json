@@ -1,0 +1,73 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxMTY4OTQ0MTQxNDQ5MDE1Mjk2",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Tue Sep 03 17:49:44 +0000 2019",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "The modular blockchain powering unstoppable apps with full-stack control. Go bigger 👉 https://t.co/mnj1aWbiJk",
+    "entities": {
+      "description": {
+        "urls": [
+          {
+            "display_url": "celestia.org/build/",
+            "expanded_url": "https://celestia.org/build/",
+            "url": "https://t.co/mnj1aWbiJk",
+            "indices": [
+              86,
+              109
+            ]
+          }
+        ]
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "celestia.org",
+            "expanded_url": "https://celestia.org",
+            "url": "https://t.co/oaUV9NenF9",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 6173,
+    "followersCount": 380420,
+    "following": true,
+    "friendsCount": 0,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 2661,
+    "location": "",
+    "mediaCount": 1033,
+    "name": "Celestia",
+    "normalFollowersCount": 380420,
+    "pinnedTweetIdsStr": [
+      "1992975440898621475"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1168944141449015296/1761157017",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1980642364390543360/mqbi9-4P_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "celestia",
+    "statusesCount": 8573,
+    "translatorType": "none",
+    "url": "https://t.co/oaUV9NenF9",
+    "verified": false,
+    "verifiedType": "Business",
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "profileImageShape": "Square",
+  "restId": "1168944141449015296",
+  "tipjarSettings": {}
+}

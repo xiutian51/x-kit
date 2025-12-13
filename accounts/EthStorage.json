@@ -1,0 +1,62 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNDkzNDg3NDExMjY2OTQ5MTIz",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Tue Feb 15 07:30:26 +0000 2022",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "🌟A modular and decentralized storage Layer 2 that offers programmable key-value storage \n🌟Scaling Storage of the World Computer \n🌟Received grants from ESP",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "ethstorage.io",
+            "expanded_url": "https://ethstorage.io/",
+            "url": "https://t.co/g2Inwkzuwy",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 663,
+    "followersCount": 63688,
+    "following": true,
+    "friendsCount": 214,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 132,
+    "location": "bit.ly/EthStorage_Discord",
+    "mediaCount": 233,
+    "name": "EthStorage",
+    "normalFollowersCount": 63688,
+    "pinnedTweetIdsStr": [
+      "1977920558353486295"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1493487411266949123/1705541002",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1582565872119554048/qzhXf3Zs_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "EthStorage",
+    "statusesCount": 844,
+    "translatorType": "none",
+    "url": "https://t.co/g2Inwkzuwy",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "profileImageShape": "Circle",
+  "restId": "1493487411266949123",
+  "tipjarSettings": {}
+}

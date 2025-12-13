@@ -1,0 +1,73 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNDA3NTkyOA==",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": false,
+    "canMediaTag": false,
+    "createdAt": "Tue Mar 04 02:48:37 +0000 2008",
+    "defaultProfile": false,
+    "defaultProfileImage": false,
+    "description": "America's Finest News Source. A @globtetrahedron subsidiary.\n\nGet the paper delivered to your door: https://t.co/jJP2Apbhe8",
+    "entities": {
+      "description": {
+        "urls": [
+          {
+            "display_url": "membership.theonion.com",
+            "expanded_url": "http://membership.theonion.com",
+            "url": "https://t.co/jJP2Apbhe8",
+            "indices": [
+              100,
+              123
+            ]
+          }
+        ]
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "membership.theonion.com",
+            "expanded_url": "https://membership.theonion.com",
+            "url": "https://t.co/WgMrBqLEoG",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 7,
+    "followersCount": 10573016,
+    "following": true,
+    "friendsCount": 8,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 58477,
+    "location": "",
+    "mediaCount": 61085,
+    "name": "The Onion",
+    "normalFollowersCount": 10573016,
+    "pinnedTweetIdsStr": [
+      "1999177537071489210"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/14075928/1728063161",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1517492889852461056/bEnqsvVR_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "TheOnion",
+    "statusesCount": 111470,
+    "translatorType": "none",
+    "url": "https://t.co/WgMrBqLEoG",
+    "verified": false,
+    "verifiedType": "Business",
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "profileImageShape": "Square",
+  "restId": "14075928",
+  "tipjarSettings": {}
+}

@@ -1,0 +1,62 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNDI2NTA5NzM2NDIyMzgzNjE2",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Sat Aug 14 11:44:01 +0000 2021",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "Zoe姐，旅居欧洲，投研与写作 ｜BeyondCapital 彼岸资本社区（发财街社区）真正的上岸是从AI无产者到AI有产者",
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 818,
+    "followersCount": 65155,
+    "following": true,
+    "friendsCount": 880,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 1123,
+    "location": "Germany",
+    "mediaCount": 1963,
+    "name": "一起发财",
+    "normalFollowersCount": 65155,
+    "pinnedTweetIdsStr": [
+      "1989588737836130731"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1426509736422383616/1754244186",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1806713276929380352/PkBh-Mns_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "yiqifacai",
+    "statusesCount": 8717,
+    "translatorType": "none",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [
+      {
+        "iconName": "IconBriefcaseStroke",
+        "id": 192,
+        "name": "Financial Services"
+      }
+    ],
+    "professionalType": "Creator",
+    "restId": "1460966447702679562"
+  },
+  "profileImageShape": "Circle",
+  "restId": "1426509736422383616",
+  "tipjarSettings": {
+    "bitcoinHandle": "",
+    "isEnabled": false
+  }
+}

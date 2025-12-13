@@ -1,0 +1,85 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNDI3OTMxODc1OTM1MzMwMzEw",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Wed Aug 18 09:54:33 +0000 2021",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "永远保持进攻的角宿🌟Telegram：ElsieSisi / WeChat：binancesisi2 （其它联系方式均是冒充，请勿相信） 官方Tg：https://t.co/Y7bEmSxL09",
+    "entities": {
+      "description": {
+        "urls": [
+          {
+            "display_url": "t.me/BinanceChinese",
+            "expanded_url": "https://t.me/BinanceChinese",
+            "url": "https://t.co/Y7bEmSxL09",
+            "indices": [
+              74,
+              97
+            ]
+          }
+        ]
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "binance.com/zh-TC/download",
+            "expanded_url": "https://www.binance.com/zh-TC/download",
+            "url": "https://t.co/ivKxQX5hS4",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 10003,
+    "followersCount": 139772,
+    "following": true,
+    "friendsCount": 2557,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 866,
+    "location": "",
+    "mediaCount": 616,
+    "name": "sisi",
+    "normalFollowersCount": 139772,
+    "pinnedTweetIdsStr": [
+      "1968589497722962144"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1427931875935330310/1665208169",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1902417399426772995/ozn-P54e_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "sisibinance",
+    "statusesCount": 14749,
+    "translatorType": "none",
+    "url": "https://t.co/ivKxQX5hS4",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [
+      {
+        "iconName": "IconBriefcaseStroke",
+        "id": 192,
+        "name": "Financial Services"
+      }
+    ],
+    "professionalType": "Creator",
+    "restId": "1515777680263761926"
+  },
+  "profileImageShape": "Circle",
+  "restId": "1427931875935330310",
+  "tipjarSettings": {
+    "isEnabled": true
+  }
+}

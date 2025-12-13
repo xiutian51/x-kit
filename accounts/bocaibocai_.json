@@ -1,0 +1,70 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjo0ODMyNDE3MDg2",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Thu Jan 21 10:14:52 +0000 2016",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "Invester｜Unified Ventures｜瞎研究 RWA🔥｜KAITO Top 50💯｜Web3caff Researcher🧐｜ 往期内容: https://t.co/0xkVoDIOQd 所有内容仅代表个人",
+    "entities": {
+      "description": {
+        "urls": [
+          {
+            "display_url": "paragraph.com/@bocaibocai_",
+            "expanded_url": "https://paragraph.com/@bocaibocai_",
+            "url": "https://t.co/0xkVoDIOQd",
+            "indices": [
+              77,
+              100
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 2147,
+    "followersCount": 22924,
+    "following": true,
+    "friendsCount": 1695,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 584,
+    "location": "Melbourne, Victoria",
+    "mediaCount": 449,
+    "name": "菠菜菠菜｜bocaibocai",
+    "normalFollowersCount": 22924,
+    "pinnedTweetIdsStr": [],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/4832417086/1657196347",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1554279760544813057/Vl9O5Xs-_normal.png",
+    "profileInterstitialType": "",
+    "screenName": "bocaibocai_",
+    "statusesCount": 7033,
+    "translatorType": "none",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [
+      {
+        "iconName": "IconBriefcaseStroke",
+        "id": 192,
+        "name": "Financial Services"
+      }
+    ],
+    "professionalType": "Creator",
+    "restId": "1625071374040698880"
+  },
+  "profileImageShape": "Circle",
+  "restId": "4832417086",
+  "tipjarSettings": {
+    "ethereumHandle": "",
+    "isEnabled": true
+  }
+}

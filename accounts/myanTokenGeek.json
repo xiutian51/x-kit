@@ -1,0 +1,71 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxODMwOTc2MTE=",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Thu Aug 26 03:54:03 +0000 2010",
+    "defaultProfile": false,
+    "defaultProfileImage": false,
+    "description": "Cofounder of Solv Protocol; ERC-3525, Tokenomics & RWA evangelist",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "solv.finance",
+            "expanded_url": "https://solv.finance",
+            "url": "https://t.co/L4DHq1izpG",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 5347,
+    "followersCount": 89402,
+    "following": true,
+    "friendsCount": 628,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 587,
+    "location": "Melbourne, Australia",
+    "mediaCount": 513,
+    "name": "Yan Meng @ Solv Protocol | ERC-3525",
+    "normalFollowersCount": 89402,
+    "pinnedTweetIdsStr": [],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/183097611/1683552927",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1924044521949528064/SAPIlo64_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "myanTokenGeek",
+    "statusesCount": 12375,
+    "translatorType": "none",
+    "url": "https://t.co/L4DHq1izpG",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [
+      {
+        "iconName": "IconBriefcaseStroke",
+        "id": 958,
+        "name": "Entrepreneur"
+      }
+    ],
+    "professionalType": "Creator",
+    "restId": "1472012961178796032"
+  },
+  "profileImageShape": "Circle",
+  "restId": "183097611",
+  "tipjarSettings": {}
+}

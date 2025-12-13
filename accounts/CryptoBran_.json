@@ -1,0 +1,48 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoyMzE5MTUxMTE5",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": false,
+    "createdAt": "Sun Feb 02 02:01:42 +0000 2014",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "Trader and risk taker - I'll show you the losses. Janitor at @apg_capital",
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 78736,
+    "followersCount": 17385,
+    "following": true,
+    "friendsCount": 2611,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 272,
+    "location": "Corn",
+    "mediaCount": 3765,
+    "name": "Bran",
+    "normalFollowersCount": 17385,
+    "pinnedTweetIdsStr": [
+      "1478075776931184648"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/2319151119/1578785271",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1476864341928517650/Lxr4yLni_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "CryptoBran_",
+    "statusesCount": 12716,
+    "translatorType": "regular",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "profileImageShape": "Circle",
+  "restId": "2319151119",
+  "tipjarSettings": {}
+}

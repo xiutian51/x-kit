@@ -1,0 +1,75 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNTk2Njk1MjMxNzE3ODcxNjE2",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": false,
+    "createdAt": "Sun Nov 27 02:39:52 +0000 2022",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "🔍 商业哲学爱好者  📡 维特根斯坦种草主播  🫆 生活合伙人 @XiaoNianTalk  📱 全网同名：dontbesilent 聊赚钱",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "xiaohongshu.com/user/profile/6…",
+            "expanded_url": "https://www.xiaohongshu.com/user/profile/63fc8880000000001f0329db",
+            "url": "https://t.co/D0eSAgypdH",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 8428,
+    "followersCount": 58044,
+    "following": true,
+    "friendsCount": 942,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 464,
+    "location": "",
+    "mediaCount": 1303,
+    "name": "dontbesilent",
+    "normalFollowersCount": 58044,
+    "pinnedTweetIdsStr": [
+      "1993952218693947571"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1596695231717871616/1762833879",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1840665561287798784/GJCK0iKf_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "dontbesilent12",
+    "statusesCount": 12587,
+    "translatorType": "none",
+    "url": "https://t.co/D0eSAgypdH",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [
+      {
+        "iconName": "IconBriefcaseStroke",
+        "id": 144,
+        "name": "Education"
+      }
+    ],
+    "professionalType": "Creator",
+    "restId": "1842617040018026925"
+  },
+  "profileImageShape": "Circle",
+  "restId": "1596695231717871616",
+  "tipjarSettings": {
+    "isEnabled": true
+  }
+}

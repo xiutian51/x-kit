@@ -1,0 +1,83 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxMTEzMjg4ODQ2MzA3NzU4MDgw",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Wed Apr 03 03:55:19 +0000 2019",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "An omnichain infrastructure for BTC, stablecoins, and tokenized assets swap | Get $MAPO 🟣 https://t.co/kPAP2t7dxx",
+    "entities": {
+      "description": {
+        "urls": [
+          {
+            "display_url": "mapprotocol.io/get-mapo",
+            "expanded_url": "https://www.mapprotocol.io/get-mapo",
+            "url": "https://t.co/kPAP2t7dxx",
+            "indices": [
+              90,
+              113
+            ]
+          }
+        ]
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "mapprotocol.io",
+            "expanded_url": "https://www.mapprotocol.io/",
+            "url": "https://t.co/K5dbThi79n",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 707,
+    "followersCount": 123254,
+    "following": true,
+    "friendsCount": 341,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 389,
+    "location": "🪐",
+    "mediaCount": 837,
+    "name": "MAP Protocol",
+    "normalFollowersCount": 123254,
+    "pinnedTweetIdsStr": [
+      "1972626329750110285"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1113288846307758080/1723471788",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1968590099907756032/34IH7jnF_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "MapProtocol",
+    "statusesCount": 2184,
+    "translatorType": "none",
+    "url": "https://t.co/K5dbThi79n",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [
+      {
+        "iconName": "IconBriefcaseStroke",
+        "id": 1009,
+        "name": "Community"
+      }
+    ],
+    "professionalType": "Business",
+    "restId": "1521338757894795264"
+  },
+  "profileImageShape": "Circle",
+  "restId": "1113288846307758080",
+  "tipjarSettings": {}
+}

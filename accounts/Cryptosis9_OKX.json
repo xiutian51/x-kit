@@ -1,0 +1,99 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {
+    "label": {
+      "url": {
+        "url": "https://twitter.com/okx",
+        "urlType": "DeepLink"
+      },
+      "badge": {
+        "url": "https://pbs.twimg.com/profile_images/1968722816154345472/vEj4j3o9_bigger.jpg"
+      },
+      "description": "OKX",
+      "userLabelType": "BusinessLabel",
+      "userLabelDisplayType": "Badge"
+    }
+  },
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxMTYwNzkzODE4OTM5MDA2OTc2",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Mon Aug 12 06:03:07 +0000 2019",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "用戶增长业务、业务对接➕ https://t.co/CBQvO1UlD3，#OKX 💗",
+    "entities": {
+      "description": {
+        "urls": [
+          {
+            "display_url": "t.me/jiumeiokx",
+            "expanded_url": "https://t.me/jiumeiokx",
+            "url": "https://t.co/CBQvO1UlD3",
+            "indices": [
+              13,
+              36
+            ]
+          }
+        ]
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "okx.com",
+            "expanded_url": "https://www.okx.com/",
+            "url": "https://t.co/uQ5BYbs6JK",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 11037,
+    "followedBy": true,
+    "followersCount": 143779,
+    "following": true,
+    "friendsCount": 2732,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 1131,
+    "location": "Hong Kong",
+    "mediaCount": 1330,
+    "name": "九妹",
+    "normalFollowersCount": 143779,
+    "pinnedTweetIdsStr": [],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1160793818939006976/1716344057",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1975963840086147074/_doqRpZR_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "Cryptosis9_OKX",
+    "statusesCount": 9667,
+    "translatorType": "none",
+    "url": "https://t.co/uQ5BYbs6JK",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [
+      {
+        "iconName": "IconBriefcaseStroke",
+        "id": 192,
+        "name": "Financial Services"
+      }
+    ],
+    "professionalType": "Business",
+    "restId": "1463081048137293824"
+  },
+  "profileImageShape": "Circle",
+  "restId": "1160793818939006976",
+  "tipjarSettings": {
+    "bitcoinHandle": "3BSvYXAhMZfVsr3WhZeC9vXSzhdbhikVbU",
+    "ethereumHandle": "0xc32aee58abfe2c2104fed0331cfaa1f36466eaa9",
+    "isEnabled": true
+  }
+}

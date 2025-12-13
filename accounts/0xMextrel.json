@@ -1,0 +1,65 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNjQ1NTk2OTUyMzQ2OTA2NjI0",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": false,
+    "createdAt": "Tue Apr 11 01:17:58 +0000 2023",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "交易｜投研｜金狗\n\n注意力金融化 随势而不失我\n\n长文输出都在亮点 观点标的注意时效&DYOR\nAlpha BOT @Mexbots",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "bento.me/0xMextrel",
+            "expanded_url": "https://bento.me/0xMextrel",
+            "url": "https://t.co/r3mi7MIiik",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 25056,
+    "followersCount": 8110,
+    "following": true,
+    "friendsCount": 314,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 245,
+    "location": "主页&TG群  👉",
+    "mediaCount": 366,
+    "name": "Mextrel𐤊",
+    "normalFollowersCount": 8110,
+    "pinnedTweetIdsStr": [
+      "1983151001449443692"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1645596952346906624/1764885691",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1989827192269017090/2NbGrZoX_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "0xMextrel",
+    "statusesCount": 6893,
+    "translatorType": "none",
+    "url": "https://t.co/r3mi7MIiik",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "profileImageShape": "Circle",
+  "restId": "1645596952346906624",
+  "tipjarSettings": {
+    "bitcoinHandle": "",
+    "isEnabled": true
+  }
+}

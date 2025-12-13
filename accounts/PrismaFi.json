@@ -1,0 +1,67 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNjUzMDAyNTcyMDc1MjUzNzY2",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Mon May 01 11:46:07 +0000 2023",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "The end game for liquid (re)staking tokens. Non-custodial & decentralized Ethereum LST & LRT backed stablecoins",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "prismafinance.com",
+            "expanded_url": "https://prismafinance.com",
+            "url": "https://t.co/KhoEAEPcbT",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 854,
+    "followersCount": 23878,
+    "following": true,
+    "friendsCount": 56,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 289,
+    "location": "",
+    "mediaCount": 312,
+    "name": "Prisma Finance",
+    "normalFollowersCount": 23878,
+    "pinnedTweetIdsStr": [
+      "1863571474553913720"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1653002572075253766/1708432812",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1656356311792238592/YgtxC5sm_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "PrismaFi",
+    "statusesCount": 881,
+    "translatorType": "none",
+    "url": "https://t.co/KhoEAEPcbT",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [],
+    "professionalType": "Business",
+    "restId": "1673635307059572740"
+  },
+  "profileImageShape": "Circle",
+  "restId": "1653002572075253766",
+  "tipjarSettings": {}
+}

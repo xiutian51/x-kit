@@ -1,0 +1,60 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNjI1MTU4MjY2Mzg4MTExMzYx",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": false,
+    "canMediaTag": true,
+    "createdAt": "Mon Feb 13 15:42:40 +0000 2023",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "Oriental fantasy adventure in Web3 🏮",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "hub.xyz/tinfun",
+            "expanded_url": "https://hub.xyz/tinfun",
+            "url": "https://t.co/MW6m9FsEM9",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 109,
+    "followersCount": 43310,
+    "following": true,
+    "friendsCount": 7,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 143,
+    "location": "TinFun Street",
+    "mediaCount": 136,
+    "name": "TinFun",
+    "normalFollowersCount": 43310,
+    "pinnedTweetIdsStr": [],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1625158266388111361/1700745712",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1635969534288089089/ALKwr2J3_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "TinFunNFT",
+    "statusesCount": 196,
+    "translatorType": "none",
+    "url": "https://t.co/MW6m9FsEM9",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "profileImageShape": "Circle",
+  "restId": "1625158266388111361",
+  "tipjarSettings": {}
+}

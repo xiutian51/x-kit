@@ -1,0 +1,101 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxMDA2NzQzNDYwNDgzNzU2MDMy",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Wed Jun 13 03:42:00 +0000 2018",
+    "defaultProfile": false,
+    "defaultProfileImage": false,
+    "description": "https://t.co/kK7sDgejA8 /  https://t.co/lv7AAjjaKh / https://t.co/hhMNDr2TR6",
+    "entities": {
+      "description": {
+        "urls": [
+          {
+            "display_url": "ambergroup.medium.com",
+            "expanded_url": "http://ambergroup.medium.com",
+            "url": "https://t.co/kK7sDgejA8",
+            "indices": [
+              0,
+              23
+            ]
+          },
+          {
+            "display_url": "ambr.io",
+            "expanded_url": "https://www.ambr.io",
+            "url": "https://t.co/lv7AAjjaKh",
+            "indices": [
+              27,
+              50
+            ]
+          },
+          {
+            "display_url": "amber.ac",
+            "expanded_url": "http://amber.ac",
+            "url": "https://t.co/hhMNDr2TR6",
+            "indices": [
+              53,
+              76
+            ]
+          }
+        ]
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "ambergroup.io",
+            "expanded_url": "https://www.ambergroup.io/",
+            "url": "https://t.co/3Fyq9BzWlN",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 1803,
+    "followersCount": 44791,
+    "following": true,
+    "friendsCount": 41,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 801,
+    "location": "RA 11h 26m | Dec +08° 49’ 13”",
+    "mediaCount": 292,
+    "name": "Amber Group",
+    "normalFollowersCount": 44791,
+    "pinnedTweetIdsStr": [
+      "1943294828143657174"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1006743460483756032/1617263671",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1475062392971165697/Vakmfr7s_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "ambergroup_io",
+    "statusesCount": 1315,
+    "translatorType": "none",
+    "url": "https://t.co/3Fyq9BzWlN",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [
+      {
+        "iconName": "IconBriefcaseStroke",
+        "id": 192,
+        "name": "Financial Services"
+      }
+    ],
+    "professionalType": "Business",
+    "restId": "1517960979325153280"
+  },
+  "profileImageShape": "Circle",
+  "restId": "1006743460483756032",
+  "tipjarSettings": {}
+}

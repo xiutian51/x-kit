@@ -1,0 +1,50 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjo3NDA5Njc0ODQ0MjE4Njk1Njk=",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Thu Jun 09 18:03:09 +0000 2016",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "Not your regular Penny. Prev. @Federalreserve @Harvard | I make contrarian bets & VIEWS ARE MY OWN. \n\nGlobal Growth & GTM @humafinance🪴💁🏻‍♀️",
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 3858,
+    "followersCount": 2065,
+    "following": true,
+    "friendsCount": 991,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 25,
+    "location": "Cambridge, MA",
+    "mediaCount": 198,
+    "name": "JC",
+    "normalFollowersCount": 2065,
+    "pinnedTweetIdsStr": [
+      "1972842607140294794"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/740967484421869569/1721437375",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1929365096909668352/qLRfFxS7_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "jcmeowjc",
+    "statusesCount": 1860,
+    "translatorType": "none",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "profileImageShape": "Circle",
+  "restId": "740967484421869569",
+  "tipjarSettings": {
+    "isEnabled": true
+  }
+}

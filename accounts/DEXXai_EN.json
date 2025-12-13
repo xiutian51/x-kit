@@ -1,0 +1,73 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxODAyNTk3MTYxNDQ5OTcxNzEy",
+  "isBlueVerified": false,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Mon Jun 17 07:00:38 +0000 2024",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "First memecoins trading terminal application | Download Link https://t.co/g9ZZOkuiyL | 中文频道 @DEXXai_CN",
+    "entities": {
+      "description": {
+        "urls": [
+          {
+            "display_url": "dexx.ai",
+            "expanded_url": "https://dexx.ai",
+            "url": "https://t.co/g9ZZOkuiyL",
+            "indices": [
+              61,
+              84
+            ]
+          }
+        ]
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "dexx.ai",
+            "expanded_url": "https://dexx.ai",
+            "url": "https://t.co/g9ZZOkuiyL",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 49,
+    "followersCount": 10306,
+    "following": true,
+    "friendsCount": 93,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 36,
+    "location": "On Chain",
+    "mediaCount": 92,
+    "name": "DEXX",
+    "normalFollowersCount": 10306,
+    "pinnedTweetIdsStr": [
+      "1991821808367276475"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1802597161449971712/1740047350",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1983498382619652096/uN_FeH8w_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "DEXXai_EN",
+    "statusesCount": 136,
+    "translatorType": "none",
+    "url": "https://t.co/g9ZZOkuiyL",
+    "verified": false,
+    "verifiedType": "Business",
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "profileImageShape": "Square",
+  "restId": "1802597161449971712",
+  "tipjarSettings": {}
+}

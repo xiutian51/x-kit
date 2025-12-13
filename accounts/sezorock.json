@@ -1,0 +1,58 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxMjk2MTI2NDk4NTIxNDU2NjQz",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": false,
+    "createdAt": "Wed Aug 19 16:47:09 +0000 2020",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "Researcher / DeFi Degen / Investor / @Polymarket trader / member @zscdao",
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 4689,
+    "followersCount": 30163,
+    "following": true,
+    "friendsCount": 479,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 306,
+    "location": "",
+    "mediaCount": 4132,
+    "name": "Sezo",
+    "normalFollowersCount": 30163,
+    "pinnedTweetIdsStr": [],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1296126498521456643/1739658755",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1928786426390327296/Vdw7lR0V_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "sezorock",
+    "statusesCount": 17865,
+    "translatorType": "none",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [
+      {
+        "iconName": "IconBriefcaseStroke",
+        "id": 1009,
+        "name": "Community"
+      }
+    ],
+    "professionalType": "Creator",
+    "restId": "1479863268927852552"
+  },
+  "profileImageShape": "Circle",
+  "restId": "1296126498521456643",
+  "superFollowEligible": true,
+  "tipjarSettings": {}
+}

@@ -1,0 +1,64 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxMDc0MTI5MjMwMjQ4NjUyODAw",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Sun Dec 16 02:28:59 +0000 2018",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "🔸成都集团Founder  | ◾️Ambassador：@0G_labs |🔸 #Binance 近3亿用户的共同选择，出入安全，启程Web3，就在币安：https://t.co/DDiFhdIMLv",
+    "entities": {
+      "description": {
+        "urls": [
+          {
+            "display_url": "binance.com/zh-CN/join?ref…",
+            "expanded_url": "http://binance.com/zh-CN/join?ref=175967118",
+            "url": "https://t.co/DDiFhdIMLv",
+            "indices": [
+              78,
+              101
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 5726,
+    "followersCount": 31423,
+    "following": true,
+    "friendsCount": 1725,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 93,
+    "location": "CDC Group Encryption Center",
+    "mediaCount": 974,
+    "name": "CryptoBLACK🌙◼️",
+    "normalFollowersCount": 31423,
+    "pinnedTweetIdsStr": [
+      "1913195823816712598"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1074129230248652800/1722147171",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1816081513441792000/mZZ7IL6s_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "BA__JU",
+    "statusesCount": 10804,
+    "translatorType": "none",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [],
+    "professionalType": "Creator",
+    "restId": "1817610348784238829"
+  },
+  "profileImageShape": "Circle",
+  "restId": "1074129230248652800",
+  "superFollowEligible": true,
+  "tipjarSettings": {}
+}

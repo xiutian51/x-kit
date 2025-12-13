@@ -1,0 +1,75 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {
+    "label": {
+      "url": {
+        "url": "https://twitter.com/TrustWallet",
+        "urlType": "DeepLink"
+      },
+      "badge": {
+        "url": "https://pbs.twimg.com/profile_images/1987823991298412544/m_aZv3MU_bigger.jpg"
+      },
+      "description": "Trust Wallet",
+      "userLabelType": "BusinessLabel",
+      "userLabelDisplayType": "Badge"
+    }
+  },
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNDk5NTQ2Mzk3NjkxMDcyNTE3",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": false,
+    "canMediaTag": false,
+    "createdAt": "Fri Mar 04 00:45:32 +0000 2022",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "👨‍👩‍👦 Wife, mother, and coach. Leading @TrustWallet as CEO with a focus on integrity, growth, and the future of Web3. Proud TWT holder.",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "trustwallet.com",
+            "expanded_url": "https://trustwallet.com",
+            "url": "https://t.co/x0bHGkFTQP",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 1342,
+    "followersCount": 54683,
+    "following": true,
+    "friendsCount": 465,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 127,
+    "location": "",
+    "mediaCount": 153,
+    "name": "Eowync.eth",
+    "normalFollowersCount": 54683,
+    "pinnedTweetIdsStr": [
+      "1995824308728304005"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1499546397691072517/1758197835",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1505719964480815111/emTi08iy_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "EowynChen",
+    "statusesCount": 1833,
+    "translatorType": "none",
+    "url": "https://t.co/x0bHGkFTQP",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "profileImageShape": "Circle",
+  "restId": "1499546397691072517",
+  "tipjarSettings": {}
+}

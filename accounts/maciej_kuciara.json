@@ -1,0 +1,67 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxMzYyNjg4ODg3NzkzOTY3MTA4",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": false,
+    "createdAt": "Fri Feb 19 09:02:09 +0000 2021",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "Pixel Pusher ◼️ @shibuyafilm @learnsquared Collections NG, Christie's, Phillips",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "kuciara.com",
+            "expanded_url": "http://kuciara.com",
+            "url": "https://t.co/dllElE0goz",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 5366,
+    "followersCount": 39366,
+    "following": true,
+    "friendsCount": 420,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 325,
+    "location": "Between Pixels",
+    "mediaCount": 489,
+    "name": "Maciej Kuciara",
+    "normalFollowersCount": 39366,
+    "pinnedTweetIdsStr": [
+      "1389649334904397825"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1362688887793967108/1646158678",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1444008230544285698/v7_B9WgQ_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "maciej_kuciara",
+    "statusesCount": 1757,
+    "translatorType": "none",
+    "url": "https://t.co/dllElE0goz",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [],
+    "professionalType": "Creator",
+    "restId": "1591335059168014338"
+  },
+  "profileImageShape": "Circle",
+  "restId": "1362688887793967108",
+  "tipjarSettings": {}
+}

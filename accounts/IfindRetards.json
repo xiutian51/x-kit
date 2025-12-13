@@ -1,0 +1,66 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {
+    "label": {
+      "url": {
+        "url": "https://twitter.com/sunfluencer",
+        "urlType": "DeepLink"
+      },
+      "badge": {
+        "url": "https://pbs.twimg.com/profile_images/1728831833456988161/4gjnPd4j_bigger.jpg"
+      },
+      "description": "sunfluencer",
+      "userLabelType": "BusinessLabel",
+      "userLabelDisplayType": "Badge"
+    }
+  },
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxODcyNTY5NzMxODI5NjA0MzUy",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Fri Dec 27 09:06:42 +0000 2024",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "I find retards and their posts on X.",
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 54450,
+    "followersCount": 818826,
+    "following": true,
+    "friendsCount": 782,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 1566,
+    "location": "Coming for you ",
+    "mediaCount": 2228,
+    "name": "Retard Finder",
+    "normalFollowersCount": 818826,
+    "pinnedTweetIdsStr": [
+      "1998895330285465922"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1872569731829604352/1740308284",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1995811465908158464/L_YiVhtV_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "IfindRetards",
+    "statusesCount": 12640,
+    "translatorType": "none",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "profileImageShape": "Circle",
+  "restId": "1872569731829604352",
+  "superFollowEligible": true,
+  "tipjarSettings": {
+    "bitcoinHandle": "bc1qysnfnzlg2t7rd95s0luhr6t84ft232uyk73xvz",
+    "ethereumHandle": "0xBa1382978a81b2Cd4C31336F49BC25c9d6BEDFd2",
+    "isEnabled": false
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxMzcxMTk1NDU4MjE1OTQwMDk4",
+  "isBlueVerified": false,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Sun Mar 14 20:24:35 +0000 2021",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "You are early! 🚀Intent-Based Data Interaction Layer\n\n✨Codeless, Turn Your Desire Into Optimal Outcome In Minutes",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Geno.id",
+            "expanded_url": "http://Geno.id",
+            "url": "https://t.co/7NDIUDkF1q",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 85,
+    "followersCount": 2770,
+    "following": true,
+    "friendsCount": 24,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 9,
+    "location": "Rabbit Hole 🐇 🕳",
+    "mediaCount": 73,
+    "name": "Geno.id",
+    "normalFollowersCount": 2770,
+    "pinnedTweetIdsStr": [
+      "1698589325070401753"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1371195458215940098/1693448263",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1737004908686307328/97v-Acjz_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "Geno_id",
+    "statusesCount": 130,
+    "translatorType": "none",
+    "url": "https://t.co/7NDIUDkF1q",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "profileImageShape": "Circle",
+  "restId": "1371195458215940098",
+  "tipjarSettings": {}
+}

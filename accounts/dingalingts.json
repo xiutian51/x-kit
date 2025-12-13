@@ -1,0 +1,46 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjo5MzYwNDg3ODIyMDYwNTg0OTY=",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": false,
+    "createdAt": "Thu Nov 30 01:46:35 +0000 2017",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "Building @predictdotfun｜Previously; @binance Head of Research, Founder @pancakeswap",
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 12652,
+    "followersCount": 255352,
+    "following": true,
+    "friendsCount": 2332,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 2401,
+    "location": "",
+    "mediaCount": 826,
+    "name": "dingaling",
+    "normalFollowersCount": 255352,
+    "pinnedTweetIdsStr": [],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/936048782206058496/1764955902",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1671535865145745410/DaM1zme1_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "dingalingts",
+    "statusesCount": 4138,
+    "translatorType": "none",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "profileImageShape": "Circle",
+  "restId": "936048782206058496",
+  "tipjarSettings": {}
+}

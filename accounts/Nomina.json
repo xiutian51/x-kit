@@ -1,0 +1,68 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNDAwNjYxNTUzNzUwMzY4MjU2",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Fri Jun 04 03:52:22 +0000 2021",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "Power tools for onchain markets. Building the first unified trading platform.",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "nomina.io",
+            "expanded_url": "https://nomina.io",
+            "url": "https://t.co/kef1AveKpn",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 5108,
+    "followersCount": 521743,
+    "following": true,
+    "friendsCount": 55,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 915,
+    "location": "",
+    "mediaCount": 788,
+    "name": "Nomina",
+    "normalFollowersCount": 521743,
+    "pinnedTweetIdsStr": [
+      "1991129415779242384"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1400661553750368256/1757934667",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1967546713566015488/fw75VM-L_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "Nomina",
+    "statusesCount": 2750,
+    "translatorType": "none",
+    "url": "https://t.co/kef1AveKpn",
+    "verified": false,
+    "verifiedType": "Business",
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [],
+    "professionalType": "Business",
+    "restId": "1494098081310289923"
+  },
+  "profileImageShape": "Square",
+  "restId": "1400661553750368256",
+  "tipjarSettings": {}
+}

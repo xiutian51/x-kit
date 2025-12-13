@@ -1,0 +1,48 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxODk4NzkzNzIxNzgyNDcyNzA0",
+  "isBlueVerified": false,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": false,
+    "createdAt": "Sun Mar 09 17:51:26 +0000 2025",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "",
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 3821,
+    "followersCount": 700,
+    "following": true,
+    "friendsCount": 315,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 9,
+    "location": "",
+    "mediaCount": 320,
+    "name": "Wakerife 🇿🇦",
+    "normalFollowersCount": 700,
+    "pinnedTweetIdsStr": [
+      "1970872113268682945"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1898793721782472704/1756836812",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1937976090200289280/nFrZfSIi_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "wakerife123",
+    "statusesCount": 945,
+    "translatorType": "none",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "profileImageShape": "Circle",
+  "restId": "1898793721782472704",
+  "tipjarSettings": {}
+}

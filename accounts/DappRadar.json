@@ -1,0 +1,62 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjo5NjIyOTMwNzkwMTIyNDE0MDg=",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Sat Feb 10 11:52:03 +0000 2018",
+    "defaultProfile": false,
+    "defaultProfileImage": false,
+    "description": "The World's Dapp Store The most trusted source for exploring Web3 projects across 80+ blockchains. Home to $RADAR",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "linktr.ee/dappradar",
+            "expanded_url": "https://linktr.ee/dappradar",
+            "url": "https://t.co/a2KEKBEGOd",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 15633,
+    "followersCount": 237000,
+    "following": true,
+    "friendsCount": 1472,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 2325,
+    "location": "Explore DappRadar →",
+    "mediaCount": 6423,
+    "name": "DappRadar",
+    "normalFollowersCount": 237000,
+    "pinnedTweetIdsStr": [
+      "1990430373055013066"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/962293079012241408/1735217627",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1872264538466226176/aNqLcrdp_normal.png",
+    "profileInterstitialType": "",
+    "screenName": "DappRadar",
+    "statusesCount": 21072,
+    "translatorType": "none",
+    "url": "https://t.co/a2KEKBEGOd",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "profileImageShape": "Circle",
+  "restId": "962293079012241408",
+  "tipjarSettings": {}
+}

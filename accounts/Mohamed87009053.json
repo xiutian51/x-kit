@@ -1,0 +1,45 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxMjUwNzcxOTIwMTI5MjI4ODA2",
+  "isBlueVerified": false,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Thu Apr 16 13:04:09 +0000 2020",
+    "defaultProfile": true,
+    "defaultProfileImage": true,
+    "description": "",
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 13,
+    "followersCount": 1181,
+    "following": true,
+    "friendsCount": 0,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 3,
+    "location": "",
+    "mediaCount": 7,
+    "name": ".",
+    "normalFollowersCount": 1181,
+    "pinnedTweetIdsStr": [],
+    "possiblySensitive": false,
+    "profileImageUrlHttps": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+    "profileInterstitialType": "",
+    "screenName": "Mohamed87009053",
+    "statusesCount": 36,
+    "translatorType": "none",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "profileImageShape": "Circle",
+  "restId": "1250771920129228806",
+  "tipjarSettings": {}
+}

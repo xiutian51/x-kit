@@ -1,0 +1,61 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNDYwOTc2MDQwNDg3Mjk3MDI2",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Wed Nov 17 14:20:42 +0000 2021",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "$BTC ｜职业交易员 ｜二级市场 、数据分析工具 ｜进社区不收费，但有门槛｜社区拥有币圈二级市场最全面的实时指标警报⚠️，来提供辅助交易。#全面的深度和相关性监控。｜每日发实时数据当日累加统计，不全面、有时效、不构成投资建议｜",
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 3279,
+    "followedBy": true,
+    "followersCount": 3855,
+    "following": true,
+    "friendsCount": 1014,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 37,
+    "location": "中国 北京",
+    "mediaCount": 312,
+    "name": "One Senses",
+    "normalFollowersCount": 3855,
+    "pinnedTweetIdsStr": [],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1460976040487297026/1746483898",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1993373164249006081/iDoZLaZS_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "one_senses",
+    "statusesCount": 2992,
+    "translatorType": "none",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [
+      {
+        "iconName": "IconBriefcaseStroke",
+        "id": 511,
+        "name": "Life Coach"
+      }
+    ],
+    "professionalType": "Business",
+    "restId": "1460979605150797825"
+  },
+  "profileImageShape": "Circle",
+  "restId": "1460976040487297026",
+  "tipjarSettings": {
+    "ethereumHandle": "0x2C234de1f1b9225BacecB4108215BF02256fBA02",
+    "isEnabled": true
+  }
+}

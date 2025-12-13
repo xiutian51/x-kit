@@ -1,0 +1,72 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {
+    "label": {
+      "url": {
+        "url": "https://twitter.com/megaeth",
+        "urlType": "DeepLink"
+      },
+      "badge": {
+        "url": "https://pbs.twimg.com/profile_images/1861751545790070784/KvlxTzAq_bigger.jpg"
+      },
+      "description": "MegaETH",
+      "userLabelType": "BusinessLabel",
+      "userLabelDisplayType": "Badge"
+    }
+  },
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNDUzNjYxNDcwODY5MzYwNjQz",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": false,
+    "createdAt": "Thu Oct 28 09:54:54 +0000 2021",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "GTM: @megaeth | Host: @modernmarket_",
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 56598,
+    "followersCount": 59092,
+    "following": true,
+    "friendsCount": 2408,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 1656,
+    "location": "onchain",
+    "mediaCount": 4727,
+    "name": "BREAD | ∑:",
+    "normalFollowersCount": 59092,
+    "pinnedTweetIdsStr": [
+      "1986062900348473727"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1453661470869360643/1737734671",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1996624847854882819/E4oXPIHd_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "bread_",
+    "statusesCount": 36355,
+    "translatorType": "none",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [
+      {
+        "iconName": "IconBriefcaseStroke",
+        "id": 958,
+        "name": "Entrepreneur"
+      }
+    ],
+    "professionalType": "Creator",
+    "restId": "1589236818519773186"
+  },
+  "profileImageShape": "Circle",
+  "restId": "1453661470869360643",
+  "tipjarSettings": {}
+}

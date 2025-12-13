@@ -1,0 +1,73 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoyMTUxNjg2ODM5",
+  "isBlueVerified": false,
+  "legacy": {
+    "canDm": false,
+    "canMediaTag": false,
+    "createdAt": "Wed Oct 23 21:10:31 +0000 2013",
+    "defaultProfile": false,
+    "defaultProfileImage": false,
+    "description": "Building the Internet Financial Platform — powered by USDC, Arc, and Circle Payments Network. Disclosure: https://t.co/7L62d1pLE0",
+    "entities": {
+      "description": {
+        "urls": [
+          {
+            "display_url": "bit.ly/3Jy6LJc",
+            "expanded_url": "https://bit.ly/3Jy6LJc",
+            "url": "https://t.co/7L62d1pLE0",
+            "indices": [
+              106,
+              129
+            ]
+          }
+        ]
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "circle.com",
+            "expanded_url": "http://circle.com",
+            "url": "https://t.co/IFWOYaAAX3",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 3995,
+    "followersCount": 259469,
+    "following": true,
+    "friendsCount": 458,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 2380,
+    "location": "Remote First",
+    "mediaCount": 1407,
+    "name": "Circle",
+    "normalFollowersCount": 259469,
+    "pinnedTweetIdsStr": [
+      "1983972343174328408"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/2151686839/1760733158",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1719446730091962368/Bl01sQsB_normal.png",
+    "profileInterstitialType": "",
+    "screenName": "circle",
+    "statusesCount": 6417,
+    "translatorType": "none",
+    "url": "https://t.co/IFWOYaAAX3",
+    "verified": false,
+    "verifiedType": "Business",
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "profileImageShape": "Square",
+  "restId": "2151686839",
+  "tipjarSettings": {}
+}

@@ -1,0 +1,72 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNjkwODAzMjE0ODg1NTAyOTc2",
+  "isBlueVerified": false,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Sun Aug 13 19:11:27 +0000 2023",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "The News Trading Terminal in Your Pocket\n\nPartnered with Mirrorly, acquired T2T\n\nNow supporting Bitget, Binance, Bybit, Hyperliquid\n\nhttps://t.co/ssd7WY28VV",
+    "entities": {
+      "description": {
+        "urls": [
+          {
+            "display_url": "linktr.ee/newslynews",
+            "expanded_url": "http://linktr.ee/newslynews",
+            "url": "https://t.co/ssd7WY28VV",
+            "indices": [
+              133,
+              156
+            ]
+          }
+        ]
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "newsly.news",
+            "expanded_url": "http://newsly.news",
+            "url": "https://t.co/40dhITqkGO",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 400,
+    "followersCount": 5273,
+    "following": true,
+    "friendsCount": 17,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 66,
+    "location": "",
+    "mediaCount": 118,
+    "name": "Newsly",
+    "normalFollowersCount": 5273,
+    "pinnedTweetIdsStr": [
+      "1791130399663354052"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1690803214885502976/1693651416",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1698684779053330432/kcQMSopK_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "Newslybot",
+    "statusesCount": 227,
+    "translatorType": "none",
+    "url": "https://t.co/40dhITqkGO",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "profileImageShape": "Circle",
+  "restId": "1690803214885502976",
+  "tipjarSettings": {}
+}

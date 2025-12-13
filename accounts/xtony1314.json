@@ -1,0 +1,80 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNTg5MjcyOTYxMjM1NjE5ODQw",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Sun Nov 06 15:06:27 +0000 2022",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "独立交易员\n历史成绩：实盘 5W➡️5000W ，2.5年1000倍收益率\n#Binance 币安交易，安全稳定，百倍收益，就在币安：https://t.co/ZiUiJFpVYq",
+    "entities": {
+      "description": {
+        "urls": [
+          {
+            "display_url": "binance.com/join?ref=RXZ4J…",
+            "expanded_url": "http://binance.com/join?ref=RXZ4JBCK",
+            "url": "https://t.co/ZiUiJFpVYq",
+            "indices": [
+              67,
+              90
+            ]
+          }
+        ]
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "linktr.ee/tonyyyds",
+            "expanded_url": "https://linktr.ee/tonyyyds",
+            "url": "https://t.co/B2sYijdA2a",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 13,
+    "followersCount": 54225,
+    "following": true,
+    "friendsCount": 174,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 875,
+    "location": "",
+    "mediaCount": 160,
+    "name": "逍遥XTony",
+    "normalFollowersCount": 54225,
+    "pinnedTweetIdsStr": [],
+    "possiblySensitive": false,
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1897681346174283776/ABKW5uor_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "xtony1314",
+    "statusesCount": 467,
+    "translatorType": "none",
+    "url": "https://t.co/B2sYijdA2a",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [
+      {
+        "iconName": "IconBriefcaseStroke",
+        "id": 192,
+        "name": "Financial Services"
+      }
+    ],
+    "professionalType": "Creator",
+    "restId": "1589273969797918720"
+  },
+  "profileImageShape": "Circle",
+  "restId": "1589272961235619840",
+  "tipjarSettings": {}
+}

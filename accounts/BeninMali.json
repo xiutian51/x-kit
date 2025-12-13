@@ -1,0 +1,46 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNTQwNzI1MjU5ODg4MTI4MDAw",
+  "isBlueVerified": false,
+  "legacy": {
+    "canDm": false,
+    "canMediaTag": true,
+    "createdAt": "Sat Jun 25 15:55:49 +0000 2022",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "$btc $eth  $sol\nSahara #0029567",
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 790,
+    "followersCount": 79,
+    "following": true,
+    "friendsCount": 577,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 1,
+    "location": "",
+    "mediaCount": 75,
+    "name": "小王 🔆",
+    "normalFollowersCount": 79,
+    "pinnedTweetIdsStr": [],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1540725259888128000/1715743341",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1928053365466091520/DhtdtJsz_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "BeninMali",
+    "statusesCount": 1761,
+    "translatorType": "none",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "profileImageShape": "Circle",
+  "restId": "1540725259888128000",
+  "tipjarSettings": {}
+}

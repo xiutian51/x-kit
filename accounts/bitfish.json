@@ -1,0 +1,53 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjo4NDM2ODYyMTEyNjQ4MjMyOTg=",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Mon Mar 20 04:50:42 +0000 2017",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "Co-founder of F2Pool & Cobo. Bitcoin enthusiast exploring DeFi & AI.A risk manager, not a prophet.",
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 162,
+    "followersCount": 207447,
+    "following": true,
+    "friendsCount": 345,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 3668,
+    "location": "",
+    "mediaCount": 225,
+    "name": "DiscusFish",
+    "normalFollowersCount": 207447,
+    "pinnedTweetIdsStr": [
+      "1717344973631463616"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/843686211264823298/1727156224",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/998657366743629825/YVEECfjo_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "bitfish",
+    "statusesCount": 1454,
+    "translatorType": "none",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [],
+    "professionalType": "Creator",
+    "restId": "1463575871202103296"
+  },
+  "profileImageShape": "Circle",
+  "restId": "843686211264823298",
+  "tipjarSettings": {}
+}

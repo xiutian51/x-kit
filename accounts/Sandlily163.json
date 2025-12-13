@@ -1,0 +1,70 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNzgyNjk5OTk2NTI3MzYyMDQ4",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": false,
+    "createdAt": "Tue Apr 23 09:16:29 +0000 2024",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "SZUBA｜ @WinTradersFNF | 05傻逼大学生｜梦想成为最厉害的情绪交易员（奶子哥小助理版）｜希望多看逻辑分析，不要盲目梭哈｜真没群，不要问这种韭菜问题 ｜ 全世界最好用的一站式交易所&钱包：🔗 https://t.co/roew6bKBnV",
+    "entities": {
+      "description": {
+        "urls": [
+          {
+            "display_url": "okx.com",
+            "expanded_url": "http://okx.com",
+            "url": "https://t.co/roew6bKBnV",
+            "indices": [
+              106,
+              129
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 14964,
+    "followedBy": true,
+    "followersCount": 14875,
+    "following": true,
+    "friendsCount": 2156,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 407,
+    "location": "trenches",
+    "mediaCount": 248,
+    "name": "Sandly",
+    "normalFollowersCount": 14875,
+    "pinnedTweetIdsStr": [
+      "1976058718816289099"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1782699996527362048/1720781849",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1983067617603825664/GHOaCYod_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "Sandlily163",
+    "statusesCount": 3121,
+    "translatorType": "none",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [
+      {
+        "iconName": "IconBriefcaseStroke",
+        "id": 688,
+        "name": "Non-Governmental & Nonprofit Organization "
+      }
+    ],
+    "professionalType": "Creator",
+    "restId": "1905553203804164587"
+  },
+  "profileImageShape": "Circle",
+  "restId": "1782699996527362048",
+  "tipjarSettings": {}
+}

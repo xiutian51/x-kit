@@ -1,0 +1,67 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxMjk5NTIzNjMyODY4MTEwMzM4",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Sat Aug 29 01:46:02 +0000 2020",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "I find the AI / Robotics / Crypto things everyone will talk about in 12 months. Running @cot_research. Ex-physician turned researcher. ↓ Newsletter (10k+ subs)",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "chainofthought.xyz/main",
+            "expanded_url": "https://chainofthought.xyz/main",
+            "url": "https://t.co/bxvUnC9HPg",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 28984,
+    "followersCount": 39905,
+    "following": true,
+    "friendsCount": 6689,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 1617,
+    "location": "",
+    "mediaCount": 1959,
+    "name": "Teng Yan · Chain of Thought AI",
+    "normalFollowersCount": 39905,
+    "pinnedTweetIdsStr": [
+      "1998548737136955831"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1299523632868110338/1764311515",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1822948258752442368/rqjcPBNB_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "tengyanAI",
+    "statusesCount": 23193,
+    "translatorType": "none",
+    "url": "https://t.co/bxvUnC9HPg",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [],
+    "professionalType": "Creator",
+    "restId": "1566611911545720834"
+  },
+  "profileImageShape": "Circle",
+  "restId": "1299523632868110338",
+  "tipjarSettings": {}
+}

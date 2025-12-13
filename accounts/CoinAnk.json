@@ -1,0 +1,91 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxMzkzODgzOTA1NzgyOTkyODk5",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Sun May 16 11:00:05 +0000 2021",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "🔍 A platform for cryptocurrency order flow and futures contract data analysis. App download: https://t.co/m9i18sfphu | Linktree: https://t.co/0urkRbgMK6",
+    "entities": {
+      "description": {
+        "urls": [
+          {
+            "display_url": "coinank.com/download",
+            "expanded_url": "https://coinank.com/download",
+            "url": "https://t.co/m9i18sfphu",
+            "indices": [
+              93,
+              116
+            ]
+          },
+          {
+            "display_url": "linktr.ee/coinank",
+            "expanded_url": "https://linktr.ee/coinank",
+            "url": "https://t.co/0urkRbgMK6",
+            "indices": [
+              129,
+              152
+            ]
+          }
+        ]
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "coinank.com",
+            "expanded_url": "https://coinank.com/",
+            "url": "https://t.co/HO2XcSxP3z",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 1940,
+    "followersCount": 13565,
+    "following": true,
+    "friendsCount": 166,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 137,
+    "location": "Metaverse",
+    "mediaCount": 1783,
+    "name": "CoinAnk",
+    "normalFollowersCount": 13565,
+    "pinnedTweetIdsStr": [],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1393883905782992899/1702270003",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1989168765964283909/AoIN2JnA_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "CoinAnk",
+    "statusesCount": 3598,
+    "translatorType": "none",
+    "url": "https://t.co/HO2XcSxP3z",
+    "verified": false,
+    "verifiedType": "Business",
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [
+      {
+        "iconName": "IconBriefcaseStroke",
+        "id": 724,
+        "name": "Internet Company"
+      }
+    ],
+    "professionalType": "Business",
+    "restId": "1487841128552738820"
+  },
+  "profileImageShape": "Square",
+  "restId": "1393883905782992899",
+  "tipjarSettings": {}
+}

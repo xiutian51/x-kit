@@ -1,0 +1,62 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNDQ2NzcxODIzMzc1Mzg0NTc4",
+  "isBlueVerified": false,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": false,
+    "createdAt": "Sat Oct 09 09:37:48 +0000 2021",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "Top #1 #DEX built on @solana 's @Neon_EVM | Now building The #1st Tap2Earn Game on @solana",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "linktr.ee/moraswap",
+            "expanded_url": "https://linktr.ee/moraswap",
+            "url": "https://t.co/125QKB7xUI",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 927,
+    "followersCount": 5858,
+    "following": true,
+    "friendsCount": 68,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 55,
+    "location": "Solana",
+    "mediaCount": 77,
+    "name": "MoraSwap",
+    "normalFollowersCount": 5858,
+    "pinnedTweetIdsStr": [
+      "1853653475344994685"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1446771823375384578/1688279841",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1462721887423717377/P2BYoALE_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "moraswap_amm",
+    "statusesCount": 357,
+    "translatorType": "none",
+    "url": "https://t.co/125QKB7xUI",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "profileImageShape": "Circle",
+  "restId": "1446771823375384578",
+  "tipjarSettings": {}
+}

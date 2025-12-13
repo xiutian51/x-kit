@@ -1,0 +1,62 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxOTM4OTYzMDA4",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": false,
+    "createdAt": "Sat Oct 05 22:00:24 +0000 2013",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "荣格信徒；医学科普&原研药专业解决方案~",
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 162915,
+    "followersCount": 148196,
+    "following": true,
+    "friendsCount": 759,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 806,
+    "location": "Thailand",
+    "mediaCount": 5124,
+    "name": "Dr.Wang",
+    "normalFollowersCount": 148196,
+    "pinnedTweetIdsStr": [
+      "1771438123500847385"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1938963008/1724268730",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1826341547211980807/ijybUGyB_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "HotmailfromSH",
+    "statusesCount": 57156,
+    "translatorType": "none",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [
+      {
+        "iconName": "IconBriefcaseStroke",
+        "id": 584,
+        "name": "Medical & Health"
+      }
+    ],
+    "professionalType": "Business",
+    "restId": "1675308451084533761"
+  },
+  "profileImageShape": "Circle",
+  "restId": "1938963008",
+  "superFollowEligible": true,
+  "tipjarSettings": {
+    "isEnabled": true
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxMzI5ODA3Mg==",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Sun Feb 10 01:12:32 +0000 2008",
+    "defaultProfile": false,
+    "defaultProfileImage": false,
+    "description": "Electric vehicles, giant batteries & solar, AI & robotics",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "tesla.com",
+            "expanded_url": "https://www.tesla.com",
+            "url": "https://t.co/EJC6qVEJnC",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 7394,
+    "followersCount": 24547510,
+    "following": true,
+    "friendsCount": 79,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 27821,
+    "location": "",
+    "mediaCount": 1932,
+    "name": "Tesla",
+    "normalFollowersCount": 24547510,
+    "pinnedTweetIdsStr": [
+      "1986554051316838408"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/13298072/1762567360",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1337607516008501250/6Ggc4S5n_normal.png",
+    "profileInterstitialType": "",
+    "screenName": "Tesla",
+    "statusesCount": 10002,
+    "translatorType": "none",
+    "url": "https://t.co/EJC6qVEJnC",
+    "verified": false,
+    "verifiedType": "Business",
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [],
+    "professionalType": "Business",
+    "restId": "1590468365159636997"
+  },
+  "profileImageShape": "Square",
+  "restId": "13298072",
+  "tipjarSettings": {}
+}

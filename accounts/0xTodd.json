@@ -1,0 +1,76 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjo3NzkyMDE4Nzk5MTM4MDM3NzY=",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Fri Sep 23 06:12:59 +0000 2016",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "Long BTC, Love the World |\n\n热衷研究 |\n\n在 @researchnothing 琢磨策略 |\n在 @ebunker_eth 打包区块 |\n\n#Binance 远古交易用户 https://t.co/42whA3ioyb |\n#OKX 资深钱包用户 https://t.co/8Aes1jx1Xn |\n\nNFA",
+    "entities": {
+      "description": {
+        "urls": [
+          {
+            "display_url": "binance.com",
+            "expanded_url": "http://binance.com",
+            "url": "https://t.co/42whA3ioyb",
+            "indices": [
+              101,
+              124
+            ]
+          },
+          {
+            "display_url": "web3.okx.com",
+            "expanded_url": "http://web3.okx.com",
+            "url": "https://t.co/8Aes1jx1Xn",
+            "indices": [
+              139,
+              162
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 4495,
+    "followersCount": 69299,
+    "following": true,
+    "friendsCount": 2899,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 1597,
+    "location": "Singapore",
+    "mediaCount": 1449,
+    "name": "0xTodd",
+    "normalFollowersCount": 69299,
+    "pinnedTweetIdsStr": [],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/779201879913803776/1648483272",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1863860454348791808/77qlWd0q_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "0xTodd",
+    "statusesCount": 9777,
+    "translatorType": "none",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [
+      {
+        "iconName": "IconBriefcaseStroke",
+        "id": 199,
+        "name": "Investment Company"
+      }
+    ],
+    "professionalType": "Creator",
+    "restId": "1455795425764540416"
+  },
+  "profileImageShape": "Circle",
+  "restId": "779201879913803776",
+  "tipjarSettings": {}
+}

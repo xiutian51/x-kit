@@ -1,0 +1,73 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {
+    "label": {
+      "url": {
+        "url": "https://twitter.com/gmgnai",
+        "urlType": "DeepLink"
+      },
+      "badge": {
+        "url": "https://pbs.twimg.com/profile_images/1998601173205659657/8noZT-3I_bigger.jpg"
+      },
+      "description": "GMGN.Ai",
+      "userLabelType": "BusinessLabel",
+      "userLabelDisplayType": "Badge"
+    }
+  },
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxMzQxODQxNDk5NTcxNTYwNDQ4",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Wed Dec 23 20:22:03 +0000 2020",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "勿以善小而不为\n\nFounder of Corleone FNF",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "t.me/corleonefnf",
+            "expanded_url": "http://t.me/corleonefnf",
+            "url": "https://t.co/sKl4DBL1rC",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 1769,
+    "followersCount": 35783,
+    "following": true,
+    "friendsCount": 4134,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 883,
+    "location": "Torino,IT",
+    "mediaCount": 648,
+    "name": "JAMES",
+    "normalFollowersCount": 35783,
+    "pinnedTweetIdsStr": [],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1341841499571560448/1641580186",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1948311340118118400/je9a4Ppk_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "corleonefnf",
+    "statusesCount": 2765,
+    "translatorType": "none",
+    "url": "https://t.co/sKl4DBL1rC",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "profileImageShape": "Circle",
+  "restId": "1341841499571560448",
+  "tipjarSettings": {}
+}

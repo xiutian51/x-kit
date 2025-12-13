@@ -1,0 +1,81 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjo0ODI1MDk3NA==",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": false,
+    "createdAt": "Thu Jun 18 04:55:16 +0000 2009",
+    "defaultProfile": false,
+    "defaultProfileImage": false,
+    "description": "Cartelscope »  https://t.co/iJAWDJ15Ac\n\nBull Market Top Playbook  »  https://t.co/24HnsR9wdI",
+    "entities": {
+      "description": {
+        "urls": [
+          {
+            "display_url": "alchemicalintel.com/cartelscope",
+            "expanded_url": "https://www.alchemicalintel.com/cartelscope",
+            "url": "https://t.co/iJAWDJ15Ac",
+            "indices": [
+              15,
+              38
+            ]
+          },
+          {
+            "display_url": "alchemicalintel.com",
+            "expanded_url": "https://www.alchemicalintel.com",
+            "url": "https://t.co/24HnsR9wdI",
+            "indices": [
+              69,
+              92
+            ]
+          }
+        ]
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "alchemicalintel.com",
+            "expanded_url": "https://www.alchemicalintel.com/",
+            "url": "https://t.co/HNKaIxDKQA",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 6878,
+    "followersCount": 51145,
+    "following": true,
+    "friendsCount": 768,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 1307,
+    "location": "as above » so below",
+    "mediaCount": 1051,
+    "name": "Cole Garner",
+    "normalFollowersCount": 51145,
+    "pinnedTweetIdsStr": [
+      "1929587595115450761"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/48250974/1734576684",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1366129100889317377/ZvojWQ0f_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "ColeGarnersTake",
+    "statusesCount": 7416,
+    "translatorType": "none",
+    "url": "https://t.co/HNKaIxDKQA",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "profileImageShape": "Circle",
+  "restId": "48250974",
+  "tipjarSettings": {}
+}

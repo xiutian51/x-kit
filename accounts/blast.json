@@ -1,0 +1,73 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNjg2MDg5MzkzMjY4NzUyMzg0",
+  "isBlueVerified": false,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Mon Jul 31 19:00:20 +0000 2023",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "Earn over 50% APY on USD from your phone by holding $BLAST. Send money anywhere. Onboard in less than a minute: https://t.co/xLSpxUSPVs",
+    "entities": {
+      "description": {
+        "urls": [
+          {
+            "display_url": "blast.io",
+            "expanded_url": "http://blast.io",
+            "url": "https://t.co/xLSpxUSPVs",
+            "indices": [
+              112,
+              135
+            ]
+          }
+        ]
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "blast.io",
+            "expanded_url": "https://blast.io",
+            "url": "https://t.co/ZCTrdMk0tB",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 406,
+    "followersCount": 707066,
+    "following": true,
+    "friendsCount": 128,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 1201,
+    "location": "USA",
+    "mediaCount": 136,
+    "name": "Blast",
+    "normalFollowersCount": 707066,
+    "pinnedTweetIdsStr": [
+      "1882573417347723382"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1686089393268752384/1737675046",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1805963937449381888/aNF8BIJo_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "blast",
+    "statusesCount": 871,
+    "translatorType": "none",
+    "url": "https://t.co/ZCTrdMk0tB",
+    "verified": false,
+    "verifiedType": "Business",
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "profileImageShape": "Square",
+  "restId": "1686089393268752384",
+  "tipjarSettings": {}
+}

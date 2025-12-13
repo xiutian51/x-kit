@@ -1,0 +1,57 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxMDcwNTA3MDM1NzczNDYwNDgw",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": false,
+    "canMediaTag": true,
+    "createdAt": "Thu Dec 06 02:35:41 +0000 2018",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "MYX CPO, CFA Chartholder, Trader, Builder, Hodler",
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 192,
+    "followersCount": 3420,
+    "following": true,
+    "friendsCount": 92,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 4,
+    "location": "Singapore",
+    "mediaCount": 15,
+    "name": "Ryan",
+    "normalFollowersCount": 3420,
+    "pinnedTweetIdsStr": [],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1070507035773460480/1704260209",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1906657540882264064/cgDK7a3F_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "RyanMYX",
+    "statusesCount": 180,
+    "translatorType": "none",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [
+      {
+        "iconName": "IconBriefcaseStroke",
+        "id": 958,
+        "name": "Entrepreneur"
+      }
+    ],
+    "professionalType": "Creator",
+    "restId": "1742420427354632523"
+  },
+  "profileImageShape": "Circle",
+  "restId": "1070507035773460480",
+  "tipjarSettings": {}
+}

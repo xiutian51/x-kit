@@ -1,0 +1,62 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNTMwNTg5MzExODYyODE2Nzcy",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": false,
+    "createdAt": "Sat May 28 16:38:40 +0000 2022",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "🐎💹🌐🍀",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "t.me/zunzunchannel",
+            "expanded_url": "http://t.me/zunzunchannel",
+            "url": "https://t.co/NEuAkpFRmq",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 2510,
+    "followersCount": 23978,
+    "following": true,
+    "friendsCount": 783,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 282,
+    "location": "Fatih, İstanbul",
+    "mediaCount": 340,
+    "name": "zunzun",
+    "normalFollowersCount": 23978,
+    "pinnedTweetIdsStr": [
+      "1975750356799005169"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1530589311862816772/1653756743",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1939321724304297984/fIIgXs9T_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "zunzunv",
+    "statusesCount": 932,
+    "translatorType": "none",
+    "url": "https://t.co/NEuAkpFRmq",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "profileImageShape": "Circle",
+  "restId": "1530589311862816772",
+  "tipjarSettings": {}
+}

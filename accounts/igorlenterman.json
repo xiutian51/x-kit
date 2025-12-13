@@ -1,0 +1,53 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNDI5MTEwODUyMzM0OTg1MjIy",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Sat Aug 21 15:59:22 +0000 2021",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "@LimitBreak @FreeNFT",
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 3862,
+    "followersCount": 557413,
+    "following": true,
+    "friendsCount": 343,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 218,
+    "location": "",
+    "mediaCount": 0,
+    "name": "Igor Lenterman",
+    "normalFollowersCount": 557413,
+    "pinnedTweetIdsStr": [
+      "1798430873995645199"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1429110852334985222/1739939301",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1829302598933098496/bA740D-F_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "igorlenterman",
+    "statusesCount": 18,
+    "translatorType": "none",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [],
+    "professionalType": "Creator",
+    "restId": "1594794441360801792"
+  },
+  "profileImageShape": "Circle",
+  "restId": "1429110852334985222",
+  "tipjarSettings": {}
+}

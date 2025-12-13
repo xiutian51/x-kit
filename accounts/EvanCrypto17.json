@@ -1,0 +1,65 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNDc1ODcwMDE0MDUzOTYxNzMx",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Tue Dec 28 16:43:34 +0000 2021",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "Vlogger + Poster. 更好地认识web3 | 油管小红书B站同名:小塞web3 | Telegram:EvanIs17 | X 私信系统可能会屏蔽",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "youtube.com/@evancrypto17",
+            "expanded_url": "https://youtube.com/@evancrypto17",
+            "url": "https://t.co/JjbfELMjJ5",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 11339,
+    "followersCount": 6220,
+    "following": true,
+    "friendsCount": 853,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 142,
+    "location": "上海 欢迎 Coffee talk",
+    "mediaCount": 595,
+    "name": "小塞",
+    "normalFollowersCount": 6220,
+    "pinnedTweetIdsStr": [
+      "1989910800643874955"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1475870014053961731/1748865119",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1910633647985876994/rgUzrlya_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "EvanCrypto17",
+    "statusesCount": 4590,
+    "translatorType": "none",
+    "url": "https://t.co/JjbfELMjJ5",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "profileImageShape": "Circle",
+  "restId": "1475870014053961731",
+  "tipjarSettings": {
+    "ethereumHandle": "0x3ed70f6e1186b99824564710ba2da7516a4df01a",
+    "isEnabled": true
+  }
+}

@@ -1,0 +1,80 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxMTQ2OTg1MjMzOTczMDUxMzky",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Fri Jul 05 03:32:44 +0000 2019",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "Early holder of $SHIB | Alpha hunter | Co-founder @3PDAO\n\nhttps://t.co/ac9TXWchP6",
+    "entities": {
+      "description": {
+        "urls": [
+          {
+            "display_url": "web3.okx.com/ul/joindex?ref…",
+            "expanded_url": "https://web3.okx.com/ul/joindex?ref=XXOOXX",
+            "url": "https://t.co/ac9TXWchP6",
+            "indices": [
+              58,
+              81
+            ]
+          }
+        ]
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "web3.okx.com/ul/joindex?ref…",
+            "expanded_url": "https://web3.okx.com/ul/joindex?ref=XXOOXX",
+            "url": "https://t.co/ac9TXWchP6",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 3559,
+    "followersCount": 16649,
+    "following": true,
+    "friendsCount": 5174,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 401,
+    "location": "",
+    "mediaCount": 619,
+    "name": "0xLeo",
+    "normalFollowersCount": 16649,
+    "pinnedTweetIdsStr": [],
+    "possiblySensitive": false,
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1770905777873797120/VGNZ_ByA_normal.png",
+    "profileInterstitialType": "",
+    "screenName": "0xleo0x",
+    "statusesCount": 8762,
+    "translatorType": "none",
+    "url": "https://t.co/ac9TXWchP6",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [
+      {
+        "iconName": "IconBriefcaseStroke",
+        "id": 1094,
+        "name": "Blockchain"
+      }
+    ],
+    "professionalType": "Creator",
+    "restId": "1525516829426188289"
+  },
+  "profileImageShape": "Circle",
+  "restId": "1146985233973051392",
+  "tipjarSettings": {}
+}

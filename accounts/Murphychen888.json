@@ -1,0 +1,69 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjo5NzI2NTI5NTIwOTg3NjI3NTI=",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Sun Mar 11 01:58:29 +0000 2018",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "17年老韭菜；研究链上数据和宏观情绪相结合，构建自己的交易思维。保持谨慎乐观！|  近3亿用户的共同选择就在币安：https://t.co/5pQWuny9gU  |  #OKX web3入口一个就够 https://t.co/YwY7pIgKzB",
+    "entities": {
+      "description": {
+        "urls": [
+          {
+            "display_url": "binance.com",
+            "expanded_url": "http://www.binance.com",
+            "url": "https://t.co/5pQWuny9gU",
+            "indices": [
+              57,
+              80
+            ]
+          },
+          {
+            "display_url": "okx.com/cn/web3?channe…",
+            "expanded_url": "https://www.okx.com/cn/web3?channelid=ACE514158",
+            "url": "https://t.co/YwY7pIgKzB",
+            "indices": [
+              101,
+              124
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 15347,
+    "followedBy": true,
+    "followersCount": 73752,
+    "following": true,
+    "friendsCount": 838,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 2139,
+    "location": "",
+    "mediaCount": 1165,
+    "name": "Murphy",
+    "normalFollowersCount": 73752,
+    "pinnedTweetIdsStr": [
+      "1725374664858652867"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/972652952098762752/1741400493",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1886766041419931648/5seFXKGC_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "Murphychen888",
+    "statusesCount": 14041,
+    "translatorType": "none",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "profileImageShape": "Circle",
+  "restId": "972652952098762752",
+  "superFollowEligible": true,
+  "tipjarSettings": {}
+}

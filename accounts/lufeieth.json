@@ -1,0 +1,62 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxMzg5MDQ1OTI1OTgxNTYwODM2",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": false,
+    "canMediaTag": false,
+    "createdAt": "Mon May 03 02:35:53 +0000 2021",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "1.Find truth, and never lose sight of it. 2. Play long term game. 3. Fast is slow. 4. Avoid risk of ruin. 5.Don’t trust.Verify. 6.Focus on priority.",
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 4833,
+    "followersCount": 8859,
+    "following": true,
+    "friendsCount": 1091,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 168,
+    "location": "",
+    "mediaCount": 1490,
+    "name": "lufei",
+    "normalFollowersCount": 8859,
+    "pinnedTweetIdsStr": [
+      "1552677758911754242"
+    ],
+    "possiblySensitive": false,
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1905215863000883200/33a4JXnS_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "lufeieth",
+    "statusesCount": 9548,
+    "translatorType": "none",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [
+      {
+        "iconName": "IconBriefcaseStroke",
+        "id": 144,
+        "name": "Education"
+      }
+    ],
+    "professionalType": "Business",
+    "restId": "1510402725837942785"
+  },
+  "profileImageShape": "Circle",
+  "restId": "1389045925981560836",
+  "tipjarSettings": {
+    "bitcoinHandle": "bc1q2dt500n03k2dzavzzwph6jl2qw9lc5xy09rqju",
+    "ethereumHandle": "0x6dC33B4fdAFd9032d2e66e7Ee3A0f0923403cec8",
+    "isEnabled": true
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNTQ3OTM1MjMzOTk1MzIxMzQ0",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Fri Jul 15 13:25:12 +0000 2022",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "币圈第一牢骚大王（非正式）｜小作文作者｜Web3犹太人主任｜Web3 Venture Fund｜BAYC #3481｜PUNK #7922｜@UCLA Alum | @CEIBS Alum |犹太人扯淡群 私信我 | Supporting @foretokenpro",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "link3.to/thecryptojew",
+            "expanded_url": "https://link3.to/thecryptojew",
+            "url": "https://t.co/dc6S53uwxF",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 1474,
+    "followersCount": 18118,
+    "following": true,
+    "friendsCount": 1184,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 188,
+    "location": "Singapore",
+    "mediaCount": 376,
+    "name": "犹太赵主任",
+    "normalFollowersCount": 18118,
+    "pinnedTweetIdsStr": [
+      "1906728546879651877"
+    ],
+    "possiblySensitive": false,
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1575695209802870784/BQPLgOF-_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "zchrhrhr",
+    "statusesCount": 4025,
+    "translatorType": "none",
+    "url": "https://t.co/dc6S53uwxF",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [
+      {
+        "iconName": "IconBriefcaseStroke",
+        "id": 192,
+        "name": "Financial Services"
+      }
+    ],
+    "professionalType": "Creator",
+    "restId": "1585918315255320576"
+  },
+  "profileImageShape": "Circle",
+  "restId": "1547935233995321344",
+  "tipjarSettings": {}
+}

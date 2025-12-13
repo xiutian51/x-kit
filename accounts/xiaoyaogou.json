@@ -1,0 +1,63 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNTY3OTU1NTcyNjU3NjM5NDI0",
+  "isBlueVerified": false,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": false,
+    "createdAt": "Thu Sep 08 19:18:49 +0000 2022",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "There is no light without integrity",
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 822,
+    "followedBy": true,
+    "followersCount": 157,
+    "following": true,
+    "friendsCount": 1125,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 1,
+    "location": "Kasugai-shi, Aichi",
+    "mediaCount": 36,
+    "name": "lighthouse-swarms",
+    "normalFollowersCount": 157,
+    "pinnedTweetIdsStr": [
+      "1626198697930526722"
+    ],
+    "possiblySensitive": false,
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1876034809207873536/1A8F4Eyg_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "xiaoyaogou",
+    "statusesCount": 3958,
+    "translatorType": "none",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [
+      {
+        "iconName": "IconBriefcaseStroke",
+        "id": 49,
+        "name": "Dance & Night Club"
+      }
+    ],
+    "professionalType": "Business",
+    "restId": "1624649293977260032"
+  },
+  "profileImageShape": "Circle",
+  "restId": "1567955572657639424",
+  "tipjarSettings": {
+    "bitcoinHandle": "bc1qzef7rkvkqnxhlfzr3p6p3f8e47jeueff5xqhy8",
+    "ethereumHandle": "0x316580Cb744A4181c48c428dA08aaD1bA1106C3C",
+    "isEnabled": true
+  }
+}

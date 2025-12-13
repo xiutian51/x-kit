@@ -1,0 +1,60 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNjgzNDY1MDg0NjQxODc4MDE2",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": false,
+    "canMediaTag": true,
+    "createdAt": "Mon Jul 24 13:13:16 +0000 2023",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "Shitpost｜CEX Researcher｜Degen & DePolitics｜Earth Traveling｜ TW ❤️🏊‍♂️🏋️‍♀️✈️🦖🐱👻",
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 1450,
+    "followersCount": 1617,
+    "following": true,
+    "friendsCount": 920,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 12,
+    "location": "Denver, CO",
+    "mediaCount": 430,
+    "name": "Rix",
+    "normalFollowersCount": 1617,
+    "pinnedTweetIdsStr": [],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1683465084641878016/1695733010",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1697487538922078208/miKBq98h_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "Rixassassin_eth",
+    "statusesCount": 2164,
+    "translatorType": "none",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [
+      {
+        "iconName": "IconBriefcaseStroke",
+        "id": 934,
+        "name": "Social Media Influencer"
+      }
+    ],
+    "professionalType": "Business",
+    "restId": "1734036236229349689"
+  },
+  "profileImageShape": "Circle",
+  "restId": "1683465084641878016",
+  "tipjarSettings": {
+    "ethereumHandle": "0xDA8A5667122e0c4B821465b5741A41Fd6aFb8009",
+    "isEnabled": true
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNTY0OTI3MTQwNjA0NTc1NzUx",
+  "isBlueVerified": false,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Wed Aug 31 10:44:45 +0000 2022",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "🔥 Bring your Web3 communities closer together with me(me) \n🎮 Your gamified Web3 social Space",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "linktr.ee/letusmeme",
+            "expanded_url": "https://linktr.ee/letusmeme",
+            "url": "https://t.co/s0B3xH8VCU",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 69,
+    "followersCount": 13222,
+    "following": true,
+    "friendsCount": 0,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 9,
+    "location": "Hong Kong",
+    "mediaCount": 37,
+    "name": "LetsMeme | T.xyz",
+    "normalFollowersCount": 13222,
+    "pinnedTweetIdsStr": [
+      "1621396097569792001"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1564927140604575751/1678266089",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1633394471533686785/lXnsmv0D_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "Letusmeme3",
+    "statusesCount": 62,
+    "translatorType": "none",
+    "url": "https://t.co/s0B3xH8VCU",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "profileImageShape": "Circle",
+  "restId": "1564927140604575751",
+  "tipjarSettings": {}
+}

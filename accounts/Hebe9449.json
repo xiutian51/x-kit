@@ -1,0 +1,61 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNDg2OTU3MDc1Nzk2MTY4NzA2",
+  "isBlueVerified": false,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Fri Jan 28 06:59:38 +0000 2022",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "Defined by limits, driven by spirit, freed by water.",
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 3909,
+    "followedBy": true,
+    "followersCount": 9190,
+    "following": true,
+    "friendsCount": 1908,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 37,
+    "location": "Dubai",
+    "mediaCount": 176,
+    "name": "Hebe鹿由",
+    "normalFollowersCount": 9190,
+    "pinnedTweetIdsStr": [],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1486957075796168706/1743254968",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1975603467743076352/FfrPyimL_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "Hebe9449",
+    "statusesCount": 1522,
+    "translatorType": "none",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [
+      {
+        "iconName": "IconBriefcaseStroke",
+        "id": 1042,
+        "name": "Content Creator"
+      }
+    ],
+    "professionalType": "Business",
+    "restId": "1608416155223592960"
+  },
+  "profileImageShape": "Circle",
+  "restId": "1486957075796168706",
+  "tipjarSettings": {
+    "ethereumHandle": "0x856693171Ca32030200fD8F4738b261F86Cc6D3B",
+    "isEnabled": true
+  }
+}

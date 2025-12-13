@@ -1,0 +1,58 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjo5MDA5MzUxMjM5Njg3MzcyODE=",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Fri Aug 25 04:17:26 +0000 2017",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "注意：此帐户中提到的任何内容都不是投资建议 本推特提到的任何项目都不要信，不要看，不要点，更不要买",
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 279,
+    "followersCount": 399683,
+    "following": true,
+    "friendsCount": 1372,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 5071,
+    "location": "",
+    "mediaCount": 1278,
+    "name": "何币",
+    "normalFollowersCount": 399683,
+    "pinnedTweetIdsStr": [],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/900935123968737281/1741063821",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1677888294661791748/GzBJhJcb_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "hebi555",
+    "statusesCount": 6669,
+    "translatorType": "none",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [
+      {
+        "iconName": "IconBriefcaseStroke",
+        "id": 713,
+        "name": "Science & Technology"
+      }
+    ],
+    "professionalType": "Business",
+    "restId": "1478343140054827014"
+  },
+  "profileImageShape": "Circle",
+  "restId": "900935123968737281",
+  "superFollowEligible": true,
+  "tipjarSettings": {}
+}

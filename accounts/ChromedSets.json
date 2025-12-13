@@ -1,0 +1,58 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNTc1MzY3OTI2NDI0OTM2NDQ4",
+  "isBlueVerified": false,
+  "legacy": {
+    "canDm": false,
+    "canMediaTag": true,
+    "createdAt": "Thu Sep 29 06:12:45 +0000 2022",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "The oppAI are Free to Use, Reference and Modify, No Credit Needed.\nSometimes retweet SD stuff\nRan by an actual artist : https://t.co/DeSPklYVyJ",
+    "entities": {
+      "description": {
+        "urls": [
+          {
+            "display_url": "twitter.com/setawar",
+            "expanded_url": "https://twitter.com/setawar",
+            "url": "https://t.co/DeSPklYVyJ",
+            "indices": [
+              120,
+              143
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 24,
+    "followersCount": 85943,
+    "following": true,
+    "friendsCount": 7,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 394,
+    "location": "",
+    "mediaCount": 185,
+    "name": "ChromedSets (Stable Diffusion + Waifu Model)",
+    "normalFollowersCount": 85943,
+    "pinnedTweetIdsStr": [
+      "1577637652471218176"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1575367926424936448/1664469042",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1575372974320156673/ilw0ko2A_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "ChromedSets",
+    "statusesCount": 305,
+    "translatorType": "none",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "profileImageShape": "Circle",
+  "restId": "1575367926424936448",
+  "tipjarSettings": {}
+}

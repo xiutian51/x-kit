@@ -1,0 +1,72 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjo0ODY3ODI1Mzc=",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Wed Feb 08 17:18:50 +0000 2012",
+    "defaultProfile": false,
+    "defaultProfileImage": false,
+    "description": "Scholar, journalist, author, filmmaker, and human rights activist",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "beacons.ai/sashagong",
+            "expanded_url": "https://beacons.ai/sashagong",
+            "url": "https://t.co/Is3hf4hOr1",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 156,
+    "followersCount": 109472,
+    "following": true,
+    "friendsCount": 201,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 387,
+    "location": "Washington, DC",
+    "mediaCount": 2725,
+    "name": "龚小夏 Sasha Gong",
+    "normalFollowersCount": 109472,
+    "pinnedTweetIdsStr": [],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/486782537/1558975420",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1061753899277864961/NcZTLTFN_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "Sasha_Gong",
+    "statusesCount": 18048,
+    "translatorType": "none",
+    "url": "https://t.co/Is3hf4hOr1",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [
+      {
+        "iconName": "IconBriefcaseStroke",
+        "id": 955,
+        "name": "Journalist"
+      }
+    ],
+    "professionalType": "Business",
+    "restId": "1602404578623897603"
+  },
+  "profileImageShape": "Circle",
+  "restId": "486782537",
+  "superFollowEligible": true,
+  "tipjarSettings": {}
+}

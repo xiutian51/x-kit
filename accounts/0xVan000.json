@@ -1,0 +1,83 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNDIzMjEzNTYxMTM2ODI4NDE2",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Thu Aug 05 09:25:44 +0000 2021",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "币安广场创作者：Van社长\nTelegram：https://t.co/xkE8lUlffB\n币安注册🔗：https://t.co/9f6RMYGgY9",
+    "entities": {
+      "description": {
+        "urls": [
+          {
+            "display_url": "t.me/VanOrz",
+            "expanded_url": "https://t.me/VanOrz",
+            "url": "https://t.co/xkE8lUlffB",
+            "indices": [
+              23,
+              46
+            ]
+          },
+          {
+            "display_url": "binance.com/join?ref=VANVAN",
+            "expanded_url": "https://www.binance.com/join?ref=VANVAN",
+            "url": "https://t.co/9f6RMYGgY9",
+            "indices": [
+              53,
+              76
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 668,
+    "followedBy": true,
+    "followersCount": 8051,
+    "following": true,
+    "friendsCount": 1157,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 17,
+    "location": "Japan",
+    "mediaCount": 167,
+    "name": "Van 🔶 BNB",
+    "normalFollowersCount": 8051,
+    "pinnedTweetIdsStr": [
+      "1856979375415333200"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1423213561136828416/1709644323",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1765002323166941184/hHbTdDlm_normal.png",
+    "profileInterstitialType": "",
+    "screenName": "0xVan000",
+    "statusesCount": 1267,
+    "translatorType": "none",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [
+      {
+        "iconName": "IconBriefcaseStroke",
+        "id": 192,
+        "name": "Financial Services"
+      }
+    ],
+    "professionalType": "Creator",
+    "restId": "1905298148035383695"
+  },
+  "profileImageShape": "Circle",
+  "restId": "1423213561136828416",
+  "tipjarSettings": {
+    "bitcoinHandle": "bc1qan6xt75hhgs30na9yshd502x9yptnxnr0prlfq",
+    "ethereumHandle": "0xff3545C7c9b7283736a37477f43Bb9dcA2Dc332f",
+    "isEnabled": true
+  }
+}

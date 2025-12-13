@@ -1,0 +1,70 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxODY0NzU4MzY5MTgzMjQwMTk0",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Thu Dec 05 19:47:01 +0000 2024",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "Exploring new ways to visualize the blockchain\n\nhttps://t.co/MLf0zXtUeH\n\nCheck out our AI Agent Quanty: @quantygg",
+    "entities": {
+      "description": {
+        "urls": [
+          {
+            "display_url": "docs.quantify.gg",
+            "expanded_url": "http://docs.quantify.gg",
+            "url": "https://t.co/MLf0zXtUeH",
+            "indices": [
+              48,
+              71
+            ]
+          }
+        ]
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "quantify.gg",
+            "expanded_url": "https://www.quantify.gg/",
+            "url": "https://t.co/3cBHNrrAao",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 44,
+    "followersCount": 5368,
+    "following": true,
+    "friendsCount": 5,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 39,
+    "location": "",
+    "mediaCount": 20,
+    "name": "Quantify",
+    "normalFollowersCount": 5368,
+    "pinnedTweetIdsStr": [],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1864758369183240194/1733455195",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1864862469044277248/25SU1c_2_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "quantifygg",
+    "statusesCount": 80,
+    "translatorType": "none",
+    "url": "https://t.co/3cBHNrrAao",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "profileImageShape": "Circle",
+  "restId": "1864758369183240194",
+  "tipjarSettings": {}
+}

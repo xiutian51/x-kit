@@ -1,0 +1,74 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoyODk2ODkyMTA4",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Tue Nov 11 22:11:56 +0000 2014",
+    "defaultProfile": false,
+    "defaultProfileImage": false,
+    "description": "🇰🇷 Creator of KRWQ, the first tradeable & multichain KRW stablecoin @KrwqCash ✨ Tokenized Agents for DeFAI, Robotics and Beyond 🧠 Powered by the IQ token",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "iqai.com",
+            "expanded_url": "https://iqai.com/",
+            "url": "https://t.co/Z2VoaJYFlO",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 16986,
+    "followersCount": 134168,
+    "following": true,
+    "friendsCount": 2282,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 513,
+    "location": "",
+    "mediaCount": 1804,
+    "name": "IQ AI",
+    "normalFollowersCount": 134168,
+    "pinnedTweetIdsStr": [
+      "1983750936091914434"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/2896892108/1734031690",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1880008966316650496/IQ6TqEUB_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "IQAICOM",
+    "statusesCount": 16597,
+    "translatorType": "none",
+    "url": "https://t.co/Z2VoaJYFlO",
+    "verified": false,
+    "verifiedType": "Business",
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [
+      {
+        "iconName": "IconBriefcaseStroke",
+        "id": 713,
+        "name": "Science & Technology"
+      }
+    ],
+    "professionalType": "Business",
+    "restId": "1573110203507056640"
+  },
+  "profileImageShape": "Square",
+  "restId": "2896892108",
+  "tipjarSettings": {}
+}

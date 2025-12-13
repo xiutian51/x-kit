@@ -1,0 +1,76 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxMDI2NjQ5NDY1MzM4MjIwNTQ0",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": false,
+    "createdAt": "Tue Aug 07 02:01:21 +0000 2018",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "感恩每一天",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "youtube.com/channel/UC3dnu…",
+            "expanded_url": "https://www.youtube.com/channel/UC3dnuk4wV2DPxui3OheQOrA",
+            "url": "https://t.co/CRzf4PG9Mj",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 2989,
+    "followersCount": 79344,
+    "following": true,
+    "friendsCount": 2030,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 1699,
+    "location": "",
+    "mediaCount": 2213,
+    "name": "SweetY🍐",
+    "normalFollowersCount": 79344,
+    "pinnedTweetIdsStr": [
+      "1973404875959705840"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1026649465338220544/1742363677",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1996776686088810496/Q0U2OIJB_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "shirleyusy",
+    "statusesCount": 15048,
+    "translatorType": "none",
+    "url": "https://t.co/CRzf4PG9Mj",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [
+      {
+        "iconName": "IconBriefcaseStroke",
+        "id": 192,
+        "name": "Financial Services"
+      }
+    ],
+    "professionalType": "Creator",
+    "restId": "1526524619586359296"
+  },
+  "profileImageShape": "Circle",
+  "restId": "1026649465338220544",
+  "superFollowEligible": true,
+  "tipjarSettings": {
+    "isEnabled": true
+  }
+}

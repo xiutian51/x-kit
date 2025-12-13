@@ -1,0 +1,46 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoyMjY4MjczNjEx",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Wed Jan 08 06:18:44 +0000 2014",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "ai waifus @waifuchat_ai",
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 65274,
+    "followersCount": 5269,
+    "following": true,
+    "friendsCount": 791,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 42,
+    "location": "bkk",
+    "mediaCount": 503,
+    "name": "eric",
+    "normalFollowersCount": 5269,
+    "pinnedTweetIdsStr": [],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/2268273611/1736903604",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1884797719560290304/PSDvbrrW_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "itsmnjn",
+    "statusesCount": 3385,
+    "translatorType": "none",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "profileImageShape": "Circle",
+  "restId": "2268273611",
+  "tipjarSettings": {}
+}

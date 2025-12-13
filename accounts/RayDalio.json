@@ -1,0 +1,62 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjo2MjYwMzg5Mw==",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": false,
+    "canMediaTag": false,
+    "createdAt": "Mon Aug 03 19:47:29 +0000 2009",
+    "defaultProfile": false,
+    "defaultProfileImage": false,
+    "description": "Official account of Ray Dalio, founder of Bridgewater Associates, author of #1 New York Times bestseller 'Principles,' professional mistake maker",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "amazon.com/Principles-Inv…",
+            "expanded_url": "https://www.amazon.com/Principles-Investment-Economic-Ray-Dalio/dp/1501124064?maas=maas_adg_D4315942",
+            "url": "https://t.co/HhPuFKOHgD",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 217,
+    "followersCount": 1805395,
+    "following": true,
+    "friendsCount": 91,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 14160,
+    "location": "",
+    "mediaCount": 3154,
+    "name": "Ray Dalio",
+    "normalFollowersCount": 1805395,
+    "pinnedTweetIdsStr": [
+      "1991500536856576200"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/62603893/1764688978",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1465691046747283461/3ZtnoH5-_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "RayDalio",
+    "statusesCount": 7050,
+    "translatorType": "none",
+    "url": "https://t.co/HhPuFKOHgD",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "profileImageShape": "Circle",
+  "restId": "62603893",
+  "tipjarSettings": {}
+}

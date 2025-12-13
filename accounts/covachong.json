@@ -1,0 +1,56 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNDI2MjUyNjU5MjI5NDc4OTEz",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Fri Aug 13 18:43:09 +0000 2021",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "",
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 15441,
+    "followedBy": true,
+    "followersCount": 21594,
+    "following": true,
+    "friendsCount": 4192,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 61,
+    "location": "Kuala Lumpur Federal Territory",
+    "mediaCount": 276,
+    "name": "Cova",
+    "normalFollowersCount": 21594,
+    "pinnedTweetIdsStr": [
+      "1851627952720761332"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1426252659229478913/1730997783",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1898448330377846784/vmVZFu2r_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "covachong",
+    "statusesCount": 4008,
+    "translatorType": "none",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [],
+    "professionalType": "Creator",
+    "restId": "1462638577024573440"
+  },
+  "profileImageShape": "Circle",
+  "restId": "1426252659229478913",
+  "tipjarSettings": {
+    "isEnabled": true
+  }
+}

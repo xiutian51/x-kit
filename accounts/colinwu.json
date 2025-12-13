@@ -1,0 +1,74 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {
+    "label": {
+      "url": {
+        "url": "https://twitter.com/WuBlockchain",
+        "urlType": "DeepLink"
+      },
+      "badge": {
+        "url": "https://pbs.twimg.com/profile_images/1763570636201615360/fuFapqAI_bigger.jpg"
+      },
+      "description": "Wu Blockchain",
+      "userLabelType": "BusinessLabel",
+      "userLabelDisplayType": "Badge"
+    }
+  },
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNDU3MjM4MTIxNjc5MzAyNjU3",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Sun Nov 07 06:47:29 +0000 2021",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "吴说主编  @wublockchain @wublockchain12\nTG colinwu1989 欢迎交流\n个人言论与任职机构无关，本账号主要发日常随想，大部分内容和币圈无关，GPT 含量较高\n关注吴说，更可信赖，新闻、深度、音视频等 https://t.co/Ogi9S0FyEs",
+    "entities": {
+      "description": {
+        "urls": [
+          {
+            "display_url": "wublock123.com/html/app/",
+            "expanded_url": "https://www.wublock123.com/html/app/",
+            "url": "https://t.co/Ogi9S0FyEs",
+            "indices": [
+              120,
+              143
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 4027,
+    "followersCount": 76096,
+    "following": true,
+    "friendsCount": 1088,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 1178,
+    "location": "",
+    "mediaCount": 793,
+    "name": "Colin Wu",
+    "normalFollowersCount": 76096,
+    "pinnedTweetIdsStr": [
+      "1794026185925820616"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1457238121679302657/1732870774",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1521814314042073088/iHufnQKe_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "colinwu",
+    "statusesCount": 7865,
+    "translatorType": "none",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "profileImageShape": "Circle",
+  "restId": "1457238121679302657",
+  "tipjarSettings": {
+    "ethereumHandle": "0x030E1678173513F4AfF6790D9bb044C3D8D02E99",
+    "isEnabled": true
+  }
+}

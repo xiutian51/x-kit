@@ -1,0 +1,69 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxMzA2NTQ5MzAzMzUyMTM1Njgx",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Thu Sep 17 11:03:32 +0000 2020",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "Strategy @RootDataCrypto  | Next Claims Capital\nVenture Partner @CatcherVC |Angel Investor|FTX债权",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "link3.to/lonersliu",
+            "expanded_url": "https://link3.to/lonersliu",
+            "url": "https://t.co/O9IY2yDVeM",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 1640,
+    "followersCount": 6879,
+    "following": true,
+    "friendsCount": 2277,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 153,
+    "location": "Rootdata",
+    "mediaCount": 67,
+    "name": "Loners Liu",
+    "normalFollowersCount": 6879,
+    "pinnedTweetIdsStr": [
+      "1881649795967983908"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1306549303352135681/1616655607",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1374979382058479620/sy8LFGYU_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "LonersLiu",
+    "statusesCount": 1072,
+    "translatorType": "none",
+    "url": "https://t.co/O9IY2yDVeM",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [],
+    "professionalType": "Creator",
+    "restId": "1508893932977258496"
+  },
+  "profileImageShape": "Circle",
+  "restId": "1306549303352135681",
+  "tipjarSettings": {
+    "isEnabled": false
+  }
+}

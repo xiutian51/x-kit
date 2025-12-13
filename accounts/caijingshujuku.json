@@ -1,0 +1,65 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxMjYyNTg3NTUzMTYyNDg5ODU2",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": false,
+    "createdAt": "Tue May 19 03:35:14 +0000 2020",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "防止墙内封号，海内外财经数据和思想的保存和收集者！海内外最新财经观点碰撞的平台",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "youtube.com/@caijinglengya…",
+            "expanded_url": "https://youtube.com/@caijinglengyan?si=c8_FduFeV9Xu3KnO",
+            "url": "https://t.co/Nlh6PxIuyO",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 474,
+    "followersCount": 347421,
+    "following": true,
+    "friendsCount": 18,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 1557,
+    "location": "",
+    "mediaCount": 7483,
+    "name": "财经数据库",
+    "normalFollowersCount": 347421,
+    "pinnedTweetIdsStr": [
+      "1964331758616531391"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1262587553162489856/1589859962",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1645446590541463552/r6f6qEtK_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "caijingshujuku",
+    "statusesCount": 17503,
+    "translatorType": "none",
+    "url": "https://t.co/Nlh6PxIuyO",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "profileImageShape": "Circle",
+  "restId": "1262587553162489856",
+  "superFollowEligible": true,
+  "tipjarSettings": {
+    "isEnabled": true
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjo4OTM0NDg0NzYxNDY1NDQ2NDU=",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": false,
+    "canMediaTag": true,
+    "createdAt": "Fri Aug 04 12:28:10 +0000 2017",
+    "defaultProfile": false,
+    "defaultProfileImage": false,
+    "description": "Ren v2: coming soon.",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "renprotocol.org",
+            "expanded_url": "https://renprotocol.org",
+            "url": "https://t.co/G2kdffTUCj",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 521,
+    "followersCount": 119010,
+    "following": true,
+    "friendsCount": 0,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 1699,
+    "location": "",
+    "mediaCount": 131,
+    "name": "Ren",
+    "normalFollowersCount": 119010,
+    "pinnedTweetIdsStr": [
+      "1861441088524812683"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/893448476146544645/1695662088",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1846338959678316544/F6pktDc9_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "renprotocol",
+    "statusesCount": 1207,
+    "translatorType": "none",
+    "url": "https://t.co/G2kdffTUCj",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [],
+    "professionalType": "Business",
+    "restId": "1630290209475641344"
+  },
+  "profileImageShape": "Circle",
+  "restId": "893448476146544645",
+  "tipjarSettings": {}
+}

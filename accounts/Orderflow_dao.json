@@ -1,0 +1,104 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNTc0NzE5MzM1MDc1MDM3MTg1",
+  "isBlueVerified": false,
+  "legacy": {
+    "canDm": false,
+    "canMediaTag": false,
+    "createdAt": "Tue Sep 27 11:15:28 +0000 2022",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "交易员 | 订单流 & 数据流AI驱动交易。\n\n基于Dc的数据流交易分析平台 Minority Pi：https://t.co/ayG1ynKjaz\nTG：https://t.co/YlpQnbVopm\n全平台资源：https://t.co/JIEb1kD5zB",
+    "entities": {
+      "description": {
+        "urls": [
+          {
+            "display_url": "discord.com/invite/NH46Ax4…",
+            "expanded_url": "https://discord.com/invite/NH46Ax4BXe",
+            "url": "https://t.co/ayG1ynKjaz",
+            "indices": [
+              51,
+              74
+            ]
+          },
+          {
+            "display_url": "t.me/DataDaoanalysis",
+            "expanded_url": "https://t.me/DataDaoanalysis",
+            "url": "https://t.co/YlpQnbVopm",
+            "indices": [
+              78,
+              101
+            ]
+          },
+          {
+            "display_url": "bento.me/orderflowdao",
+            "expanded_url": "https://bento.me/orderflowdao",
+            "url": "https://t.co/JIEb1kD5zB",
+            "indices": [
+              108,
+              131
+            ]
+          }
+        ]
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "discord.com/invite/NH46Ax4…",
+            "expanded_url": "https://discord.com/invite/NH46Ax4BXe",
+            "url": "https://t.co/ayG1ynKjaz",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 2418,
+    "followersCount": 5535,
+    "following": true,
+    "friendsCount": 490,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 98,
+    "location": "萨尔瓦多",
+    "mediaCount": 830,
+    "name": "道哥-订单流交易员.ai",
+    "normalFollowersCount": 5535,
+    "pinnedTweetIdsStr": [
+      "1947248563009790367"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1574719335075037185/1756564951",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1949140993401614336/6PmXLqkZ_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "Orderflow_dao",
+    "statusesCount": 2599,
+    "translatorType": "none",
+    "url": "https://t.co/ayG1ynKjaz",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [
+      {
+        "iconName": "IconBriefcaseStroke",
+        "id": 192,
+        "name": "Financial Services"
+      }
+    ],
+    "professionalType": "Creator",
+    "restId": "1594256987558400002"
+  },
+  "profileImageShape": "Circle",
+  "restId": "1574719335075037185",
+  "tipjarSettings": {
+    "ethereumHandle": "0x5ea334C615EB4995581ACb7F00AEb14B8cB531E5",
+    "isEnabled": true
+  }
+}

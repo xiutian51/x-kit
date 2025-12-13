@@ -1,0 +1,62 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoyODgzNjIzOTM1",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Thu Oct 30 16:40:59 +0000 2014",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "🧑‍🌾 DeFi farmer | 记录 | 分享 | 交流 | \nMacro hedge fund → Fintech → Web3 | \nNOT FINANCIAL ADVICE | ALWAYS DO YOUR OWN RESEARCH",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "github.com/your-quantguy",
+            "expanded_url": "https://github.com/your-quantguy",
+            "url": "https://t.co/noAUfBstpZ",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 1522,
+    "followersCount": 12161,
+    "following": true,
+    "friendsCount": 245,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 341,
+    "location": "New York",
+    "mediaCount": 170,
+    "name": "Your Quant Guy.edge🦭",
+    "normalFollowersCount": 12161,
+    "pinnedTweetIdsStr": [
+      "1927726636796874809"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/2883623935/1747051563",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1921904182144958464/Pog_SOSz_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "yourQuantGuy",
+    "statusesCount": 1383,
+    "translatorType": "none",
+    "url": "https://t.co/noAUfBstpZ",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "profileImageShape": "Circle",
+  "restId": "2883623935",
+  "tipjarSettings": {}
+}

@@ -1,0 +1,58 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNjEzMjc0ODc2NDAzNjQ2NDY0",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": false,
+    "canMediaTag": true,
+    "createdAt": "Wed Jan 11 20:41:34 +0000 2023",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "“I like picks and shovels businesses”\n\n@pendle_fi 中文社區大使 \n(Pendle官方中文电报社区: https://t.co/EKzkB0JS8C)",
+    "entities": {
+      "description": {
+        "urls": [
+          {
+            "display_url": "t.me/PendleFinance_…",
+            "expanded_url": "https://t.me/PendleFinance_CN",
+            "url": "https://t.co/EKzkB0JS8C",
+            "indices": [
+              75,
+              98
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 14411,
+    "followersCount": 12494,
+    "following": true,
+    "friendsCount": 1959,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 499,
+    "location": "",
+    "mediaCount": 1662,
+    "name": "ViNc | Pendle Sensei 🌸",
+    "normalFollowersCount": 12494,
+    "pinnedTweetIdsStr": [
+      "1953398036748812713"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1613274876403646464/1710051069",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1613275141919903746/6G4PkB7D_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "ViNc2453",
+    "statusesCount": 8944,
+    "translatorType": "none",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "profileImageShape": "Circle",
+  "restId": "1613274876403646464",
+  "tipjarSettings": {}
+}

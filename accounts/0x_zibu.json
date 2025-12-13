@@ -1,0 +1,57 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxMzg3Mjk3MDUzNDk2MTE5Mjk5",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Wed Apr 28 06:46:25 +0000 2021",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "老韭菜，懂技术，专注链上，助力打金狗。\n\n电报信息更及时    https://t.co/J7lAwWDL9F\n\n所有内容不构成任何投资建议",
+    "entities": {
+      "description": {
+        "urls": [
+          {
+            "display_url": "t.me/zibutalk",
+            "expanded_url": "https://t.me/zibutalk",
+            "url": "https://t.co/J7lAwWDL9F",
+            "indices": [
+              32,
+              55
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 4963,
+    "followersCount": 28564,
+    "following": true,
+    "friendsCount": 1794,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 789,
+    "location": "",
+    "mediaCount": 184,
+    "name": "子布",
+    "normalFollowersCount": 28564,
+    "pinnedTweetIdsStr": [
+      "1880588499159769440"
+    ],
+    "possiblySensitive": false,
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1861748949507559424/wE_9fmSm_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "0x_zibu",
+    "statusesCount": 2707,
+    "translatorType": "none",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "profileImageShape": "Circle",
+  "restId": "1387297053496119299",
+  "tipjarSettings": {}
+}

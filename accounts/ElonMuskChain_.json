@@ -1,0 +1,62 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNzIwOTU4OTYxMTAzNTkzNDcy",
+  "isBlueVerified": false,
+  "legacy": {
+    "canDm": false,
+    "canMediaTag": true,
+    "createdAt": "Sun Nov 05 00:19:33 +0000 2023",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "The $EC chain is a Layer-2 EVM-compatible chain that uses $troll as the Gas fee to\n$EC and $Troll are the two paramounttokens in the Elon Musk Chain ecosystem.",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "elonmuskchains.com",
+            "expanded_url": "https://elonmuskchains.com/",
+            "url": "https://t.co/nodOWh0XK0",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 41,
+    "followersCount": 659,
+    "following": true,
+    "friendsCount": 2,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 1,
+    "location": "69420 MEMES ST",
+    "mediaCount": 27,
+    "name": "✖️Elon Musk Chain⛓️",
+    "normalFollowersCount": 659,
+    "pinnedTweetIdsStr": [
+      "1748060424866824285"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1720958961103593472/1705400611",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1747207404620783617/IExul1ye_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "ElonMuskChain_",
+    "statusesCount": 57,
+    "translatorType": "none",
+    "url": "https://t.co/nodOWh0XK0",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "profileImageShape": "Circle",
+  "restId": "1720958961103593472",
+  "tipjarSettings": {}
+}

@@ -1,0 +1,65 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNTE3MDcwMDE2NjcxMjc3MDU2",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Thu Apr 21 09:17:44 +0000 2022",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "The World Account for the World Computer.",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Elytro.com",
+            "expanded_url": "http://Elytro.com",
+            "url": "https://t.co/mpeuLoamso",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 528,
+    "followersCount": 13421,
+    "following": true,
+    "friendsCount": 4,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 153,
+    "location": "",
+    "mediaCount": 77,
+    "name": "Elytro.eth",
+    "normalFollowersCount": 13421,
+    "pinnedTweetIdsStr": [],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1517070016671277056/1731559151",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1856918716845625346/ae17q1HW_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "elytro_eth",
+    "statusesCount": 487,
+    "translatorType": "none",
+    "url": "https://t.co/mpeuLoamso",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [],
+    "professionalType": "Business",
+    "restId": "1626320673181405184"
+  },
+  "profileImageShape": "Circle",
+  "restId": "1517070016671277056",
+  "tipjarSettings": {}
+}

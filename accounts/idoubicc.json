@@ -1,0 +1,70 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjo5NTA0NjA2NDMxNzMyMTYyNTY=",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Mon Jan 08 20:14:10 +0000 2018",
+    "defaultProfile": false,
+    "defaultProfileImage": false,
+    "description": "Building https://t.co/mOqCgk7jjr  /  https://t.co/vK21lE7HkK. ex: WechatPay Global",
+    "entities": {
+      "description": {
+        "urls": [
+          {
+            "display_url": "ShipAny.ai",
+            "expanded_url": "http://ShipAny.ai",
+            "url": "https://t.co/mOqCgk7jjr",
+            "indices": [
+              9,
+              32
+            ]
+          },
+          {
+            "display_url": "MCP.so",
+            "expanded_url": "http://MCP.so",
+            "url": "https://t.co/vK21lE7HkK",
+            "indices": [
+              37,
+              60
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 365,
+    "followersCount": 21596,
+    "following": true,
+    "friendsCount": 337,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 289,
+    "location": "all in AI",
+    "mediaCount": 204,
+    "name": "idoubi",
+    "normalFollowersCount": 21596,
+    "pinnedTweetIdsStr": [],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/950460643173216256/1715493813",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1657754264729448448/1AOP0K4c_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "idoubicc",
+    "statusesCount": 753,
+    "translatorType": "none",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [],
+    "professionalType": "Creator",
+    "restId": "1547097761090129921"
+  },
+  "profileImageShape": "Circle",
+  "restId": "950460643173216256",
+  "tipjarSettings": {}
+}

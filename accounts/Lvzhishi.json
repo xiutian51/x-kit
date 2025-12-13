@@ -1,0 +1,70 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNTc1MzM5NjA0Mzc4NjE1ODA4",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": false,
+    "canMediaTag": true,
+    "createdAt": "Thu Sep 29 04:20:31 +0000 2022",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "最强缠论 偶尔分享趋势，天地人，要成为‘天地之心’，才有资格做人 才有资格跟本吕进行交流，畜生之‘需’最终只会一败涂地 TG：https://t.co/68Vv0Q7cr8",
+    "entities": {
+      "description": {
+        "urls": [
+          {
+            "display_url": "t.me/lvzhishi",
+            "expanded_url": "http://t.me/lvzhishi",
+            "url": "https://t.co/68Vv0Q7cr8",
+            "indices": [
+              63,
+              86
+            ]
+          }
+        ]
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "t.me/lvzhishi9",
+            "expanded_url": "http://t.me/lvzhishi9",
+            "url": "https://t.co/l6i0PEAK9a",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 1373,
+    "followersCount": 11071,
+    "following": true,
+    "friendsCount": 1204,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 41,
+    "location": "大群",
+    "mediaCount": 107,
+    "name": "吕知时",
+    "normalFollowersCount": 11071,
+    "pinnedTweetIdsStr": [],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1575339604378615808/1760510167",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1978326283114459136/ueTuN9JI_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "Lvzhishi",
+    "statusesCount": 364,
+    "translatorType": "none",
+    "url": "https://t.co/l6i0PEAK9a",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "profileImageShape": "Circle",
+  "restId": "1575339604378615808",
+  "tipjarSettings": {}
+}

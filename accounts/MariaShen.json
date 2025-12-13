@@ -1,0 +1,80 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {
+    "label": {
+      "url": {
+        "url": "https://twitter.com/ElectricCapital",
+        "urlType": "DeepLink"
+      },
+      "badge": {
+        "url": "https://pbs.twimg.com/profile_images/1991684056212496384/mt8NStN2_bigger.png"
+      },
+      "description": "Electric Capital ⚡️",
+      "userLabelType": "BusinessLabel",
+      "userLabelDisplayType": "Badge"
+    }
+  },
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoyNzEzNDAzMA==",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Sat Mar 28 00:05:40 +0000 2009",
+    "defaultProfile": false,
+    "defaultProfileImage": false,
+    "description": "General Partner @ElectricCapital. Views my own. 🦇🔊",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "developerreport.com",
+            "expanded_url": "https://www.developerreport.com",
+            "url": "https://t.co/cbH7ir1m7f",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 21692,
+    "followersCount": 27753,
+    "following": true,
+    "friendsCount": 6679,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 861,
+    "location": "",
+    "mediaCount": 602,
+    "name": "mariaa.eth 🐸",
+    "normalFollowersCount": 27753,
+    "pinnedTweetIdsStr": [
+      "1867295512627753432"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/27134030/1597896976",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1963639743939239942/Xz_MdFvJ_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "MariaShen",
+    "statusesCount": 6938,
+    "translatorType": "none",
+    "url": "https://t.co/cbH7ir1m7f",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [],
+    "professionalType": "Creator",
+    "restId": "1942692726111113626"
+  },
+  "profileImageShape": "Circle",
+  "restId": "27134030",
+  "tipjarSettings": {}
+}

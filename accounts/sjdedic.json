@@ -1,0 +1,62 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNjAwMjMwMDQ4NTcyNzkyODQ2",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Tue Dec 06 20:46:19 +0000 2022",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "Founder & Managing Partner @MoonrockCapital",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "moonrockcapital.io",
+            "expanded_url": "http://www.moonrockcapital.io",
+            "url": "https://t.co/w9G6IPflOm",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 73526,
+    "followersCount": 46946,
+    "following": true,
+    "friendsCount": 2030,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 1283,
+    "location": "",
+    "mediaCount": 1264,
+    "name": "Simon Dedic",
+    "normalFollowersCount": 46946,
+    "pinnedTweetIdsStr": [
+      "1912849240163770644"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1600230048572792846/1719899138",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1945552136592367616/y3x7RUZ4_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "sjdedic",
+    "statusesCount": 10461,
+    "translatorType": "none",
+    "url": "https://t.co/w9G6IPflOm",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "profileImageShape": "Circle",
+  "restId": "1600230048572792846",
+  "tipjarSettings": {}
+}

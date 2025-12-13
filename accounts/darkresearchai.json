@@ -1,0 +1,68 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxOTA4NTg0NjQ1NjQzNjg5OTg3",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": false,
+    "canMediaTag": true,
+    "createdAt": "Sat Apr 05 18:17:21 +0000 2025",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "A human company building artificial intelligence — our mission is to build machines that understand you.",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "darkresearch.ai",
+            "expanded_url": "https://darkresearch.ai",
+            "url": "https://t.co/9zD8egp3uV",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 617,
+    "followersCount": 15508,
+    "following": true,
+    "friendsCount": 3,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 105,
+    "location": "",
+    "mediaCount": 20,
+    "name": "Dark",
+    "normalFollowersCount": 15508,
+    "pinnedTweetIdsStr": [
+      "1981013694407757939"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1908584645643689987/1760965894",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1980260601264795648/Hw_3BqTI_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "darkresearchai",
+    "statusesCount": 64,
+    "translatorType": "none",
+    "url": "https://t.co/9zD8egp3uV",
+    "verified": false,
+    "verifiedType": "Business",
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [],
+    "professionalType": "Business",
+    "restId": "1908586077197394199"
+  },
+  "profileImageShape": "Square",
+  "restId": "1908584645643689987",
+  "tipjarSettings": {}
+}

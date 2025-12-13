@@ -1,0 +1,48 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxMzM0NzcwNzAwMTI1NTc3MjE2",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Fri Dec 04 08:05:15 +0000 2020",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "你看那个项目好像一条狗啊....\n我回头看了一眼:它还真不如狗。\n只发被低估的真AlphalTokenMore🍣",
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 3929,
+    "followersCount": 29062,
+    "following": true,
+    "friendsCount": 3906,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 968,
+    "location": "",
+    "mediaCount": 493,
+    "name": "（TokenMore)萌小主🍣",
+    "normalFollowersCount": 29062,
+    "pinnedTweetIdsStr": [
+      "1880600521796731320"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1334770700125577216/1736901017",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1659559050022121472/JO0fah66_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "TokenMore",
+    "statusesCount": 4260,
+    "translatorType": "none",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "profileImageShape": "Circle",
+  "restId": "1334770700125577216",
+  "tipjarSettings": {}
+}

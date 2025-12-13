@@ -1,0 +1,93 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjo0ODczMTIxMDc=",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Thu Feb 09 07:11:48 +0000 2012",
+    "defaultProfile": false,
+    "defaultProfileImage": false,
+    "description": "Connecting a billion people\nFeedback & Support: https://t.co/77y9vdUrF0  \nDownload: iOS https://t.co/dYDENLn6Lv + Android https://t.co/VLnFJdawAE",
+    "entities": {
+      "description": {
+        "urls": [
+          {
+            "display_url": "help.wechat.com",
+            "expanded_url": "http://help.wechat.com",
+            "url": "https://t.co/77y9vdUrF0",
+            "indices": [
+              48,
+              71
+            ]
+          },
+          {
+            "display_url": "bit.ly/1M1vkoG",
+            "expanded_url": "http://bit.ly/1M1vkoG",
+            "url": "https://t.co/dYDENLn6Lv",
+            "indices": [
+              88,
+              111
+            ]
+          },
+          {
+            "display_url": "bit.ly/1uGE7n0",
+            "expanded_url": "http://bit.ly/1uGE7n0",
+            "url": "https://t.co/VLnFJdawAE",
+            "indices": [
+              122,
+              145
+            ]
+          }
+        ]
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "wechat.com/en",
+            "expanded_url": "http://www.wechat.com/en",
+            "url": "http://t.co/3VuclYcOlQ",
+            "indices": [
+              0,
+              22
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 546,
+    "followersCount": 242191,
+    "following": true,
+    "friendsCount": 22,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 700,
+    "location": "Worldwide",
+    "mediaCount": 682,
+    "name": "WeChat",
+    "normalFollowersCount": 242191,
+    "pinnedTweetIdsStr": [],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/487312107/1621526382",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1087188469397344257/HXxlDWIf_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "Weixin_WeChat",
+    "statusesCount": 3156,
+    "translatorType": "none",
+    "url": "http://t.co/3VuclYcOlQ",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [],
+    "professionalType": "Business",
+    "restId": "1597872995900719104"
+  },
+  "profileImageShape": "Circle",
+  "restId": "487312107",
+  "tipjarSettings": {}
+}

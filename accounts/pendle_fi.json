@@ -1,0 +1,92 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxMzc3NDkzNjkzNzYyOTY5NjAw",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": false,
+    "canMediaTag": true,
+    "createdAt": "Thu Apr 01 05:31:24 +0000 2021",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "Liberating Yield || The world's largest crypto yield trading platform ||\n\nDiscord: https://t.co/5H8gUMvtPs | Telegram: https://t.co/c77ig0GeQC",
+    "entities": {
+      "description": {
+        "urls": [
+          {
+            "display_url": "pendle.finance/discord",
+            "expanded_url": "http://pendle.finance/discord",
+            "url": "https://t.co/5H8gUMvtPs",
+            "indices": [
+              83,
+              106
+            ]
+          },
+          {
+            "display_url": "t.me/pendlefinance",
+            "expanded_url": "http://t.me/pendlefinance",
+            "url": "https://t.co/c77ig0GeQC",
+            "indices": [
+              119,
+              142
+            ]
+          }
+        ]
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "pendle.finance",
+            "expanded_url": "https://pendle.finance",
+            "url": "https://t.co/VxrzMaymOU",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 26498,
+    "followersCount": 159779,
+    "following": true,
+    "friendsCount": 630,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 1755,
+    "location": "",
+    "mediaCount": 3853,
+    "name": "Pendle",
+    "normalFollowersCount": 159779,
+    "pinnedTweetIdsStr": [
+      "1886764236795429321"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1377493693762969600/1662399143",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1621033017337843713/loDsYCJr_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "pendle_fi",
+    "statusesCount": 11857,
+    "translatorType": "none",
+    "url": "https://t.co/VxrzMaymOU",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [
+      {
+        "iconName": "IconBriefcaseStroke",
+        "id": 1009,
+        "name": "Community"
+      }
+    ],
+    "professionalType": "Business",
+    "restId": "1459050193937068035"
+  },
+  "profileImageShape": "Circle",
+  "restId": "1377493693762969600",
+  "tipjarSettings": {}
+}

@@ -1,0 +1,62 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNjY1MzM1MzEzMDMwNTk4NjU2",
+  "isBlueVerified": false,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Sun Jun 04 12:31:11 +0000 2023",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "Premium content and deep-insight about Bitcoin\n\nBacked by @allday_Network \n\n#Bitcoin #Ordinals  #Runes #Insights",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "linktr.ee/alldaynetwork",
+            "expanded_url": "https://linktr.ee/alldaynetwork",
+            "url": "https://t.co/PFabz6XLzh",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 2313,
+    "followersCount": 15211,
+    "following": true,
+    "friendsCount": 318,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 28,
+    "location": "allday Network",
+    "mediaCount": 1105,
+    "name": "Bitcoin allday",
+    "normalFollowersCount": 15211,
+    "pinnedTweetIdsStr": [
+      "1776172982781841488"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1665335313030598656/1706519777",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1751897019898347520/0hE1Geah_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "Bitcoin_allday",
+    "statusesCount": 2455,
+    "translatorType": "none",
+    "url": "https://t.co/PFabz6XLzh",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "profileImageShape": "Circle",
+  "restId": "1665335313030598656",
+  "tipjarSettings": {}
+}

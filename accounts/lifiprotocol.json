@@ -1,0 +1,68 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNDAwMzQ1Mzg2NTMxOTIxOTIy",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Thu Jun 03 06:55:49 +0000 2021",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "One API for seamless swaps & bridging across EVM, Solana and Bitcoin. Integrated by Robinhood Wallet, MetaMask, Phantom + 600 partners.",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "link3.to/lifi",
+            "expanded_url": "https://link3.to/lifi",
+            "url": "https://t.co/9tTL5lUMC3",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 15505,
+    "followersCount": 267530,
+    "following": true,
+    "friendsCount": 316,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 832,
+    "location": "EVM & Solana",
+    "mediaCount": 1393,
+    "name": "LI.FI",
+    "normalFollowersCount": 267530,
+    "pinnedTweetIdsStr": [
+      "1999142494462742877"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1400345386531921922/1761161793",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1940673908946120704/ZkHt9ssN_normal.png",
+    "profileInterstitialType": "",
+    "screenName": "lifiprotocol",
+    "statusesCount": 6889,
+    "translatorType": "none",
+    "url": "https://t.co/9tTL5lUMC3",
+    "verified": false,
+    "verifiedType": "Business",
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [],
+    "professionalType": "Business",
+    "restId": "1461266074528321538"
+  },
+  "profileImageShape": "Square",
+  "restId": "1400345386531921922",
+  "tipjarSettings": {}
+}

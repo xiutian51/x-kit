@@ -1,0 +1,62 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjo4MDcyMjY3Nw==",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Thu Oct 08 00:41:51 +0000 2009",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "helping ethereum win",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "tim.mirror.xyz",
+            "expanded_url": "http://tim.mirror.xyz",
+            "url": "https://t.co/CSiafQ7Uer",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 33528,
+    "followersCount": 146080,
+    "following": true,
+    "friendsCount": 1043,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 2109,
+    "location": "🇨🇦",
+    "mediaCount": 942,
+    "name": "timbeiko.eth",
+    "normalFollowersCount": 146080,
+    "pinnedTweetIdsStr": [
+      "1986958474941796552"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/80722677/1510337847",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1082093593840349184/P2B7Qiyn_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "TimBeiko",
+    "statusesCount": 19611,
+    "translatorType": "none",
+    "url": "https://t.co/CSiafQ7Uer",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "profileImageShape": "Circle",
+  "restId": "80722677",
+  "tipjarSettings": {}
+}

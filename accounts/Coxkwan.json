@@ -1,0 +1,58 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxOTI0ODUwNTk=",
+  "isBlueVerified": false,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Sun Sep 19 08:32:35 +0000 2010",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "投资是在不确定性中寻找确定性\n人生是在确定性中追求不确定性\n美股 加密货币 投资策略 套利",
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 169,
+    "followersCount": 1371,
+    "following": true,
+    "friendsCount": 216,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 10,
+    "location": "Canada",
+    "mediaCount": 84,
+    "name": "钱袋子",
+    "normalFollowersCount": 1371,
+    "pinnedTweetIdsStr": [],
+    "possiblySensitive": false,
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1807815278383837184/Rzuaf-AV_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "Coxkwan",
+    "statusesCount": 797,
+    "translatorType": "none",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [
+      {
+        "iconName": "IconBriefcaseStroke",
+        "id": 713,
+        "name": "Science & Technology"
+      }
+    ],
+    "professionalType": "Creator",
+    "restId": "1769507984818724892"
+  },
+  "profileImageShape": "Circle",
+  "restId": "192485059",
+  "tipjarSettings": {
+    "isEnabled": true
+  }
+}

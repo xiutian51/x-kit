@@ -1,0 +1,62 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxMzcxMjQxODUwMDc0NDA2OTE1",
+  "isBlueVerified": false,
+  "legacy": {
+    "canDm": false,
+    "canMediaTag": false,
+    "createdAt": "Sun Mar 14 23:28:45 +0000 2021",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "Living in Seattle 我是一个从中国来的美国人",
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 32824,
+    "followersCount": 98550,
+    "following": true,
+    "friendsCount": 835,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 369,
+    "location": "Seattle, WA",
+    "mediaCount": 1918,
+    "name": "Lei.USA",
+    "normalFollowersCount": 98550,
+    "pinnedTweetIdsStr": [],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1371241850074406915/1743658228",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1907666610904817664/FQ5K536x_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "music3club",
+    "statusesCount": 35507,
+    "translatorType": "none",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [
+      {
+        "iconName": "IconBriefcaseStroke",
+        "id": 934,
+        "name": "Social Media Influencer"
+      }
+    ],
+    "professionalType": "Creator",
+    "restId": "1479516155966799872"
+  },
+  "profileImageShape": "Circle",
+  "restId": "1371241850074406915",
+  "tipjarSettings": {
+    "bitcoinHandle": "19FRhsv7tbHpn1RmzyJcMcdzhRa6dyyzv8",
+    "ethereumHandle": "0x6f1a78d400c666e79d40518fc986ed4c7067132e",
+    "isEnabled": true,
+    "patreonHandle": "qqfm"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNzY3MzEzMTMyNTE3NzkzNzky",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Mon Mar 11 22:14:34 +0000 2024",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "The Home for Global Markets",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "risechain.com",
+            "expanded_url": "https://risechain.com/",
+            "url": "https://t.co/pDyGSV3jpV",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 8671,
+    "followersCount": 45536,
+    "following": true,
+    "friendsCount": 40,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 176,
+    "location": "",
+    "mediaCount": 489,
+    "name": "RISE",
+    "normalFollowersCount": 45536,
+    "pinnedTweetIdsStr": [
+      "1988970473024287176"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1767313132517793792/1763020284",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1909279867226779648/4qC_yL2-_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "risechain",
+    "statusesCount": 3557,
+    "translatorType": "none",
+    "url": "https://t.co/pDyGSV3jpV",
+    "verified": false,
+    "verifiedType": "Business",
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "profileImageShape": "Square",
+  "restId": "1767313132517793792",
+  "tipjarSettings": {}
+}

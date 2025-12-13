@@ -1,0 +1,63 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNzIzOTk1ODMyMDc1MzYyMzA0",
+  "isBlueVerified": false,
+  "legacy": {
+    "canDm": false,
+    "canMediaTag": true,
+    "createdAt": "Mon Nov 13 09:27:41 +0000 2023",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "$MOCA is an omni-chain network token created to reimagine the web3 cultural economy by empowering unity in culture, governance, and growth.",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "moca.foundation",
+            "expanded_url": "https://www.moca.foundation/",
+            "url": "https://t.co/Ae05BkLWXU",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 58,
+    "followersCount": 285076,
+    "following": true,
+    "friendsCount": 4,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 86,
+    "location": "",
+    "mediaCount": 69,
+    "name": "MOCA Coin",
+    "normalFollowersCount": 285076,
+    "pinnedTweetIdsStr": [
+      "1937859068074590390"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1723995832075362304/1704119548",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1947292385345683456/tCweu0w7_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "MOCAFoundation",
+    "statusesCount": 119,
+    "translatorType": "none",
+    "url": "https://t.co/Ae05BkLWXU",
+    "verified": false,
+    "verifiedType": "Business",
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "profileImageShape": "Square",
+  "restId": "1723995832075362304",
+  "tipjarSettings": {}
+}

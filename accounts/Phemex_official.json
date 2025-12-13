@@ -1,0 +1,78 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxMTcxNzE5NDE2Mzg5NTkxMDQx",
+  "isBlueVerified": false,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Wed Sep 11 09:37:45 +0000 2019",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "A User-First Crypto Exchange | Trusted by 10M+ Users | For You. For Tomorrow. | Linktree: https://t.co/bc62pgwkHi",
+    "entities": {
+      "description": {
+        "urls": [
+          {
+            "display_url": "linktr.ee/phemexglobal",
+            "expanded_url": "http://linktr.ee/phemexglobal",
+            "url": "https://t.co/bc62pgwkHi",
+            "indices": [
+              90,
+              113
+            ]
+          }
+        ]
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "phemex.com",
+            "expanded_url": "https://phemex.com/",
+            "url": "https://t.co/EucvrohBgx",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 9016,
+    "followersCount": 474642,
+    "following": true,
+    "friendsCount": 464,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 558,
+    "location": "",
+    "mediaCount": 5392,
+    "name": "Phemex",
+    "normalFollowersCount": 474642,
+    "pinnedTweetIdsStr": [
+      "1998843107459383603"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1171719416389591041/1763368901",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1986716072133955584/YPwz0Fu__normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "Phemex_official",
+    "statusesCount": 14655,
+    "translatorType": "none",
+    "url": "https://t.co/EucvrohBgx",
+    "verified": false,
+    "verifiedType": "Business",
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [],
+    "professionalType": "Business",
+    "restId": "1515201551249272833"
+  },
+  "profileImageShape": "Square",
+  "restId": "1171719416389591041",
+  "tipjarSettings": {}
+}

@@ -1,0 +1,87 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {
+    "label": {
+      "url": {
+        "url": "https://twitter.com/BuildOnCyber",
+        "urlType": "DeepLink"
+      },
+      "badge": {
+        "url": "https://pbs.twimg.com/profile_images/1882438963014901760/84PrUnNr_bigger.jpg"
+      },
+      "description": "Cyber",
+      "userLabelType": "BusinessLabel",
+      "userLabelDisplayType": "Badge"
+    }
+  },
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNTIyMTQzMDM0MjY3Mjg3NTUy",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Thu May 05 09:16:08 +0000 2022",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "The trusted gateway to web3 organizations and creators. \n\nBuilt with @BuildOnCyber 🔗",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "link3.to/link3",
+            "expanded_url": "https://link3.to/link3",
+            "url": "https://t.co/hL8KLz14aF",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 1733,
+    "followersCount": 160778,
+    "following": true,
+    "friendsCount": 77,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 266,
+    "location": "in bio",
+    "mediaCount": 295,
+    "name": "Link3",
+    "normalFollowersCount": 160778,
+    "pinnedTweetIdsStr": [
+      "1841433520901623968"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1522143034267287552/1727864045",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1917263428298629120/weUEkCxM_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "link3to",
+    "statusesCount": 1305,
+    "translatorType": "none",
+    "url": "https://t.co/hL8KLz14aF",
+    "verified": false,
+    "verifiedType": "Business",
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [
+      {
+        "iconName": "IconBriefcaseStroke",
+        "id": 724,
+        "name": "Internet Company"
+      }
+    ],
+    "professionalType": "Business",
+    "restId": "1522144422703648768"
+  },
+  "profileImageShape": "Square",
+  "restId": "1522143034267287552",
+  "tipjarSettings": {}
+}

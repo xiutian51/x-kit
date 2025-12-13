@@ -1,0 +1,61 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoyNTA3Mzg3Nw==",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": false,
+    "canMediaTag": false,
+    "createdAt": "Wed Mar 18 13:46:38 +0000 2009",
+    "defaultProfile": false,
+    "defaultProfileImage": false,
+    "description": "45th & 47th President of the United States of America🇺🇸",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "DonaldJTrump.com",
+            "expanded_url": "http://DonaldJTrump.com",
+            "url": "https://t.co/mjKdTvQzae",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 0,
+    "followersCount": 108611597,
+    "following": true,
+    "friendsCount": 53,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 128764,
+    "location": "",
+    "mediaCount": 5379,
+    "name": "Donald J. Trump",
+    "normalFollowersCount": 108611597,
+    "pinnedTweetIdsStr": [],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/25073877/1604214583",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/874276197357596672/kUuht00m_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "realDonaldTrump",
+    "statusesCount": 59817,
+    "translatorType": "regular",
+    "url": "https://t.co/mjKdTvQzae",
+    "verified": false,
+    "verifiedType": "Government",
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "profileImageShape": "Circle",
+  "restId": "25073877",
+  "tipjarSettings": {}
+}

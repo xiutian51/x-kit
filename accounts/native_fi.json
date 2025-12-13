@@ -1,0 +1,70 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNTgwOTAxODMzMjg3MzAzMTY4",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": false,
+    "canMediaTag": false,
+    "createdAt": "Fri Oct 14 12:42:42 +0000 2022",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "Native is an on-chain platform to build liquidity that is openly accessible and cost effective.\n\nDiscord→https://t.co/iOmhLiW2zH",
+    "entities": {
+      "description": {
+        "urls": [
+          {
+            "display_url": "discord.gg/yxYmusrvnK",
+            "expanded_url": "https://discord.gg/yxYmusrvnK",
+            "url": "https://t.co/iOmhLiW2zH",
+            "indices": [
+              105,
+              128
+            ]
+          }
+        ]
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "native.org",
+            "expanded_url": "https://native.org",
+            "url": "https://t.co/a72ERmoOI4",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 921,
+    "followersCount": 24808,
+    "following": true,
+    "friendsCount": 15,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 68,
+    "location": "DeFi",
+    "mediaCount": 410,
+    "name": "Native",
+    "normalFollowersCount": 24808,
+    "pinnedTweetIdsStr": [],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1580901833287303168/1731079463",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1889696998292340736/AabPsGjK_normal.png",
+    "profileInterstitialType": "",
+    "screenName": "native_fi",
+    "statusesCount": 1144,
+    "translatorType": "none",
+    "url": "https://t.co/a72ERmoOI4",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "profileImageShape": "Circle",
+  "restId": "1580901833287303168",
+  "tipjarSettings": {}
+}

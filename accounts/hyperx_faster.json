@@ -1,0 +1,81 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxODA4NzcxNDk4NzQ1OTk5MzYx",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Thu Jul 04 07:55:11 +0000 2024",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "Copy Trading & Analytics Powered by @HyperliquidX\n\nTelegram：https://t.co/VhxeS1AXCH\n\nDiscord：https://t.co/hFs2MJ7tnV",
+    "entities": {
+      "description": {
+        "urls": [
+          {
+            "display_url": "t.me/faster100x_hyp…",
+            "expanded_url": "https://t.me/faster100x_hyperx",
+            "url": "https://t.co/VhxeS1AXCH",
+            "indices": [
+              60,
+              83
+            ]
+          },
+          {
+            "display_url": "discord.com/invite/jkYsa93…",
+            "expanded_url": "https://discord.com/invite/jkYsa93J2Y",
+            "url": "https://t.co/hFs2MJ7tnV",
+            "indices": [
+              93,
+              116
+            ]
+          }
+        ]
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "hyper.faster100x.com",
+            "expanded_url": "https://hyper.faster100x.com/",
+            "url": "https://t.co/ogqfyJlzgm",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 214,
+    "followersCount": 2344,
+    "following": true,
+    "friendsCount": 176,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 52,
+    "location": "Hyperliquid",
+    "mediaCount": 289,
+    "name": "HyperX - Hyperliquid Copy Trading",
+    "normalFollowersCount": 2344,
+    "pinnedTweetIdsStr": [
+      "1983711932625645583"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1808771498745999361/1763108705",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1951208150188826624/dqgFjqQj_normal.png",
+    "profileInterstitialType": "",
+    "screenName": "hyperx_faster",
+    "statusesCount": 559,
+    "translatorType": "none",
+    "url": "https://t.co/ogqfyJlzgm",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "profileImageShape": "Circle",
+  "restId": "1808771498745999361",
+  "tipjarSettings": {}
+}

@@ -1,0 +1,46 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxOTM3NzYyNTE0MjY1MzQxOTUy",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": false,
+    "canMediaTag": true,
+    "createdAt": "Wed Jun 25 06:39:29 +0000 2025",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "Building @StandX_Official.",
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 89,
+    "followersCount": 3082,
+    "following": true,
+    "friendsCount": 243,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 7,
+    "location": "",
+    "mediaCount": 8,
+    "name": "AG.stand",
+    "normalFollowersCount": 3082,
+    "pinnedTweetIdsStr": [],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1937762514265341952/1753780898",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1950104095521726464/Q8eEIz4L_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "StandX_AG",
+    "statusesCount": 102,
+    "translatorType": "none",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "profileImageShape": "Circle",
+  "restId": "1937762514265341952",
+  "tipjarSettings": {}
+}

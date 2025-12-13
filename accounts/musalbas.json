@@ -1,0 +1,45 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNDM2MjU4ODg4",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": false,
+    "createdAt": "Fri May 17 17:38:10 +0000 2013",
+    "defaultProfile": false,
+    "defaultProfileImage": false,
+    "description": "Co-founder @Celestia",
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 6253,
+    "followersCount": 45205,
+    "following": true,
+    "friendsCount": 276,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 932,
+    "location": "",
+    "mediaCount": 1356,
+    "name": "Mustafa Al-Bassam",
+    "normalFollowersCount": 45205,
+    "pinnedTweetIdsStr": [],
+    "possiblySensitive": false,
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1876246917207777280/VCsOmkV7_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "musalbas",
+    "statusesCount": 12346,
+    "translatorType": "none",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "profileImageShape": "Circle",
+  "restId": "1436258888",
+  "tipjarSettings": {}
+}

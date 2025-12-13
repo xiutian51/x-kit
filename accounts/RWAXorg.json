@@ -1,0 +1,62 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNjczNDg2MDk0OTYzNDQ5ODU2",
+  "isBlueVerified": false,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Tue Jun 27 00:19:41 +0000 2023",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "RWAX Layer-2 Blockchain for RWA\n\nThe Future of Real World Assets, On-Chain.",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "rwax.org",
+            "expanded_url": "https://rwax.org/",
+            "url": "https://t.co/T4464NVOpm",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 382,
+    "followersCount": 87709,
+    "following": true,
+    "friendsCount": 7,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 148,
+    "location": "RWA Exchange & Layer-2",
+    "mediaCount": 192,
+    "name": "RWAX $APP",
+    "normalFollowersCount": 87709,
+    "pinnedTweetIdsStr": [
+      "1983832399906545931"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1673486094963449856/1758874829",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1947625134237376513/WwgCV6Bm_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "RWAXorg",
+    "statusesCount": 369,
+    "translatorType": "none",
+    "url": "https://t.co/T4464NVOpm",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "profileImageShape": "Circle",
+  "restId": "1673486094963449856",
+  "tipjarSettings": {}
+}

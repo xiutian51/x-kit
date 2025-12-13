@@ -1,0 +1,63 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNjQxMDU2OTQzNDM4NzI5MjE2",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": false,
+    "createdAt": "Wed Mar 29 12:37:28 +0000 2023",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "闲云野鹤之心，笑看花开花落 |运气爆棚🍀，享受佛系人生",
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 6847,
+    "followersCount": 26514,
+    "following": true,
+    "friendsCount": 185,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 552,
+    "location": "",
+    "mediaCount": 2189,
+    "name": "Theclues",
+    "normalFollowersCount": 26514,
+    "pinnedTweetIdsStr": [
+      "1998980484651790735"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1641056943438729216/1715161400",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1820869369540345856/IqS5VLNX_normal.jpg",
+    "profileInterstitialType": "",
+    "_protected": true,
+    "screenName": "follow_clues",
+    "statusesCount": 11463,
+    "translatorType": "none",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [
+      {
+        "iconName": "IconBriefcaseStroke",
+        "id": 192,
+        "name": "Financial Services"
+      }
+    ],
+    "professionalType": "Creator",
+    "restId": "1787161683619897727"
+  },
+  "profileImageShape": "Circle",
+  "restId": "1641056943438729216",
+  "tipjarSettings": {
+    "ethereumHandle": "0x01ab13602d45f3b6f3fd42258b69046b84edcc0e",
+    "isEnabled": false
+  }
+}

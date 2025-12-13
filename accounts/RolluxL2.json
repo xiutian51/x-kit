@@ -1,0 +1,72 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNjMzNTM3OTUwMDE2MjMzNDky",
+  "isBlueVerified": false,
+  "legacy": {
+    "canDm": false,
+    "canMediaTag": true,
+    "createdAt": "Wed Mar 08 18:39:43 +0000 2023",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "Always the first and most secure rollup on #Bitcoin. Official #L2 of @Syscoin.  \nJoin the community! https://t.co/ryo5O0gZbr",
+    "entities": {
+      "description": {
+        "urls": [
+          {
+            "display_url": "discord.gg/syscoin",
+            "expanded_url": "http://discord.gg/syscoin",
+            "url": "https://t.co/ryo5O0gZbr",
+            "indices": [
+              101,
+              124
+            ]
+          }
+        ]
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "rollux.com",
+            "expanded_url": "https://rollux.com/",
+            "url": "https://t.co/u8ib6tfh4J",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 788,
+    "followersCount": 29166,
+    "following": true,
+    "friendsCount": 70,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 141,
+    "location": "",
+    "mediaCount": 361,
+    "name": "ROLLUX",
+    "normalFollowersCount": 29166,
+    "pinnedTweetIdsStr": [
+      "1801704932166275568"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1633537950016233492/1679535837",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1633538967051067394/MMkKGNgR_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "RolluxL2",
+    "statusesCount": 1153,
+    "translatorType": "none",
+    "url": "https://t.co/u8ib6tfh4J",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "profileImageShape": "Circle",
+  "restId": "1633537950016233492",
+  "tipjarSettings": {}
+}

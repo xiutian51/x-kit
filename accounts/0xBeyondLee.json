@@ -1,0 +1,70 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {
+    "label": {
+      "url": {
+        "url": "https://twitter.com/UseUniversalX",
+        "urlType": "DeepLink"
+      },
+      "badge": {
+        "url": "https://pbs.twimg.com/profile_images/1885153504291102720/R7usrJag_bigger.jpg"
+      },
+      "description": "UniversalX",
+      "userLabelType": "BusinessLabel",
+      "userLabelDisplayType": "Badge"
+    }
+  },
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxMzI4Njg2NzY5NTA4NzMyOTI5",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": false,
+    "createdAt": "Tue Nov 17 13:09:55 +0000 2020",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "投资日记，不含任何建议",
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 54850,
+    "followersCount": 35663,
+    "following": true,
+    "friendsCount": 1916,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 576,
+    "location": "Kuala Lumpur",
+    "mediaCount": 1451,
+    "name": "解构师 Beyond",
+    "normalFollowersCount": 35663,
+    "pinnedTweetIdsStr": [
+      "1974404024372691446"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1328686769508732929/1745321853",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1930527417329983488/RQePWyBC_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "0xBeyondLee",
+    "statusesCount": 25365,
+    "translatorType": "none",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [],
+    "professionalType": "Creator",
+    "restId": "1606408207068692480"
+  },
+  "profileImageShape": "Circle",
+  "restId": "1328686769508732929",
+  "tipjarSettings": {
+    "bitcoinHandle": "3MvA71Rq1SmDzWpYdkVuLYZQ9Navdy4z1x",
+    "ethereumHandle": "0xd80286fbe101fec71a6b32d0b64fff4c3d00aa40",
+    "isEnabled": false
+  }
+}

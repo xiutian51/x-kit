@@ -1,0 +1,58 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNDg1NTI4NTA1NzM5NjY5NTA0",
+  "isBlueVerified": false,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Mon Jan 24 08:23:12 +0000 2022",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "builder in web3.0",
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 2560,
+    "followedBy": true,
+    "followersCount": 102,
+    "following": true,
+    "friendsCount": 964,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 3,
+    "location": "Singapore",
+    "mediaCount": 2,
+    "name": "Albert",
+    "normalFollowersCount": 102,
+    "pinnedTweetIdsStr": [],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1485528505739669504/1653631222",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1650711041507233794/59B3hCey_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "lookoo_x",
+    "statusesCount": 463,
+    "translatorType": "none",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [
+      {
+        "iconName": "IconBriefcaseStroke",
+        "id": 192,
+        "name": "Financial Services"
+      }
+    ],
+    "professionalType": "Creator",
+    "restId": "1516779815223050240"
+  },
+  "profileImageShape": "Circle",
+  "restId": "1485528505739669504",
+  "tipjarSettings": {}
+}

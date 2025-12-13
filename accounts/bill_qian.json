@@ -1,0 +1,72 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoyNDE4MzQ2MDU3",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Sun Mar 30 02:52:26 +0000 2014",
+    "defaultProfile": false,
+    "defaultProfileImage": false,
+    "description": "The 1st crypto IPO in Middle East/MSCI|Co-Founder Cypher&Phoenix |Ex-@Binance Investments Head|🎥https://t.co/xMc30IIDgp|全球首位获主权投资&中东Tech IPO华人|@Stanford",
+    "entities": {
+      "description": {
+        "urls": [
+          {
+            "display_url": "youtube.com/@billitup",
+            "expanded_url": "http://youtube.com/@billitup",
+            "url": "https://t.co/xMc30IIDgp",
+            "indices": [
+              96,
+              119
+            ]
+          }
+        ]
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "linktr.ee/billqian",
+            "expanded_url": "https://linktr.ee/billqian",
+            "url": "https://t.co/bpM6EKbvSH",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 1222,
+    "followersCount": 11923,
+    "following": true,
+    "friendsCount": 531,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 186,
+    "location": "Dubai",
+    "mediaCount": 241,
+    "name": "Bill Qian",
+    "normalFollowersCount": 11923,
+    "pinnedTweetIdsStr": [],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/2418346057/1759154284",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1882768142822191104/77bfcK0p_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "bill_qian",
+    "statusesCount": 1950,
+    "translatorType": "none",
+    "url": "https://t.co/bpM6EKbvSH",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "profileImageShape": "Circle",
+  "restId": "2418346057",
+  "tipjarSettings": {
+    "isEnabled": true
+  }
+}

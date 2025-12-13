@@ -1,0 +1,69 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxMjk5MzYwODM4NDAzMjc2ODAx",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Fri Aug 28 14:59:10 +0000 2020",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "| 🐸Prop Degen\n| 🌕️Prev Crypto VC & CEX\n| 💵Angel Investor of @monad_xyz\n\n| Focus on LatAm 🇲🇽🇧🇷🇨🇴\n| #Bitcoin er SINCE 2013\n| APE VIA https://t.co/BvqBb8LAgf \n| https://t.co/Z3SmoMlG5j |",
+    "entities": {
+      "description": {
+        "urls": [
+          {
+            "display_url": "GMGN.AI",
+            "expanded_url": "http://GMGN.AI",
+            "url": "https://t.co/BvqBb8LAgf",
+            "indices": [
+              131,
+              154
+            ]
+          },
+          {
+            "display_url": "OKX.COM",
+            "expanded_url": "http://OKX.COM",
+            "url": "https://t.co/Z3SmoMlG5j",
+            "indices": [
+              158,
+              181
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 3102,
+    "followersCount": 94667,
+    "following": true,
+    "friendsCount": 2449,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 2162,
+    "location": "Aperture Science",
+    "mediaCount": 870,
+    "name": "Kay Capital",
+    "normalFollowersCount": 94667,
+    "pinnedTweetIdsStr": [
+      "1840721723173511395"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1299360838403276801/1637057359",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1795253482800447488/tdnbC9N3_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "keyahayek",
+    "statusesCount": 5472,
+    "translatorType": "none",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "profileImageShape": "Circle",
+  "restId": "1299360838403276801",
+  "tipjarSettings": {
+    "isEnabled": true
+  }
+}

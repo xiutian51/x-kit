@@ -1,0 +1,83 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNTc1NjY2MTI1MzcwNTc2ODk3",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Fri Sep 30 01:57:42 +0000 2022",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "Meet the fastest and most comprehensive #Web3 search engine for the #AI era. \n\nAdot AI Search engine 👉 https://t.co/izEwBPuT1X",
+    "entities": {
+      "description": {
+        "urls": [
+          {
+            "display_url": "ai.a.xyz",
+            "expanded_url": "http://ai.a.xyz",
+            "url": "https://t.co/izEwBPuT1X",
+            "indices": [
+              103,
+              126
+            ]
+          }
+        ]
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "linktr.ee/adotweb3",
+            "expanded_url": "https://linktr.ee/adotweb3",
+            "url": "https://t.co/Gz7ov8suL9",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 656,
+    "followersCount": 73836,
+    "following": true,
+    "friendsCount": 512,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 59,
+    "location": "Let's Adot it →",
+    "mediaCount": 321,
+    "name": "Adot (a.xyz) 🔍",
+    "normalFollowersCount": 73836,
+    "pinnedTweetIdsStr": [
+      "1942096782072389818"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1575666125370576897/1721378921",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1801533714897506305/Jv2Fzwew_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "Adot_web3",
+    "statusesCount": 1298,
+    "translatorType": "none",
+    "url": "https://t.co/Gz7ov8suL9",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [
+      {
+        "iconName": "IconBriefcaseStroke",
+        "id": 713,
+        "name": "Science & Technology"
+      }
+    ],
+    "professionalType": "Business",
+    "restId": "1579692601090768898"
+  },
+  "profileImageShape": "Circle",
+  "restId": "1575666125370576897",
+  "tipjarSettings": {}
+}

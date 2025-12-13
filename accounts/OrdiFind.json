@@ -1,0 +1,73 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNTc5MDUzMjk5MTkzNzQ1NDA4",
+  "isBlueVerified": false,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": false,
+    "createdAt": "Sun Oct 09 10:17:10 +0000 2022",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "Ordifind was closed on Nov 4 2025 after 2 year of online",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "ordifind.com",
+            "expanded_url": "https://ordifind.com/",
+            "url": "https://t.co/j6Jd59onM8",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 1786,
+    "followersCount": 5279,
+    "following": true,
+    "friendsCount": 16,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 28,
+    "location": "",
+    "mediaCount": 313,
+    "name": "Ordi Find",
+    "normalFollowersCount": 5279,
+    "pinnedTweetIdsStr": [
+      "1980590101278388247"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1579053299193745408/1689244755",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1675899707929899012/n9PaEtGA_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "OrdiFind",
+    "statusesCount": 2368,
+    "translatorType": "none",
+    "url": "https://t.co/j6Jd59onM8",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [
+      {
+        "iconName": "IconBriefcaseStroke",
+        "id": 1009,
+        "name": "Community"
+      }
+    ],
+    "professionalType": "Creator",
+    "restId": "1579054693594324992"
+  },
+  "profileImageShape": "Circle",
+  "restId": "1579053299193745408",
+  "tipjarSettings": {}
+}

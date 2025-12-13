@@ -1,0 +1,49 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjo5MjgxNTk0Nzc1MjU3MjUxODY=",
+  "isBlueVerified": false,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Wed Nov 08 07:17:18 +0000 2017",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "wagmi - $COIN 53%, 30% $BTC, 16% $ETH, 1% AERO.",
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 44201,
+    "followersCount": 2583,
+    "following": true,
+    "friendsCount": 910,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 22,
+    "location": "San Francisco, CA",
+    "mediaCount": 1006,
+    "name": "ohhwesley 🛡️",
+    "normalFollowersCount": 2583,
+    "pinnedTweetIdsStr": [],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/928159477525725186/1712067624",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1817948744257859584/5Gh3B2w0_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "ohhwesley89",
+    "statusesCount": 14816,
+    "translatorType": "none",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "profileImageShape": "Circle",
+  "restId": "928159477525725186",
+  "tipjarSettings": {
+    "bitcoinHandle": "3LfZuDmatSFUpRTFJn8dTGBqAX8i4yRcGP",
+    "isEnabled": true
+  }
+}

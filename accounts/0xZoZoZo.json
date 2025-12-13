@@ -1,0 +1,45 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjozNDY4MDIxNjQ=",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Mon Aug 01 21:23:37 +0000 2011",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "nesting @blackwing_fi, former code slinger at @meta, pro 🪂, currently📍🗽",
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 7851,
+    "followersCount": 28431,
+    "following": true,
+    "friendsCount": 3610,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 36,
+    "location": "New York City, NY",
+    "mediaCount": 202,
+    "name": "Zo (hiring) 🐦‍⬛",
+    "normalFollowersCount": 28431,
+    "pinnedTweetIdsStr": [],
+    "possiblySensitive": false,
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1818283535708336128/eJ54TkeA_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "0xZoZoZo",
+    "statusesCount": 2712,
+    "translatorType": "none",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "profileImageShape": "Circle",
+  "restId": "346802164",
+  "tipjarSettings": {}
+}

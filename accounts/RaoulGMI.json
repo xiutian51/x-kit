@@ -1,0 +1,80 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {
+    "label": {
+      "url": {
+        "url": "https://twitter.com/RealVision",
+        "urlType": "DeepLink"
+      },
+      "badge": {
+        "url": "https://pbs.twimg.com/profile_images/1969495627835768832/wVt7mYfT_bigger.jpg"
+      },
+      "description": "Real Vision",
+      "userLabelType": "BusinessLabel",
+      "userLabelDisplayType": "Badge"
+    }
+  },
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoyNDUzMzg1NjI2",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": false,
+    "canMediaTag": true,
+    "createdAt": "Sat Apr 19 16:15:17 +0000 2014",
+    "defaultProfile": false,
+    "defaultProfileImage": false,
+    "description": "Founder/CEO Global Macro Investor, @RealVision. Figuring things out at the nexus of Macro, Web3 & the Exponential Age. Not a guru.",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "raoulpal.com",
+            "expanded_url": "http://raoulpal.com",
+            "url": "https://t.co/ZKIRTllkHA",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 110128,
+    "followersCount": 1260167,
+    "following": true,
+    "friendsCount": 1576,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 18616,
+    "location": "Cayman Islands",
+    "mediaCount": 3369,
+    "name": "Raoul Pal",
+    "normalFollowersCount": 1260167,
+    "pinnedTweetIdsStr": [
+      "1975381137108406439"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/2453385626/1711201500",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1722258300665044992/bo9clXct_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "RaoulGMI",
+    "statusesCount": 58704,
+    "translatorType": "none",
+    "url": "https://t.co/ZKIRTllkHA",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [],
+    "professionalType": "Creator",
+    "restId": "1738304936759181399"
+  },
+  "profileImageShape": "Circle",
+  "restId": "2453385626",
+  "tipjarSettings": {}
+}

@@ -1,0 +1,78 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjo5OTE1MDU1NTA3MzQwODIwNDk=",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Wed May 02 02:31:59 +0000 2018",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "TG channel: https://t.co/GJr2Qy5lAb\n富途专栏：https://t.co/3VePAbXwhr",
+    "entities": {
+      "description": {
+        "urls": [
+          {
+            "display_url": "t.me/fionasdailynews",
+            "expanded_url": "https://t.me/fionasdailynews",
+            "url": "https://t.co/GJr2Qy5lAb",
+            "indices": [
+              12,
+              35
+            ]
+          },
+          {
+            "display_url": "q.futunn.com/profile/233432…",
+            "expanded_url": "https://q.futunn.com/profile/233432242/column",
+            "url": "https://t.co/3VePAbXwhr",
+            "indices": [
+              41,
+              64
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 9143,
+    "followersCount": 36761,
+    "following": true,
+    "friendsCount": 640,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 846,
+    "location": "",
+    "mediaCount": 1779,
+    "name": "Fiona ❤️& ✌️",
+    "normalFollowersCount": 36761,
+    "pinnedTweetIdsStr": [
+      "1997290847742947696"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/991505550734082049/1703597982",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1732381783558422528/2FQre00D_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "nft_hu",
+    "statusesCount": 10596,
+    "translatorType": "none",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [
+      {
+        "iconName": "IconBriefcaseStroke",
+        "id": 713,
+        "name": "Science & Technology"
+      }
+    ],
+    "professionalType": "Creator",
+    "restId": "1518083714806259713"
+  },
+  "profileImageShape": "Circle",
+  "restId": "991505550734082049",
+  "tipjarSettings": {}
+}

@@ -1,0 +1,59 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxMzM4MDc1MjAyNzk4ODA5MDg5",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Sun Dec 13 10:56:14 +0000 2020",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "Investor in Crypto、TMT、AI ，跟踪最前沿科技趋势、野生宏观政经观察、研究全球资本流动性、周期趋势投资。记录个人学习和思考，经常出错常态掉坑爬坑。Runner🏃",
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 8702,
+    "followersCount": 102995,
+    "following": true,
+    "friendsCount": 1326,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 2941,
+    "location": "",
+    "mediaCount": 2435,
+    "name": "qinbafrank",
+    "normalFollowersCount": 102995,
+    "pinnedTweetIdsStr": [
+      "1899973508693975221"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1338075202798809089/1748852403",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1453864539720601606/rEHaWNk1_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "qinbafrank",
+    "statusesCount": 11935,
+    "translatorType": "none",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [
+      {
+        "iconName": "IconBriefcaseStroke",
+        "id": 713,
+        "name": "Science & Technology"
+      }
+    ],
+    "professionalType": "Business",
+    "restId": "1705693711835775435"
+  },
+  "profileImageShape": "Circle",
+  "restId": "1338075202798809089",
+  "tipjarSettings": {}
+}

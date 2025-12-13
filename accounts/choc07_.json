@@ -1,0 +1,60 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNDUyOTA4NzY0MDU1NTY4Mzg0",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Tue Oct 26 08:03:46 +0000 2021",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "01年 ｜Founder of Nuts Club｜如果你对Crypto Marketing有疑问请dm我｜立志一年产出一百个高质量视频｜",
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 11193,
+    "followedBy": true,
+    "followersCount": 30243,
+    "following": true,
+    "friendsCount": 2520,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 41,
+    "location": "",
+    "mediaCount": 472,
+    "name": "Choc🏃",
+    "normalFollowersCount": 30243,
+    "pinnedTweetIdsStr": [
+      "1947282267786867114"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1452908764055568384/1759844634",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1893964457816293376/wjf_CkvY_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "choc07_",
+    "statusesCount": 4207,
+    "translatorType": "none",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [
+      {
+        "iconName": "IconBriefcaseStroke",
+        "id": 934,
+        "name": "Social Media Influencer"
+      }
+    ],
+    "professionalType": "Creator",
+    "restId": "1556572374098530307"
+  },
+  "profileImageShape": "Circle",
+  "restId": "1452908764055568384",
+  "tipjarSettings": {}
+}

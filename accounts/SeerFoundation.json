@@ -1,0 +1,92 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNTQ5NTkxMzE0MTkwNDQyNDk2",
+  "isBlueVerified": false,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Wed Jul 20 03:08:39 +0000 2022",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "Web3 Social Value Discovery Protocol | Make encounters more valuable✨\nContact us: https://t.co/ux1tmUefyu   https://t.co/HxXKrvRJ9U",
+    "entities": {
+      "description": {
+        "urls": [
+          {
+            "display_url": "t.me/seerfound",
+            "expanded_url": "https://t.me/seerfound",
+            "url": "https://t.co/ux1tmUefyu",
+            "indices": [
+              82,
+              105
+            ]
+          },
+          {
+            "display_url": "seer.eco",
+            "expanded_url": "https://seer.eco",
+            "url": "https://t.co/HxXKrvRJ9U",
+            "indices": [
+              108,
+              131
+            ]
+          }
+        ]
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "linktr.ee/seerfoundation",
+            "expanded_url": "http://linktr.ee/seerfoundation",
+            "url": "https://t.co/fNqRY1H699",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 200,
+    "followersCount": 40501,
+    "following": true,
+    "friendsCount": 59,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 35,
+    "location": "",
+    "mediaCount": 232,
+    "name": "SEER.web3",
+    "normalFollowersCount": 40501,
+    "pinnedTweetIdsStr": [
+      "1752267740218609683"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1549591314190442496/1686103666",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1664578657501986817/sNiA3qzi_normal.png",
+    "profileInterstitialType": "",
+    "screenName": "SeerFoundation",
+    "statusesCount": 538,
+    "translatorType": "none",
+    "url": "https://t.co/fNqRY1H699",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [
+      {
+        "iconName": "IconBriefcaseStroke",
+        "id": 1094,
+        "name": "Blockchain"
+      }
+    ],
+    "professionalType": "Business",
+    "restId": "1610597427941097474"
+  },
+  "profileImageShape": "Circle",
+  "restId": "1549591314190442496",
+  "tipjarSettings": {}
+}

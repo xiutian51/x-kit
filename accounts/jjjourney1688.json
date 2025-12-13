@@ -1,0 +1,66 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoyNDY2MjE0NjAz",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Sun Apr 27 14:44:43 +0000 2014",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "🐎 athlete @humafinance | 🟧 a motherchain cm @INKedbtc @OrdinalXTribes | ⓧertified exit liquidity @xitadel_fi",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "rethinkable.xyz/jjjourney1688",
+            "expanded_url": "https://rethinkable.xyz/jjjourney1688",
+            "url": "https://t.co/MySoUPiQzo",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 40945,
+    "followedBy": true,
+    "followersCount": 4666,
+    "following": true,
+    "friendsCount": 4649,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 13,
+    "location": "Mamak",
+    "mediaCount": 719,
+    "name": "jjjy.1688",
+    "normalFollowersCount": 4666,
+    "pinnedTweetIdsStr": [],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/2466214603/1748248859",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1971032107129741312/xjYclbGA_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "jjjourney1688",
+    "statusesCount": 25916,
+    "translatorType": "none",
+    "url": "https://t.co/MySoUPiQzo",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [],
+    "professionalType": "Creator",
+    "restId": "1479448749533396993"
+  },
+  "profileImageShape": "Circle",
+  "restId": "2466214603",
+  "tipjarSettings": {}
+}

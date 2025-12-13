@@ -1,0 +1,62 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNDY4NzMyNDU3OTM1NTA3NDU5",
+  "isBlueVerified": false,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Thu Dec 09 00:01:29 +0000 2021",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "胡子观币，以传统图表技术分析为基石，行业投研和社区Dao为两翼，吸引培养人才。我们的优势在于传统图交易交流 | 万人同频复盘学习 | 直播行情解析| 精英交易员教学 | WEB3投研孵化。立志成为web3最大聚合器社区，让更多人享受行业发展红利。",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "huziguanbi.com",
+            "expanded_url": "http://huziguanbi.com",
+            "url": "https://t.co/0FUIKoeYYp",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 484,
+    "followersCount": 9265,
+    "following": true,
+    "friendsCount": 1,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 158,
+    "location": "",
+    "mediaCount": 508,
+    "name": "胡子观币社区官推",
+    "normalFollowersCount": 9265,
+    "pinnedTweetIdsStr": [
+      "1721559418322768283"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1468732457935507459/1708521594",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1760443199678758912/f_9FQ4P0_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "huziguanbi",
+    "statusesCount": 1380,
+    "translatorType": "none",
+    "url": "https://t.co/0FUIKoeYYp",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "profileImageShape": "Circle",
+  "restId": "1468732457935507459",
+  "tipjarSettings": {}
+}

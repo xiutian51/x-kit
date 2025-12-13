@@ -1,0 +1,65 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjo0MzYxOTc1NzM=",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": false,
+    "createdAt": "Tue Dec 13 22:22:03 +0000 2011",
+    "defaultProfile": false,
+    "defaultProfileImage": false,
+    "description": "回血中\nWeb3 街溜子，偶尔链上Alpha \n\nNFA DYOR",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "linktr.ee/yaoxubtc",
+            "expanded_url": "https://linktr.ee/yaoxubtc",
+            "url": "https://t.co/D9mytcYAJS",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 1275,
+    "followersCount": 972,
+    "following": true,
+    "friendsCount": 2745,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 34,
+    "location": "Olympus",
+    "mediaCount": 401,
+    "name": "YaoXu",
+    "normalFollowersCount": 972,
+    "pinnedTweetIdsStr": [
+      "1980531744291058032"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/436197573/1738408019",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1885646017108029440/azZfuMr6_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "YaoXuBTC",
+    "statusesCount": 2719,
+    "translatorType": "none",
+    "url": "https://t.co/D9mytcYAJS",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "profileImageShape": "Circle",
+  "restId": "436197573",
+  "tipjarSettings": {
+    "ethereumHandle": "0x5C6d1B304abcDffeD1cdF77c918009A228959E42",
+    "isEnabled": true
+  }
+}

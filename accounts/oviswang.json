@@ -1,0 +1,50 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNTYzNDQ1OTM3NTI3NDU1NzQ2",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Sat Aug 27 08:39:57 +0000 2022",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "Product manager",
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 129,
+    "followersCount": 24110,
+    "following": true,
+    "friendsCount": 47,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 84,
+    "location": "新加坡",
+    "mediaCount": 108,
+    "name": "Wang xin",
+    "normalFollowersCount": 24110,
+    "pinnedTweetIdsStr": [
+      "1932045024646320562"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1563445937527455746/1761693920",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1940273955064967168/sUXNMNQ3_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "oviswang",
+    "statusesCount": 284,
+    "translatorType": "none",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "profileImageShape": "Circle",
+  "restId": "1563445937527455746",
+  "tipjarSettings": {
+    "isEnabled": false
+  }
+}

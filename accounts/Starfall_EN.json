@@ -1,0 +1,67 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNzQ3NTE5NzUwNjYwNTYyOTQ0",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": false,
+    "canMediaTag": true,
+    "createdAt": "Wed Jan 17 07:22:40 +0000 2024",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "Roguelike Autochess x Hero-Building♟️ Fantasy RPG—Manga, Novel, Animation🌻 First Flame Test on iOS / Android / PC⛵️Internet Capital Market #ICM on @Solana ⚔️",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "linktr.ee/Freya_Starfall",
+            "expanded_url": "https://linktr.ee/Freya_Starfall",
+            "url": "https://t.co/GzDRuNbRjP",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 3638,
+    "followersCount": 14409,
+    "following": true,
+    "friendsCount": 13,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 20,
+    "location": "Elvinia",
+    "mediaCount": 192,
+    "name": "Freya: The Starfall | 星落のフレイヤ【公式】",
+    "normalFollowersCount": 14409,
+    "pinnedTweetIdsStr": [
+      "1950919875242963304"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1747519750660562944/1737724413",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1835177651495223296/hRjntoXo_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "Starfall_EN",
+    "statusesCount": 728,
+    "translatorType": "none",
+    "url": "https://t.co/GzDRuNbRjP",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [],
+    "professionalType": "Business",
+    "restId": "1802236836385005580"
+  },
+  "profileImageShape": "Circle",
+  "restId": "1747519750660562944",
+  "tipjarSettings": {}
+}

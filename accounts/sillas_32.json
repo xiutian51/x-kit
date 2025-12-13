@@ -1,0 +1,46 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxOTc1ODUwMDQ5NDk1MDE5NTIw",
+  "isBlueVerified": false,
+  "legacy": {
+    "canDm": false,
+    "canMediaTag": true,
+    "createdAt": "Wed Oct 08 09:05:52 +0000 2025",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "EX BD & Trader",
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 70,
+    "followersCount": 664,
+    "following": true,
+    "friendsCount": 1667,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 0,
+    "location": "",
+    "mediaCount": 1,
+    "name": "Sillas",
+    "normalFollowersCount": 664,
+    "pinnedTweetIdsStr": [],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1975850049495019520/1764884087",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1975868367484424192/us1usEx9_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "sillas_32",
+    "statusesCount": 56,
+    "translatorType": "none",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "profileImageShape": "Circle",
+  "restId": "1975850049495019520",
+  "tipjarSettings": {}
+}

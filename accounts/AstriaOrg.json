@@ -1,0 +1,65 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNTE0MjM0MzM4NDcyMzA4NzM3",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Wed Apr 13 13:29:46 +0000 2022",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "The Decentralized Sequencing Layer",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "astria.org",
+            "expanded_url": "http://astria.org",
+            "url": "https://t.co/m5iHPG5Jwh",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 593,
+    "followersCount": 19851,
+    "following": true,
+    "friendsCount": 6,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 367,
+    "location": "",
+    "mediaCount": 78,
+    "name": "Astria",
+    "normalFollowersCount": 19851,
+    "pinnedTweetIdsStr": [],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1514234338472308737/1713894135",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1642745579209134080/Ada1Th_L_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "AstriaOrg",
+    "statusesCount": 664,
+    "translatorType": "none",
+    "url": "https://t.co/m5iHPG5Jwh",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [],
+    "professionalType": "Business",
+    "restId": "1735448417424560430"
+  },
+  "profileImageShape": "Circle",
+  "restId": "1514234338472308737",
+  "tipjarSettings": {}
+}

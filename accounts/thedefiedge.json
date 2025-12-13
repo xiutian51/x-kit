@@ -1,0 +1,65 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNDgwMjk3NDMzMDIwMjE1Mjk3",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": false,
+    "createdAt": "Sun Jan 09 21:57:12 +0000 2022",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "Systems Thinker - Sharing Crypto strategies, insights, & analysis to help you level up. DMs open for deals.",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "thedefiedge.com/join-pro/",
+            "expanded_url": "https://thedefiedge.com/join-pro/",
+            "url": "https://t.co/09vjA37AtA",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 3875,
+    "followersCount": 304915,
+    "following": true,
+    "friendsCount": 203,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 8037,
+    "location": "Get an Edge →",
+    "mediaCount": 1613,
+    "name": "Edgy - The DeFi Edge 🗡️",
+    "normalFollowersCount": 304915,
+    "pinnedTweetIdsStr": [],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1480297433020215297/1693356268",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1879099772545671169/COr4zjOn_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "thedefiedge",
+    "statusesCount": 13335,
+    "translatorType": "none",
+    "url": "https://t.co/09vjA37AtA",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [],
+    "professionalType": "Creator",
+    "restId": "1626096175211483137"
+  },
+  "profileImageShape": "Circle",
+  "restId": "1480297433020215297",
+  "tipjarSettings": {}
+}

@@ -1,0 +1,95 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNTAxNTAyNTA2NTM4NDM4NjU3",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Wed Mar 09 10:18:02 +0000 2022",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "1 BTC = 1 BTC\n\n#XClub Founder\n\n#OKX WEB3入口一个就够https://t.co/pZCFItmdrD \n\n#Binance 近3亿用户的共同选择https://t.co/KoDvNU04iq",
+    "entities": {
+      "description": {
+        "urls": [
+          {
+            "display_url": "okx.com/zh-hans/join/U…",
+            "expanded_url": "https://okx.com/zh-hans/join/UNICORN",
+            "url": "https://t.co/pZCFItmdrD",
+            "indices": [
+              46,
+              69
+            ]
+          },
+          {
+            "display_url": "binance.com/join?ref=OMIVH…",
+            "expanded_url": "http://binance.com/join?ref=OMIVH05R",
+            "url": "https://t.co/KoDvNU04iq",
+            "indices": [
+              91,
+              114
+            ]
+          }
+        ]
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Bitcoin.com",
+            "expanded_url": "http://Bitcoin.com",
+            "url": "https://t.co/gP4Dud2LAO",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 37281,
+    "followedBy": true,
+    "followersCount": 132254,
+    "following": true,
+    "friendsCount": 3197,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 1324,
+    "location": "UnicornBitcoin",
+    "mediaCount": 3485,
+    "name": "UNICORN⚡️🦄",
+    "normalFollowersCount": 132254,
+    "pinnedTweetIdsStr": [
+      "1829904102001950862"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1501502506538438657/1744342761",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1963503485170978817/NpvyjRQ1_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "UnicornBitcoin",
+    "statusesCount": 18203,
+    "translatorType": "none",
+    "url": "https://t.co/gP4Dud2LAO",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [
+      {
+        "iconName": "IconBriefcaseStroke",
+        "id": 1094,
+        "name": "Blockchain"
+      }
+    ],
+    "professionalType": "Business",
+    "restId": "1592063822151417859"
+  },
+  "profileImageShape": "Circle",
+  "restId": "1501502506538438657",
+  "tipjarSettings": {
+    "isEnabled": false
+  }
+}

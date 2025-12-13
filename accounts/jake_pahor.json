@@ -1,0 +1,62 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNDY2OTcxNjc3Mzg5MDM3NTcz",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Sat Dec 04 03:25:05 +0000 2021",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "DeFi creator & analyst | Documenting my quest for financial freedom | 🇦🇺 \n\nAccount Executive @Coinstash_AU\n\nDM for Private Deals.",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "linktr.ee/jake_pahor",
+            "expanded_url": "https://linktr.ee/jake_pahor",
+            "url": "https://t.co/l6XDQW1JXs",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 55755,
+    "followersCount": 31407,
+    "following": true,
+    "friendsCount": 1165,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 1038,
+    "location": "Brisbane, Australia",
+    "mediaCount": 1514,
+    "name": "Jake Pahor",
+    "normalFollowersCount": 31407,
+    "pinnedTweetIdsStr": [
+      "1892393748468003079"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1466971677389037573/1663899110",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1573120094112460800/xaCTxhzE_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "jake_pahor",
+    "statusesCount": 7384,
+    "translatorType": "none",
+    "url": "https://t.co/l6XDQW1JXs",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "profileImageShape": "Circle",
+  "restId": "1466971677389037573",
+  "tipjarSettings": {}
+}

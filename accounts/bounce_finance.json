@@ -1,0 +1,87 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxMjg1NDA5MzEyMDg1NDcxMjMy",
+  "isBlueVerified": false,
+  "legacy": {
+    "canDm": false,
+    "canMediaTag": true,
+    "createdAt": "Tue Jul 21 03:00:52 +0000 2020",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "✨AUCTION as a Service ➡️official tg: https://t.co/hmLy659SGo | 공식 한국 커뮤니티: https://t.co/cnxKmOhX9t",
+    "entities": {
+      "description": {
+        "urls": [
+          {
+            "display_url": "t.me/bounce_finance",
+            "expanded_url": "https://t.me/bounce_finance",
+            "url": "https://t.co/hmLy659SGo",
+            "indices": [
+              37,
+              60
+            ]
+          },
+          {
+            "display_url": "t.me/bounce_kr",
+            "expanded_url": "https://t.me/bounce_kr",
+            "url": "https://t.co/cnxKmOhX9t",
+            "indices": [
+              75,
+              98
+            ]
+          }
+        ]
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "bounce.finance",
+            "expanded_url": "http://bounce.finance",
+            "url": "https://t.co/nm2hxeyc0c",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 1648,
+    "followersCount": 136241,
+    "following": true,
+    "friendsCount": 276,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 806,
+    "location": "Bounce",
+    "mediaCount": 938,
+    "name": "Bounce Brand",
+    "normalFollowersCount": 136241,
+    "pinnedTweetIdsStr": [
+      "1951267962901377042"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1285409312085471232/1745289873",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1947258439668817920/4oGougqO_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "bounce_finance",
+    "statusesCount": 2777,
+    "translatorType": "none",
+    "url": "https://t.co/nm2hxeyc0c",
+    "verified": false,
+    "verifiedType": "Business",
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [],
+    "professionalType": "Business",
+    "restId": "1497344381623410691"
+  },
+  "profileImageShape": "Square",
+  "restId": "1285409312085471232",
+  "tipjarSettings": {}
+}

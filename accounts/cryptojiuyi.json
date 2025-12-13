@@ -1,0 +1,63 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNDEzMTQ4NzAxNDQzMzMwMDUz",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Thu Jul 08 14:51:28 +0000 2021",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "Evangelist #001 — $Giggle",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "t.me/jiuyicall",
+            "expanded_url": "https://t.me/jiuyicall",
+            "url": "https://t.co/ZMnSBPzWLy",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 3083,
+    "followedBy": true,
+    "followersCount": 27561,
+    "following": true,
+    "friendsCount": 728,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 620,
+    "location": "",
+    "mediaCount": 745,
+    "name": "旧亿🔶 BNB",
+    "normalFollowersCount": 27561,
+    "pinnedTweetIdsStr": [
+      "1775545193930072254"
+    ],
+    "possiblySensitive": true,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1413148701443330053/1693386600",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1679445036990349313/dXA2TXxV_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "cryptojiuyi",
+    "statusesCount": 3899,
+    "translatorType": "none",
+    "url": "https://t.co/ZMnSBPzWLy",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "profileImageShape": "Circle",
+  "restId": "1413148701443330053",
+  "tipjarSettings": {}
+}

@@ -1,0 +1,72 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNzk1MDUzMjU5NDQ4NjE0OTEy",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Mon May 27 11:23:57 +0000 2024",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "The Free Internet Protocol.  Earn free mobile data at https://t.co/5TqqMRs9BR",
+    "entities": {
+      "description": {
+        "urls": [
+          {
+            "display_url": "depinsim.com",
+            "expanded_url": "http://depinsim.com",
+            "url": "https://t.co/5TqqMRs9BR",
+            "indices": [
+              54,
+              77
+            ]
+          }
+        ]
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "linktr.ee/depinsim",
+            "expanded_url": "https://linktr.ee/depinsim",
+            "url": "https://t.co/75YT1sJmG1",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 154,
+    "followersCount": 61515,
+    "following": true,
+    "friendsCount": 55,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 28,
+    "location": "",
+    "mediaCount": 81,
+    "name": "Depinsim",
+    "normalFollowersCount": 61515,
+    "pinnedTweetIdsStr": [
+      "1983534284125470818"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1795053259448614912/1761233098",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1829207840273190912/BZwz86YZ_normal.png",
+    "profileInterstitialType": "",
+    "screenName": "depinsim",
+    "statusesCount": 266,
+    "translatorType": "none",
+    "url": "https://t.co/75YT1sJmG1",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "profileImageShape": "Circle",
+  "restId": "1795053259448614912",
+  "tipjarSettings": {}
+}

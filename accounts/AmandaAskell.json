@@ -1,0 +1,62 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjo3NTYxODE3MjE5OTc5ODc4NDg=",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Thu Jul 21 17:39:06 +0000 2016",
+    "defaultProfile": false,
+    "defaultProfileImage": false,
+    "description": "Philosopher & ethicist trying to make AI be good @AnthropicAI.\nPersonal account. All opinions come from my training data.",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "askell.io",
+            "expanded_url": "http://askell.io",
+            "url": "https://t.co/5eYSq7KsOw",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 9070,
+    "followersCount": 62067,
+    "following": true,
+    "friendsCount": 660,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 1098,
+    "location": "San Francisco, CA",
+    "mediaCount": 250,
+    "name": "Amanda Askell",
+    "normalFollowersCount": 62067,
+    "pinnedTweetIdsStr": [
+      "1942764731116445781"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/756181721997987848/1550525299",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1808357270516125696/-s0TTWR8_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "AmandaAskell",
+    "statusesCount": 5127,
+    "translatorType": "none",
+    "url": "https://t.co/5eYSq7KsOw",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "profileImageShape": "Circle",
+  "restId": "756181721997987848",
+  "tipjarSettings": {}
+}

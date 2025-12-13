@@ -1,0 +1,59 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjo5NDU2MDc1MDc1MTAwMzg1Mjg=",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Tue Dec 26 10:49:33 +0000 2017",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "Crypto投资者、自由派保守主义者。",
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 79364,
+    "followersCount": 60886,
+    "following": true,
+    "friendsCount": 1248,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 768,
+    "location": "LA",
+    "mediaCount": 1166,
+    "name": "Pathfinder",
+    "normalFollowersCount": 60886,
+    "pinnedTweetIdsStr": [],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/945607507510038528/1647982701",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1638729107113660416/Wyv6IKP2_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "Pathusa",
+    "statusesCount": 45806,
+    "translatorType": "none",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [
+      {
+        "iconName": "IconBriefcaseStroke",
+        "id": 1009,
+        "name": "Community"
+      }
+    ],
+    "professionalType": "Creator",
+    "restId": "1506375734608105474"
+  },
+  "profileImageShape": "Circle",
+  "restId": "945607507510038528",
+  "tipjarSettings": {
+    "isEnabled": true
+  }
+}

@@ -1,0 +1,81 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxMzUwMTU1Mg==",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": false,
+    "canMediaTag": true,
+    "createdAt": "Fri Feb 15 03:02:40 +0000 2008",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "Founder and CEO https://t.co/Jnak5zJpNR, Game Publisher, Game Developer, Entrepreneur, Angel Investor and Singer.",
+    "entities": {
+      "description": {
+        "urls": [
+          {
+            "display_url": "Xter.io",
+            "expanded_url": "http://Xter.io",
+            "url": "https://t.co/Jnak5zJpNR",
+            "indices": [
+              16,
+              39
+            ]
+          }
+        ]
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "xter.io",
+            "expanded_url": "http://xter.io",
+            "url": "https://t.co/Q8hwZAkeRh",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 1445,
+    "followersCount": 85621,
+    "following": true,
+    "friendsCount": 865,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 47,
+    "location": "Singapore",
+    "mediaCount": 86,
+    "name": "fatleopard",
+    "normalFollowersCount": 85621,
+    "pinnedTweetIdsStr": [],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/13501552/1701146790",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1729357070674313216/bnGME0Tp_normal.png",
+    "profileInterstitialType": "",
+    "screenName": "fat_leopard",
+    "statusesCount": 884,
+    "translatorType": "none",
+    "url": "https://t.co/Q8hwZAkeRh",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [
+      {
+        "iconName": "IconBriefcaseStroke",
+        "id": 1037,
+        "name": "Game Developer"
+      }
+    ],
+    "professionalType": "Creator",
+    "restId": "1656792367196962819"
+  },
+  "profileImageShape": "Circle",
+  "restId": "13501552",
+  "tipjarSettings": {}
+}

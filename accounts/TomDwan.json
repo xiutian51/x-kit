@@ -1,0 +1,45 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNTYxMjI1NTg=",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": false,
+    "canMediaTag": true,
+    "createdAt": "Wed Jun 16 02:30:54 +0000 2010",
+    "defaultProfile": false,
+    "defaultProfileImage": false,
+    "description": "",
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 8778,
+    "followersCount": 209056,
+    "following": true,
+    "friendsCount": 619,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 2463,
+    "location": "Las Vegas, NV",
+    "mediaCount": 88,
+    "name": "Tom Dwan",
+    "normalFollowersCount": 209056,
+    "pinnedTweetIdsStr": [],
+    "possiblySensitive": false,
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/2820390255/3db68b3d440c82ec5164b589d22c3e73_normal.jpeg",
+    "profileInterstitialType": "",
+    "screenName": "TomDwan",
+    "statusesCount": 4512,
+    "translatorType": "none",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "profileImageShape": "Circle",
+  "restId": "156122558",
+  "tipjarSettings": {}
+}

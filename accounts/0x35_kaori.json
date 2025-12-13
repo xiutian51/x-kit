@@ -1,0 +1,73 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNjQ3ODk0MDMwODQyNDgyNjg4",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Mon Apr 17 09:25:46 +0000 2023",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "intern of @BlockBeatsAsia 📧 Chenxr35@outlook.com Find me on FC: https://t.co/WYF8Iuudb8 🔛DM open. ⚠️Won’t send any links",
+    "entities": {
+      "description": {
+        "urls": [
+          {
+            "display_url": "warpcast.com/kaori",
+            "expanded_url": "https://warpcast.com/kaori",
+            "url": "https://t.co/WYF8Iuudb8",
+            "indices": [
+              64,
+              87
+            ]
+          }
+        ]
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "theblockbeats.info/newsauthor/186",
+            "expanded_url": "https://www.theblockbeats.info/newsauthor/186",
+            "url": "https://t.co/Z5d5a0IwC7",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 2231,
+    "followedBy": true,
+    "followersCount": 1189,
+    "following": true,
+    "friendsCount": 4008,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 26,
+    "location": "mars",
+    "mediaCount": 54,
+    "name": "kaori35",
+    "normalFollowersCount": 1189,
+    "pinnedTweetIdsStr": [
+      "1991852125832527892"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1647894030842482688/1731064074",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1788081716470648832/1PAZEgrP_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "0x35_kaori",
+    "statusesCount": 1807,
+    "translatorType": "none",
+    "url": "https://t.co/Z5d5a0IwC7",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "profileImageShape": "Circle",
+  "restId": "1647894030842482688",
+  "tipjarSettings": {}
+}

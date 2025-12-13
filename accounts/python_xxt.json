@@ -1,0 +1,55 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjo4ODA2MDY3MTUxNDE1Mjk2MDA=",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Fri Jun 30 01:59:36 +0000 2017",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "AI & Robustness in chaos.\n\nInsight  → Strategy → Operation\n\nNow,not How.\n\n我对现实世界的认知\n贫瘠到无法自知其贫瘠",
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 26092,
+    "followersCount": 23149,
+    "following": true,
+    "friendsCount": 493,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 263,
+    "location": "Deep thinker try to think",
+    "mediaCount": 378,
+    "name": "Robinson · 鲁棒逊",
+    "normalFollowersCount": 23149,
+    "pinnedTweetIdsStr": [
+      "1999134762297102564"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/880606715141529600/1760968248",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1980814059525033985/d9tb6rAG_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "python_xxt",
+    "statusesCount": 6779,
+    "translatorType": "none",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [],
+    "professionalType": "Creator",
+    "restId": "1904695608906309915"
+  },
+  "profileImageShape": "Circle",
+  "restId": "880606715141529600",
+  "tipjarSettings": {
+    "isEnabled": false
+  }
+}

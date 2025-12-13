@@ -1,0 +1,81 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNDM5NjA0ODQxOTI0MzU4MTQ1",
+  "isBlueVerified": false,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Sun Sep 19 14:58:50 +0000 2021",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "Peer-Peer Web3 Branding Tool for Super-Creators. MoraPlanet https://t.co/qxQZGcrpl5",
+    "entities": {
+      "description": {
+        "urls": [
+          {
+            "display_url": "mora.app/planet/qvsfp-6…",
+            "expanded_url": "https://mora.app/planet/qvsfp-6aaaa-aaaan-qdbua-cai",
+            "url": "https://t.co/qxQZGcrpl5",
+            "indices": [
+              60,
+              83
+            ]
+          }
+        ]
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "mora.app",
+            "expanded_url": "https://mora.app/",
+            "url": "https://t.co/nr84YmJD29",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 1653,
+    "followersCount": 5120,
+    "following": true,
+    "friendsCount": 244,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 34,
+    "location": "Internet Computer",
+    "mediaCount": 73,
+    "name": "Mora",
+    "normalFollowersCount": 5120,
+    "pinnedTweetIdsStr": [],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1439604841924358145/1682323125",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1575882602241630211/hgEB-Gbl_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "Mora_App",
+    "statusesCount": 929,
+    "translatorType": "none",
+    "url": "https://t.co/nr84YmJD29",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [
+      {
+        "iconName": "IconBriefcaseStroke",
+        "id": 1094,
+        "name": "Blockchain"
+      }
+    ],
+    "professionalType": "Business",
+    "restId": "1534222781650350082"
+  },
+  "profileImageShape": "Circle",
+  "restId": "1439604841924358145",
+  "tipjarSettings": {}
+}

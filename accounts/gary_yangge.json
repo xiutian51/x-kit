@@ -1,0 +1,73 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxMDcxMDY3MTY=",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": false,
+    "canMediaTag": true,
+    "createdAt": "Thu Jan 21 15:32:48 +0000 2010",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "Web3&2 Investor; Eureka Group Founder; CICADA Finance Incubator; SkySaga Capital (星瀚资本) Founding Partner; ENS: garyyang.eth",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "cicada.finance",
+            "expanded_url": "http://cicada.finance",
+            "url": "https://t.co/IzWREavrcx",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 441,
+    "followersCount": 23115,
+    "following": true,
+    "friendsCount": 791,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 189,
+    "location": "Metaverse",
+    "mediaCount": 42,
+    "name": "Gary Yang",
+    "normalFollowersCount": 23115,
+    "pinnedTweetIdsStr": [
+      "1927461882211791179"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/107106716/1648490287",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1482359413767741441/-4542gNl_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "gary_yangge",
+    "statusesCount": 228,
+    "translatorType": "none",
+    "url": "https://t.co/IzWREavrcx",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [
+      {
+        "iconName": "IconBriefcaseStroke",
+        "id": 199,
+        "name": "Investment Company"
+      }
+    ],
+    "professionalType": "Business",
+    "restId": "1482340856543969281"
+  },
+  "profileImageShape": "Circle",
+  "restId": "107106716",
+  "tipjarSettings": {}
+}

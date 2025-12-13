@@ -1,0 +1,65 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxMjMxODMxNDQ4NTA5ODI5MTIx",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Mon Feb 24 06:41:41 +0000 2020",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "The #1 on-chain perps trading with built-in yield strategies. \n\nCreator of @WildeFinance and @Nekodex_app",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "perp.com",
+            "expanded_url": "https://perp.com",
+            "url": "https://t.co/I72Ef7GB8Y",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 3910,
+    "followersCount": 87586,
+    "following": true,
+    "friendsCount": 326,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 886,
+    "location": "multi-chain",
+    "mediaCount": 1086,
+    "name": "Perpetual Protocol (=ↀωↀ=)",
+    "normalFollowersCount": 87586,
+    "pinnedTweetIdsStr": [],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1231831448509829121/1674204451",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1745646203805556736/Sa1DBtLE_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "perpprotocol",
+    "statusesCount": 3753,
+    "translatorType": "none",
+    "url": "https://t.co/I72Ef7GB8Y",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [],
+    "professionalType": "Business",
+    "restId": "1733082685139210504"
+  },
+  "profileImageShape": "Circle",
+  "restId": "1231831448509829121",
+  "tipjarSettings": {}
+}

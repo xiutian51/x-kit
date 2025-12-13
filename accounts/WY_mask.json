@@ -1,0 +1,86 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNTY3ODUyOTE0NjA1MTgyOTc3",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Thu Sep 08 12:31:26 +0000 2022",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "日更推主｜🌈广告自辨｜合作请私信💌\n\nCrypto入口，OKX就够 。最全交易工具，畅游130+公链，极速交易热门Meme，使用我的链接可节省20%手续费：WYMASK\n🔗https://t.co/KfoF7nv7ZP\n\n近3亿用户的共同选择，出入金安全，启程Web3就在币安 #Binance",
+    "entities": {
+      "description": {
+        "urls": [
+          {
+            "display_url": "web3.okx.com/join/WYMASK",
+            "expanded_url": "https://web3.okx.com/join/WYMASK",
+            "url": "https://t.co/KfoF7nv7ZP",
+            "indices": [
+              86,
+              109
+            ]
+          }
+        ]
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "marketwebb.cloud/zh-CN/join?ref…",
+            "expanded_url": "https://www.marketwebb.cloud/zh-CN/join?ref=WY0214",
+            "url": "https://t.co/1uDTFhTesG",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 18409,
+    "followersCount": 83231,
+    "following": true,
+    "friendsCount": 4893,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 2197,
+    "location": "币安注册链接👉",
+    "mediaCount": 6829,
+    "name": "无颜 (❖,❖) | MemeMax⚡️",
+    "normalFollowersCount": 83231,
+    "pinnedTweetIdsStr": [
+      "1777381998874743040"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1567852914605182977/1741256429",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1994679329842925568/srGj67dL_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "WY_mask",
+    "statusesCount": 16335,
+    "translatorType": "none",
+    "url": "https://t.co/1uDTFhTesG",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [
+      {
+        "iconName": "IconBriefcaseStroke",
+        "id": 934,
+        "name": "Social Media Influencer"
+      }
+    ],
+    "professionalType": "Creator",
+    "restId": "1567868711683633153"
+  },
+  "profileImageShape": "Circle",
+  "restId": "1567852914605182977",
+  "tipjarSettings": {
+    "ethereumHandle": "0x59FD51f8B0a09e0854f8aA85a954D470237d641D",
+    "isEnabled": true
+  }
+}

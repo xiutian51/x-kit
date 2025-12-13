@@ -1,0 +1,56 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNjYyNDA2NDkxNTAzMjIyNzg1",
+  "isBlueVerified": false,
+  "legacy": {
+    "canDm": false,
+    "canMediaTag": true,
+    "createdAt": "Sat May 27 10:33:01 +0000 2023",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "Research @hashglobal ｜NYU Alumni｜RPC #223 @rpcnftclub｜long $BTC $BNB\n=BTC on-chain data sharing: https://t.co/3eDDkxQBqo",
+    "entities": {
+      "description": {
+        "urls": [
+          {
+            "display_url": "t.me/+XQQZgv19f_g3Z…",
+            "expanded_url": "https://t.me/+XQQZgv19f_g3ZTA1",
+            "url": "https://t.co/3eDDkxQBqo",
+            "indices": [
+              97,
+              120
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 490,
+    "followersCount": 864,
+    "following": true,
+    "friendsCount": 214,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 16,
+    "location": "",
+    "mediaCount": 64,
+    "name": "Jessica Feng",
+    "normalFollowersCount": 864,
+    "pinnedTweetIdsStr": [],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1662406491503222785/1742443083",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1902569495753117696/3s_Dk0Gl_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "Jf4172",
+    "statusesCount": 150,
+    "translatorType": "none",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "profileImageShape": "Circle",
+  "restId": "1662406491503222785",
+  "tipjarSettings": {}
+}

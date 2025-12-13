@@ -1,0 +1,79 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNjE2MTQ2Mzc0NDk5ODk3MzQ0",
+  "isBlueVerified": false,
+  "legacy": {
+    "canDm": false,
+    "canMediaTag": true,
+    "createdAt": "Thu Jan 19 18:51:56 +0000 2023",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "Create your own customized, AI porn in a few clicks with https://t.co/jxnvwJvDMZ. Create images, GIFs and more for free!\nJoin our Discord: https://t.co/8EYg6si6gk",
+    "entities": {
+      "description": {
+        "urls": [
+          {
+            "display_url": "pornpen.ai",
+            "expanded_url": "http://pornpen.ai",
+            "url": "https://t.co/jxnvwJvDMZ",
+            "indices": [
+              57,
+              80
+            ]
+          },
+          {
+            "display_url": "discord.gg/uZfjga6SUq",
+            "expanded_url": "https://discord.gg/uZfjga6SUq",
+            "url": "https://t.co/8EYg6si6gk",
+            "indices": [
+              139,
+              162
+            ]
+          }
+        ]
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "pornpen.ai",
+            "expanded_url": "https://pornpen.ai",
+            "url": "https://t.co/NXUMZCnNGM",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 41,
+    "followersCount": 12725,
+    "following": true,
+    "friendsCount": 1,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 57,
+    "location": "",
+    "mediaCount": 343,
+    "name": "pornpen.ai",
+    "normalFollowersCount": 12725,
+    "pinnedTweetIdsStr": [],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1616146374499897344/1674669652",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1618291713134714881/2yhxRSNu_normal.png",
+    "profileInterstitialType": "",
+    "screenName": "pornpen_ai",
+    "statusesCount": 424,
+    "translatorType": "none",
+    "url": "https://t.co/NXUMZCnNGM",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "profileImageShape": "Circle",
+  "restId": "1616146374499897344",
+  "tipjarSettings": {}
+}

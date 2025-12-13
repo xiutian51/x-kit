@@ -1,0 +1,70 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNTY3ODU3ODA2NjkwMzUzMTUy",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Thu Sep 08 12:51:19 +0000 2022",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "Web3爆料+考古 🔥 Web3 Community Builder 💎  #BNB #SUI #SOL maxi 🌟DYOR\n注册 #Binance👉 https://t.co/cUY0LCqwJ4",
+    "entities": {
+      "description": {
+        "urls": [
+          {
+            "display_url": "marketwebb.ninja/zh-CN/join?ref…",
+            "expanded_url": "https://www.marketwebb.ninja/zh-CN/join?ref=CPA_00MK8JBXSD",
+            "url": "https://t.co/cUY0LCqwJ4",
+            "indices": [
+              77,
+              100
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 9640,
+    "followersCount": 208686,
+    "following": true,
+    "friendsCount": 3616,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 521,
+    "location": "APAC",
+    "mediaCount": 581,
+    "name": "加密无畏",
+    "normalFollowersCount": 208686,
+    "pinnedTweetIdsStr": [
+      "1897824520154890537"
+    ],
+    "possiblySensitive": false,
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1884784460065058817/s_-KqMjW_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "cryptobraveHQ",
+    "statusesCount": 4130,
+    "translatorType": "none",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [
+      {
+        "iconName": "IconBriefcaseStroke",
+        "id": 934,
+        "name": "Social Media Influencer"
+      }
+    ],
+    "professionalType": "Business",
+    "restId": "1668686740314288128"
+  },
+  "profileImageShape": "Circle",
+  "restId": "1567857806690353152",
+  "tipjarSettings": {
+    "isEnabled": true
+  }
+}

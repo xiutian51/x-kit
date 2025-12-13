@@ -1,0 +1,57 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNDQzMDYzMQ==",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": false,
+    "createdAt": "Fri Apr 18 07:08:43 +0000 2008",
+    "defaultProfile": false,
+    "defaultProfileImage": false,
+    "description": "🚀 果壳AI创新实验室负责人，连续创业失败者。\n📱 自媒体副业，3个月变现10w+，一年做到小红书AI赛道头部。",
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 428,
+    "followersCount": 2287,
+    "following": true,
+    "friendsCount": 339,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 12,
+    "location": "",
+    "mediaCount": 217,
+    "name": "陈言Linkc-Chen",
+    "normalFollowersCount": 2287,
+    "pinnedTweetIdsStr": [],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/14430631/1686800533",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1692369431815737344/amhVdVBE_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "Linkc",
+    "statusesCount": 1469,
+    "translatorType": "none",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [
+      {
+        "iconName": "IconBriefcaseStroke",
+        "id": 713,
+        "name": "Science & Technology"
+      }
+    ],
+    "professionalType": "Creator",
+    "restId": "1669179051951669249"
+  },
+  "profileImageShape": "Circle",
+  "restId": "14430631",
+  "tipjarSettings": {}
+}

@@ -1,0 +1,83 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxMzE5MjQwNTcyNzMzODEyNzM3",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Thu Oct 22 11:34:10 +0000 2020",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "iZUMi Finance is the first DeFi Fund backed Nasdaq DAT.\nFollow our socials 👉https://t.co/9mh4NkeeDs",
+    "entities": {
+      "description": {
+        "urls": [
+          {
+            "display_url": "link3.to/izumifinance",
+            "expanded_url": "http://link3.to/izumifinance",
+            "url": "https://t.co/9mh4NkeeDs",
+            "indices": [
+              76,
+              99
+            ]
+          }
+        ]
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "izumi.finance/home",
+            "expanded_url": "https://izumi.finance/home",
+            "url": "https://t.co/N8VRXzU47C",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 509,
+    "followersCount": 350397,
+    "following": true,
+    "friendsCount": 634,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 483,
+    "location": "DeFi",
+    "mediaCount": 641,
+    "name": "iZUMi Finance | Nasdaq DAT",
+    "normalFollowersCount": 350397,
+    "pinnedTweetIdsStr": [
+      "1968357049378713876"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1319240572733812737/1661337513",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1509704804032937991/5qVVZwJj_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "izumi_Finance",
+    "statusesCount": 2312,
+    "translatorType": "none",
+    "url": "https://t.co/N8VRXzU47C",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [
+      {
+        "iconName": "IconBriefcaseStroke",
+        "id": 192,
+        "name": "Financial Services"
+      }
+    ],
+    "professionalType": "Business",
+    "restId": "1486377672477491201"
+  },
+  "profileImageShape": "Circle",
+  "restId": "1319240572733812737",
+  "tipjarSettings": {}
+}

@@ -1,0 +1,115 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {
+    "label": {
+      "url": {
+        "url": "https://twitter.com/Sidekick_Labs",
+        "urlType": "DeepLink"
+      },
+      "badge": {
+        "url": "https://pbs.twimg.com/profile_images/1997943436050378753/6j8_E-_V_bigger.jpg"
+      },
+      "description": "Sidekick",
+      "userLabelType": "BusinessLabel",
+      "userLabelDisplayType": "Badge"
+    }
+  },
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNDQ1MjIyMjQ4OTAyNjUxOTA2",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": false,
+    "createdAt": "Tue Oct 05 03:00:20 +0000 2021",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "嘴撸 赌徒，#OKX Web3钱包现已支持100+公链#web3入口 一个就够 https://t.co/fwm39TWSQ8  #Binance 币安福利官专属注册通道👉 https://t.co/G1rnYY0vv1 #WEEX 大使专属注册：https://t.co/RiQO013wQp",
+    "entities": {
+      "description": {
+        "urls": [
+          {
+            "display_url": "reurl.cc/oKybmq",
+            "expanded_url": "https://reurl.cc/oKybmq",
+            "url": "https://t.co/fwm39TWSQ8",
+            "indices": [
+              40,
+              63
+            ]
+          },
+          {
+            "display_url": "psce.pw/8bgh86",
+            "expanded_url": "https://psce.pw/8bgh86",
+            "url": "https://t.co/G1rnYY0vv1",
+            "indices": [
+              87,
+              110
+            ]
+          },
+          {
+            "display_url": "reurl.cc/8bXAbg",
+            "expanded_url": "https://reurl.cc/8bXAbg",
+            "url": "https://t.co/RiQO013wQp",
+            "indices": [
+              124,
+              147
+            ]
+          }
+        ]
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "sunperp.com/zh-cn/futures/…",
+            "expanded_url": "https://www.sunperp.com/zh-cn/futures/invite?invitecode=ve622223",
+            "url": "https://t.co/aIjb9wfiAX",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 8102,
+    "followersCount": 90612,
+    "following": true,
+    "friendsCount": 4696,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 1485,
+    "location": "第一个中文DEX华语品牌孙悟空⬇️",
+    "mediaCount": 4800,
+    "name": "王短鸟 (长鸟版) 🧠SENT MemeMax⚡️OKB $M | 🐜 $BARD 🦅🟠",
+    "normalFollowersCount": 90612,
+    "pinnedTweetIdsStr": [
+      "1702199777566331091"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1445222248902651906/1743536992",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1990688328262561796/Ptwdn_iU_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "wanghebbf",
+    "statusesCount": 41074,
+    "translatorType": "none",
+    "url": "https://t.co/aIjb9wfiAX",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [
+      {
+        "iconName": "IconBriefcaseStroke",
+        "id": 15,
+        "name": "Entertainment & Recreation"
+      }
+    ],
+    "professionalType": "Creator",
+    "restId": "1612155551697313793"
+  },
+  "profileImageShape": "Circle",
+  "restId": "1445222248902651906",
+  "superFollowEligible": true,
+  "tipjarSettings": {}
+}

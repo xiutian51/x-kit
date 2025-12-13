@@ -1,0 +1,60 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxODAzMzA1OTIwMDYxMTY5NjY0",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Wed Jun 19 05:57:03 +0000 2024",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "InfluxAI harnesses the power of AI to ensure the safety of user assets and investments.",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "linktr.ee/influx_ai",
+            "expanded_url": "https://linktr.ee/influx_ai",
+            "url": "https://t.co/piwuyXuUkO",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 870,
+    "followersCount": 29477,
+    "following": true,
+    "friendsCount": 134,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 8,
+    "location": "",
+    "mediaCount": 608,
+    "name": "InfluxAI",
+    "normalFollowersCount": 29477,
+    "pinnedTweetIdsStr": [],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1803305920061169664/1732039913",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1858936197390733312/bmFKiizt_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "Influx_AI_pro",
+    "statusesCount": 1102,
+    "translatorType": "none",
+    "url": "https://t.co/piwuyXuUkO",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "profileImageShape": "Circle",
+  "restId": "1803305920061169664",
+  "tipjarSettings": {}
+}

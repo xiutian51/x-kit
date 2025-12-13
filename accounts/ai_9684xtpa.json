@@ -1,0 +1,85 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNTAzMzYyMDA2MTkxMDI2MTgw",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": false,
+    "createdAt": "Mon Mar 14 13:27:05 +0000 2022",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "#crypto is the antidote of APTX4869 💊  \n链上小说家，关心天气、食物、还有故事。 \n\nDYOR #DeFi #Meme #NFT #BTC #Binance\n个人主页：https://t.co/gff8vVlSl1",
+    "entities": {
+      "description": {
+        "urls": [
+          {
+            "display_url": "aiaptx.me",
+            "expanded_url": "http://aiaptx.me",
+            "url": "https://t.co/gff8vVlSl1",
+            "indices": [
+              103,
+              126
+            ]
+          }
+        ]
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "linktr.ee/aiaptx",
+            "expanded_url": "https://linktr.ee/aiaptx",
+            "url": "https://t.co/4ZnIYLKsej",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 6398,
+    "followersCount": 125581,
+    "following": true,
+    "friendsCount": 547,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 2765,
+    "location": "返佣链接 👉",
+    "mediaCount": 6160,
+    "name": "Ai 姨",
+    "normalFollowersCount": 125581,
+    "pinnedTweetIdsStr": [
+      "1999276389254738110"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1503362006191026180/1670210681",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1599605643744116736/Pstsnsb6_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "ai_9684xtpa",
+    "statusesCount": 12147,
+    "translatorType": "none",
+    "url": "https://t.co/4ZnIYLKsej",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [
+      {
+        "iconName": "IconBriefcaseStroke",
+        "id": 192,
+        "name": "Financial Services"
+      }
+    ],
+    "professionalType": "Creator",
+    "restId": "1519921211207479296"
+  },
+  "profileImageShape": "Circle",
+  "restId": "1503362006191026180",
+  "tipjarSettings": {
+    "isEnabled": true
+  }
+}

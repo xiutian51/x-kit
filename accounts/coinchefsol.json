@@ -1,0 +1,62 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNzY5MjI4NTM1OTg4NzMxOTA0",
+  "isBlueVerified": false,
+  "legacy": {
+    "canDm": false,
+    "canMediaTag": false,
+    "createdAt": "Sun Mar 17 05:05:36 +0000 2024",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "Cook a coin in seconds, get paid. \n\nEarn fees even with locked liquidity, kickback fees to holders.\n\nProducts include ChefSwap, Chefpad.",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "coinchef.com",
+            "expanded_url": "https://www.coinchef.com",
+            "url": "https://t.co/En6dx6J2dU",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 44,
+    "followersCount": 127228,
+    "following": true,
+    "friendsCount": 7,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 340,
+    "location": "",
+    "mediaCount": 70,
+    "name": "Coinchef 👨‍🍳",
+    "normalFollowersCount": 127228,
+    "pinnedTweetIdsStr": [
+      "1996663363938508830"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1769228535988731904/1729499642",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1850851724682002432/2lr4a7YA_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "coinchefsol",
+    "statusesCount": 104,
+    "translatorType": "none",
+    "url": "https://t.co/En6dx6J2dU",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "profileImageShape": "Circle",
+  "restId": "1769228535988731904",
+  "tipjarSettings": {}
+}

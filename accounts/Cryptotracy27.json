@@ -1,0 +1,54 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxMjU1MzczMzE1NDExMTkzODU4",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": false,
+    "canMediaTag": true,
+    "createdAt": "Wed Apr 29 05:48:31 +0000 2020",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "In blockchain since 2017 with passion and mission, ex-CEO@Cointelegraph CN, global PR/marketing rooted in APAC#FutureFrontier; YOLO; Prajñā",
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 1207,
+    "followersCount": 12802,
+    "following": true,
+    "friendsCount": 2778,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 191,
+    "location": "WEB3",
+    "mediaCount": 205,
+    "name": "Tracy大表姐",
+    "normalFollowersCount": 12802,
+    "pinnedTweetIdsStr": [],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1255373315411193858/1737186149",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1685989234254176256/9kNjMmPt_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "Cryptotracy27",
+    "statusesCount": 1992,
+    "translatorType": "none",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [],
+    "professionalType": "Creator",
+    "restId": "1481982936031375369"
+  },
+  "profileImageShape": "Circle",
+  "restId": "1255373315411193858",
+  "tipjarSettings": {
+    "ethereumHandle": "0x65Af2447E7d5038e3A722D0Bf963C6e48bBDD524",
+    "isEnabled": true
+  }
+}

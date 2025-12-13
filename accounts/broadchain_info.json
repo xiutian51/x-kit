@@ -1,0 +1,72 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxODI1MTgyNzMxNDk3ODIwMTYw",
+  "isBlueVerified": false,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Sun Aug 18 14:47:48 +0000 2024",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "BroadChain博链财经, https://t.co/tJDflACpBk , A Web3 and crypto financial media headquartered in Asia, established in 2018.  @Whdysseus @1783DAO",
+    "entities": {
+      "description": {
+        "urls": [
+          {
+            "display_url": "broadchain.info",
+            "expanded_url": "https://www.broadchain.info/",
+            "url": "https://t.co/tJDflACpBk",
+            "indices": [
+              16,
+              39
+            ]
+          }
+        ]
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "linktr.ee/1783dao",
+            "expanded_url": "https://linktr.ee/1783dao",
+            "url": "https://t.co/OV60KIg4Ai",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 270,
+    "followersCount": 1785,
+    "following": true,
+    "friendsCount": 203,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 3,
+    "location": "Metaverse",
+    "mediaCount": 70,
+    "name": "BroadChain博链财经-broadchain.info",
+    "normalFollowersCount": 1785,
+    "pinnedTweetIdsStr": [
+      "1880144006912614881"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1825182731497820160/1737562504",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1825449396173172736/UZ1g9QTk_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "broadchain_info",
+    "statusesCount": 455,
+    "translatorType": "none",
+    "url": "https://t.co/OV60KIg4Ai",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "profileImageShape": "Circle",
+  "restId": "1825182731497820160",
+  "tipjarSettings": {}
+}

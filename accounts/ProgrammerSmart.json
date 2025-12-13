@@ -1,0 +1,120 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {
+    "label": {
+      "url": {
+        "url": "https://twitter.com/cyfrin",
+        "urlType": "DeepLink"
+      },
+      "badge": {
+        "url": "https://pbs.twimg.com/profile_images/1758195080479887360/ObCWIXyC_bigger.jpg"
+      },
+      "description": "Cyfrin Audits",
+      "userLabelType": "BusinessLabel",
+      "userLabelDisplayType": "Badge"
+    }
+  },
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxMTE5OTY5NjY3NjE3OTM5NDU2",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Sun Apr 21 14:22:31 +0000 2019",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "https://t.co/1QN0tguH9c\nhttps://t.co/9Is13KVO2c\nhttps://t.co/k6t3JMxZen\nhttps://t.co/LLkIeiANtk",
+    "entities": {
+      "description": {
+        "urls": [
+          {
+            "display_url": "smartcontract.engineer",
+            "expanded_url": "http://smartcontract.engineer",
+            "url": "https://t.co/1QN0tguH9c",
+            "indices": [
+              0,
+              23
+            ]
+          },
+          {
+            "display_url": "solidity-by-example.org",
+            "expanded_url": "http://solidity-by-example.org",
+            "url": "https://t.co/9Is13KVO2c",
+            "indices": [
+              24,
+              47
+            ]
+          },
+          {
+            "display_url": "vyper-by-example.org",
+            "expanded_url": "http://vyper-by-example.org",
+            "url": "https://t.co/k6t3JMxZen",
+            "indices": [
+              48,
+              71
+            ]
+          },
+          {
+            "display_url": "youtube.com/@smartcontract…",
+            "expanded_url": "https://www.youtube.com/@smartcontractprogrammer",
+            "url": "https://t.co/LLkIeiANtk",
+            "indices": [
+              72,
+              95
+            ]
+          }
+        ]
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "smartcontract.engineer",
+            "expanded_url": "http://smartcontract.engineer",
+            "url": "https://t.co/1QN0tguH9c",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 14487,
+    "followersCount": 26506,
+    "following": true,
+    "friendsCount": 234,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 389,
+    "location": "",
+    "mediaCount": 1006,
+    "name": "🐸Smart🐸Contract🐸Programmer🐸",
+    "normalFollowersCount": 26506,
+    "pinnedTweetIdsStr": [],
+    "possiblySensitive": false,
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1668223552829661184/SCY9Jymp_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "ProgrammerSmart",
+    "statusesCount": 2408,
+    "translatorType": "none",
+    "url": "https://t.co/1QN0tguH9c",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [
+      {
+        "iconName": "IconBriefcaseStroke",
+        "id": 144,
+        "name": "Education"
+      }
+    ],
+    "professionalType": "Creator",
+    "restId": "1561261885894565888"
+  },
+  "profileImageShape": "Circle",
+  "restId": "1119969667617939456",
+  "tipjarSettings": {}
+}

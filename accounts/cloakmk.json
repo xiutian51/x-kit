@@ -1,0 +1,82 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxMzA1MDYyNjI2MjcyMDU1Mjk2",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": false,
+    "createdAt": "Sun Sep 13 08:36:08 +0000 2020",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "输出独立观点 研究行情趋势 热点机会 仅供参考 注意风险 别看别信别买OKX：https://t.co/YwB0jDF6lz 〈节省20%手续费〉 #BNB ：https://t.co/P9x7AQEcKM 合作tg：@hsbs881",
+    "entities": {
+      "description": {
+        "urls": [
+          {
+            "display_url": "lywebuuz.com/join/2044159838",
+            "expanded_url": "https://www.lywebuuz.com/join/2044159838",
+            "url": "https://t.co/YwB0jDF6lz",
+            "indices": [
+              39,
+              62
+            ]
+          },
+          {
+            "display_url": "binance.com/join?ref=SJ62U…",
+            "expanded_url": "https://www.binance.com/join?ref=SJ62UU5V",
+            "url": "https://t.co/P9x7AQEcKM",
+            "indices": [
+              80,
+              103
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 5526,
+    "followersCount": 223693,
+    "following": true,
+    "friendsCount": 386,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 1894,
+    "location": "",
+    "mediaCount": 384,
+    "name": "比特币子棋（重生版）",
+    "normalFollowersCount": 223693,
+    "pinnedTweetIdsStr": [
+      "1976986836510949813"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1305062626272055296/1734702999",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1976984540926394368/6RXtVLGL_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "cloakmk",
+    "statusesCount": 1951,
+    "translatorType": "none",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [
+      {
+        "iconName": "IconBriefcaseStroke",
+        "id": 934,
+        "name": "Social Media Influencer"
+      }
+    ],
+    "professionalType": "Creator",
+    "restId": "1460935906039599104"
+  },
+  "profileImageShape": "Circle",
+  "restId": "1305062626272055296",
+  "tipjarSettings": {
+    "bitcoinHandle": "1N6KJ7qknTq1Jm4WWDnTuCdvRpE8wd2c7d",
+    "ethereumHandle": "0x821D854D2DDC1E07966D0133C8beCA558dD8A3f4",
+    "isEnabled": false
+  }
+}

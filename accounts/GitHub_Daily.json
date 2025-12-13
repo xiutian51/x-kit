@@ -1,0 +1,62 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNjYwNTk4NDE4NDA5MTI3OTM3",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Mon May 22 10:48:49 +0000 2023",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "💡 挖掘开源的价值\n🧑🏻‍💻 坚持分享 GitHub 上高质量、有趣、实用的教程、AI工具、前沿 AI 技术\n🧐 A list cool, interesting projects of GitHub.\n✏️ 公众号：GitHubDaily",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "github.com/GitHubDaily/Gi…",
+            "expanded_url": "https://github.com/GitHubDaily/GitHubDaily",
+            "url": "https://t.co/Ij83s4tlm9",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 35,
+    "followersCount": 57291,
+    "following": true,
+    "friendsCount": 139,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 556,
+    "location": "",
+    "mediaCount": 1635,
+    "name": "GitHubDaily",
+    "normalFollowersCount": 57291,
+    "pinnedTweetIdsStr": [
+      "1874830144826995036"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1660598418409127937/1684818863",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1660876795347111937/EIo6fIr4_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "GitHub_Daily",
+    "statusesCount": 1655,
+    "translatorType": "none",
+    "url": "https://t.co/Ij83s4tlm9",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "profileImageShape": "Circle",
+  "restId": "1660598418409127937",
+  "tipjarSettings": {}
+}

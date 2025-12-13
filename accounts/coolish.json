@@ -1,0 +1,63 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoyODc1NDAyMg==",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Sat Apr 04 06:32:23 +0000 2009",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "crypto trader since 2013 / ex co-founder of social network apps with 50+ million users",
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 5733,
+    "followersCount": 56999,
+    "following": true,
+    "friendsCount": 3489,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 1645,
+    "location": "Hong Kong",
+    "mediaCount": 1213,
+    "name": "paulwei",
+    "normalFollowersCount": 56999,
+    "pinnedTweetIdsStr": [
+      "1899667968776360007"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/28754022/1647407924",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1548729057994452992/Kcs8r3YR_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "coolish",
+    "statusesCount": 3273,
+    "translatorType": "none",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [
+      {
+        "iconName": "IconBriefcaseStroke",
+        "id": 713,
+        "name": "Science & Technology"
+      }
+    ],
+    "professionalType": "Creator",
+    "restId": "1548332518654431240"
+  },
+  "profileImageShape": "Circle",
+  "restId": "28754022",
+  "tipjarSettings": {
+    "bitcoinHandle": "",
+    "ethereumHandle": "",
+    "isEnabled": true
+  }
+}

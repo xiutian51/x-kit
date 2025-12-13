@@ -1,0 +1,71 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxMDI3MDA3MTE3Njc5NDQzOTY5",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Wed Aug 08 01:42:32 +0000 2018",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "币coin茂茂大魔王，专注BTC合约，最新电报和注册链接在简介，注册好留UID，全网最高比例",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "linktr.ee/devilcatbtc",
+            "expanded_url": "https://linktr.ee/devilcatbtc",
+            "url": "https://t.co/axKPdUz29D",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 176,
+    "followersCount": 24273,
+    "following": true,
+    "friendsCount": 583,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 429,
+    "location": "",
+    "mediaCount": 179,
+    "name": "茂茂大魔王",
+    "normalFollowersCount": 24273,
+    "pinnedTweetIdsStr": [],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1027007117679443969/1762581795",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1754868819841908736/VlS_tGVh_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "devilcatbtc",
+    "statusesCount": 623,
+    "translatorType": "none",
+    "url": "https://t.co/axKPdUz29D",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [
+      {
+        "iconName": "IconBriefcaseStroke",
+        "id": 192,
+        "name": "Financial Services"
+      }
+    ],
+    "professionalType": "Creator",
+    "restId": "1572543039280934916"
+  },
+  "profileImageShape": "Circle",
+  "restId": "1027007117679443969",
+  "tipjarSettings": {}
+}

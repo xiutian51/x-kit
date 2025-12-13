@@ -1,0 +1,77 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNjkzODgxNDM4MjY4MjU2MjU2",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": false,
+    "createdAt": "Tue Aug 22 07:03:38 +0000 2023",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "币圈唯一段永平，其它都是没水平；18岁职业百家乐打龙和21点算牌，27岁A股挣1亿人民币现破产重来，加密高频做市策略月化50 | 交易我只用 Hyperliquid https://t.co/HUHM1TSrNT",
+    "entities": {
+      "description": {
+        "urls": [
+          {
+            "display_url": "app.hyperliquid.xyz/join/K1KO",
+            "expanded_url": "http://app.hyperliquid.xyz/join/K1KO",
+            "url": "https://t.co/HUHM1TSrNT",
+            "indices": [
+              83,
+              106
+            ]
+          }
+        ]
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "bit.ly/3Jv7SJw",
+            "expanded_url": "http://bit.ly/3Jv7SJw",
+            "url": "https://t.co/hHRXFUvQIt",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 11960,
+    "followersCount": 8820,
+    "following": true,
+    "friendsCount": 775,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 69,
+    "location": "nyc midtown west puppy",
+    "mediaCount": 166,
+    "name": "K1ko妹妹的爸比",
+    "normalFollowersCount": 8820,
+    "pinnedTweetIdsStr": [
+      "1962067461517558196"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1693881438268256256/1752049626",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1875211415285612545/biwCTFto_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "lilk1kopops",
+    "statusesCount": 3577,
+    "translatorType": "none",
+    "url": "https://t.co/hHRXFUvQIt",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [],
+    "professionalType": "Creator",
+    "restId": "1905860824469803073"
+  },
+  "profileImageShape": "Circle",
+  "restId": "1693881438268256256",
+  "tipjarSettings": {}
+}

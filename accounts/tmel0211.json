@@ -1,0 +1,63 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxMTMwNzc0NTU1NDkwODI4Mjg4",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Tue May 21 09:57:17 +0000 2019",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "独立研究员| Advisor @ambergroup_io | 特约研究员 @IOSGVC｜ 硬核科普 | Previously：@peckshield | DMs for Collab｜ 社群只对推特订阅会员开放",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "haotiancryptoinsight.substack.com",
+            "expanded_url": "https://haotiancryptoinsight.substack.com/",
+            "url": "https://t.co/nNFe90zQTy",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 9170,
+    "followersCount": 47046,
+    "following": true,
+    "friendsCount": 2714,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 1725,
+    "location": "订阅专栏入口👉",
+    "mediaCount": 299,
+    "name": "Haotian | CryptoInsight",
+    "normalFollowersCount": 47046,
+    "pinnedTweetIdsStr": [
+      "1983041878787559708"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1130774555490828288/1684997392",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1517412688174804993/hTfpVb8Q_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "tmel0211",
+    "statusesCount": 6731,
+    "translatorType": "none",
+    "url": "https://t.co/nNFe90zQTy",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "profileImageShape": "Circle",
+  "restId": "1130774555490828288",
+  "superFollowEligible": true,
+  "tipjarSettings": {}
+}

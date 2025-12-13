@@ -1,0 +1,72 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxMjQ4NTY5NDA0MTI1Nzg2MTEy",
+  "isBlueVerified": false,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Fri Apr 10 11:12:04 +0000 2020",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "Set up and receive your own alerts on Discord / Telegram/ Web Hook in real-time with @CoinactGG.\n\nDiscord : https://t.co/AKd8awjhOq",
+    "entities": {
+      "description": {
+        "urls": [
+          {
+            "display_url": "discord.gg/X2VVq4jbTR",
+            "expanded_url": "https://discord.gg/X2VVq4jbTR",
+            "url": "https://t.co/AKd8awjhOq",
+            "indices": [
+              108,
+              131
+            ]
+          }
+        ]
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "coinact.gg",
+            "expanded_url": "http://coinact.gg",
+            "url": "https://t.co/lS3kbGOuJI",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 104,
+    "followersCount": 4311,
+    "following": true,
+    "friendsCount": 12,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 335,
+    "location": "CNGG",
+    "mediaCount": 0,
+    "name": "Coinact- Crypto Extreme Funding Rates Switch",
+    "normalFollowersCount": 4311,
+    "pinnedTweetIdsStr": [
+      "1599007101338075136"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1248569404125786112/1693752622",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1686396853267415040/Db9Q2Sod_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "FundingAlertBot",
+    "statusesCount": 46369,
+    "translatorType": "none",
+    "url": "https://t.co/lS3kbGOuJI",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "profileImageShape": "Circle",
+  "restId": "1248569404125786112",
+  "tipjarSettings": {}
+}

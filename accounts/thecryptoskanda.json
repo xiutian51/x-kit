@@ -1,0 +1,56 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxMjk4NjY4MjI2MTU1NDQyMTc2",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": false,
+    "createdAt": "Wed Aug 26 17:06:57 +0000 2020",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "韋(wěi) 馱(tuó) // Cooking @hertzflow_xyz // The evil preacher of Gen PVP",
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 13932,
+    "followersCount": 49169,
+    "following": true,
+    "friendsCount": 2197,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 1504,
+    "location": "Myawaddy",
+    "mediaCount": 1686,
+    "name": "加密韋馱｜Skanda 🇹🇭",
+    "normalFollowersCount": 49169,
+    "pinnedTweetIdsStr": [
+      "1872193691479351519"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1298668226155442176/1741509218",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1952378634406391808/Ta6RBRUd_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "thecryptoskanda",
+    "statusesCount": 27326,
+    "translatorType": "none",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [],
+    "professionalType": "Business",
+    "restId": "1656155820147757056"
+  },
+  "profileImageShape": "Circle",
+  "restId": "1298668226155442176",
+  "superFollowEligible": true,
+  "tipjarSettings": {
+    "isEnabled": true
+  }
+}

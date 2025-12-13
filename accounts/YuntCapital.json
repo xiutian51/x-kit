@@ -1,0 +1,62 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxMzgwNzAxMzU3NjgyODI3MjY1",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Sat Apr 10 01:57:23 +0000 2021",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "We Invest, We Advise, We Yunt.",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "yunt.capital",
+            "expanded_url": "http://yunt.capital",
+            "url": "https://t.co/U6TypjVl0v",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 17444,
+    "followersCount": 9684,
+    "following": true,
+    "friendsCount": 921,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 252,
+    "location": "Wyoming ",
+    "mediaCount": 314,
+    "name": "Yunt Capital",
+    "normalFollowersCount": 9684,
+    "pinnedTweetIdsStr": [
+      "1798904624147210717"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1380701357682827265/1725477805",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1831412724800372736/lvYaLY49_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "YuntCapital",
+    "statusesCount": 6581,
+    "translatorType": "none",
+    "url": "https://t.co/U6TypjVl0v",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "profileImageShape": "Circle",
+  "restId": "1380701357682827265",
+  "tipjarSettings": {}
+}

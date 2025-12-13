@@ -1,0 +1,88 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {
+    "label": {
+      "url": {
+        "url": "https://twitter.com/SolvProtocol",
+        "urlType": "DeepLink"
+      },
+      "badge": {
+        "url": "https://pbs.twimg.com/profile_images/1971489442235092992/njLUqgMN_bigger.jpg"
+      },
+      "description": "Solv Protocol",
+      "userLabelType": "BusinessLabel",
+      "userLabelDisplayType": "Badge"
+    }
+  },
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoyODk5OTkzMzMx",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Mon Dec 01 00:59:57 +0000 2014",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "长期主义 | Growing DeFi @SolvProtocol | ex @SeiNetwork @izumi_Finance \n\nTG Channel: https://t.co/lUWH1wyMQl",
+    "entities": {
+      "description": {
+        "urls": [
+          {
+            "display_url": "t.me/yondcallsbeta",
+            "expanded_url": "https://t.me/yondcallsbeta",
+            "url": "https://t.co/lUWH1wyMQl",
+            "indices": [
+              80,
+              103
+            ]
+          }
+        ]
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "app.hyperliquid.xyz/join/YOND",
+            "expanded_url": "https://app.hyperliquid.xyz/join/YOND",
+            "url": "https://t.co/EOJUl2VhYV",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 5506,
+    "followersCount": 8077,
+    "following": true,
+    "friendsCount": 1552,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 259,
+    "location": "BeraHome",
+    "mediaCount": 513,
+    "name": "Yond (DeFi Arc)",
+    "normalFollowersCount": 8077,
+    "pinnedTweetIdsStr": [
+      "1875584886368825656"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/2899993331/1673362817",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1925083617228947456/39uxad0k_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "0xYond",
+    "statusesCount": 5702,
+    "translatorType": "none",
+    "url": "https://t.co/EOJUl2VhYV",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "profileImageShape": "Circle",
+  "restId": "2899993331",
+  "tipjarSettings": {
+    "ethereumHandle": "0x39501AF11200a70818250be7d53D5981239a4040",
+    "isEnabled": true
+  }
+}

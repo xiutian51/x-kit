@@ -1,0 +1,48 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNTY2ODg2MjMzMTgzMjIzODEx",
+  "isBlueVerified": false,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Mon Sep 05 20:29:40 +0000 2022",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "Prediction Markets & Casino. Bet with #ICP, #BTC, #ETH, #USDC & #VBT!",
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 2031,
+    "followersCount": 1918,
+    "following": true,
+    "friendsCount": 319,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 16,
+    "location": "",
+    "mediaCount": 387,
+    "name": "VaultBet",
+    "normalFollowersCount": 1918,
+    "pinnedTweetIdsStr": [
+      "1887139172797775928"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1566886233183223811/1711642724",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1569422768231354370/eW_xuduY_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "VaultBet",
+    "statusesCount": 1083,
+    "translatorType": "none",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "profileImageShape": "Circle",
+  "restId": "1566886233183223811",
+  "tipjarSettings": {}
+}

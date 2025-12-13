@@ -1,0 +1,60 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNjYwNTQ5NjAxNDkxODQxMDI2",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Mon May 22 07:34:22 +0000 2023",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "Money Bunny's Marketing Hub 🐰💼 | Co-founder & CMO of @WagmiHub",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "t.me/MoneyCrptBunny",
+            "expanded_url": "https://t.me/MoneyCrptBunny",
+            "url": "https://t.co/3exG8NOHBf",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 16528,
+    "followersCount": 305098,
+    "following": true,
+    "friendsCount": 3492,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 349,
+    "location": "alpha →",
+    "mediaCount": 1424,
+    "name": "Money Bunny",
+    "normalFollowersCount": 305098,
+    "pinnedTweetIdsStr": [],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1660549601491841026/1685343107",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1662881519046737925/OruzeA5i_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "MoneyCrptBunny",
+    "statusesCount": 5647,
+    "translatorType": "none",
+    "url": "https://t.co/3exG8NOHBf",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "profileImageShape": "Circle",
+  "restId": "1660549601491841026",
+  "tipjarSettings": {}
+}

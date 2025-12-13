@@ -1,0 +1,62 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNDI5NzE2ODU0NDgyOTA3MTQx",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": false,
+    "createdAt": "Mon Aug 23 08:07:26 +0000 2021",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "泪水打湿猪脚饭，发誓要赚100万",
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 636,
+    "followersCount": 1021,
+    "following": true,
+    "friendsCount": 1850,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 19,
+    "location": "US",
+    "mediaCount": 290,
+    "name": "垃圾堆中捡黄金",
+    "normalFollowersCount": 1021,
+    "pinnedTweetIdsStr": [
+      "1636933227498835968"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1429716854482907141/1720538292",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1560799753130106883/bTon1i4w_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "zhengchanglong",
+    "statusesCount": 12151,
+    "translatorType": "none",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [
+      {
+        "iconName": "IconBriefcaseStroke",
+        "id": 934,
+        "name": "Social Media Influencer"
+      }
+    ],
+    "professionalType": "Creator",
+    "restId": "1476125016987037696"
+  },
+  "profileImageShape": "Circle",
+  "restId": "1429716854482907141",
+  "tipjarSettings": {
+    "ethereumHandle": "0x144E16c0414Ed5CD35Fb984A20F51015c82ec35C",
+    "isEnabled": true
+  }
+}

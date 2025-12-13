@@ -1,0 +1,68 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjozNDQ4ODMzNDQ4",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": false,
+    "canMediaTag": true,
+    "createdAt": "Wed Aug 26 16:41:48 +0000 2015",
+    "defaultProfile": false,
+    "defaultProfileImage": false,
+    "description": "Fork Banks. Bank On Gnosis.\n\n📍 Home @gnosischain @gnosispay @gnosisbusiness\n🎤 Host @dappconberlin\n💡 Origin @safe @cowswap @kpk_io @gnosisguild @aboutcircles",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "gnosis.io",
+            "expanded_url": "https://gnosis.io",
+            "url": "https://t.co/z8T2c3o1hz",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 6682,
+    "followersCount": 117282,
+    "following": true,
+    "friendsCount": 402,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 1510,
+    "location": "Worldwide",
+    "mediaCount": 941,
+    "name": "Gnosis",
+    "normalFollowersCount": 117282,
+    "pinnedTweetIdsStr": [
+      "1990402307771773142"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/3448833448/1763383673",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1990401499135172608/_5iD3Ob8_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "gnosis_",
+    "statusesCount": 7640,
+    "translatorType": "none",
+    "url": "https://t.co/z8T2c3o1hz",
+    "verified": false,
+    "verifiedType": "Business",
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [],
+    "professionalType": "Business",
+    "restId": "1862787146660077940"
+  },
+  "profileImageShape": "Square",
+  "restId": "3448833448",
+  "tipjarSettings": {}
+}

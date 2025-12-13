@@ -1,0 +1,88 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {
+    "label": {
+      "url": {
+        "url": "https://twitter.com/0xinfini",
+        "urlType": "DeepLink"
+      },
+      "badge": {
+        "url": "https://pbs.twimg.com/profile_images/1966496740435222529/UCDLDWO2_bigger.jpg"
+      },
+      "description": "Infini",
+      "userLabelType": "BusinessLabel",
+      "userLabelDisplayType": "Badge"
+    }
+  },
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNDM5ODM5NjMyOTk3MzE4NjU2",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Mon Sep 20 06:31:51 +0000 2021",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "正直的 Web3 Native ｜ 点蜡烛的人🕯️｜充满乐观与活力的 Builder；善良第一， 社区的头号客服，做个有人格魅力的 Researcher｜三级运动员，下面链接是TG禁言群",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "t.me/+HrMlIXJ-6sUyO…",
+            "expanded_url": "https://t.me/+HrMlIXJ-6sUyODE1",
+            "url": "https://t.co/Z9XjV7fWVB",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 13898,
+    "followersCount": 34401,
+    "following": true,
+    "friendsCount": 4705,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 363,
+    "location": "加密人生",
+    "mediaCount": 1590,
+    "name": "Vand Ni｜Asian bro",
+    "normalFollowersCount": 34401,
+    "pinnedTweetIdsStr": [
+      "1948689185306804511"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1439839632997318656/1730562132",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1954361526930100224/oKOGdT1a_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "nihaovand",
+    "statusesCount": 11825,
+    "translatorType": "none",
+    "url": "https://t.co/Z9XjV7fWVB",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [
+      {
+        "iconName": "IconBriefcaseStroke",
+        "id": 525,
+        "name": "Secretarial Service"
+      }
+    ],
+    "professionalType": "Creator",
+    "restId": "1489314966658490368"
+  },
+  "profileImageShape": "Circle",
+  "restId": "1439839632997318656",
+  "tipjarSettings": {
+    "isEnabled": true
+  }
+}

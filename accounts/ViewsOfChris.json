@@ -1,0 +1,64 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNjM4MjIxNjQzMjQyOTMwMTc2",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": false,
+    "canMediaTag": true,
+    "createdAt": "Tue Mar 21 16:51:16 +0000 2023",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "所言皆非投资建议 |前OKX 、火币 CFO |创立和管理2支Web3 AI、和1支科技基金 |机构亚太最佳CFO |亚洲货币香港最佳高管 |2020巴菲特慈善宴参与者",
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 18285,
+    "followersCount": 52317,
+    "following": true,
+    "friendsCount": 260,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 527,
+    "location": "Hong Kong",
+    "mediaCount": 2104,
+    "name": "Chris Lee",
+    "normalFollowersCount": 52317,
+    "pinnedTweetIdsStr": [
+      "1999302033623646256"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1638221643242930176/1764306957",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1994273950126526464/xnznIFmT_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "ViewsOfChris",
+    "statusesCount": 14539,
+    "translatorType": "none",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [
+      {
+        "iconName": "IconBriefcaseStroke",
+        "id": 192,
+        "name": "Financial Services"
+      }
+    ],
+    "professionalType": "Creator",
+    "restId": "1866130739969900597"
+  },
+  "profileImageShape": "Circle",
+  "restId": "1638221643242930176",
+  "superFollowEligible": true,
+  "tipjarSettings": {
+    "bitcoinHandle": "bc1qljjdc64m6gaykfnfcjzd5q2pvhnv933t9qercj",
+    "ethereumHandle": "0xAB3e57f5a3DBcC037Ff1d21f5799df22cE794849",
+    "isEnabled": true
+  }
+}

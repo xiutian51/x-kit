@@ -1,0 +1,48 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjozNjYxNjc4Mw==",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": false,
+    "canMediaTag": true,
+    "createdAt": "Thu Apr 30 07:15:43 +0000 2009",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "🔑 Daily Hyperliquid profit signals. We decode whale moves into repeatable alpha. NFA. #Hyperliquid #BTC #ETH",
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 35,
+    "followersCount": 2867,
+    "following": true,
+    "friendsCount": 23,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 44,
+    "location": "",
+    "mediaCount": 2719,
+    "name": "Hyperliquid Alpha Keys 🔑",
+    "normalFollowersCount": 2867,
+    "pinnedTweetIdsStr": [
+      "1966573006119203123"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/36616783/1757498784",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1965718483590864896/yLheDTvE_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "CryptoWhaleLive",
+    "statusesCount": 4245,
+    "translatorType": "none",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "profileImageShape": "Circle",
+  "restId": "36616783",
+  "tipjarSettings": {}
+}

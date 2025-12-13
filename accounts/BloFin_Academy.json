@@ -1,0 +1,87 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {
+    "label": {
+      "url": {
+        "url": "https://twitter.com/BloFin_Official",
+        "urlType": "DeepLink"
+      },
+      "badge": {
+        "url": "https://pbs.twimg.com/profile_images/1985641997068009472/bFd8JPC1_bigger.jpg"
+      },
+      "description": "BloFin Exchange",
+      "userLabelType": "BusinessLabel",
+      "userLabelDisplayType": "Badge"
+    }
+  },
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNDA1MDcwNjg2NDA2NjYwMDk4",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Wed Jun 16 07:52:23 +0000 2021",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "Professional crypto market analysis & insights. \"Scientia est fons divitiarum\"",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "blofin.com/academy",
+            "expanded_url": "https://blofin.com/academy",
+            "url": "https://t.co/0WSGnUA78R",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 1997,
+    "followersCount": 5303,
+    "following": true,
+    "friendsCount": 228,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 175,
+    "location": "",
+    "mediaCount": 2933,
+    "name": "BloFin Research",
+    "normalFollowersCount": 5303,
+    "pinnedTweetIdsStr": [
+      "1996857619131076613"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1405070686406660098/1761563153",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1960319347236458496/qzsAAAPH_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "BloFin_Academy",
+    "statusesCount": 4457,
+    "translatorType": "none",
+    "url": "https://t.co/0WSGnUA78R",
+    "verified": false,
+    "verifiedType": "Business",
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [
+      {
+        "iconName": "IconBriefcaseStroke",
+        "id": 192,
+        "name": "Financial Services"
+      }
+    ],
+    "professionalType": "Business",
+    "restId": "1535154004723785728"
+  },
+  "profileImageShape": "Square",
+  "restId": "1405070686406660098",
+  "tipjarSettings": {}
+}

@@ -1,0 +1,46 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNTA1NzY5Mjc0Nzk4ODUwMDQ4",
+  "isBlueVerified": false,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Mon Mar 21 04:52:36 +0000 2022",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "Web 3 product manager",
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 5,
+    "followedBy": true,
+    "followersCount": 16,
+    "following": true,
+    "friendsCount": 107,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 0,
+    "location": "",
+    "mediaCount": 0,
+    "name": "Harvey",
+    "normalFollowersCount": 16,
+    "pinnedTweetIdsStr": [],
+    "possiblySensitive": true,
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1923634616050569216/gYYbNIWo_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "HarveyChao",
+    "statusesCount": 7,
+    "translatorType": "none",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "profileImageShape": "Circle",
+  "restId": "1505769274798850048",
+  "tipjarSettings": {}
+}

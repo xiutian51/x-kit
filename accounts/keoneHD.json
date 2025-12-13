@@ -1,0 +1,80 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {
+    "label": {
+      "url": {
+        "url": "https://twitter.com/monad",
+        "urlType": "DeepLink"
+      },
+      "badge": {
+        "url": "https://pbs.twimg.com/profile_images/1967693862559698944/XTfCXXGa_bigger.jpg"
+      },
+      "description": "Monad (mainnet arc)",
+      "userLabelType": "BusinessLabel",
+      "userLabelDisplayType": "Badge"
+    }
+  },
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxOTU2OTE1OA==",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": false,
+    "createdAt": "Tue Jan 27 00:48:24 +0000 2009",
+    "defaultProfile": false,
+    "defaultProfileImage": false,
+    "description": "cofounder / GM @monad 💜",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "github.com/keone",
+            "expanded_url": "https://github.com/keone",
+            "url": "https://t.co/wUtWRXclSp",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 210671,
+    "followersCount": 157961,
+    "following": true,
+    "friendsCount": 1542,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 1149,
+    "location": "",
+    "mediaCount": 587,
+    "name": "Keone Hon",
+    "normalFollowersCount": 157961,
+    "pinnedTweetIdsStr": [
+      "1980007193928691897"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/19569158/1759846552",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1998439259066269697/UvMKBifj_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "keoneHD",
+    "statusesCount": 13231,
+    "translatorType": "none",
+    "url": "https://t.co/wUtWRXclSp",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [],
+    "professionalType": "Creator",
+    "restId": "1484291841453350914"
+  },
+  "profileImageShape": "Circle",
+  "restId": "19569158",
+  "tipjarSettings": {}
+}

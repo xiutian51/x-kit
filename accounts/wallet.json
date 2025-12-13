@@ -1,0 +1,76 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {
+    "label": {
+      "url": {
+        "url": "https://twitter.com/okx",
+        "urlType": "DeepLink"
+      },
+      "badge": {
+        "url": "https://pbs.twimg.com/profile_images/1968722816154345472/vEj4j3o9_bigger.jpg"
+      },
+      "description": "OKX",
+      "userLabelType": "BusinessLabel",
+      "userLabelDisplayType": "Badge"
+    }
+  },
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNDIyODM5MjI5NTkyMTc4Njg5",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Wed Aug 04 08:38:24 +0000 2021",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "The crypto wallet for everything onchain. Self-custody is the future.\n\nEngagement is not endorsement.",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "web3.okx.com",
+            "expanded_url": "https://web3.okx.com",
+            "url": "https://t.co/AUISw7SlgM",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 11689,
+    "followersCount": 1989224,
+    "following": true,
+    "friendsCount": 412,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 1633,
+    "location": "",
+    "mediaCount": 5378,
+    "name": "OKX Wallet",
+    "normalFollowersCount": 1989224,
+    "pinnedTweetIdsStr": [
+      "1998877683179016352"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1422839229592178689/1744274179",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1961251596895227906/o3V4FDLG_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "wallet",
+    "statusesCount": 18492,
+    "translatorType": "none",
+    "url": "https://t.co/AUISw7SlgM",
+    "verified": false,
+    "verifiedType": "Business",
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "profileImageShape": "Square",
+  "restId": "1422839229592178689",
+  "tipjarSettings": {}
+}

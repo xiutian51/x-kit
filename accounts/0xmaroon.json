@@ -1,0 +1,78 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {
+    "label": {
+      "url": {
+        "url": "https://twitter.com/UseUniversalX",
+        "urlType": "DeepLink"
+      },
+      "badge": {
+        "url": "https://pbs.twimg.com/profile_images/1885153504291102720/R7usrJag_bigger.jpg"
+      },
+      "description": "UniversalX",
+      "userLabelType": "BusinessLabel",
+      "userLabelDisplayType": "Badge"
+    }
+  },
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNjI2Nzk5MTM1MTMwMjc5OTQw",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": false,
+    "createdAt": "Sat Feb 18 04:22:09 +0000 2023",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "Research for fun // Chill with @CongratsFNF 🎉",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "universalx.app/user/x/0xmaroo…",
+            "expanded_url": "https://universalx.app/user/x/0xmaroon?inviteCode=CTLYLE",
+            "url": "https://t.co/qIhUnGYy2l",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 4008,
+    "followedBy": true,
+    "followersCount": 1933,
+    "following": true,
+    "friendsCount": 789,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 38,
+    "location": "",
+    "mediaCount": 393,
+    "name": "酒红Maroon 🦇🔊",
+    "normalFollowersCount": 1933,
+    "pinnedTweetIdsStr": [
+      "1976920549269160173"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1626799135130279940/1739661853",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1932278425039065088/PSF1Cpat_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "0xmaroon",
+    "statusesCount": 2458,
+    "translatorType": "none",
+    "url": "https://t.co/qIhUnGYy2l",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "profileImageShape": "Circle",
+  "restId": "1626799135130279940",
+  "tipjarSettings": {
+    "isEnabled": true
+  }
+}

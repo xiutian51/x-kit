@@ -1,0 +1,71 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxODE4MzEwNTM1NTUwODQ5MDI0",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Tue Jul 30 15:39:57 +0000 2024",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "Founder of @MemeRadar_sol  and @lianzhi_crypto\n链智官网：https://t.co/WGetzrjBsN\n前OKX NFT Marketplace 从0-1产品负责人\n💗💗“用心做产品”💗💗",
+    "entities": {
+      "description": {
+        "urls": [
+          {
+            "display_url": "Chaininsight.vip",
+            "expanded_url": "http://Chaininsight.vip",
+            "url": "https://t.co/WGetzrjBsN",
+            "indices": [
+              52,
+              75
+            ]
+          }
+        ]
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Chaininsight.vip",
+            "expanded_url": "http://Chaininsight.vip",
+            "url": "https://t.co/WGetzrjBsN",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 296,
+    "followersCount": 4448,
+    "following": true,
+    "friendsCount": 157,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 71,
+    "location": "",
+    "mediaCount": 146,
+    "name": "0xJason｜Chaininsight",
+    "normalFollowersCount": 4448,
+    "pinnedTweetIdsStr": [
+      "1904414042544120144"
+    ],
+    "possiblySensitive": false,
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1820646344731885568/7fqMTsUJ_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "0xJason_btc",
+    "statusesCount": 377,
+    "translatorType": "none",
+    "url": "https://t.co/WGetzrjBsN",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "profileImageShape": "Circle",
+  "restId": "1818310535550849024",
+  "tipjarSettings": {}
+}

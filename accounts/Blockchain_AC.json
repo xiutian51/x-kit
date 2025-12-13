@@ -1,0 +1,67 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNTY2MzAxMTY2Mzg3ODU5NDU3",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Sun Sep 04 05:44:49 +0000 2022",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "The largest Web3 developer community and accelerator in Hong Kong.\n| Web3 Education for everyone\n| Supported by @solana @dfinity @circle @graphprotocol",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "talentre.academy",
+            "expanded_url": "https://talentre.academy",
+            "url": "https://t.co/hSDkRc6b0P",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 1120,
+    "followersCount": 6226,
+    "following": true,
+    "friendsCount": 203,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 17,
+    "location": "Hong Kong",
+    "mediaCount": 244,
+    "name": "Blockchain Academy Group⛓🎓",
+    "normalFollowersCount": 6226,
+    "pinnedTweetIdsStr": [
+      "1800048236214022363"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1566301166387859457/1669003024",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1594540368460017665/__5eILvt_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "Blockchain_AC",
+    "statusesCount": 952,
+    "translatorType": "none",
+    "url": "https://t.co/hSDkRc6b0P",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [],
+    "professionalType": "Business",
+    "restId": "1660474508887613440"
+  },
+  "profileImageShape": "Circle",
+  "restId": "1566301166387859457",
+  "tipjarSettings": {}
+}

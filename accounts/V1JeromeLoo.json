@@ -1,0 +1,81 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {
+    "label": {
+      "url": {
+        "url": "https://twitter.com/0xinfini",
+        "urlType": "DeepLink"
+      },
+      "badge": {
+        "url": "https://pbs.twimg.com/profile_images/1966496740435222529/UCDLDWO2_bigger.jpg"
+      },
+      "description": "Infini",
+      "userLabelType": "BusinessLabel",
+      "userLabelDisplayType": "Badge"
+    }
+  },
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNTI3MDQ2Ng==",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Sun Jun 29 13:24:01 +0000 2008",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "表达欲很弱版",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "x.com/ChinaChic_NFT",
+            "expanded_url": "https://x.com/ChinaChic_NFT",
+            "url": "https://t.co/pN55lIF4UJ",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 19685,
+    "followersCount": 73855,
+    "following": true,
+    "friendsCount": 7347,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 1572,
+    "location": "China",
+    "mediaCount": 1432,
+    "name": "JeromeLoo 老王 🀄️",
+    "normalFollowersCount": 73855,
+    "pinnedTweetIdsStr": [],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/15270466/1652169867",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1734805866837422080/n0Q6_WwB_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "V1JeromeLoo",
+    "statusesCount": 14581,
+    "translatorType": "none",
+    "url": "https://t.co/pN55lIF4UJ",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [],
+    "professionalType": "Business",
+    "restId": "1485680405756149762"
+  },
+  "profileImageShape": "Circle",
+  "restId": "15270466",
+  "tipjarSettings": {
+    "ethereumHandle": "0x76149d87A6bA9eA3c864d0643210e71393dD7777",
+    "isEnabled": true
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxMTczNzcwMDgxMjk1MjAwMjYz",
+  "isBlueVerified": false,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Tue Sep 17 01:26:17 +0000 2019",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "A cross-border crypto venture fund. Global from day one. ＞|＜",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "dragonfly.xyz",
+            "expanded_url": "https://www.dragonfly.xyz",
+            "url": "https://t.co/zSwD8rYwIj",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 1027,
+    "followersCount": 99435,
+    "following": true,
+    "friendsCount": 196,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 2109,
+    "location": "NY - SG",
+    "mediaCount": 47,
+    "name": "Dragonfly ＞|＜",
+    "normalFollowersCount": 99435,
+    "pinnedTweetIdsStr": [
+      "1559163426345308160"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1173770081295200263/1660567969",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1559161186658271232/yRlWnnm8_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "dragonfly_xyz",
+    "statusesCount": 1279,
+    "translatorType": "none",
+    "url": "https://t.co/zSwD8rYwIj",
+    "verified": false,
+    "verifiedType": "Business",
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "profileImageShape": "Square",
+  "restId": "1173770081295200263",
+  "tipjarSettings": {}
+}

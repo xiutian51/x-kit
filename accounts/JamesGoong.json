@@ -1,0 +1,75 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNzA4MTMyNDY4MjE2NDg3OTM2",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Sat Sep 30 14:51:41 +0000 2023",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "💰 上班牛马，下班副业，周末学术，闲暇咨询。边赚工资边搞钱 🚀 做过产品，踩过坑，亏过百万，也赚过📖 记录真实的赚钱过程，研究副业、出海方法，分享真实经历",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "linktr.ee/jamesgong",
+            "expanded_url": "https://linktr.ee/jamesgong",
+            "url": "https://t.co/jFD1B37XuT",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 6360,
+    "followersCount": 22530,
+    "following": true,
+    "friendsCount": 290,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 216,
+    "location": "微信和社群请看链接 👉",
+    "mediaCount": 422,
+    "name": "在悉尼和稀泥",
+    "normalFollowersCount": 22530,
+    "pinnedTweetIdsStr": [
+      "1894371852711014514"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1708132468216487936/1696085717",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1708132603872874496/Z-Bau7vu_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "JamesGoong",
+    "statusesCount": 3477,
+    "translatorType": "none",
+    "url": "https://t.co/jFD1B37XuT",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [
+      {
+        "iconName": "IconBriefcaseStroke",
+        "id": 958,
+        "name": "Entrepreneur"
+      }
+    ],
+    "professionalType": "Creator",
+    "restId": "1868472648264777947"
+  },
+  "profileImageShape": "Circle",
+  "restId": "1708132468216487936",
+  "tipjarSettings": {
+    "isEnabled": true
+  }
+}

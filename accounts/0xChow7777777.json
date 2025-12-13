@@ -1,0 +1,71 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxMTgwMTU2MjUyNzMyNTI2NTky",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Fri Oct 04 16:22:42 +0000 2019",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "Chief Shit-Post Officer😊 | Mafia of 🐈🐈‍⬛🐈‍⬛🐶",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "substack.com/@0xchow",
+            "expanded_url": "https://substack.com/@0xchow",
+            "url": "https://t.co/2kfEFMsHSO",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 3378,
+    "followedBy": true,
+    "followersCount": 1132,
+    "following": true,
+    "friendsCount": 5574,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 25,
+    "location": "",
+    "mediaCount": 362,
+    "name": "0xChow ( 7 , 7 )",
+    "normalFollowersCount": 1132,
+    "pinnedTweetIdsStr": [
+      "1765221724885590516"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1180156252732526592/1765462806",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1930213489903316992/GDEG_dCn_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "0xChow7777777",
+    "statusesCount": 1948,
+    "translatorType": "none",
+    "url": "https://t.co/2kfEFMsHSO",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [],
+    "professionalType": "Creator",
+    "restId": "1569893112386027522"
+  },
+  "profileImageShape": "Circle",
+  "restId": "1180156252732526592",
+  "tipjarSettings": {
+    "ethereumHandle": "0x65c3ab8fa7485c193374481f7d7863bcaa86a61c",
+    "isEnabled": true
+  }
+}

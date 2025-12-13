@@ -1,0 +1,78 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxMzk2NTk0ODUwNTk4OTU3MDYx",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Sun May 23 22:32:43 +0000 2021",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "Predict crypto & stock prices with nonstop hourly and daily markets.\n\nTrade anytime, anywhere.\n\n$650M+ traded.\n\nDiscord: https://t.co/doQwSau6RJ",
+    "entities": {
+      "description": {
+        "urls": [
+          {
+            "display_url": "discord.gg/trylimitless",
+            "expanded_url": "https://discord.gg/trylimitless",
+            "url": "https://t.co/doQwSau6RJ",
+            "indices": [
+              121,
+              144
+            ]
+          }
+        ]
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "limitless.exchange/advanced",
+            "expanded_url": "https://limitless.exchange/advanced",
+            "url": "https://t.co/jaz05hufhu",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 28729,
+    "followersCount": 96050,
+    "following": true,
+    "friendsCount": 267,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 572,
+    "location": "Base",
+    "mediaCount": 3752,
+    "name": "Limitless",
+    "normalFollowersCount": 96050,
+    "pinnedTweetIdsStr": [
+      "1988733004274135354"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1396594850598957061/1765400593",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1933055667524239360/mqiIx1cj_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "trylimitless",
+    "statusesCount": 16951,
+    "translatorType": "none",
+    "url": "https://t.co/jaz05hufhu",
+    "verified": false,
+    "verifiedType": "Business",
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [],
+    "professionalType": "Business",
+    "restId": "1453272834701238277"
+  },
+  "profileImageShape": "Square",
+  "restId": "1396594850598957061",
+  "tipjarSettings": {}
+}

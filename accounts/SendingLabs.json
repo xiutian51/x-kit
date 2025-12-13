@@ -1,0 +1,73 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNTYwMTgzMDExOTQ5NTc2MTky",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": false,
+    "canMediaTag": true,
+    "createdAt": "Thu Aug 18 08:33:29 +0000 2022",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "Locked chats  Unlocked freedom \nPowered by @Sending_Network.",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "chat.sending.me/i/qqztX",
+            "expanded_url": "https://chat.sending.me/i/qqztX",
+            "url": "https://t.co/Rcmc1z3GFn",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 1790,
+    "followersCount": 146078,
+    "following": true,
+    "friendsCount": 174,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 42,
+    "location": "",
+    "mediaCount": 443,
+    "name": "SendingMe",
+    "normalFollowersCount": 146078,
+    "pinnedTweetIdsStr": [
+      "1876546928986726716"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1560183011949576192/1739327504",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1724324256350380032/FkewqA4H_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "SendingLabs",
+    "statusesCount": 1661,
+    "translatorType": "none",
+    "url": "https://t.co/Rcmc1z3GFn",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [
+      {
+        "iconName": "IconBriefcaseStroke",
+        "id": 714,
+        "name": "Technology Company"
+      }
+    ],
+    "professionalType": "Business",
+    "restId": "1594899501063761920"
+  },
+  "profileImageShape": "Circle",
+  "restId": "1560183011949576192",
+  "tipjarSettings": {}
+}

@@ -1,0 +1,67 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNDEzMDg4MDU1MTYyOTc4MzA2",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Thu Jul 08 10:51:20 +0000 2021",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "L2BEAT is an open-source, public-good analytics and research platform dedicated to L2 scaling solutions 💗",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "l2beat.com",
+            "expanded_url": "https://l2beat.com/",
+            "url": "https://t.co/8IshWfE7Mk",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 2706,
+    "followersCount": 42141,
+    "following": true,
+    "friendsCount": 223,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 755,
+    "location": "Layer 2",
+    "mediaCount": 607,
+    "name": "L2BEAT 💗",
+    "normalFollowersCount": 42141,
+    "pinnedTweetIdsStr": [
+      "1996645341349974168"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1413088055162978306/1702458679",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1603712438641336323/BveyS06D_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "l2beat",
+    "statusesCount": 2324,
+    "translatorType": "none",
+    "url": "https://t.co/8IshWfE7Mk",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [],
+    "professionalType": "Business",
+    "restId": "1464598283469340681"
+  },
+  "profileImageShape": "Circle",
+  "restId": "1413088055162978306",
+  "tipjarSettings": {}
+}

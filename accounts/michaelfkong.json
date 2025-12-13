@@ -1,0 +1,84 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {
+    "label": {
+      "url": {
+        "url": "https://twitter.com/SonicLabs",
+        "urlType": "DeepLink"
+      },
+      "badge": {
+        "url": "https://pbs.twimg.com/profile_images/1886106303262490624/3rEXurVD_bigger.jpg"
+      },
+      "description": "Sonic",
+      "userLabelType": "BusinessLabel",
+      "userLabelDisplayType": "Badge"
+    }
+  },
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjo3NTc0NDk0NTQxMTA2NzQ5NDQ=",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Mon Jul 25 05:36:37 +0000 2016",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "CIO and Director at @SonicLabs. $S. Retweets and likes are not endorsements just information.",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "soniclabs.com",
+            "expanded_url": "https://soniclabs.com",
+            "url": "https://t.co/UllbENTP4F",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 2631,
+    "followersCount": 49427,
+    "following": true,
+    "friendsCount": 376,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 451,
+    "location": "",
+    "mediaCount": 121,
+    "name": "Kong.sonic",
+    "normalFollowersCount": 49427,
+    "pinnedTweetIdsStr": [],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/757449454110674944/1750191164",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1903200854146158595/Y6bfX-UX_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "michaelfkong",
+    "statusesCount": 2775,
+    "translatorType": "none",
+    "url": "https://t.co/UllbENTP4F",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [
+      {
+        "iconName": "IconBriefcaseStroke",
+        "id": 713,
+        "name": "Science & Technology"
+      }
+    ],
+    "professionalType": "Business",
+    "restId": "1486565702479851524"
+  },
+  "profileImageShape": "Circle",
+  "restId": "757449454110674944",
+  "tipjarSettings": {}
+}

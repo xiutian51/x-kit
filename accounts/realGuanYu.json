@@ -1,0 +1,60 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjo5NTU0NTU2MTcxNzQzNTU5Njk=",
+  "isBlueVerified": false,
+  "legacy": {
+    "canDm": false,
+    "canMediaTag": true,
+    "createdAt": "Mon Jan 22 15:02:25 +0000 2018",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "9年Web3经历，专注#Bitcoin\n\n#投资者行为模型 作者",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "youtube.com/@realGuanYu",
+            "expanded_url": "https://www.youtube.com/@realGuanYu",
+            "url": "https://t.co/aco5ARGG5R",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 433,
+    "followersCount": 908,
+    "following": true,
+    "friendsCount": 11,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 29,
+    "location": "Canada",
+    "mediaCount": 67,
+    "name": "GuanYu",
+    "normalFollowersCount": 908,
+    "pinnedTweetIdsStr": [],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/955455617174355969/1731811990",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1857979785256873984/9gQYswv5_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "realGuanYu",
+    "statusesCount": 555,
+    "translatorType": "none",
+    "url": "https://t.co/aco5ARGG5R",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "profileImageShape": "Circle",
+  "restId": "955455617174355969",
+  "tipjarSettings": {}
+}

@@ -1,0 +1,70 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {
+    "label": {
+      "url": {
+        "url": "https://twitter.com/gmgnai",
+        "urlType": "DeepLink"
+      },
+      "badge": {
+        "url": "https://pbs.twimg.com/profile_images/1998601173205659657/8noZT-3I_bigger.jpg"
+      },
+      "description": "GMGN.Ai",
+      "userLabelType": "BusinessLabel",
+      "userLabelDisplayType": "Badge"
+    }
+  },
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxMzMyOTAyOTY5MjczMDY1NDcz",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": false,
+    "createdAt": "Sun Nov 29 04:23:31 +0000 2020",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "我就是全宇宙最厉害的区块链天才，我一定一定一定行！\n\n00后，从前的目标是赚很多很多钱，现在的目标是去很多很多地方做很多很多没做过的事\n\n悲观者正确，乐观者成功\n\ngmgn交易bot:  https://t.co/7m8Q1hhYsT",
+    "entities": {
+      "description": {
+        "urls": [
+          {
+            "display_url": "gmgn.ai",
+            "expanded_url": "http://gmgn.ai",
+            "url": "https://t.co/7m8Q1hhYsT",
+            "indices": [
+              94,
+              117
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 1875,
+    "followersCount": 88103,
+    "following": true,
+    "friendsCount": 1613,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 1840,
+    "location": "",
+    "mediaCount": 73,
+    "name": "王小二",
+    "normalFollowersCount": 88103,
+    "pinnedTweetIdsStr": [
+      "1976650832964960447"
+    ],
+    "possiblySensitive": false,
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1815176227201957890/Acfrx_eh_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "brc20niubi",
+    "statusesCount": 1778,
+    "translatorType": "none",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "profileImageShape": "Circle",
+  "restId": "1332902969273065473",
+  "tipjarSettings": {}
+}

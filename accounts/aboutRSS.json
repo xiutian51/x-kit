@@ -1,0 +1,82 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjo5NDAwNzQxMQ==",
+  "isBlueVerified": false,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Wed Dec 02 03:03:55 +0000 2009",
+    "defaultProfile": false,
+    "defaultProfileImage": false,
+    "description": "ALL about RSS\n\nRSS = Really Simple Syndication / Rich Site Summary\n\n电报频道 https://t.co/ueqqAynbyL\n\nRSS Feed：https://t.co/EqxpsIBHXC",
+    "entities": {
+      "description": {
+        "urls": [
+          {
+            "display_url": "t.me/s/aboutrss",
+            "expanded_url": "http://t.me/s/aboutrss",
+            "url": "https://t.co/ueqqAynbyL",
+            "indices": [
+              73,
+              96
+            ]
+          },
+          {
+            "display_url": "feeds.feedburner.com/AllAboutRSS",
+            "expanded_url": "https://feeds.feedburner.com/AllAboutRSS",
+            "url": "https://t.co/EqxpsIBHXC",
+            "indices": [
+              107,
+              130
+            ]
+          }
+        ]
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "github.com/aboutrss/ALL-a…",
+            "expanded_url": "https://github.com/aboutrss/ALL-about-RSS",
+            "url": "https://t.co/i0iVlIJgqS",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 10802,
+    "followedBy": true,
+    "followersCount": 3604,
+    "following": true,
+    "friendsCount": 5947,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 57,
+    "location": "",
+    "mediaCount": 45,
+    "name": "About RSS",
+    "normalFollowersCount": 3604,
+    "pinnedTweetIdsStr": [
+      "1252884382387486720"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/94007411/1562982123",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/554330585/rss2_2-16_normal.png",
+    "profileInterstitialType": "",
+    "screenName": "aboutRSS",
+    "statusesCount": 16123,
+    "translatorType": "none",
+    "url": "https://t.co/i0iVlIJgqS",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "profileImageShape": "Circle",
+  "restId": "94007411",
+  "tipjarSettings": {}
+}

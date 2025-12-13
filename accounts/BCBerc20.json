@@ -1,0 +1,81 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNTg1MDY0NDU4MDA2NjQ2Nzg0",
+  "isBlueVerified": false,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Wed Oct 26 00:23:16 +0000 2022",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "The King of GambleFi, Decentralised Ownership🏆\n\nSportsbook | Casino | Poker | Staking | Multi-Chain Platform\n\nPlay with $BCB $USDT $ETH - https://t.co/a4BlVciIPC",
+    "entities": {
+      "description": {
+        "urls": [
+          {
+            "display_url": "t.me/BCBerc20",
+            "expanded_url": "http://t.me/BCBerc20",
+            "url": "https://t.co/a4BlVciIPC",
+            "indices": [
+              138,
+              161
+            ]
+          }
+        ]
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "bcb.io",
+            "expanded_url": "https://bcb.io",
+            "url": "https://t.co/RxG5zcMDdn",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 1880,
+    "followersCount": 16224,
+    "following": true,
+    "friendsCount": 57,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 93,
+    "location": "ERC20 Token",
+    "mediaCount": 985,
+    "name": "Blockchain Bets Official - $BCB",
+    "normalFollowersCount": 16224,
+    "pinnedTweetIdsStr": [],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1585064458006646784/1701205868",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1728143337746780160/53ishd2i_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "BCBerc20",
+    "statusesCount": 1445,
+    "translatorType": "none",
+    "url": "https://t.co/RxG5zcMDdn",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [
+      {
+        "iconName": "IconBriefcaseStroke",
+        "id": 1094,
+        "name": "Blockchain"
+      }
+    ],
+    "professionalType": "Business",
+    "restId": "1632356651805335552"
+  },
+  "profileImageShape": "Circle",
+  "restId": "1585064458006646784",
+  "tipjarSettings": {}
+}

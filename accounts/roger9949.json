@@ -1,0 +1,53 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNTA5NDM0MDAzOTQ5OTY1MzE0",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Thu Mar 31 07:35:02 +0000 2022",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "Tier 7 KOL丨争做食物链蜈蚣的裆部丨e/acc",
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 41753,
+    "followersCount": 27365,
+    "following": true,
+    "friendsCount": 4587,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 549,
+    "location": "",
+    "mediaCount": 3637,
+    "name": "Roger波杰克",
+    "normalFollowersCount": 27365,
+    "pinnedTweetIdsStr": [
+      "1872963303854752210"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1509434003949965314/1725700660",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1774409067311886336/xHwEChQg_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "roger9949",
+    "statusesCount": 29863,
+    "translatorType": "none",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [],
+    "professionalType": "Creator",
+    "restId": "1513066946350096389"
+  },
+  "profileImageShape": "Circle",
+  "restId": "1509434003949965314",
+  "tipjarSettings": {}
+}

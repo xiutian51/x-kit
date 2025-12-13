@@ -1,0 +1,63 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxODYzMjExMTkyOTY3NDU0NzIw",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": false,
+    "canMediaTag": true,
+    "createdAt": "Sun Dec 01 13:19:39 +0000 2024",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "Trade on any chain using SOL & stables\n\nBuilt by @ParticleNtwrk",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "universalx.app",
+            "expanded_url": "http://universalx.app",
+            "url": "https://t.co/XZjf1643E2",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 1799,
+    "followersCount": 34010,
+    "following": true,
+    "friendsCount": 5,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 154,
+    "location": "",
+    "mediaCount": 164,
+    "name": "UniversalX",
+    "normalFollowersCount": 34010,
+    "pinnedTweetIdsStr": [
+      "1938207868005572732"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1863211192967454720/1734465941",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1885153504291102720/R7usrJag_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "UseUniversalX",
+    "statusesCount": 894,
+    "translatorType": "none",
+    "url": "https://t.co/XZjf1643E2",
+    "verified": false,
+    "verifiedType": "Business",
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "profileImageShape": "Square",
+  "restId": "1863211192967454720",
+  "tipjarSettings": {}
+}

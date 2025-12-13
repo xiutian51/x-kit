@@ -1,0 +1,45 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxMzc3ODkxMTMzMDcwNjcxODc5",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": false,
+    "canMediaTag": true,
+    "createdAt": "Fri Apr 02 07:50:29 +0000 2021",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "Crypto Enthusiast/ Crypto Marketing / Head of Global Marketing at RISC Zero",
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 26,
+    "followersCount": 225,
+    "following": true,
+    "friendsCount": 116,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 2,
+    "location": "",
+    "mediaCount": 11,
+    "name": "Tina Liu | RISC Zero",
+    "normalFollowersCount": 225,
+    "pinnedTweetIdsStr": [],
+    "possiblySensitive": false,
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1907647838781329408/6mCSyJld_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "TinaLiu333",
+    "statusesCount": 40,
+    "translatorType": "none",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "profileImageShape": "Circle",
+  "restId": "1377891133070671879",
+  "tipjarSettings": {}
+}

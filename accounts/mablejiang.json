@@ -1,0 +1,84 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoyMTg3MTcwOTg5",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Sun Nov 10 21:17:54 +0000 2013",
+    "defaultProfile": false,
+    "defaultProfileImage": false,
+    "description": "Seeding @trendsdotfun 👉 the ONLY feed you need for global tokenized trends: https://t.co/cKpMWRmmbI | HODLong 后浪 podcast (Apple + Spotify) | grew @fslweb3 @multicoin",
+    "entities": {
+      "description": {
+        "urls": [
+          {
+            "display_url": "t.me/trendsnewsEN",
+            "expanded_url": "http://t.me/trendsnewsEN",
+            "url": "https://t.co/cKpMWRmmbI",
+            "indices": [
+              76,
+              99
+            ]
+          }
+        ]
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "trends.fun",
+            "expanded_url": "https://trends.fun",
+            "url": "https://t.co/DeCdCRv0sJ",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 11857,
+    "followersCount": 48047,
+    "following": true,
+    "friendsCount": 3265,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 939,
+    "location": "your heart",
+    "mediaCount": 363,
+    "name": "mable.sol (join our TG community!",
+    "normalFollowersCount": 48047,
+    "pinnedTweetIdsStr": [
+      "1945858900710093098"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/2187170989/1684065418",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1947256340436455424/y93X7Ifk_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "mablejiang",
+    "statusesCount": 5436,
+    "translatorType": "none",
+    "url": "https://t.co/DeCdCRv0sJ",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [
+      {
+        "iconName": "IconBriefcaseStroke",
+        "id": 714,
+        "name": "Technology Company"
+      }
+    ],
+    "professionalType": "Business",
+    "restId": "1679710620462219264"
+  },
+  "profileImageShape": "Circle",
+  "restId": "2187170989",
+  "superFollowEligible": true,
+  "tipjarSettings": {}
+}

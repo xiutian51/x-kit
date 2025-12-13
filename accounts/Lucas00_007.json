@@ -1,0 +1,70 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {
+    "label": {
+      "url": {
+        "url": "https://twitter.com/0xinfini",
+        "urlType": "DeepLink"
+      },
+      "badge": {
+        "url": "https://pbs.twimg.com/profile_images/1966496740435222529/UCDLDWO2_bigger.jpg"
+      },
+      "description": "Infini",
+      "userLabelType": "BusinessLabel",
+      "userLabelDisplayType": "Badge"
+    }
+  },
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNTQxMzEwNjA4NzgzNDg2OTc2",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Mon Jun 27 06:41:23 +0000 2022",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "Opinions my own only, NFA & DYOR",
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 870,
+    "followedBy": true,
+    "followersCount": 1282,
+    "following": true,
+    "friendsCount": 1485,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 15,
+    "location": "",
+    "mediaCount": 103,
+    "name": "0x马东锡",
+    "normalFollowersCount": 1282,
+    "pinnedTweetIdsStr": [],
+    "possiblySensitive": false,
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1627598683427704832/DN1ybCqT_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "Lucas00_007",
+    "statusesCount": 839,
+    "translatorType": "none",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [
+      {
+        "iconName": "IconBriefcaseStroke",
+        "id": 713,
+        "name": "Science & Technology"
+      }
+    ],
+    "professionalType": "Creator",
+    "restId": "1627951559324864512"
+  },
+  "profileImageShape": "Circle",
+  "restId": "1541310608783486976",
+  "tipjarSettings": {}
+}

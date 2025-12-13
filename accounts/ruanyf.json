@@ -1,0 +1,71 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNTgwNzgx",
+  "isBlueVerified": false,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": false,
+    "createdAt": "Tue Mar 20 02:53:02 +0000 2007",
+    "defaultProfile": false,
+    "defaultProfileImage": false,
+    "description": "Stay Focused, Keep Shipping. Build Early, Build Always. Improve yourself, Write solid/simple/stupid code.",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "ruanyifeng.com",
+            "expanded_url": "http://www.ruanyifeng.com",
+            "url": "http://t.co/fw8pEsBuak",
+            "indices": [
+              0,
+              22
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 13734,
+    "followersCount": 188598,
+    "following": true,
+    "friendsCount": 374,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 1509,
+    "location": "Shanghai, China",
+    "mediaCount": 2965,
+    "name": "ruanyf",
+    "normalFollowersCount": 188598,
+    "pinnedTweetIdsStr": [],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1580781/1355537048",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/2363795309/wbi37mdkxhr2trsr4ofa_normal.jpeg",
+    "profileInterstitialType": "",
+    "screenName": "ruanyf",
+    "statusesCount": 4943,
+    "translatorType": "none",
+    "url": "http://t.co/fw8pEsBuak",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [
+      {
+        "iconName": "IconBriefcaseStroke",
+        "id": 713,
+        "name": "Science & Technology"
+      }
+    ],
+    "professionalType": "Creator",
+    "restId": "1712651990424322255"
+  },
+  "profileImageShape": "Circle",
+  "restId": "1580781",
+  "tipjarSettings": {}
+}

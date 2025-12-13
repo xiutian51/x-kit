@@ -1,0 +1,60 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjo3NDkxMzIyNDE0MTkxMTY1NDU=",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Sat Jul 02 06:46:59 +0000 2016",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "8年资深从业｜初代KOL｜Base HK🇭🇰\n曾任多家头部Web3业务负责人｜20年夏天卖房梭哈ETH\nDefi Summer 20倍 ｜NFT 10倍｜爆仓千万\nyimalife创始人｜香港身份规划｜持牌离岸财富管理",
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 3406,
+    "followersCount": 66235,
+    "following": true,
+    "friendsCount": 2822,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 1402,
+    "location": "香港",
+    "mediaCount": 962,
+    "name": "翻滚的大姨妈",
+    "normalFollowersCount": 66235,
+    "pinnedTweetIdsStr": [],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/749132241419116545/1691466835",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1880808096962101248/vd5JLDru_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "0xyima",
+    "statusesCount": 3895,
+    "translatorType": "none",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [
+      {
+        "iconName": "IconBriefcaseStroke",
+        "id": 192,
+        "name": "Financial Services"
+      }
+    ],
+    "professionalType": "Creator",
+    "restId": "1592475308787015680"
+  },
+  "profileImageShape": "Circle",
+  "restId": "749132241419116545",
+  "tipjarSettings": {
+    "bitcoinHandle": "3LfPsLzbNjPDqwYorg52zGpnnm5wKnHXg6",
+    "isEnabled": true
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxMjI0MzYwMjM1NzA5NTUwNTk0",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": false,
+    "createdAt": "Mon Feb 03 15:53:29 +0000 2020",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "Building Agentic Trading Infrastructure @MeetHubble｜backed by @yzilabs",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "hubble.xyz",
+            "expanded_url": "https://hubble.xyz",
+            "url": "https://t.co/47vIMVNW7f",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 18412,
+    "followersCount": 89855,
+    "following": true,
+    "friendsCount": 9946,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 586,
+    "location": "Hong Kong",
+    "mediaCount": 1912,
+    "name": "0xLeon @ Hubble.xyz",
+    "normalFollowersCount": 89855,
+    "pinnedTweetIdsStr": [
+      "1983866450898264402"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1224360235709550594/1758777832",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1937804470676869120/OAdMIzMa_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "Leoninweb3",
+    "statusesCount": 17852,
+    "translatorType": "none",
+    "url": "https://t.co/47vIMVNW7f",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [
+      {
+        "iconName": "IconBriefcaseStroke",
+        "id": 713,
+        "name": "Science & Technology"
+      }
+    ],
+    "professionalType": "Creator",
+    "restId": "1508462033687044096"
+  },
+  "profileImageShape": "Circle",
+  "restId": "1224360235709550594",
+  "tipjarSettings": {
+    "ethereumHandle": "0x0Db3BABf0BCEAB241c95faaED10ff355a2870f81",
+    "isEnabled": true
+  }
+}

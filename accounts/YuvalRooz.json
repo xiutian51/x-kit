@@ -1,0 +1,62 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxMTIzNzEyOTU0OTgwMDI0MzIw",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": false,
+    "canMediaTag": true,
+    "createdAt": "Wed May 01 22:17:00 +0000 2019",
+    "defaultProfile": false,
+    "defaultProfileImage": false,
+    "description": "Co-Founder & CEO @ Digital Asset. All opinions are mine! @CantonNetwork",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "digitalasset.com",
+            "expanded_url": "http://www.digitalasset.com",
+            "url": "https://t.co/wDEKS4CFMz",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 44661,
+    "followersCount": 7170,
+    "following": true,
+    "friendsCount": 686,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 72,
+    "location": "Manhattan, NY",
+    "mediaCount": 55,
+    "name": "Yuval Rooz 🟧",
+    "normalFollowersCount": 7170,
+    "pinnedTweetIdsStr": [
+      "1802498569879830759"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1123712954980024320/1761948902",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1640310429598765056/1uezORjP_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "YuvalRooz",
+    "statusesCount": 1403,
+    "translatorType": "none",
+    "url": "https://t.co/wDEKS4CFMz",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "profileImageShape": "Circle",
+  "restId": "1123712954980024320",
+  "tipjarSettings": {}
+}

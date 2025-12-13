@@ -1,0 +1,71 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNDk4OTg2MDAxNzA3OTIxNDA4",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": false,
+    "createdAt": "Wed Mar 02 11:38:24 +0000 2022",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "近三亿人的共同选择，出入金安全，启程Web3,就在币安: https://t.co/b6MBkX9vSU",
+    "entities": {
+      "description": {
+        "urls": [
+          {
+            "display_url": "maxweb.academy/join?ref=36773…",
+            "expanded_url": "https://www.maxweb.academy/join?ref=36773800",
+            "url": "https://t.co/b6MBkX9vSU",
+            "indices": [
+              29,
+              52
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 1516,
+    "followersCount": 58308,
+    "following": true,
+    "friendsCount": 1173,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 639,
+    "location": "",
+    "mediaCount": 2221,
+    "name": "Crypto小余",
+    "normalFollowersCount": 58308,
+    "pinnedTweetIdsStr": [
+      "1959850136529694814"
+    ],
+    "possiblySensitive": false,
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1656128584715735040/X59hrvHM_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "jiji_eth",
+    "statusesCount": 5423,
+    "translatorType": "none",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [
+      {
+        "iconName": "IconBriefcaseStroke",
+        "id": 192,
+        "name": "Financial Services"
+      }
+    ],
+    "professionalType": "Creator",
+    "restId": "1906228225162068315"
+  },
+  "profileImageShape": "Circle",
+  "restId": "1498986001707921408",
+  "tipjarSettings": {
+    "ethereumHandle": "0x8dc05ef3f6ae3e9c5211798dbe884778e1121be9",
+    "isEnabled": false
+  }
+}

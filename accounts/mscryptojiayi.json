@@ -1,0 +1,48 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxMTM4Mjg5ODc1NTIwNjM0ODgx",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Tue Jun 11 03:40:29 +0000 2019",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "Cooking @geek_cartel | Strategist, Investor | Leader in storytelling, impactful marketing & growth hacking | prev @binance 2018-2021 Always hiring",
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 434,
+    "followersCount": 20493,
+    "following": true,
+    "friendsCount": 1130,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 238,
+    "location": "",
+    "mediaCount": 309,
+    "name": "jiayi 加一",
+    "normalFollowersCount": 20493,
+    "pinnedTweetIdsStr": [
+      "1993652331754209765"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1138289875520634881/1724251160",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1927954033425408000/tgBtde5s_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "mscryptojiayi",
+    "statusesCount": 3243,
+    "translatorType": "none",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "profileImageShape": "Circle",
+  "restId": "1138289875520634881",
+  "tipjarSettings": {}
+}

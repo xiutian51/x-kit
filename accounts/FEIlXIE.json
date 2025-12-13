@@ -1,0 +1,108 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {
+    "label": {
+      "url": {
+        "url": "https://twitter.com/renaissxyz",
+        "urlType": "DeepLink"
+      },
+      "badge": {
+        "url": "https://pbs.twimg.com/profile_images/1985405275910914055/It-n1Whw_bigger.jpg"
+      },
+      "description": "Renaiss Protocol",
+      "userLabelType": "BusinessLabel",
+      "userLabelDisplayType": "Badge"
+    }
+  },
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNDI0NTY0NTAyOTI2Nzk0NzU1",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Mon Aug 09 02:54:01 +0000 2021",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "|“SEEKER中文”社区长 | @renaissxyz Ambassador | 前链游博主，重新出发，坚持输出实用内容\n\n#Solana手机 / #SEEKER 一站式福利、活动及教程 https://t.co/Fn879Lu0Eu\n\nSEEKER中文电报群  https://t.co/ubNAtqRjoh",
+    "entities": {
+      "description": {
+        "urls": [
+          {
+            "display_url": "seekercn.club",
+            "expanded_url": "https://seekercn.club",
+            "url": "https://t.co/Fn879Lu0Eu",
+            "indices": [
+              95,
+              118
+            ]
+          },
+          {
+            "display_url": "t.me/seekercn",
+            "expanded_url": "https://t.me/seekercn",
+            "url": "https://t.co/ubNAtqRjoh",
+            "indices": [
+              133,
+              156
+            ]
+          }
+        ]
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "seekercn.club",
+            "expanded_url": "https://seekercn.club/",
+            "url": "https://t.co/kRvpfhmriO",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 3809,
+    "followersCount": 27990,
+    "following": true,
+    "friendsCount": 3691,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 341,
+    "location": "",
+    "mediaCount": 2077,
+    "name": "0xFEI",
+    "normalFollowersCount": 27990,
+    "pinnedTweetIdsStr": [
+      "1981231749414965536"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1424564502926794755/1642050668",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1935354243923197952/DJR0PiiR_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "FEIlXIE",
+    "statusesCount": 11474,
+    "translatorType": "none",
+    "url": "https://t.co/kRvpfhmriO",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [
+      {
+        "iconName": "IconBriefcaseStroke",
+        "id": 959,
+        "name": "Gamer"
+      }
+    ],
+    "professionalType": "Creator",
+    "restId": "1529309223695159297"
+  },
+  "profileImageShape": "Circle",
+  "restId": "1424564502926794755",
+  "tipjarSettings": {
+    "ethereumHandle": "0xEAb4eCC53fb640Cb1734dD229C2E158079B43b33",
+    "isEnabled": true
+  }
+}

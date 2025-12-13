@@ -1,0 +1,46 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxMTEwODc3Nzk4ODIwNzc3OTg2",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Wed Mar 27 12:14:41 +0000 2019",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "SBF's words. Shared by a friend.\n\n✉️ (monitored): Samuel Bankman-Fried 37244-510, FCI Terminal Island, PO Box 3007, San Pedro, CA 90733",
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 27726,
+    "followersCount": 997606,
+    "following": true,
+    "friendsCount": 2987,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 9387,
+    "location": "",
+    "mediaCount": 1205,
+    "name": "SBF",
+    "normalFollowersCount": 997606,
+    "pinnedTweetIdsStr": [],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1110877798820777986/1648240595",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1493575109424160772/AKRRTAI-_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "SBF_FTX",
+    "statusesCount": 20823,
+    "translatorType": "none",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "profileImageShape": "Circle",
+  "restId": "1110877798820777986",
+  "tipjarSettings": {}
+}

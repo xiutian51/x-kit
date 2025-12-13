@@ -1,0 +1,90 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {
+    "label": {
+      "url": {
+        "url": "https://twitter.com/WuBlockchain",
+        "urlType": "DeepLink"
+      },
+      "badge": {
+        "url": "https://pbs.twimg.com/profile_images/1763570636201615360/fuFapqAI_bigger.jpg"
+      },
+      "description": "Wu Blockchain",
+      "userLabelType": "BusinessLabel",
+      "userLabelDisplayType": "Badge"
+    }
+  },
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNDI4MjQ2ODQ4MzAxNTAyNDY0",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": false,
+    "canMediaTag": true,
+    "createdAt": "Thu Aug 19 06:46:06 +0000 2021",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "吴说中文推特：接近真相，更可信赖\n专业可信的行业新闻，优质深度内容推荐\n吴说所有内容渠道、播客、APP 等：https://t.co/rVoqryXVjk\n联系我们 TG: colinwu1989",
+    "entities": {
+      "description": {
+        "urls": [
+          {
+            "display_url": "wublock123.com/html/app/",
+            "expanded_url": "https://www.wublock123.com/html/app/",
+            "url": "https://t.co/rVoqryXVjk",
+            "indices": [
+              54,
+              77
+            ]
+          }
+        ]
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "wublock123.com",
+            "expanded_url": "https://www.wublock123.com/",
+            "url": "https://t.co/okAG7HIC5s",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 10,
+    "followersCount": 169426,
+    "following": true,
+    "friendsCount": 1,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 2754,
+    "location": "",
+    "mediaCount": 3598,
+    "name": "吴说区块链",
+    "normalFollowersCount": 169426,
+    "pinnedTweetIdsStr": [
+      "1754797458746671219"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1428246848301502464/1727454928",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1763571513553543168/swT8lq9S_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "wublockchain12",
+    "statusesCount": 70110,
+    "translatorType": "none",
+    "url": "https://t.co/okAG7HIC5s",
+    "verified": false,
+    "verifiedType": "Business",
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "profileImageShape": "Square",
+  "restId": "1428246848301502464",
+  "tipjarSettings": {
+    "bitcoinHandle": "1H9o6E5kU3usQjvp4WfrVawt1yDh7n4Nrv",
+    "ethereumHandle": "0x030E1678173513F4AfF6790D9bb044C3D8D02E99",
+    "isEnabled": true
+  }
+}

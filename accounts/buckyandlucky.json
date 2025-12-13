@@ -1,0 +1,60 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {
+    "label": {
+      "url": {
+        "url": "https://twitter.com/PolymarketTrade",
+        "urlType": "DeepLink"
+      },
+      "badge": {
+        "url": "https://pbs.twimg.com/profile_images/1984009470628761600/g0ajJ_4j_bigger.jpg"
+      },
+      "description": "Polymarket Traders",
+      "userLabelType": "BusinessLabel",
+      "userLabelDisplayType": "Badge"
+    }
+  },
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjo3MTMyMDQyMDA4MjIyODgzODQ=",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Fri Mar 25 03:21:46 +0000 2016",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "Binary Option |  web3py | codex | 目标：日入 $1000",
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 169,
+    "followersCount": 4556,
+    "following": true,
+    "friendsCount": 762,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 188,
+    "location": "",
+    "mediaCount": 173,
+    "name": "ThinkInBinaryOption",
+    "normalFollowersCount": 4556,
+    "pinnedTweetIdsStr": [
+      "1932678314029940952"
+    ],
+    "possiblySensitive": false,
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1821037478465392640/tWcifd8C_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "buckyandlucky",
+    "statusesCount": 1202,
+    "translatorType": "none",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "profileImageShape": "Circle",
+  "restId": "713204200822288384",
+  "tipjarSettings": {}
+}

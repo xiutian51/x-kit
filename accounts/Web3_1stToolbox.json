@@ -1,0 +1,78 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNjE2NDAyOTcy",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Wed Jul 24 00:14:29 +0000 2013",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "科学家团队，加入社群领撸毛脚本，discord:https://t.co/FLKlJm0R7E 工具箱dapp：https://t.co/u3glvXte0O 有问题可以添加阿明vx Aming557，微信群不搞了，怕被举报封号",
+    "entities": {
+      "description": {
+        "urls": [
+          {
+            "display_url": "discord.gg/ZFZ6NUHc9S",
+            "expanded_url": "http://discord.gg/ZFZ6NUHc9S",
+            "url": "https://t.co/FLKlJm0R7E",
+            "indices": [
+              24,
+              47
+            ]
+          },
+          {
+            "display_url": "web3toolbox.app",
+            "expanded_url": "https://web3toolbox.app/",
+            "url": "https://t.co/u3glvXte0O",
+            "indices": [
+              56,
+              79
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 55,
+    "followersCount": 4499,
+    "following": true,
+    "friendsCount": 201,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 75,
+    "location": "",
+    "mediaCount": 176,
+    "name": "Web3一级工具箱",
+    "normalFollowersCount": 4499,
+    "pinnedTweetIdsStr": [
+      "1821390333759852604"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1616402972/1669258906",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1593059487522336769/zULGzDpE_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "Web3_1stToolbox",
+    "statusesCount": 419,
+    "translatorType": "none",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [
+      {
+        "iconName": "IconBriefcaseStroke",
+        "id": 713,
+        "name": "Science & Technology"
+      }
+    ],
+    "professionalType": "Creator",
+    "restId": "1610947694629093379"
+  },
+  "profileImageShape": "Circle",
+  "restId": "1616402972",
+  "tipjarSettings": {}
+}

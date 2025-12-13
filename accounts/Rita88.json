@@ -1,0 +1,59 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {
+    "label": {
+      "url": {
+        "url": "https://twitter.com/soon_svm",
+        "urlType": "DeepLink"
+      },
+      "badge": {
+        "url": "https://pbs.twimg.com/profile_images/1824061692843802624/ypS4GORQ_bigger.png"
+      },
+      "description": "SOON - Solana Optimistic Network (Mainnet Arc)",
+      "userLabelType": "BusinessLabel",
+      "userLabelDisplayType": "Badge"
+    }
+  },
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNjE2NDYyMDQxNDIxODQwMzg5",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Fri Jan 20 15:46:06 +0000 2023",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "不知名三流撸毛少女｜二级慈善家｜一级铁血钻石手｜ENFP快乐小狗｜Web3抽象大师｜梦想天降横财｜",
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 32860,
+    "followersCount": 23129,
+    "following": true,
+    "friendsCount": 2372,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 214,
+    "location": "合作请私信💌",
+    "mediaCount": 1382,
+    "name": "Rita👻💢",
+    "normalFollowersCount": 23129,
+    "pinnedTweetIdsStr": [],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1616462041421840389/1743253648",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1987898471786094592/Ao0grqIh_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "Rita88",
+    "statusesCount": 17522,
+    "translatorType": "none",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "profileImageShape": "Circle",
+  "restId": "1616462041421840389",
+  "tipjarSettings": {}
+}

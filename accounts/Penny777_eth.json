@@ -1,0 +1,76 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjozMjc5MjExMDY=",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Sat Jul 02 11:48:18 +0000 2011",
+    "defaultProfile": false,
+    "defaultProfileImage": false,
+    "description": "Mod @theNextDao｜Cofounder @helloNFT_pro｜ 女的｜Crypto 搞笑野生诗人｜👩🏻‍💻 Vibe Coding | 🇨🇳 🇳🇿｜👋 世界你好！",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "link3.to/penny777",
+            "expanded_url": "https://link3.to/penny777",
+            "url": "https://t.co/LRj4er1Ak5",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 5577,
+    "followedBy": true,
+    "followersCount": 15857,
+    "following": true,
+    "friendsCount": 2629,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 265,
+    "location": "",
+    "mediaCount": 472,
+    "name": "Penny777 🦊",
+    "normalFollowersCount": 15857,
+    "pinnedTweetIdsStr": [
+      "1993513899774427392"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/327921106/1714570217",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1940366654405251072/v8co9ryb_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "Penny777_eth",
+    "statusesCount": 6502,
+    "translatorType": "none",
+    "url": "https://t.co/LRj4er1Ak5",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [
+      {
+        "iconName": "IconBriefcaseStroke",
+        "id": 724,
+        "name": "Internet Company"
+      }
+    ],
+    "professionalType": "Creator",
+    "restId": "1470085784934162432"
+  },
+  "profileImageShape": "Circle",
+  "restId": "327921106",
+  "tipjarSettings": {
+    "isEnabled": true
+  }
+}

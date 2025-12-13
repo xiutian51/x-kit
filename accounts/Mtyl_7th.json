@@ -1,0 +1,72 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNDcyMjY1MjkzNjUzMTU1ODQ1",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Sat Dec 18 17:59:58 +0000 2021",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "@PKU1898 北大计算机本硕 | @PKUBlockchain 北大链协2022-2023副会长 | 推荐Web3新手用OKX Web3钱包：https://t.co/mISYucGymG",
+    "entities": {
+      "description": {
+        "urls": [
+          {
+            "display_url": "web3.okx.com/zh-hans/web3",
+            "expanded_url": "https://web3.okx.com/zh-hans/web3",
+            "url": "https://t.co/mISYucGymG",
+            "indices": [
+              73,
+              96
+            ]
+          }
+        ]
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "mirror.xyz/mtyl.eth",
+            "expanded_url": "http://mirror.xyz/mtyl.eth",
+            "url": "https://t.co/3cxqKhGRz7",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 605,
+    "followedBy": true,
+    "followersCount": 10307,
+    "following": true,
+    "friendsCount": 1894,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 139,
+    "location": "",
+    "mediaCount": 49,
+    "name": "林川",
+    "normalFollowersCount": 10307,
+    "pinnedTweetIdsStr": [
+      "1886689704248300007"
+    ],
+    "possiblySensitive": false,
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1871054755461726208/wMrTCPdk_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "Mtyl_7th",
+    "statusesCount": 680,
+    "translatorType": "none",
+    "url": "https://t.co/3cxqKhGRz7",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "profileImageShape": "Circle",
+  "restId": "1472265293653155845",
+  "tipjarSettings": {}
+}

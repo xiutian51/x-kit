@@ -1,0 +1,62 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {
+    "label": {
+      "url": {
+        "url": "https://twitter.com/navi_protocol",
+        "urlType": "DeepLink"
+      },
+      "badge": {
+        "url": "https://pbs.twimg.com/profile_images/1894847709233680384/iBG5gG5g_bigger.jpg"
+      },
+      "description": "NAVI Protocol",
+      "userLabelType": "BusinessLabel",
+      "userLabelDisplayType": "Badge"
+    }
+  },
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNDY4MDUyNzA5ODY1ODI4MzU2",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Tue Dec 07 03:00:40 +0000 2021",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "📝 项目发现&深度体验 |👷|🧑‍💻code something | 🧑‍🍳套利 | 🤔️ COIN EARN COIN | 💦 🦭",
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 4325,
+    "followedBy": true,
+    "followersCount": 528,
+    "following": true,
+    "friendsCount": 310,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 14,
+    "location": "",
+    "mediaCount": 432,
+    "name": "加密0x0grey",
+    "normalFollowersCount": 528,
+    "pinnedTweetIdsStr": [],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1468052709865828356/1747622889",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1907424704996229120/-cqouDUQ_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "0x0grey",
+    "statusesCount": 2700,
+    "translatorType": "none",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "profileImageShape": "Circle",
+  "restId": "1468052709865828356",
+  "tipjarSettings": {
+    "isEnabled": true
+  }
+}

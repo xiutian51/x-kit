@@ -1,0 +1,68 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxMzI2NjU4NDM5NTI3OTM2MDAw",
+  "isBlueVerified": false,
+  "legacy": {
+    "canDm": false,
+    "canMediaTag": true,
+    "createdAt": "Wed Nov 11 22:50:00 +0000 2020",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "The Largest Modular L2 🏖️",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "manta.network",
+            "expanded_url": "https://manta.network/",
+            "url": "https://t.co/ppgD4Uknii",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 7494,
+    "followersCount": 744317,
+    "following": true,
+    "friendsCount": 163,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 1528,
+    "location": "",
+    "mediaCount": 2398,
+    "name": "Manta Network (🔱,🔱)",
+    "normalFollowersCount": 744317,
+    "pinnedTweetIdsStr": [
+      "1983909059813372302"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1326658439527936000/1734440168",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1873640857536225280/kBrE5Y8I_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "MantaNetwork",
+    "statusesCount": 8746,
+    "translatorType": "none",
+    "url": "https://t.co/ppgD4Uknii",
+    "verified": false,
+    "verifiedType": "Business",
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [],
+    "professionalType": "Business",
+    "restId": "1565150491990007808"
+  },
+  "profileImageShape": "Square",
+  "restId": "1326658439527936000",
+  "tipjarSettings": {}
+}

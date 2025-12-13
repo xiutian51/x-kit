@@ -1,0 +1,58 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxMzg3Mzg2NTUyOTA1Mzk2MjMx",
+  "isBlueVerified": false,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Wed Apr 28 12:42:24 +0000 2021",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "",
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 320,
+    "followedBy": true,
+    "followersCount": 400,
+    "following": true,
+    "friendsCount": 696,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 7,
+    "location": "",
+    "mediaCount": 0,
+    "name": "Lenhart",
+    "normalFollowersCount": 400,
+    "pinnedTweetIdsStr": [],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1387386552905396231/1702470066",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1790287832768212992/k99RJdRe_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "0xLenhart",
+    "statusesCount": 3,
+    "translatorType": "none",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [
+      {
+        "iconName": "IconBriefcaseStroke",
+        "id": 1040,
+        "name": "Financial Tech Company"
+      }
+    ],
+    "professionalType": "Creator",
+    "restId": "1557062551074050049"
+  },
+  "profileImageShape": "Circle",
+  "restId": "1387386552905396231",
+  "tipjarSettings": {}
+}

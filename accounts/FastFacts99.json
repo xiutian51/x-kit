@@ -1,0 +1,61 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNjkyMDI4MjU0OTc3NDg2ODQ4",
+  "isBlueVerified": false,
+  "legacy": {
+    "canDm": false,
+    "canMediaTag": true,
+    "createdAt": "Thu Aug 17 04:19:26 +0000 2023",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "fastfacts7.com",
+            "expanded_url": "https://fastfacts7.com/",
+            "url": "https://t.co/ub9h6xvdCM",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 0,
+    "followersCount": 83,
+    "following": true,
+    "friendsCount": 5,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 0,
+    "location": "",
+    "mediaCount": 0,
+    "name": "FastFacts",
+    "normalFollowersCount": 83,
+    "pinnedTweetIdsStr": [
+      "1702122098985161061"
+    ],
+    "possiblySensitive": false,
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1701416807289290752/U3DS7yTX_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "FastFacts99",
+    "statusesCount": 4582,
+    "translatorType": "none",
+    "url": "https://t.co/ub9h6xvdCM",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "profileImageShape": "Circle",
+  "restId": "1692028254977486848",
+  "tipjarSettings": {}
+}

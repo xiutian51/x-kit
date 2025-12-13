@@ -1,0 +1,58 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxODA3Mzc5MDQzNDY3MjY4MDk2",
+  "isBlueVerified": false,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Sun Jun 30 11:42:11 +0000 2024",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "Official Chinese @Coincall_Global \nCoincall交易所官方華語频道 \nCoincall 華語社區：https://t.co/sZcBtdq3kR",
+    "entities": {
+      "description": {
+        "urls": [
+          {
+            "display_url": "t.me/CoincallChinese",
+            "expanded_url": "https://t.me/CoincallChinese",
+            "url": "https://t.co/sZcBtdq3kR",
+            "indices": [
+              68,
+              91
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 116,
+    "followersCount": 645,
+    "following": true,
+    "friendsCount": 30,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 10,
+    "location": "",
+    "mediaCount": 164,
+    "name": "Coincall華語",
+    "normalFollowersCount": 645,
+    "pinnedTweetIdsStr": [
+      "1984190380628492686"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1807379043467268096/1719748243",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1807379170831519744/2F8dm0Au_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "CoincallCN",
+    "statusesCount": 254,
+    "translatorType": "none",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "profileImageShape": "Circle",
+  "restId": "1807379043467268096",
+  "tipjarSettings": {}
+}

@@ -1,0 +1,83 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNTEwNTY1Mjk2NDM2MDI3Mzky",
+  "isBlueVerified": false,
+  "legacy": {
+    "canDm": false,
+    "canMediaTag": true,
+    "createdAt": "Sun Apr 03 10:30:17 +0000 2022",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "5 years Pivotpoint Expert&Trader,Gem Hunter;Quantitative researcher； \n万人电报大群:  https://t.co/HcKS98xEUh",
+    "entities": {
+      "description": {
+        "urls": [
+          {
+            "display_url": "t.me/+41tBKbGytlg0M…",
+            "expanded_url": "https://t.me/+41tBKbGytlg0MDNl",
+            "url": "https://t.co/HcKS98xEUh",
+            "indices": [
+              79,
+              102
+            ]
+          }
+        ]
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "partner.bybit.com/b/gokiller",
+            "expanded_url": "https://partner.bybit.com/b/gokiller",
+            "url": "https://t.co/9dSKQeF66e",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 12011,
+    "followersCount": 24803,
+    "following": true,
+    "friendsCount": 3533,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 406,
+    "location": "bybit（加密+股票+外汇+商品）注册进小群↓",
+    "mediaCount": 3740,
+    "name": "GoKiller",
+    "normalFollowersCount": 24803,
+    "pinnedTweetIdsStr": [
+      "1992570475357360141"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1510565296436027392/1650513143",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1956245556956946437/DW2ku1eB_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "goukiller",
+    "statusesCount": 11633,
+    "translatorType": "none",
+    "url": "https://t.co/9dSKQeF66e",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [
+      {
+        "iconName": "IconBriefcaseStroke",
+        "id": 530,
+        "name": "Astrologist"
+      }
+    ],
+    "professionalType": "Creator",
+    "restId": "1526849653568045056"
+  },
+  "profileImageShape": "Circle",
+  "restId": "1510565296436027392",
+  "tipjarSettings": {}
+}

@@ -1,0 +1,73 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {
+    "label": {
+      "url": {
+        "url": "https://twitter.com/0xinfini",
+        "urlType": "DeepLink"
+      },
+      "badge": {
+        "url": "https://pbs.twimg.com/profile_images/1966496740435222529/UCDLDWO2_bigger.jpg"
+      },
+      "description": "Infini",
+      "userLabelType": "BusinessLabel",
+      "userLabelDisplayType": "Badge"
+    }
+  },
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNDYyOTU3MzM5MzAwOTI1NDQz",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Tue Nov 23 01:33:11 +0000 2021",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "Founder @0xinfini\n\n“All in Crypto to achieve common prosperity”",
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 15675,
+    "followersCount": 55655,
+    "following": true,
+    "friendsCount": 1455,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 816,
+    "location": "Hong Kong",
+    "mediaCount": 399,
+    "name": "Christian (Building @0xinfini)",
+    "normalFollowersCount": 55655,
+    "pinnedTweetIdsStr": [
+      "1933509459390968125"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1462957339300925443/1744442350",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1894561803939844098/ujnP_69d_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "Christianeth",
+    "statusesCount": 6071,
+    "translatorType": "none",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [
+      {
+        "iconName": "IconBriefcaseStroke",
+        "id": 958,
+        "name": "Entrepreneur"
+      }
+    ],
+    "professionalType": "Creator",
+    "restId": "1595782899843727360"
+  },
+  "profileImageShape": "Circle",
+  "restId": "1462957339300925443",
+  "superFollowEligible": true,
+  "tipjarSettings": {}
+}

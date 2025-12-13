@@ -1,0 +1,62 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNjgwNjUwMDU2ODA5MDMzNzMx",
+  "isBlueVerified": false,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Sun Jul 16 18:46:19 +0000 2023",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "The future of social interaction. Pioneers of social engagement rewards.",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "TipChat.com",
+            "expanded_url": "http://TipChat.com",
+            "url": "https://t.co/O6Ld5OnJzu",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 517,
+    "followersCount": 193688,
+    "following": true,
+    "friendsCount": 1,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 130,
+    "location": "",
+    "mediaCount": 52,
+    "name": "tipcoin",
+    "normalFollowersCount": 193688,
+    "pinnedTweetIdsStr": [
+      "1713706880533463424"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1680650056809033731/1693569193",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1697578571458375681/MhMwWQXl_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "tipcoineth",
+    "statusesCount": 835,
+    "translatorType": "none",
+    "url": "https://t.co/O6Ld5OnJzu",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "profileImageShape": "Circle",
+  "restId": "1680650056809033731",
+  "tipjarSettings": {}
+}

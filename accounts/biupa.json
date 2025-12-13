@@ -1,0 +1,86 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoyNjU1MjMxNTQ3",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": false,
+    "createdAt": "Thu Jul 17 23:51:44 +0000 2014",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "DAT Asset Manager\ntweets are personal trading record, non-corporate. \n— \n进群注册 https://t.co/BBq8xz5SQD \n🎰顶级游戏体验尽在 @bcgame",
+    "entities": {
+      "description": {
+        "urls": [
+          {
+            "display_url": "partner.bybit.com/b/BIUPA",
+            "expanded_url": "https://partner.bybit.com/b/BIUPA",
+            "url": "https://t.co/BBq8xz5SQD",
+            "indices": [
+              78,
+              101
+            ]
+          }
+        ]
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "t.me/heyuekuangtu",
+            "expanded_url": "https://t.me/heyuekuangtu",
+            "url": "https://t.co/uOvfUl05DW",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 76951,
+    "followedBy": true,
+    "followersCount": 24189,
+    "following": true,
+    "friendsCount": 1310,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 415,
+    "location": "TG: biupa0068",
+    "mediaCount": 1226,
+    "name": "Biupa",
+    "normalFollowersCount": 24189,
+    "pinnedTweetIdsStr": [
+      "1992135002348482828"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/2655231547/1755813524",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1884643390387875840/MyeoGHmu_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "biupa",
+    "statusesCount": 14091,
+    "translatorType": "none",
+    "url": "https://t.co/uOvfUl05DW",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [
+      {
+        "iconName": "IconBriefcaseStroke",
+        "id": 192,
+        "name": "Financial Services"
+      }
+    ],
+    "professionalType": "Creator",
+    "restId": "1660170387009998849"
+  },
+  "profileImageShape": "Circle",
+  "restId": "2655231547",
+  "tipjarSettings": {
+    "isEnabled": true
+  }
+}

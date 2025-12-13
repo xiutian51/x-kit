@@ -1,0 +1,79 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNDc2NjI1Njg0NTk2NDEyNDE5",
+  "isBlueVerified": false,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Thu Dec 30 18:46:19 +0000 2021",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "The metaverse platform of waking dreams.\n\nCornerstone HQ: https://t.co/r8B259c6dE\n\nCompanions : https://t.co/1cPjkK6mbD",
+    "entities": {
+      "description": {
+        "urls": [
+          {
+            "display_url": "discord.gg/cornerstone-la…",
+            "expanded_url": "http://discord.gg/cornerstone-land",
+            "url": "https://t.co/r8B259c6dE",
+            "indices": [
+              58,
+              81
+            ]
+          },
+          {
+            "display_url": "opensea.io/collection/cor…",
+            "expanded_url": "https://opensea.io/collection/cornerstone-companions",
+            "url": "https://t.co/1cPjkK6mbD",
+            "indices": [
+              96,
+              119
+            ]
+          }
+        ]
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "cornerstone.land",
+            "expanded_url": "https://cornerstone.land/",
+            "url": "https://t.co/kDcPu95Gwe",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 197,
+    "followersCount": 47471,
+    "following": true,
+    "friendsCount": 24,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 24,
+    "location": "cornerstone.land",
+    "mediaCount": 152,
+    "name": "Cornerstone",
+    "normalFollowersCount": 47471,
+    "pinnedTweetIdsStr": [],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1476625684596412419/1708981301",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1762221415007236096/QXTrEc7m_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "CornerstoneLand",
+    "statusesCount": 253,
+    "translatorType": "none",
+    "url": "https://t.co/kDcPu95Gwe",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "profileImageShape": "Circle",
+  "restId": "1476625684596412419",
+  "tipjarSettings": {}
+}

@@ -1,0 +1,57 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNTQ0MTk3OTYxMTY0MjgzOTA0",
+  "isBlueVerified": false,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Tue Jul 05 05:54:48 +0000 2022",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "Research Partner @Mint_Ventures\n记录关于Web3投资的思考\nTG频道每日分享行业信息和思考：https://t.co/GkCfDO07U8",
+    "entities": {
+      "description": {
+        "urls": [
+          {
+            "display_url": "t.me/Alex_xu_invest…",
+            "expanded_url": "https://t.me/Alex_xu_investment",
+            "url": "https://t.co/GkCfDO07U8",
+            "indices": [
+              62,
+              85
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 260,
+    "followersCount": 10150,
+    "following": true,
+    "friendsCount": 424,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 382,
+    "location": "",
+    "mediaCount": 34,
+    "name": "Alex Xu",
+    "normalFollowersCount": 10150,
+    "pinnedTweetIdsStr": [
+      "1704043056675356979"
+    ],
+    "possiblySensitive": false,
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1544198505442316289/QIEf1Xg3_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "xuxiaopengmint",
+    "statusesCount": 676,
+    "translatorType": "none",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "profileImageShape": "Circle",
+  "restId": "1544197961164283904",
+  "tipjarSettings": {}
+}

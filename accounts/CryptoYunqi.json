@@ -1,0 +1,61 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxMzg4NTE0Mzg3NjI3OTQxODg4",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": false,
+    "createdAt": "Sat May 01 15:23:35 +0000 2021",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "簡 繁 磐石停在哪里，水流涌向何方🌱    DYOR做你自己的研究 ｜NFA无财务建议",
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 2472,
+    "followersCount": 49228,
+    "following": true,
+    "friendsCount": 4725,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 1890,
+    "location": "New Zealand",
+    "mediaCount": 2626,
+    "name": "常为希 🔸🚢币安人生（汉语Meme版）",
+    "normalFollowersCount": 49228,
+    "pinnedTweetIdsStr": [
+      "1975297652117151780"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1388514387627941888/1761065961",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1920306945816236032/WsPEjSCY_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "CryptoYunqi",
+    "statusesCount": 7839,
+    "translatorType": "none",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [
+      {
+        "iconName": "IconBriefcaseStroke",
+        "id": 934,
+        "name": "Social Media Influencer"
+      }
+    ],
+    "professionalType": "Creator",
+    "restId": "1587849808878141440"
+  },
+  "profileImageShape": "Circle",
+  "restId": "1388514387627941888",
+  "tipjarSettings": {
+    "isEnabled": true
+  }
+}

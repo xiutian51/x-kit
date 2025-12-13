@@ -1,0 +1,47 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxODg3MjUxMjcxNzMzOTQ0MzIy",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Wed Feb 05 21:25:50 +0000 2025",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "I don’t play with losers",
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 280,
+    "followedBy": true,
+    "followersCount": 821,
+    "following": true,
+    "friendsCount": 216,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 3,
+    "location": "",
+    "mediaCount": 105,
+    "name": "PainZoo 痛苦猫",
+    "normalFollowersCount": 821,
+    "pinnedTweetIdsStr": [],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1887251271733944322/1739119647",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1996560037364514816/KWDRrPDt_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "PainZoo",
+    "statusesCount": 294,
+    "translatorType": "none",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "profileImageShape": "Circle",
+  "restId": "1887251271733944322",
+  "tipjarSettings": {}
+}

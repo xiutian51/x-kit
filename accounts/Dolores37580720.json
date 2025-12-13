@@ -1,0 +1,45 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjo4MjY4NjkwMTYyNTM3MDYyNDA=",
+  "isBlueVerified": false,
+  "legacy": {
+    "canDm": false,
+    "canMediaTag": true,
+    "createdAt": "Wed Feb 01 19:05:10 +0000 2017",
+    "defaultProfile": true,
+    "defaultProfileImage": true,
+    "description": "",
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 183,
+    "followersCount": 4680,
+    "following": true,
+    "friendsCount": 0,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 0,
+    "location": "",
+    "mediaCount": 0,
+    "name": "Dolores O'Neill",
+    "normalFollowersCount": 4680,
+    "pinnedTweetIdsStr": [],
+    "possiblySensitive": false,
+    "profileImageUrlHttps": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+    "profileInterstitialType": "",
+    "screenName": "Dolores37580720",
+    "statusesCount": 186,
+    "translatorType": "none",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "profileImageShape": "Circle",
+  "restId": "826869016253706240",
+  "tipjarSettings": {}
+}

@@ -1,0 +1,65 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxMzUzODk0MzUzNjc3MjgzMzMw",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Tue Jan 26 02:35:55 +0000 2021",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "Pioneering AI + DePIN (Decentralized Physical Infrastructure Network) empowered by people. In Meson we trust, where the digital intelligence finds its home.",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "meson.network",
+            "expanded_url": "https://meson.network",
+            "url": "https://t.co/Yy0ZdD07jM",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 377,
+    "followersCount": 255322,
+    "following": true,
+    "friendsCount": 394,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 304,
+    "location": "HeroWithAThousandFaces",
+    "mediaCount": 209,
+    "name": "meson.network",
+    "normalFollowersCount": 255322,
+    "pinnedTweetIdsStr": [],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1353894353677283330/1714018353",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1478012522871463938/PaF5wVhK_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "NetworkMeson",
+    "statusesCount": 717,
+    "translatorType": "none",
+    "url": "https://t.co/Yy0ZdD07jM",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [],
+    "professionalType": "Creator",
+    "restId": "1470743998352396291"
+  },
+  "profileImageShape": "Circle",
+  "restId": "1353894353677283330",
+  "tipjarSettings": {}
+}

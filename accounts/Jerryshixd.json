@@ -1,0 +1,73 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxMzkwMzQzMjkyNTU1MDc5Njgw",
+  "isBlueVerified": false,
+  "legacy": {
+    "canDm": false,
+    "canMediaTag": true,
+    "createdAt": "Thu May 06 16:30:52 +0000 2021",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "Founder & Managing Partner @synergiscap | Backing 1/1 founders",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "synergiscap.com",
+            "expanded_url": "https://synergiscap.com",
+            "url": "https://t.co/oNFcFP5AAp",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 1029,
+    "followersCount": 2079,
+    "following": true,
+    "friendsCount": 3561,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 36,
+    "location": "Toronto, Ontario",
+    "mediaCount": 9,
+    "name": "☀️ Jerry Shi",
+    "normalFollowersCount": 2079,
+    "pinnedTweetIdsStr": [],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1390343292555079680/1636165355",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1753850581687705600/dfTAVvdM_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "Jerryshixd",
+    "statusesCount": 461,
+    "translatorType": "none",
+    "url": "https://t.co/oNFcFP5AAp",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [
+      {
+        "iconName": "IconBriefcaseStroke",
+        "id": 1039,
+        "name": "Venture Capital"
+      }
+    ],
+    "professionalType": "Business",
+    "restId": "1473880041788522498"
+  },
+  "profileImageShape": "Circle",
+  "restId": "1390343292555079680",
+  "tipjarSettings": {
+    "isEnabled": true
+  }
+}

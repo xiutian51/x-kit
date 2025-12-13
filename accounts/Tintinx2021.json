@@ -1,0 +1,100 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {
+    "label": {
+      "url": {
+        "url": "https://twitter.com/gmgnai",
+        "urlType": "DeepLink"
+      },
+      "badge": {
+        "url": "https://pbs.twimg.com/profile_images/1998601173205659657/8noZT-3I_bigger.jpg"
+      },
+      "description": "GMGN.Ai",
+      "userLabelType": "BusinessLabel",
+      "userLabelDisplayType": "Badge"
+    }
+  },
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNTE2NjI5MjkzNTA1Mjc3OTUz",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": false,
+    "createdAt": "Wed Apr 20 04:07:20 +0000 2022",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "用仓位验证自己的答案 / Join My Aster Fam: https://t.co/zsbXhhkgU9",
+    "entities": {
+      "description": {
+        "urls": [
+          {
+            "display_url": "asterdex.com/en/referral/wP…",
+            "expanded_url": "https://www.asterdex.com/en/referral/wPqJEV",
+            "url": "https://t.co/zsbXhhkgU9",
+            "indices": [
+              32,
+              55
+            ]
+          }
+        ]
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "t.me/oTnTr",
+            "expanded_url": "https://t.me/oTnTr",
+            "url": "https://t.co/0iSld04QJM",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 22965,
+    "followersCount": 54218,
+    "following": true,
+    "friendsCount": 7369,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 625,
+    "location": "",
+    "mediaCount": 1172,
+    "name": "Tintin🏃🏻‍♀️‍➡️ █████",
+    "normalFollowersCount": 54218,
+    "pinnedTweetIdsStr": [
+      "1973688457907310615"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1516629293505277953/1747394761",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1973712932321071104/TvQ8-aFX_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "Tintinx2021",
+    "statusesCount": 8895,
+    "translatorType": "none",
+    "url": "https://t.co/0iSld04QJM",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [
+      {
+        "iconName": "IconBriefcaseStroke",
+        "id": 1099,
+        "name": "Chef"
+      }
+    ],
+    "professionalType": "Creator",
+    "restId": "1564825601826963457"
+  },
+  "profileImageShape": "Circle",
+  "restId": "1516629293505277953",
+  "superFollowEligible": true,
+  "tipjarSettings": {
+    "ethereumHandle": "0x130d2f93613948c0b68b5cac35ba9152c62625f3",
+    "isEnabled": true
+  }
+}

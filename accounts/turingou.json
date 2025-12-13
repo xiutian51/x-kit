@@ -1,0 +1,76 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjo0MjM1MjA1Ng==",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Mon May 25 04:50:07 +0000 2009",
+    "defaultProfile": false,
+    "defaultProfileImage": false,
+    "description": "Retired. 只活一次等于没活。",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "guoyu.mirror.xyz",
+            "expanded_url": "https://guoyu.mirror.xyz/",
+            "url": "https://t.co/XHBstCf9fa",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 4217,
+    "followersCount": 153420,
+    "following": true,
+    "friendsCount": 513,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 1286,
+    "location": "東京 港区",
+    "mediaCount": 2598,
+    "name": "郭宇 guoyu.eth",
+    "normalFollowersCount": 153420,
+    "pinnedTweetIdsStr": [
+      "1969813348872335431"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/42352056/1651418512",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1870511184761483265/QO7R0Ow3_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "turingou",
+    "statusesCount": 7621,
+    "translatorType": "none",
+    "url": "https://t.co/XHBstCf9fa",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [
+      {
+        "iconName": "IconBriefcaseStroke",
+        "id": 934,
+        "name": "Social Media Influencer"
+      }
+    ],
+    "professionalType": "Creator",
+    "restId": "1484075953890684930"
+  },
+  "profileImageShape": "Circle",
+  "restId": "42352056",
+  "tipjarSettings": {
+    "ethereumHandle": "0xD6DB919FDDDBEd1cE19973156B49E51959408E9E",
+    "isEnabled": true
+  }
+}

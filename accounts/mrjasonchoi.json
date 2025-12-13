@@ -1,0 +1,62 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNzQ5ODE0OTA=",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": false,
+    "createdAt": "Thu Aug 05 09:16:05 +0000 2010",
+    "defaultProfile": false,
+    "defaultProfileImage": false,
+    "description": "Prop + angel investing @tangent_xyz // ex GP @TheSpartanGroup @Wharton",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "jasonchoi.me",
+            "expanded_url": "http://jasonchoi.me",
+            "url": "https://t.co/rS4OOfmkxa",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 51626,
+    "followersCount": 180522,
+    "following": true,
+    "friendsCount": 1602,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 3748,
+    "location": "",
+    "mediaCount": 2617,
+    "name": "Jason Choi",
+    "normalFollowersCount": 180522,
+    "pinnedTweetIdsStr": [
+      "1897344860308529278"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/174981490/1764877173",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1921591862701473793/7KV-mS7l_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "mrjasonchoi",
+    "statusesCount": 22604,
+    "translatorType": "none",
+    "url": "https://t.co/rS4OOfmkxa",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "profileImageShape": "Circle",
+  "restId": "174981490",
+  "tipjarSettings": {}
+}

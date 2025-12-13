@@ -1,0 +1,72 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxODUwMzgzMzg5MTYyOTE3ODg4",
+  "isBlueVerified": false,
+  "legacy": {
+    "canDm": false,
+    "canMediaTag": true,
+    "createdAt": "Sun Oct 27 03:46:04 +0000 2024",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "Moomoo stock trading with $1000 welcome bonus https://t.co/Bk3zqbbTno",
+    "entities": {
+      "description": {
+        "urls": [
+          {
+            "display_url": "start.moomoo.com/0ncfEE",
+            "expanded_url": "https://start.moomoo.com/0ncfEE",
+            "url": "https://t.co/Bk3zqbbTno",
+            "indices": [
+              46,
+              69
+            ]
+          }
+        ]
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "youtube.com/@stockchat7",
+            "expanded_url": "https://www.youtube.com/@stockchat7",
+            "url": "https://t.co/3wbPwyCcIN",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 48,
+    "followersCount": 945,
+    "following": true,
+    "friendsCount": 46,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 3,
+    "location": "",
+    "mediaCount": 24,
+    "name": "Stockchat",
+    "normalFollowersCount": 945,
+    "pinnedTweetIdsStr": [
+      "1988657257467510963"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1850383389162917888/1764816611",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1850738652415934465/Lmo7Kyjf_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "StockEngineabao",
+    "statusesCount": 38,
+    "translatorType": "none",
+    "url": "https://t.co/3wbPwyCcIN",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "profileImageShape": "Circle",
+  "restId": "1850383389162917888",
+  "tipjarSettings": {}
+}

@@ -1,0 +1,74 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNTM1NDI3MDA5OTAzMzk4OTEy",
+  "isBlueVerified": false,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Sat Jun 11 01:02:02 +0000 2022",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "Powering the future of Web3 and AI Gaming | $80M+ raised ecosystem | Backed by @BinanceLabs",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "link3.to/TGX6LOYJ",
+            "expanded_url": "https://link3.to/TGX6LOYJ",
+            "url": "https://t.co/3ISIoiHxCr",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 3431,
+    "followersCount": 489614,
+    "following": true,
+    "friendsCount": 102,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 654,
+    "location": "",
+    "mediaCount": 473,
+    "name": "Xterio",
+    "normalFollowersCount": 489614,
+    "pinnedTweetIdsStr": [
+      "1988089790869499989"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1535427009903398912/1688271768",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1675359338523705344/2kbpH2H3_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "XterioGames",
+    "statusesCount": 4364,
+    "translatorType": "none",
+    "url": "https://t.co/3ISIoiHxCr",
+    "verified": false,
+    "verifiedType": "Business",
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [
+      {
+        "iconName": "IconBriefcaseStroke",
+        "id": 716,
+        "name": "Video Game Company"
+      }
+    ],
+    "professionalType": "Business",
+    "restId": "1571944803948195841"
+  },
+  "profileImageShape": "Square",
+  "restId": "1535427009903398912",
+  "tipjarSettings": {}
+}

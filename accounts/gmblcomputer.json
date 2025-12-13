@@ -1,0 +1,62 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNjcwOTA3OTE0MDgzNTI0NjA4",
+  "isBlueVerified": false,
+  "legacy": {
+    "canDm": false,
+    "canMediaTag": false,
+    "createdAt": "Mon Jun 19 21:34:53 +0000 2023",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "$GMBL The Omnichain Casino! Sportsbook, Blackjack, Roulette, Plinko, MORE - ALL PROFITS GO TO STAKERS ~ live on @arbitrum and @avax, powered by @layerzero_labs",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "linktr.ee/gmblcomputer",
+            "expanded_url": "https://linktr.ee/gmblcomputer",
+            "url": "https://t.co/5CwL4vxVcN",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 569,
+    "followersCount": 4805,
+    "following": true,
+    "friendsCount": 0,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 58,
+    "location": "Omnichain",
+    "mediaCount": 135,
+    "name": "GMBL.COMPUTER",
+    "normalFollowersCount": 4805,
+    "pinnedTweetIdsStr": [
+      "1739639762980319589"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1670907914083524608/1706133164",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1744434723466686464/LEoxFV8P_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "gmblcomputer",
+    "statusesCount": 391,
+    "translatorType": "none",
+    "url": "https://t.co/5CwL4vxVcN",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "profileImageShape": "Circle",
+  "restId": "1670907914083524608",
+  "tipjarSettings": {}
+}

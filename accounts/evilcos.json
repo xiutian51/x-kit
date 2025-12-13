@@ -1,0 +1,91 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNzU1MjIxMA==",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": false,
+    "createdAt": "Sat Nov 22 03:40:47 +0000 2008",
+    "defaultProfile": false,
+    "defaultProfileImage": false,
+    "description": "Founder of @SlowMist_Team. Creator of https://t.co/tFCQExs2wd // 分身一号/捉虫大师/救火运动员 // 🕖灾备频道 https://t.co/bMGdsBkYwM",
+    "entities": {
+      "description": {
+        "urls": [
+          {
+            "display_url": "DarkHandBook.io",
+            "expanded_url": "https://DarkHandBook.io",
+            "url": "https://t.co/tFCQExs2wd",
+            "indices": [
+              38,
+              61
+            ]
+          },
+          {
+            "display_url": "t.me/greyhatcos",
+            "expanded_url": "https://t.me/greyhatcos",
+            "url": "https://t.co/bMGdsBkYwM",
+            "indices": [
+              90,
+              113
+            ]
+          }
+        ]
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "github.com/evilcos",
+            "expanded_url": "https://github.com/evilcos",
+            "url": "https://t.co/kVIk8p7y4G",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 23145,
+    "followersCount": 117600,
+    "following": true,
+    "friendsCount": 1509,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 1712,
+    "location": "HACKING",
+    "mediaCount": 888,
+    "name": "Cos(余弦)😶‍🌫️",
+    "normalFollowersCount": 117600,
+    "pinnedTweetIdsStr": [
+      "1943275102990405704"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/17552210/1658214023",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1681578030811209728/Xx1RuT6N_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "evilcos",
+    "statusesCount": 8367,
+    "translatorType": "none",
+    "url": "https://t.co/kVIk8p7y4G",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [],
+    "professionalType": "Creator",
+    "restId": "1494945410707722242"
+  },
+  "profileImageShape": "Circle",
+  "restId": "17552210",
+  "tipjarSettings": {
+    "bitcoinHandle": "37rmepr3Zawgoe6KQoL7Ke5GfEpAGsbZ45",
+    "ethereumHandle": "0x6F28cbeD6409e58449e46a062567D5E2fB8DA78F",
+    "isEnabled": true,
+    "patreonHandle": ""
+  }
+}

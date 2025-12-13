@@ -1,0 +1,60 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNDQyODMxOTAwNzk2NzE5MTE1",
+  "isBlueVerified": false,
+  "legacy": {
+    "canDm": false,
+    "canMediaTag": true,
+    "createdAt": "Tue Sep 28 12:41:53 +0000 2021",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "Web3 infrastructure to power the next iteration of the internet",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "ramo.io",
+            "expanded_url": "https://ramo.io",
+            "url": "https://t.co/v6idgY5lpt",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 2201,
+    "followersCount": 1821,
+    "following": true,
+    "friendsCount": 5,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 27,
+    "location": "Global",
+    "mediaCount": 5,
+    "name": "Ramo",
+    "normalFollowersCount": 1821,
+    "pinnedTweetIdsStr": [],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1442831900796719115/1682428438",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1799039999402528768/GoJAYpwq_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "ramo_io",
+    "statusesCount": 34,
+    "translatorType": "none",
+    "url": "https://t.co/v6idgY5lpt",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "profileImageShape": "Circle",
+  "restId": "1442831900796719115",
+  "tipjarSettings": {}
+}

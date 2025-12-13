@@ -1,0 +1,65 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNzQ2OTgwOTk2OTg4MjM5ODcz",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Mon Jan 15 19:41:51 +0000 2024",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "wtf is $plug —» left curve: butt plug shitcoin —» mid curve: migrates honey comb from jeets to chads —» right curve: (3,3) reinforcement protocol",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "plug.sucks",
+            "expanded_url": "http://plug.sucks",
+            "url": "https://t.co/w8B39IIqCW",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 3277,
+    "followersCount": 12724,
+    "following": true,
+    "friendsCount": 60,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 116,
+    "location": "Berachain",
+    "mediaCount": 548,
+    "name": "Beraplug (🐻,🔌)",
+    "normalFollowersCount": 12724,
+    "pinnedTweetIdsStr": [],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1746980996988239873/1705751632",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1748675078433259520/Q5ROSRPe_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "beraplug",
+    "statusesCount": 1638,
+    "translatorType": "none",
+    "url": "https://t.co/w8B39IIqCW",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [],
+    "professionalType": "Business",
+    "restId": "1748111010840338745"
+  },
+  "profileImageShape": "Circle",
+  "restId": "1746980996988239873",
+  "tipjarSettings": {}
+}

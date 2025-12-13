@@ -1,0 +1,60 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjo5MzkwOTE=",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": false,
+    "canMediaTag": false,
+    "createdAt": "Sun Mar 11 17:51:24 +0000 2007",
+    "defaultProfile": false,
+    "defaultProfileImage": false,
+    "description": "Husband to @DrBiden, proud father, grandfather, and great grandfather.",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "joebiden.com",
+            "expanded_url": "http://joebiden.com",
+            "url": "https://t.co/g69HDLeWU6",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 27,
+    "followersCount": 37859086,
+    "following": true,
+    "friendsCount": 46,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 40866,
+    "location": "",
+    "mediaCount": 3302,
+    "name": "Joe Biden",
+    "normalFollowersCount": 37859086,
+    "pinnedTweetIdsStr": [],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/939091/1737578395",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1308769664240160770/AfgzWVE7_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "JoeBiden",
+    "statusesCount": 11003,
+    "translatorType": "none",
+    "url": "https://t.co/g69HDLeWU6",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "profileImageShape": "Circle",
+  "restId": "939091",
+  "tipjarSettings": {}
+}

@@ -1,0 +1,72 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNzE3OTQwNDk0NDIyOTc4NTY3",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Fri Oct 27 16:25:16 +0000 2023",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "全网最全最优质的金狗信号 | KOL社群消息AI实时总结&钱包监控 \n更快更精准的全网信息刮刀 | 链智Alpha投研项目\n官方交流大群：https://t.co/If13lPXsLq\nFounder：@0xJason_btc | 链智子产品：@Memeradar_sol",
+    "entities": {
+      "description": {
+        "urls": [
+          {
+            "display_url": "t.me/+Htdwhaw89sE4M…",
+            "expanded_url": "https://t.me/+Htdwhaw89sE4MWFl",
+            "url": "https://t.co/If13lPXsLq",
+            "indices": [
+              69,
+              92
+            ]
+          }
+        ]
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "chaininsight.vip/#/home?s=1",
+            "expanded_url": "https://chaininsight.vip/#/home?s=1",
+            "url": "https://t.co/Ar98EtjoF6",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 3636,
+    "followersCount": 14408,
+    "following": true,
+    "friendsCount": 992,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 226,
+    "location": "",
+    "mediaCount": 2284,
+    "name": "链智",
+    "normalFollowersCount": 14408,
+    "pinnedTweetIdsStr": [
+      "1939223531184886261"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1717940494422978567/1751853298",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1889654216689618944/2d4pLU8d_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "lianzhi_crypto",
+    "statusesCount": 9466,
+    "translatorType": "none",
+    "url": "https://t.co/Ar98EtjoF6",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "profileImageShape": "Circle",
+  "restId": "1717940494422978567",
+  "tipjarSettings": {}
+}

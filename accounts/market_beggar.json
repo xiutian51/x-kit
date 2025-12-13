@@ -1,0 +1,59 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNzMxOTI0NTcyNDc0NDAwNzY4",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Tue Dec 05 06:33:20 +0000 2023",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "以交易為生｜All Sharing is biased.\n\nBTC 鏈上數據 & 技術分析\n\n🪧商務 TG：@colin_the_beggar",
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 45613,
+    "followersCount": 17970,
+    "following": true,
+    "friendsCount": 472,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 510,
+    "location": "",
+    "mediaCount": 997,
+    "name": "貝格先生🐢",
+    "normalFollowersCount": 17970,
+    "pinnedTweetIdsStr": [
+      "1878653495311839475"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1731924572474400768/1757422831",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1904972550347894784/dA544s8Q_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "market_beggar",
+    "statusesCount": 14483,
+    "translatorType": "none",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [
+      {
+        "iconName": "IconBriefcaseStroke",
+        "id": 192,
+        "name": "Financial Services"
+      }
+    ],
+    "professionalType": "Creator",
+    "restId": "1860607826470510854"
+  },
+  "profileImageShape": "Circle",
+  "restId": "1731924572474400768",
+  "tipjarSettings": {}
+}

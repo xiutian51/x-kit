@@ -1,0 +1,48 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxMDg5MDI1MTI1MTU5MTgyMzQx",
+  "isBlueVerified": false,
+  "legacy": {
+    "canDm": false,
+    "canMediaTag": true,
+    "createdAt": "Sat Jan 26 04:59:57 +0000 2019",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "Crypto Enthusiast 🌐 | Anime Fan 🐉 | Quant & Data Geek 📊\nBTC & ETH Maxi | Swing Trader & Risk Taker\n中文 / English / 日本語 /",
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 1347,
+    "followersCount": 138,
+    "following": true,
+    "friendsCount": 80,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 0,
+    "location": "HONG KONG",
+    "mediaCount": 14,
+    "name": "SatoshiSama",
+    "normalFollowersCount": 138,
+    "pinnedTweetIdsStr": [
+      "1856377703332720856"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1089025125159182341/1731390591",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1856207460270518274/cH7TczFH_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "WyckoffWizard",
+    "statusesCount": 42,
+    "translatorType": "none",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "profileImageShape": "Circle",
+  "restId": "1089025125159182341",
+  "tipjarSettings": {}
+}

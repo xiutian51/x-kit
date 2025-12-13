@@ -1,0 +1,61 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjo4ODM0MzEzMzEwOTg3NTkxNjk=",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": false,
+    "canMediaTag": true,
+    "createdAt": "Fri Jul 07 21:03:37 +0000 2017",
+    "defaultProfile": false,
+    "defaultProfileImage": false,
+    "description": "Thesis-driven investment firm that invests in tokens and blockchain companies. \n\n***This account does not tweet and never has.***",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "multicoin.capital",
+            "expanded_url": "https://multicoin.capital/",
+            "url": "https://t.co/6aaxywy3JQ",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 2,
+    "followersCount": 78186,
+    "following": true,
+    "friendsCount": 0,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 2241,
+    "location": "Metaverse ",
+    "mediaCount": 0,
+    "name": "Multicoin Capital",
+    "normalFollowersCount": 78186,
+    "pinnedTweetIdsStr": [],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/883431331098759169/1654192327",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1532419804031852546/KMJZNS9c_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "multicoin",
+    "statusesCount": 0,
+    "translatorType": "none",
+    "url": "https://t.co/6aaxywy3JQ",
+    "verified": false,
+    "verifiedType": "Business",
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "profileImageShape": "Square",
+  "restId": "883431331098759169",
+  "tipjarSettings": {}
+}

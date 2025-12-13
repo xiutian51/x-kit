@@ -1,0 +1,72 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNjgyOTkxMTI1MjU3NDEyNjA5",
+  "isBlueVerified": false,
+  "legacy": {
+    "canDm": false,
+    "canMediaTag": false,
+    "createdAt": "Sun Jul 23 05:49:37 +0000 2023",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "Scaling ZK Gaming\n\nJoin our community: https://t.co/1K7cteYRzD",
+    "entities": {
+      "description": {
+        "urls": [
+          {
+            "display_url": "t.me/hyprnetwork",
+            "expanded_url": "http://t.me/hyprnetwork",
+            "url": "https://t.co/1K7cteYRzD",
+            "indices": [
+              39,
+              62
+            ]
+          }
+        ]
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "hypr.network",
+            "expanded_url": "https://www.hypr.network",
+            "url": "https://t.co/bTJzGJw7Aj",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 307,
+    "followersCount": 11732,
+    "following": true,
+    "friendsCount": 2089,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 85,
+    "location": "",
+    "mediaCount": 95,
+    "name": "Hypr Network",
+    "normalFollowersCount": 11732,
+    "pinnedTweetIdsStr": [
+      "1757485918859276700"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1682991125257412609/1698963672",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1683231018621485057/fGMbzUYW_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "hypr_network",
+    "statusesCount": 266,
+    "translatorType": "none",
+    "url": "https://t.co/bTJzGJw7Aj",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "profileImageShape": "Circle",
+  "restId": "1682991125257412609",
+  "tipjarSettings": {}
+}

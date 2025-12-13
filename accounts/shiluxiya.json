@@ -1,0 +1,59 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNjY2MzY3OTU3MDE3MTY5OTIw",
+  "isBlueVerified": false,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": false,
+    "createdAt": "Wed Jun 07 08:55:16 +0000 2023",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "大一开始炒币的0⃣️0⃣️后宅妹 #BTC 靠交易从$1W 到 A8 💹 技术分析结合量化交易🤖 不定期撒U抽奖🎁 分享交易技巧💰 交易机会提示🈶 币圈及交易资料宝库💵",
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 4013,
+    "followersCount": 7888,
+    "following": true,
+    "friendsCount": 1099,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 101,
+    "location": "",
+    "mediaCount": 414,
+    "name": "是露西呀",
+    "normalFollowersCount": 7888,
+    "pinnedTweetIdsStr": [
+      "1811610844578611217"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1666367957017169920/1687269788",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1673869395704311809/fVYT-svR_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "shiluxiya",
+    "statusesCount": 1946,
+    "translatorType": "none",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [
+      {
+        "iconName": "IconBriefcaseStroke",
+        "id": 192,
+        "name": "Financial Services"
+      }
+    ],
+    "professionalType": "Creator",
+    "restId": "1804369489804562496"
+  },
+  "profileImageShape": "Circle",
+  "restId": "1666367957017169920",
+  "tipjarSettings": {}
+}

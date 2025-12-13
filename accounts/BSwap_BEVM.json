@@ -1,0 +1,77 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNjY4ODc3NDQzMjU4ODE0NDY0",
+  "isBlueVerified": false,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": false,
+    "createdAt": "Wed Jun 14 07:06:39 +0000 2023",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "BSwap, a #BTC-#EVM DEX based on BEVM.\nMake it possible for users to swap/bridge/add pools with #BRC20 and #ERC20 tokens.\nDc:https://t.co/PY2URR1Sk3",
+    "entities": {
+      "description": {
+        "urls": [
+          {
+            "display_url": "discord.gg/Zs8RRy3kRG",
+            "expanded_url": "http://discord.gg/Zs8RRy3kRG",
+            "url": "https://t.co/PY2URR1Sk3",
+            "indices": [
+              124,
+              147
+            ]
+          }
+        ]
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "bswap.bevm.io/#/swap",
+            "expanded_url": "https://bswap.bevm.io/#/swap",
+            "url": "https://t.co/vSwGHbBxnp",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 21,
+    "followersCount": 26511,
+    "following": true,
+    "friendsCount": 126,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 36,
+    "location": "",
+    "mediaCount": 18,
+    "name": "BSwap-Brc20 DEX",
+    "normalFollowersCount": 26511,
+    "pinnedTweetIdsStr": [
+      "1687394615480201216"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1668877443258814464/1690184197",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1668878360393687040/7iOOjOeI_normal.png",
+    "profileInterstitialType": "",
+    "screenName": "BSwap_BEVM",
+    "statusesCount": 43,
+    "translatorType": "none",
+    "url": "https://t.co/vSwGHbBxnp",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [],
+    "professionalType": "Business",
+    "restId": "1668879833810743296"
+  },
+  "profileImageShape": "Circle",
+  "restId": "1668877443258814464",
+  "tipjarSettings": {}
+}

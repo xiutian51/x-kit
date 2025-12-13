@@ -1,0 +1,65 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNDM2OTMyMjEwMDY2NTI2MjEz",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": false,
+    "createdAt": "Sun Sep 12 05:59:26 +0000 2021",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "2013年从业 | 币圈风险提示博主 | 比特币Maxi",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "xiyu.im",
+            "expanded_url": "https://xiyu.im",
+            "url": "https://t.co/yghtquMCby",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 9853,
+    "followersCount": 27093,
+    "following": true,
+    "friendsCount": 731,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 699,
+    "location": "稀有实验室",
+    "mediaCount": 1440,
+    "name": "xiyu",
+    "normalFollowersCount": 27093,
+    "pinnedTweetIdsStr": [
+      "1630723968331022337"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1436932210066526213/1684244892",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1765373916191838208/o0x7CZfx_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "ohxiyu",
+    "statusesCount": 10344,
+    "translatorType": "none",
+    "url": "https://t.co/yghtquMCby",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "profileImageShape": "Circle",
+  "restId": "1436932210066526213",
+  "tipjarSettings": {
+    "bitcoinHandle": "bc1qxu8t70wl2yjs6tpkga5advgsthd6dgffxgkqwn",
+    "isEnabled": true
+  }
+}

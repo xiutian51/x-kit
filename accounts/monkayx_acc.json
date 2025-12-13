@@ -1,0 +1,46 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNDM3NDc0MzY1MTQzMTM4MzA2",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Mon Sep 13 17:54:58 +0000 2021",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "Web3 Gaming | Trader · Gamer · Creator | Alpha leaks & Node ops",
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 11181,
+    "followersCount": 68647,
+    "following": true,
+    "friendsCount": 578,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 200,
+    "location": "Surfing",
+    "mediaCount": 7,
+    "name": "MonKayX",
+    "normalFollowersCount": 68647,
+    "pinnedTweetIdsStr": [],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1437474365143138306/1755689936",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1958121258513502208/Z4yJAJFb_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "monkayx_acc",
+    "statusesCount": 101,
+    "translatorType": "none",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "profileImageShape": "Circle",
+  "restId": "1437474365143138306",
+  "tipjarSettings": {}
+}

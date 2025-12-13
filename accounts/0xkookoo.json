@@ -1,0 +1,84 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {
+    "label": {
+      "url": {
+        "url": "https://twitter.com/virtuals_io",
+        "urlType": "DeepLink"
+      },
+      "badge": {
+        "url": "https://pbs.twimg.com/profile_images/1986056018472947712/9-JfPpIj_bigger.jpg"
+      },
+      "description": "Virtuals Protocol",
+      "userLabelType": "BusinessLabel",
+      "userLabelDisplayType": "Badge"
+    }
+  },
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxMzgzOTgzMzY5MDg4NzY1OTU5",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Mon Apr 19 03:18:50 +0000 2021",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "Core Contributor @virtuals_io | Advisor @moledao_io \nprev. Tech Lead @DeGateDex @Bybit_Official | thoughts on 👇",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "mirror.xyz/0xkookoo.eth",
+            "expanded_url": "https://mirror.xyz/0xkookoo.eth",
+            "url": "https://t.co/RckewtQuR9",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 6440,
+    "followersCount": 4055,
+    "following": true,
+    "friendsCount": 647,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 101,
+    "location": "Singapore",
+    "mediaCount": 197,
+    "name": "0xkookoo 🦇🔊🐙",
+    "normalFollowersCount": 4055,
+    "pinnedTweetIdsStr": [],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1383983369088765959/1698066930",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1574332454067838976/7O3zcxTD_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "0xkookoo",
+    "statusesCount": 2121,
+    "translatorType": "none",
+    "url": "https://t.co/RckewtQuR9",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [
+      {
+        "iconName": "IconBriefcaseStroke",
+        "id": 1067,
+        "name": "Researcher"
+      }
+    ],
+    "professionalType": "Business",
+    "restId": "1594042095849078784"
+  },
+  "profileImageShape": "Circle",
+  "restId": "1383983369088765959",
+  "tipjarSettings": {}
+}

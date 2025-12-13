@@ -1,0 +1,51 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjozMzAzMjkzODY1",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Sat May 30 01:08:18 +0000 2015",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "Olympian. FOX Contributor. Fairness First PAC. Public Speaker. NYT Best Seller. Crypto Fan. Father. mgmt: Sophia@CaitlynJenner.com",
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 23258,
+    "followersCount": 3227656,
+    "following": true,
+    "friendsCount": 582,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 2640,
+    "location": "California, USA",
+    "mediaCount": 898,
+    "name": "Caitlyn Jenner",
+    "normalFollowersCount": 3227656,
+    "pinnedTweetIdsStr": [],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/3303293865/1684275048",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1385494688036130819/MWbms7um_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "Caitlyn_Jenner",
+    "statusesCount": 8809,
+    "translatorType": "none",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [],
+    "professionalType": "Creator",
+    "restId": "1506087958905982976"
+  },
+  "profileImageShape": "Circle",
+  "restId": "3303293865",
+  "tipjarSettings": {}
+}

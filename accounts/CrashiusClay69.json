@@ -1,0 +1,51 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxMzAzNDQ3NTcwMjAzNzc0OTgw",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Tue Sep 08 21:38:20 +0000 2020",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "independent divergent outcast • the MF DOOM of crypto or Warren Buffet of memecoins - @ crashit ONLY on TG - @crashiusclay69 @brozinkerbell on X",
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 60233,
+    "followersCount": 271041,
+    "following": true,
+    "friendsCount": 867,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 3394,
+    "location": "",
+    "mediaCount": 2605,
+    "name": "Crash",
+    "normalFollowersCount": 271041,
+    "pinnedTweetIdsStr": [
+      "1778455534967947464"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1303447570203774980/1710262258",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1671372997368659968/W6VWPN9T_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "CrashiusClay69",
+    "statusesCount": 11925,
+    "translatorType": "none",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "profileImageShape": "Circle",
+  "restId": "1303447570203774980",
+  "tipjarSettings": {
+    "bitcoinHandle": "bc1qyv6h83jvesw9850mec7yx357439rfe7ct9te35",
+    "isEnabled": false
+  }
+}

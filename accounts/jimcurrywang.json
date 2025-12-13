@@ -1,0 +1,64 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxMzU1MTc0MTczMzg0MDQ4NjQy",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": false,
+    "canMediaTag": true,
+    "createdAt": "Fri Jan 29 15:21:21 +0000 2021",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "Usual Money Ambassador 中文社區大使 I cook up strategies in Yield Trading, DeFi, and Fixed Rate Yield.",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "linktr.ee/jimcurrywang",
+            "expanded_url": "https://linktr.ee/jimcurrywang",
+            "url": "https://t.co/tVgDkTnvmL",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 3514,
+    "followersCount": 2765,
+    "following": true,
+    "friendsCount": 1791,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 88,
+    "location": "Amsterdam",
+    "mediaCount": 354,
+    "name": "RJ ♣️",
+    "normalFollowersCount": 2765,
+    "pinnedTweetIdsStr": [
+      "1971533688702968194"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1355174173384048642/1731008956",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1895468109588283392/CaUFAZCj_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "jimcurrywang",
+    "statusesCount": 2588,
+    "translatorType": "none",
+    "url": "https://t.co/tVgDkTnvmL",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "profileImageShape": "Circle",
+  "restId": "1355174173384048642",
+  "tipjarSettings": {
+    "isEnabled": true
+  }
+}

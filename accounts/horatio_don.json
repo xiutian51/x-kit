@@ -1,0 +1,58 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNTQ0MDgwOTQxNDg3NzU5MzYw",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Mon Jul 04 22:09:30 +0000 2022",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "注册Bitget，一起赢取 1530 USDT 现金奖励！更有高达 6200 USDT 的迎新礼包！快点击链接注册：https://t.co/zaotp0rEb2",
+    "entities": {
+      "description": {
+        "urls": [
+          {
+            "display_url": "partner.dhxrcw.cn/bg/YP95ZJ",
+            "expanded_url": "https://partner.dhxrcw.cn/bg/YP95ZJ",
+            "url": "https://t.co/zaotp0rEb2",
+            "indices": [
+              58,
+              81
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 10312,
+    "followersCount": 33948,
+    "following": true,
+    "friendsCount": 1684,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 279,
+    "location": "",
+    "mediaCount": 1849,
+    "name": "我不是冥灯",
+    "normalFollowersCount": 33948,
+    "pinnedTweetIdsStr": [
+      "1958346043411812361"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1544080941487759360/1656972632",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1591333783264841728/Tl_mDOar_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "horatio_don",
+    "statusesCount": 9008,
+    "translatorType": "none",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "profileImageShape": "Circle",
+  "restId": "1544080941487759360",
+  "tipjarSettings": {}
+}

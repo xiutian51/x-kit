@@ -1,0 +1,59 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {
+    "label": {
+      "url": {
+        "url": "https://twitter.com/BNBCHAIN",
+        "urlType": "DeepLink"
+      },
+      "badge": {
+        "url": "https://pbs.twimg.com/profile_images/1998852558081925120/025iaK2q_bigger.jpg"
+      },
+      "description": "BNB Chain",
+      "userLabelType": "BusinessLabel",
+      "userLabelDisplayType": "Badge"
+    }
+  },
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxMzU4ODQwMDQ5NDA0NTUxMTY4",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": false,
+    "createdAt": "Mon Feb 08 18:08:18 +0000 2021",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "Now Building @BNBCHAIN @BNBCHAINZH",
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 10431,
+    "followersCount": 23286,
+    "following": true,
+    "friendsCount": 1756,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 149,
+    "location": "",
+    "mediaCount": 279,
+    "name": "九九Cain🔶BNB",
+    "normalFollowersCount": 23286,
+    "pinnedTweetIdsStr": [],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1358840049404551168/1743687476",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1952466373273427968/bQmSfjRz_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "cain_bnb",
+    "statusesCount": 5249,
+    "translatorType": "none",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "profileImageShape": "Circle",
+  "restId": "1358840049404551168",
+  "tipjarSettings": {}
+}

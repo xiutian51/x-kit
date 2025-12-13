@@ -1,0 +1,61 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxMjIxMzMxMjYwODI5NjgzNzEy",
+  "isBlueVerified": false,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": false,
+    "createdAt": "Sun Jan 26 07:17:24 +0000 2020",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "你鸡哥",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "eeee.cafe",
+            "expanded_url": "https://eeee.cafe",
+            "url": "https://t.co/HSDw0LVPgr",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 421,
+    "followersCount": 4897,
+    "following": true,
+    "friendsCount": 700,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 22,
+    "location": "Singapore",
+    "mediaCount": 83,
+    "name": "Yo 🔺🔻🔺🔻",
+    "normalFollowersCount": 4897,
+    "pinnedTweetIdsStr": [
+      "1778354427092742381"
+    ],
+    "possiblySensitive": false,
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1763182878362583040/HY8ciap7_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "web3yoyoyo",
+    "statusesCount": 923,
+    "translatorType": "none",
+    "url": "https://t.co/HSDw0LVPgr",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "profileImageShape": "Circle",
+  "restId": "1221331260829683712",
+  "tipjarSettings": {}
+}

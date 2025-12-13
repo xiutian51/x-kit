@@ -1,0 +1,51 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNTc5NDcxMTg0",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": false,
+    "createdAt": "Tue Jul 09 05:06:38 +0000 2013",
+    "defaultProfile": false,
+    "defaultProfileImage": false,
+    "description": "hehehe",
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 10637,
+    "followersCount": 72617,
+    "following": true,
+    "friendsCount": 902,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 68,
+    "location": "United States",
+    "mediaCount": 196,
+    "name": "Caryn Marjorie",
+    "normalFollowersCount": 72617,
+    "pinnedTweetIdsStr": [
+      "1834391024849809699"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1579471184/1731956168",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1858584869699198976/1UTc7zA3_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "cutiecaryn",
+    "statusesCount": 2977,
+    "translatorType": "none",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "profileImageShape": "Circle",
+  "restId": "1579471184",
+  "tipjarSettings": {
+    "cashAppHandle": "",
+    "isEnabled": false
+  }
+}

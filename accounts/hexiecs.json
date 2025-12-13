@@ -1,0 +1,73 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {
+    "label": {
+      "url": {
+        "url": "https://twitter.com/gmgnai",
+        "urlType": "DeepLink"
+      },
+      "badge": {
+        "url": "https://pbs.twimg.com/profile_images/1998601173205659657/8noZT-3I_bigger.jpg"
+      },
+      "description": "GMGN.Ai",
+      "userLabelType": "BusinessLabel",
+      "userLabelDisplayType": "Badge"
+    }
+  },
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxMjM2MTk0MjkwMTAwOTI4NTE0",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": false,
+    "createdAt": "Sat Mar 07 07:37:53 +0000 2020",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "building good tools for the love of the game.",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "gmgn.ai/?ref=XfJFUsPS",
+            "expanded_url": "https://gmgn.ai/?ref=XfJFUsPS",
+            "url": "https://t.co/NeBSmWtBYE",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 4392,
+    "followersCount": 85092,
+    "following": true,
+    "friendsCount": 1404,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 2068,
+    "location": "",
+    "mediaCount": 275,
+    "name": "冷静冷静再冷静",
+    "normalFollowersCount": 85092,
+    "pinnedTweetIdsStr": [],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1236194290100928514/1755320085",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1808852270513278978/U5U08gDs_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "hexiecs",
+    "statusesCount": 2345,
+    "translatorType": "none",
+    "url": "https://t.co/NeBSmWtBYE",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "profileImageShape": "Circle",
+  "restId": "1236194290100928514",
+  "tipjarSettings": {}
+}

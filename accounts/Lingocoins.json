@@ -1,0 +1,62 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNTgwOTUxMzIyNDMzNTUyMzkx",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Fri Oct 14 15:59:12 +0000 2022",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "Building the World's Most Rewarding Token.\n\nLingo is the first RWA-powered rewards ecosystem for the next billion in Web3.",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "linktr.ee/lingocoin",
+            "expanded_url": "https://linktr.ee/lingocoin",
+            "url": "https://t.co/nScUSiLFTl",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 701,
+    "followersCount": 566435,
+    "following": true,
+    "friendsCount": 34,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 438,
+    "location": "",
+    "mediaCount": 235,
+    "name": "Lingo",
+    "normalFollowersCount": 566435,
+    "pinnedTweetIdsStr": [
+      "1867232812731936791"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1580951322433552391/1734343754",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1785507771917668352/D2ADjzf7_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "Lingocoins",
+    "statusesCount": 579,
+    "translatorType": "none",
+    "url": "https://t.co/nScUSiLFTl",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "profileImageShape": "Circle",
+  "restId": "1580951322433552391",
+  "tipjarSettings": {}
+}

@@ -1,0 +1,74 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxMzkxMzA1NzM4NTEzODgzMTQw",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Sun May 09 08:15:22 +0000 2021",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "｜🎙️ Host @day1globalpod, Top Crypto Podcast to CN Community ｜💌 订阅 Newsletter，加入茶水间会员方式点击主页下方 Location👇 ｜🌍 海内存知己，天涯 Ruby 邻 ｜Not Your KOL, NFA",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "linktr.ee/day1global",
+            "expanded_url": "http://linktr.ee/day1global",
+            "url": "https://t.co/aTAD996E0s",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 21439,
+    "followedBy": true,
+    "followersCount": 10822,
+    "following": true,
+    "friendsCount": 1106,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 252,
+    "location": "交流合作→DM / web3brand@gmail.com",
+    "mediaCount": 1220,
+    "name": "RubyWang (天涯 Ruby 邻) @Day1Global",
+    "normalFollowersCount": 10822,
+    "pinnedTweetIdsStr": [
+      "1899981257179824625"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1391305738513883140/1764245917",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1938869661564837890/PUSOaB_k_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "Rubywang",
+    "statusesCount": 16457,
+    "translatorType": "none",
+    "url": "https://t.co/aTAD996E0s",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [
+      {
+        "iconName": "IconBriefcaseStroke",
+        "id": 958,
+        "name": "Entrepreneur"
+      }
+    ],
+    "professionalType": "Creator",
+    "restId": "1605136535980236800"
+  },
+  "profileImageShape": "Circle",
+  "restId": "1391305738513883140",
+  "tipjarSettings": {}
+}

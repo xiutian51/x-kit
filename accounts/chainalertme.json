@@ -1,0 +1,110 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjo3MjQ4ODQzODQ0NzA0NTQyNzY=",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Tue Apr 26 08:54:39 +0000 2016",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "Youtube频道：https://t.co/IKt7ZEv7gF 电报群： https://t.co/sStp1qp9nF 官网：https://t.co/WQL1GrVLLl  APP下载：https://t.co/f5yJyxXjlt",
+    "entities": {
+      "description": {
+        "urls": [
+          {
+            "display_url": "bly.one/ytb",
+            "expanded_url": "https://bly.one/ytb",
+            "url": "https://t.co/IKt7ZEv7gF",
+            "indices": [
+              10,
+              33
+            ]
+          },
+          {
+            "display_url": "bly.one/tg",
+            "expanded_url": "https://bly.one/tg",
+            "url": "https://t.co/sStp1qp9nF",
+            "indices": [
+              39,
+              62
+            ]
+          },
+          {
+            "display_url": "chainalert.me",
+            "expanded_url": "https://chainalert.me",
+            "url": "https://t.co/WQL1GrVLLl",
+            "indices": [
+              66,
+              89
+            ]
+          },
+          {
+            "display_url": "chainalert.me/view/research/…",
+            "expanded_url": "https://chainalert.me/view/research/e0895c",
+            "url": "https://t.co/f5yJyxXjlt",
+            "indices": [
+              97,
+              120
+            ]
+          }
+        ]
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "youtube.com/channel/UCRCJk…",
+            "expanded_url": "https://www.youtube.com/channel/UCRCJkQttdjzJYpbur5Qut6A",
+            "url": "https://t.co/Nl0N5rWzIj",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 210,
+    "followersCount": 13122,
+    "following": true,
+    "friendsCount": 552,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 214,
+    "location": "",
+    "mediaCount": 1670,
+    "name": "Insight财经",
+    "normalFollowersCount": 13122,
+    "pinnedTweetIdsStr": [],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/724884384470454276/1611643707",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1995963605469245441/BJHhft-Z_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "chainalertme",
+    "statusesCount": 5376,
+    "translatorType": "none",
+    "url": "https://t.co/Nl0N5rWzIj",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [
+      {
+        "iconName": "IconBriefcaseStroke",
+        "id": 713,
+        "name": "Science & Technology"
+      }
+    ],
+    "professionalType": "Creator",
+    "restId": "1567319465716744194"
+  },
+  "profileImageShape": "Circle",
+  "restId": "724884384470454276",
+  "tipjarSettings": {
+    "isEnabled": true
+  }
+}

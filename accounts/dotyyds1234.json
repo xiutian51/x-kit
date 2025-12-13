@@ -1,0 +1,48 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNDQ5Mjc0ODc0MzE3MjY2OTQ1",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": false,
+    "createdAt": "Sat Oct 16 07:24:02 +0000 2021",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "瞎几把喊单的，找你接盘的，别买，骂我看不见。",
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 255,
+    "followersCount": 93793,
+    "following": true,
+    "friendsCount": 418,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 2562,
+    "location": "",
+    "mediaCount": 66,
+    "name": "憨巴龙王",
+    "normalFollowersCount": 93793,
+    "pinnedTweetIdsStr": [
+      "1875517860904366363"
+    ],
+    "possiblySensitive": false,
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1944702932022104064/pvb8yhxb_normal.jpg",
+    "profileInterstitialType": "",
+    "_protected": true,
+    "screenName": "dotyyds1234",
+    "statusesCount": 1862,
+    "translatorType": "none",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "profileImageShape": "Circle",
+  "restId": "1449274874317266945",
+  "tipjarSettings": {}
+}

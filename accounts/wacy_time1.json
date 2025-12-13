@@ -1,0 +1,61 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNDEwOTI3Mjk2NjE0MTc4ODE2",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": false,
+    "createdAt": "Fri Jul 02 11:44:27 +0000 2021",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "⋆ 5 perfect all-ins ⋆ Sharing market insights and breaking down narratives before they hit the spotlight",
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 44005,
+    "followersCount": 206984,
+    "following": true,
+    "friendsCount": 448,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 4415,
+    "location": "",
+    "mediaCount": 5747,
+    "name": "AlΞx Wacy 🌐",
+    "normalFollowersCount": 206984,
+    "pinnedTweetIdsStr": [
+      "1812182450501501031"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1410927296614178816/1758565264",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1645048040133210123/gUPtadna_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "wacy_time1",
+    "statusesCount": 22370,
+    "translatorType": "none",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [
+      {
+        "iconName": "IconBriefcaseStroke",
+        "id": 1042,
+        "name": "Content Creator"
+      }
+    ],
+    "professionalType": "Creator",
+    "restId": "1598543517546078208"
+  },
+  "profileImageShape": "Circle",
+  "restId": "1410927296614178816",
+  "tipjarSettings": {
+    "isEnabled": true
+  }
+}

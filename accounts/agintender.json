@@ -1,0 +1,60 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjo5MTMzMjA4NDQ0MTEwMTkyNjU=",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": false,
+    "createdAt": "Thu Sep 28 08:33:52 +0000 2017",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "barista @pundiai Tweets are NFA. Not here to give answers—just vibing through different angles and perspectives. 都是瞎编，笑笑就好",
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 3372,
+    "followersCount": 26226,
+    "following": true,
+    "friendsCount": 868,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 412,
+    "location": "",
+    "mediaCount": 331,
+    "name": "danny",
+    "normalFollowersCount": 26226,
+    "pinnedTweetIdsStr": [],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/913320844411019265/1763048360",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1629854460003614722/WBiNvasr_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "agintender",
+    "statusesCount": 6813,
+    "translatorType": "none",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [
+      {
+        "iconName": "IconBriefcaseStroke",
+        "id": 1009,
+        "name": "Community"
+      }
+    ],
+    "professionalType": "Creator",
+    "restId": "1621054909843132421"
+  },
+  "profileImageShape": "Circle",
+  "restId": "913320844411019265",
+  "superFollowEligible": true,
+  "tipjarSettings": {
+    "isEnabled": true
+  }
+}

@@ -1,0 +1,70 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNTg5MDU0NQ==",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": false,
+    "createdAt": "Mon Aug 18 11:11:15 +0000 2008",
+    "defaultProfile": false,
+    "defaultProfileImage": false,
+    "description": "✴️",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "linktr.ee/nodyoung",
+            "expanded_url": "https://linktr.ee/nodyoung",
+            "url": "https://t.co/nFqgnr4MGD",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 2397,
+    "followersCount": 29379,
+    "following": true,
+    "friendsCount": 43,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 165,
+    "location": "California, USA",
+    "mediaCount": 584,
+    "name": "Nod",
+    "normalFollowersCount": 29379,
+    "pinnedTweetIdsStr": [
+      "1997922513788235864"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/15890545/1750224030",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1935205913083920384/Ot3jWepL_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "NodYoung",
+    "statusesCount": 3566,
+    "translatorType": "none",
+    "url": "https://t.co/nFqgnr4MGD",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [],
+    "professionalType": "Creator",
+    "restId": "1534638500703653888"
+  },
+  "profileImageShape": "Circle",
+  "restId": "15890545",
+  "tipjarSettings": {
+    "isEnabled": true,
+    "venmoHandle": "nod-young"
+  }
+}

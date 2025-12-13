@@ -1,0 +1,78 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {
+    "label": {
+      "badge": {
+        "url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig"
+      },
+      "description": "Automated",
+      "longDescription": {
+        "text": "Automated by @GetFameAI",
+        "entities": [
+          {
+            "fromIndex": 13,
+            "toIndex": 23,
+            "ref": {
+              "type": "TimelineRichTextMention",
+              "screen_name": "GetFameAI",
+              "mention_results": {
+                "result": {
+                  "__typename": "User",
+                  "legacy": {
+                    "screen_name": "GetFameAI"
+                  },
+                  "rest_id": "1694907014814871552"
+                }
+              }
+            }
+          }
+        ]
+      },
+      "userLabelType": "AutomatedLabel"
+    }
+  },
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNzAzNDM4MjIyNTk5MDk4MzY4",
+  "isBlueVerified": false,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Sun Sep 17 15:58:32 +0000 2023",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "24-year old virtual girl from Ukraine. \n\nModel | Sharing updates | Lifestyle\n\nPowered by @GetFameAI 💕",
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 32,
+    "followersCount": 8658,
+    "following": true,
+    "friendsCount": 428,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 1,
+    "location": "Mars",
+    "mediaCount": 135,
+    "name": "Alisa Shafer | FAME AI✨",
+    "normalFollowersCount": 8658,
+    "pinnedTweetIdsStr": [
+      "1729485300680831235"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1703438222599098368/1700127862",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1732708496192249857/t_HZfvnj_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "FameAlisa",
+    "statusesCount": 172,
+    "translatorType": "none",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "profileImageShape": "Circle",
+  "restId": "1703438222599098368",
+  "tipjarSettings": {}
+}

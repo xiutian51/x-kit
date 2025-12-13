@@ -1,0 +1,64 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxMzkxMTg3ODc5NzA4MTY4MTkz",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": false,
+    "createdAt": "Sun May 09 00:27:02 +0000 2021",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "量价趋势选手7K-7M｜25年9月 11月 Bn By聪明钱第一｜25年7月Bn聪明钱第二3800%",
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 14850,
+    "followedBy": true,
+    "followersCount": 42973,
+    "following": true,
+    "friendsCount": 123,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 811,
+    "location": "",
+    "mediaCount": 2865,
+    "name": "ye.koi✌️",
+    "normalFollowersCount": 42973,
+    "notifications": true,
+    "pinnedTweetIdsStr": [
+      "1971921133864894881"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1391187879708168193/1745817324",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1914851833488793600/lYA5wGjP_normal.jpg",
+    "profileInterstitialType": "",
+    "_protected": true,
+    "screenName": "yekoikoi",
+    "statusesCount": 17174,
+    "translatorType": "none",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [
+      {
+        "iconName": "IconBriefcaseStroke",
+        "id": 192,
+        "name": "Financial Services"
+      }
+    ],
+    "professionalType": "Creator",
+    "restId": "1707057635361775617"
+  },
+  "profileImageShape": "Circle",
+  "restId": "1391187879708168193",
+  "tipjarSettings": {
+    "isEnabled": true
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxMDc1NzA3NDUy",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": false,
+    "createdAt": "Thu Jan 10 05:05:11 +0000 2013",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "Early Projects and Narratives | Simple Defi on napkins | Delta-Neutral enjoyer | Prediction Markets reviews",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "t.me/richie_alpha",
+            "expanded_url": "https://t.me/richie_alpha",
+            "url": "https://t.co/itYhEt4R12",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 30490,
+    "followersCount": 8530,
+    "following": true,
+    "friendsCount": 1663,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 403,
+    "location": "t.me/doges_lens",
+    "mediaCount": 2171,
+    "name": "Richie | Doges.lens ⌐◨-◨",
+    "normalFollowersCount": 8530,
+    "pinnedTweetIdsStr": [
+      "1965371423012049232"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1075707452/1679148385",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1905012648279998464/UErvSxnc_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "twindoges",
+    "statusesCount": 15684,
+    "translatorType": "none",
+    "url": "https://t.co/itYhEt4R12",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [
+      {
+        "iconName": "IconBriefcaseStroke",
+        "id": 192,
+        "name": "Financial Services"
+      }
+    ],
+    "professionalType": "Creator",
+    "restId": "1629248258013896706"
+  },
+  "profileImageShape": "Circle",
+  "restId": "1075707452",
+  "tipjarSettings": {
+    "bitcoinHandle": "1GFr2d2VMyCkhmhWmJWyeBRNeoADRQMZcZ",
+    "ethereumHandle": "0x44F72D71F499907002e9620CA42e1FE88fBFAA3E",
+    "isEnabled": true
+  }
+}

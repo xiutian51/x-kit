@@ -1,0 +1,60 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNDgzNDk1NDg1ODg5NTY0Njc0",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Tue Jan 18 17:44:21 +0000 2022",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "Fast⚡️ and alpha-only 🚀 crypto news source that you don't wanna miss. 你不想错过的【快人一步信息差】，速度最快且专注于【实时市场Alpha】的精简信息流。",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "linktr.ee/BWEnews",
+            "expanded_url": "https://linktr.ee/BWEnews",
+            "url": "https://t.co/QrvFiVsVbS",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 224,
+    "followersCount": 100380,
+    "following": true,
+    "friendsCount": 6,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 1575,
+    "location": "Switzerland",
+    "mediaCount": 250,
+    "name": "方程式新闻 BWEnews 🏎️",
+    "normalFollowersCount": 100380,
+    "pinnedTweetIdsStr": [],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1483495485889564674/1649004720",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1913609377908690944/KW6VCe3D_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "bwenews",
+    "statusesCount": 13482,
+    "translatorType": "none",
+    "url": "https://t.co/QrvFiVsVbS",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "profileImageShape": "Circle",
+  "restId": "1483495485889564674",
+  "tipjarSettings": {}
+}

@@ -1,0 +1,74 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {
+    "label": {
+      "url": {
+        "url": "https://twitter.com/0G_labs",
+        "urlType": "DeepLink"
+      },
+      "badge": {
+        "url": "https://pbs.twimg.com/profile_images/1975040753731809281/SCpBiuJZ_bigger.png"
+      },
+      "description": "0G Labs (Home of Infinite AI)",
+      "userLabelType": "BusinessLabel",
+      "userLabelDisplayType": "Badge"
+    }
+  },
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxMjQyMTIyNzI5NTU1MjkyMTYx",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Mon Mar 23 16:15:18 +0000 2020",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "#NFT enthusiast @doodles OG | @arcthecommunity Stellar | @0G_labs 华语负责人",
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 4583,
+    "followersCount": 18347,
+    "following": true,
+    "friendsCount": 8298,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 260,
+    "location": "Sydney",
+    "mediaCount": 465,
+    "name": "Jtsong.eth (Ø,G)",
+    "normalFollowersCount": 18347,
+    "pinnedTweetIdsStr": [
+      "1964734657423101998"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1242122729555292161/1749812803",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1991552049633456134/kX8PQF9f_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "Jtsong2",
+    "statusesCount": 11426,
+    "translatorType": "none",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [
+      {
+        "iconName": "IconBriefcaseStroke",
+        "id": 1094,
+        "name": "Blockchain"
+      }
+    ],
+    "professionalType": "Business",
+    "restId": "1493211367402516480"
+  },
+  "profileImageShape": "Circle",
+  "restId": "1242122729555292161",
+  "tipjarSettings": {
+    "isEnabled": true
+  }
+}

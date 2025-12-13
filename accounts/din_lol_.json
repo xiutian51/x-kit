@@ -1,0 +1,67 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNDQ4MjE2MDczODYyNDY3NTkw",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": false,
+    "createdAt": "Wed Oct 13 09:16:58 +0000 2021",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "The AI Blockchain; we build infra for AI Agents and AI dApps. X by @Foundation_DIN",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "linktr.ee/din_lol",
+            "expanded_url": "https://linktr.ee/din_lol",
+            "url": "https://t.co/dtxwxms3lS",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 2560,
+    "followersCount": 313122,
+    "following": true,
+    "friendsCount": 482,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 328,
+    "location": "⏳",
+    "mediaCount": 1216,
+    "name": "DIN⏳",
+    "normalFollowersCount": 313122,
+    "pinnedTweetIdsStr": [
+      "1966157449397940251"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1448216073862467590/1744080767",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1944574669287202816/ZWV52RGg_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "din_lol_",
+    "statusesCount": 4336,
+    "translatorType": "none",
+    "url": "https://t.co/dtxwxms3lS",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [],
+    "professionalType": "Creator",
+    "restId": "1459792504988250117"
+  },
+  "profileImageShape": "Circle",
+  "restId": "1448216073862467590",
+  "tipjarSettings": {}
+}

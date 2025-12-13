@@ -1,0 +1,73 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {
+    "label": {
+      "url": {
+        "url": "https://twitter.com/Strategy",
+        "urlType": "DeepLink"
+      },
+      "badge": {
+        "url": "https://pbs.twimg.com/profile_images/1934639177988988928/2vBrUjDh_bigger.png"
+      },
+      "description": "Strategy",
+      "userLabelType": "BusinessLabel",
+      "userLabelDisplayType": "Badge"
+    }
+  },
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNDg4MzI0Ng==",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Fri May 23 16:05:19 +0000 2008",
+    "defaultProfile": false,
+    "defaultProfileImage": false,
+    "description": "Software branch of @Strategy. We build Strategy Mosaic, the enterprise semantic layer powering trusted, governed data for every BI tool, app, and AI agent.",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "strategysoftware.com",
+            "expanded_url": "http://www.strategysoftware.com",
+            "url": "https://t.co/plh6MrV8fB",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 6687,
+    "followersCount": 298951,
+    "following": true,
+    "friendsCount": 3118,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 2236,
+    "location": "Tysons Corner, VA",
+    "mediaCount": 3827,
+    "name": "Strategy",
+    "normalFollowersCount": 298951,
+    "pinnedTweetIdsStr": [],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/14883246/1760563665",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1887205524405436416/WafAVN_m_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "MicroStrategy",
+    "statusesCount": 13410,
+    "translatorType": "none",
+    "url": "https://t.co/plh6MrV8fB",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "profileImageShape": "Circle",
+  "restId": "14883246",
+  "tipjarSettings": {}
+}

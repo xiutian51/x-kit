@@ -1,0 +1,91 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {
+    "label": {
+      "url": {
+        "url": "https://twitter.com/okx",
+        "urlType": "DeepLink"
+      },
+      "badge": {
+        "url": "https://pbs.twimg.com/profile_images/1968722816154345472/vEj4j3o9_bigger.jpg"
+      },
+      "description": "OKX",
+      "userLabelType": "BusinessLabel",
+      "userLabelDisplayType": "Badge"
+    }
+  },
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNTU0Njc5NDI1MDQzOTQzNDI0",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Wed Aug 03 04:04:04 +0000 2022",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "Web3 入口，一个就够！ \n加入社群：https://t.co/v6XAyVJALQ",
+    "entities": {
+      "description": {
+        "urls": [
+          {
+            "display_url": "t.me/OKXWallet_CN",
+            "expanded_url": "https://t.me/OKXWallet_CN",
+            "url": "https://t.co/v6XAyVJALQ",
+            "indices": [
+              20,
+              43
+            ]
+          }
+        ]
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "web3.okx.com",
+            "expanded_url": "https://web3.okx.com/",
+            "url": "https://t.co/Cfg0hpvZcj",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 596,
+    "followersCount": 126782,
+    "following": true,
+    "friendsCount": 208,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 320,
+    "location": "",
+    "mediaCount": 1814,
+    "name": "OKX Wallet 中文",
+    "normalFollowersCount": 126782,
+    "pinnedTweetIdsStr": [
+      "1999030140039279096"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1554679425043943424/1741658151",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1874703336097894400/NDM4e6IQ_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "OKXWallet_CN",
+    "statusesCount": 3026,
+    "translatorType": "none",
+    "url": "https://t.co/Cfg0hpvZcj",
+    "verified": false,
+    "verifiedType": "Business",
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [],
+    "professionalType": "Business",
+    "restId": "1595017927950209024"
+  },
+  "profileImageShape": "Square",
+  "restId": "1554679425043943424",
+  "tipjarSettings": {}
+}

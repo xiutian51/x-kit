@@ -1,0 +1,76 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {
+    "label": {
+      "url": {
+        "url": "https://twitter.com/Chain_GPT",
+        "urlType": "DeepLink"
+      },
+      "badge": {
+        "url": "https://pbs.twimg.com/profile_images/1996231365226885120/nvg2aS5W_bigger.jpg"
+      },
+      "description": "ChainGPT",
+      "userLabelType": "BusinessLabel",
+      "userLabelDisplayType": "Badge"
+    }
+  },
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxMjcyNDcwMzk3MTc5NTY0MDMy",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Mon Jun 15 10:06:08 +0000 2020",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "Web 3.0 AI execution protocol\nAI Layer for Web3 with a goal of onboarding 100 Million users.\nPowered by $GTAI token.\nIncubated by @Chain_GPT",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "gt-protocol.io",
+            "expanded_url": "https://www.gt-protocol.io/",
+            "url": "https://t.co/aNyIKk2u8M",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 514,
+    "followersCount": 365105,
+    "following": true,
+    "friendsCount": 170,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 184,
+    "location": "",
+    "mediaCount": 936,
+    "name": "GT Protocol",
+    "normalFollowersCount": 365105,
+    "pinnedTweetIdsStr": [
+      "1980964648754073779"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1272470397179564032/1703884944",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1836666788127379456/6mL1KSNR_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "GT_Protocol",
+    "statusesCount": 1435,
+    "translatorType": "none",
+    "url": "https://t.co/aNyIKk2u8M",
+    "verified": false,
+    "verifiedType": "Business",
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "profileImageShape": "Square",
+  "restId": "1272470397179564032",
+  "tipjarSettings": {}
+}

@@ -1,0 +1,75 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {
+    "label": {
+      "url": {
+        "url": "https://twitter.com/MorphNetwork",
+        "urlType": "DeepLink"
+      },
+      "badge": {
+        "url": "https://pbs.twimg.com/profile_images/1993524099218391040/VPfT_A46_bigger.jpg"
+      },
+      "description": "Morph",
+      "userLabelType": "BusinessLabel",
+      "userLabelDisplayType": "Badge"
+    }
+  },
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxODAxNDU3Njg0MzI5NDE0NjU4",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Fri Jun 14 03:33:15 +0000 2024",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "@MorphNetwork 💚 \n\n$BGB 的原生家园 🩵 \n为全球数字用户打造的链上消费金融层",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "linktr.ee/Morph_Layer",
+            "expanded_url": "https://linktr.ee/Morph_Layer",
+            "url": "https://t.co/x0XCStbQDc",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 3016,
+    "followersCount": 12423,
+    "following": true,
+    "friendsCount": 323,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 28,
+    "location": "加入社区: https://t.me/MorphGlobal",
+    "mediaCount": 734,
+    "name": "Morph 中文",
+    "normalFollowersCount": 12423,
+    "pinnedTweetIdsStr": [
+      "1990780226222104632"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1801457684329414658/1764312149",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1994295806535532544/yrgaZftM_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "Morph_ZH",
+    "statusesCount": 2358,
+    "translatorType": "none",
+    "url": "https://t.co/x0XCStbQDc",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "profileImageShape": "Circle",
+  "restId": "1801457684329414658",
+  "tipjarSettings": {}
+}

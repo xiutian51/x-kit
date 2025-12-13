@@ -1,0 +1,50 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNDM0NzcwNjA4NTIxMzcxNjUy",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": false,
+    "canMediaTag": false,
+    "createdAt": "Mon Sep 06 06:49:11 +0000 2021",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "Artist",
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 71764,
+    "followersCount": 41304,
+    "following": true,
+    "friendsCount": 1892,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 157,
+    "location": "Swamp",
+    "mediaCount": 7120,
+    "name": "Kero",
+    "normalFollowersCount": 41304,
+    "pinnedTweetIdsStr": [],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1434770608521371652/1753365330",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1681777814926766080/2NgQaPbr_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "KeroNFTs",
+    "statusesCount": 45451,
+    "translatorType": "none",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "profileImageShape": "Circle",
+  "restId": "1434770608521371652",
+  "tipjarSettings": {
+    "bitcoinHandle": "1P3KQWLsTPXVWimiF2Q6WSES5vbJE8be5i",
+    "ethereumHandle": "0xf22F5a1769080c59cE09016bA7561219Cb88a17f",
+    "isEnabled": true
+  }
+}

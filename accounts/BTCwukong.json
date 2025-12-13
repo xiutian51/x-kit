@@ -1,0 +1,86 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNDYwNTg2NjE0NDQ3NDc2NzQw",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Tue Nov 16 12:33:43 +0000 2021",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "资讯第一站，绝对信息差～ 独立思考 #Binance 你的数字货币购买/交易平台，就是 #币安永久返佣 https://t.co/LV4pCKgOUg",
+    "entities": {
+      "description": {
+        "urls": [
+          {
+            "display_url": "accounts.binance.me/zh-CN/register…",
+            "expanded_url": "https://accounts.binance.me/zh-CN/register?ref=VBVFCY62",
+            "url": "https://t.co/LV4pCKgOUg",
+            "indices": [
+              52,
+              75
+            ]
+          }
+        ]
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "partner.hdmune.cn/bg/p64ug4g7",
+            "expanded_url": "https://partner.hdmune.cn/bg/p64ug4g7",
+            "url": "https://t.co/FPTHWiInK8",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 25256,
+    "followersCount": 201158,
+    "following": true,
+    "friendsCount": 1119,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 937,
+    "location": "专属合约分析群私信TG:BTCWKK",
+    "mediaCount": 686,
+    "name": "比特币悟空 (多头)",
+    "normalFollowersCount": 201158,
+    "pinnedTweetIdsStr": [
+      "1671546530099249153"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1460586614447476740/1651558124",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1625764968225472512/fnD6If6O_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "BTCwukong",
+    "statusesCount": 5336,
+    "translatorType": "none",
+    "url": "https://t.co/FPTHWiInK8",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [
+      {
+        "iconName": "IconBriefcaseStroke",
+        "id": 192,
+        "name": "Financial Services"
+      }
+    ],
+    "professionalType": "Creator",
+    "restId": "1460591035881377794"
+  },
+  "profileImageShape": "Circle",
+  "restId": "1460586614447476740",
+  "tipjarSettings": {
+    "ethereumHandle": "0xB8897CB0284821bD78d2C671E7E59A9677741d14",
+    "isEnabled": false
+  }
+}

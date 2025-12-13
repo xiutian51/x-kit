@@ -1,0 +1,75 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxMzgzODAyMDU4NjI1NjA5NzQw",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": false,
+    "createdAt": "Sun Apr 18 15:18:39 +0000 2021",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "Trader / #Crypto Investor since 2017 ♤  / #Binance KOL",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "t.me/CryptoKnightTe…",
+            "expanded_url": "http://t.me/CryptoKnightTelegram",
+            "url": "https://t.co/J0Nyk42psh",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 40201,
+    "followersCount": 486097,
+    "following": true,
+    "friendsCount": 680,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 553,
+    "location": "",
+    "mediaCount": 10870,
+    "name": "$SHIB KNIGHT",
+    "normalFollowersCount": 486097,
+    "pinnedTweetIdsStr": [],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1383802058625609740/1739861869",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1816418292812197888/ItW68YdW_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "army_shiba",
+    "statusesCount": 32236,
+    "translatorType": "none",
+    "url": "https://t.co/J0Nyk42psh",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [
+      {
+        "iconName": "IconBriefcaseStroke",
+        "id": 958,
+        "name": "Entrepreneur"
+      }
+    ],
+    "professionalType": "Creator",
+    "restId": "1770007728448065556"
+  },
+  "profileImageShape": "Circle",
+  "restId": "1383802058625609740",
+  "superFollowEligible": true,
+  "tipjarSettings": {
+    "ethereumHandle": "0xc52211fcA0D94dFfaA96F972C647B3A5b0d81F52",
+    "isEnabled": false
+  }
+}

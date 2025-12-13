@@ -1,0 +1,62 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjo5MTc2NzczODc0Nzg4MzUyMDA=",
+  "isBlueVerified": false,
+  "legacy": {
+    "canDm": false,
+    "canMediaTag": true,
+    "createdAt": "Tue Oct 10 09:05:13 +0000 2017",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "Partner@Cycle Capital#No financial advice. 不作投资建议。",
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 126,
+    "followersCount": 50243,
+    "following": true,
+    "friendsCount": 542,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 928,
+    "location": "Hong Kong",
+    "mediaCount": 540,
+    "name": "Joy Lou",
+    "normalFollowersCount": 50243,
+    "pinnedTweetIdsStr": [
+      "1946594947899256918"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/917677387478835200/1540328821",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1624041453100867585/a-4qIkoG_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "Joylou1209",
+    "statusesCount": 3309,
+    "translatorType": "none",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [
+      {
+        "iconName": "IconBriefcaseStroke",
+        "id": 1094,
+        "name": "Blockchain"
+      }
+    ],
+    "professionalType": "Business",
+    "restId": "1634360272361230337"
+  },
+  "profileImageShape": "Circle",
+  "restId": "917677387478835200",
+  "tipjarSettings": {
+    "ethereumHandle": "0x1fB2d8aF6a43387608E3F57004271E5C804F0345",
+    "isEnabled": true
+  }
+}

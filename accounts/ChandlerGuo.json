@@ -1,0 +1,76 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjo3Mzk5NDg2NDU=",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": false,
+    "createdAt": "Mon Aug 06 05:53:22 +0000 2012",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "bitcoin will $500000 in next 4 years 我微信号13935402564 我没有小号 所有QQ 钉钉 X私信 让你投资USDT的都是诈骗 见到直接举报",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "linktr.ee/chandler_guo",
+            "expanded_url": "https://linktr.ee/chandler_guo",
+            "url": "https://t.co/kHjWoeC5gt",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 82,
+    "followersCount": 207682,
+    "following": true,
+    "friendsCount": 3021,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 1211,
+    "location": "Los Gatos, CA",
+    "mediaCount": 2285,
+    "name": "ChandlerGuo 郭宏才 宝二爷",
+    "normalFollowersCount": 207682,
+    "pinnedTweetIdsStr": [
+      "1986256555210383404"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/739948645/1754229202",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1589141652198694912/tweqsURL_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "ChandlerGuo",
+    "statusesCount": 5307,
+    "translatorType": "none",
+    "url": "https://t.co/kHjWoeC5gt",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [
+      {
+        "iconName": "IconBriefcaseStroke",
+        "id": 1094,
+        "name": "Blockchain"
+      }
+    ],
+    "professionalType": "Creator",
+    "restId": "1577519832316071936"
+  },
+  "profileImageShape": "Circle",
+  "restId": "739948645",
+  "superFollowEligible": true,
+  "tipjarSettings": {
+    "isEnabled": true
+  }
+}

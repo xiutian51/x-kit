@@ -1,0 +1,71 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNTE1MjUzMDE4NzY1MDU4MDQ4",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": false,
+    "canMediaTag": true,
+    "createdAt": "Sat Apr 16 08:57:37 +0000 2022",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "We help transformational founders build the #NextGenInternet",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "ABCDE.com",
+            "expanded_url": "http://ABCDE.com",
+            "url": "https://t.co/FlOyJNfhCT",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 492,
+    "followersCount": 15605,
+    "following": true,
+    "friendsCount": 41,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 191,
+    "location": "Singapore",
+    "mediaCount": 187,
+    "name": "ABCDE",
+    "normalFollowersCount": 15605,
+    "pinnedTweetIdsStr": [],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1515253018765058048/1725937614",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1833341559917711360/Rbi58DfL_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "ABCDELabs",
+    "statusesCount": 490,
+    "translatorType": "none",
+    "url": "https://t.co/FlOyJNfhCT",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [
+      {
+        "iconName": "IconBriefcaseStroke",
+        "id": 199,
+        "name": "Investment Company"
+      }
+    ],
+    "professionalType": "Business",
+    "restId": "1526288513469014016"
+  },
+  "profileImageShape": "Circle",
+  "restId": "1515253018765058048",
+  "tipjarSettings": {}
+}

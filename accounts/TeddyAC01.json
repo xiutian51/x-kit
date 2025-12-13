@@ -1,0 +1,59 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjo5ODY0NTM4NzM5MDc3ODE2MzQ=",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Wed Apr 18 03:58:25 +0000 2018",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "ACcapital founding partner\n破产，已婚，阳痿，直男，大男子主义",
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 856,
+    "followersCount": 22545,
+    "following": true,
+    "friendsCount": 687,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 211,
+    "location": "People's Republic of China",
+    "mediaCount": 214,
+    "name": "Teddy郑皓升",
+    "normalFollowersCount": 22545,
+    "pinnedTweetIdsStr": [
+      "1817490845081424001"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/986453873907781634/1651997109",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1647831513495670784/lmGli1UZ_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "TeddyAC01",
+    "statusesCount": 2653,
+    "translatorType": "none",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [
+      {
+        "iconName": "IconBriefcaseStroke",
+        "id": 192,
+        "name": "Financial Services"
+      }
+    ],
+    "professionalType": "Creator",
+    "restId": "1767405913730953309"
+  },
+  "profileImageShape": "Circle",
+  "restId": "986453873907781634",
+  "tipjarSettings": {}
+}

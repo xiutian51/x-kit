@@ -1,0 +1,75 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {
+    "label": {
+      "url": {
+        "url": "https://twitter.com/nillion",
+        "urlType": "DeepLink"
+      },
+      "badge": {
+        "url": "https://pbs.twimg.com/profile_images/1464770850293534720/AdOJJAHw_bigger.jpg"
+      },
+      "description": "Nillion",
+      "userLabelType": "BusinessLabel",
+      "userLabelDisplayType": "Badge"
+    }
+  },
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxMDk1Nzk3NzM=",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": false,
+    "canMediaTag": true,
+    "createdAt": "Fri Jan 29 14:57:46 +0000 2010",
+    "defaultProfile": false,
+    "defaultProfileImage": false,
+    "description": "Co-Founder and Chief Scientist of @nillion and @nillionlabs",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "nillion.com",
+            "expanded_url": "http://www.nillion.com",
+            "url": "https://t.co/tKp8gzdqws",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 1373,
+    "followersCount": 7437,
+    "following": true,
+    "friendsCount": 1747,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 76,
+    "location": "",
+    "mediaCount": 45,
+    "name": "Miguel de Vega",
+    "normalFollowersCount": 7437,
+    "pinnedTweetIdsStr": [
+      "1677076460782198789"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/109579773/1701687752",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1677976763614339072/nnX2eO09_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "miguel_de_vega",
+    "statusesCount": 550,
+    "translatorType": "none",
+    "url": "https://t.co/tKp8gzdqws",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "profileImageShape": "Circle",
+  "restId": "109579773",
+  "tipjarSettings": {}
+}

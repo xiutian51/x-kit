@@ -1,0 +1,71 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjo4NTUxMjE3MjQ1NTUyMjMwNDA=",
+  "isBlueVerified": false,
+  "legacy": {
+    "canDm": false,
+    "canMediaTag": false,
+    "createdAt": "Thu Apr 20 18:11:21 +0000 2017",
+    "defaultProfile": false,
+    "defaultProfileImage": false,
+    "description": "老雷｜投資人🇨🇦",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "youtube.com/@TheMarketMemo",
+            "expanded_url": "https://youtube.com/@TheMarketMemo",
+            "url": "https://t.co/LWwJW3RQCN",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 1492,
+    "followersCount": 72784,
+    "following": true,
+    "friendsCount": 8,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 1077,
+    "location": "",
+    "mediaCount": 3910,
+    "name": "LEI",
+    "normalFollowersCount": 72784,
+    "pinnedTweetIdsStr": [
+      "1874563849837580679"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/855121724555223040/1689220864",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1679329277660246017/Vvk10ATc_normal.jpg",
+    "profileInterstitialType": "",
+    "_protected": true,
+    "screenName": "TheMarketMemo",
+    "statusesCount": 8936,
+    "translatorType": "none",
+    "url": "https://t.co/LWwJW3RQCN",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [],
+    "professionalType": "Creator",
+    "restId": "1582641146534432770"
+  },
+  "profileImageShape": "Circle",
+  "restId": "855121724555223040",
+  "tipjarSettings": {
+    "isEnabled": false,
+    "patreonHandle": ""
+  }
+}

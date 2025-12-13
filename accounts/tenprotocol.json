@@ -1,0 +1,68 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNDQxNjg3OTE3OTMyMzg0MjY2",
+  "isBlueVerified": false,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Sat Sep 25 08:56:34 +0000 2021",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "The privacy L2 for Ethereum. Powered by TEEs. Built for the new internet.",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "link3.to/ten",
+            "expanded_url": "https://link3.to/ten",
+            "url": "https://t.co/qbuHNvPnLb",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 7409,
+    "followersCount": 157489,
+    "following": true,
+    "friendsCount": 89,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 314,
+    "location": "TEE",
+    "mediaCount": 553,
+    "name": "TEN (🔟/🔟)",
+    "normalFollowersCount": 157489,
+    "pinnedTweetIdsStr": [
+      "1994028685171806685"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1441687917932384266/1763975389",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1948670923596234752/CjzIhnby_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "tenprotocol",
+    "statusesCount": 2634,
+    "translatorType": "none",
+    "url": "https://t.co/qbuHNvPnLb",
+    "verified": false,
+    "verifiedType": "Business",
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [],
+    "professionalType": "Business",
+    "restId": "1562460713419157504"
+  },
+  "profileImageShape": "Square",
+  "restId": "1441687917932384266",
+  "tipjarSettings": {}
+}

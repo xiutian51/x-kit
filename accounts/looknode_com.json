@@ -1,0 +1,61 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjo5MzY0ODMwMjA0ODczMjc3NDY=",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": false,
+    "canMediaTag": true,
+    "createdAt": "Fri Dec 01 06:32:05 +0000 2017",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "The Data Hub of the #Bitcoin | On-chain Data, Derivatives Data, Market Data.    \n\nNot investment advice.\n\n#Bitcoin  #ETH",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "looknode.com",
+            "expanded_url": "https://www.looknode.com/",
+            "url": "https://t.co/89f9oZiSSk",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 1708,
+    "followersCount": 3621,
+    "following": true,
+    "friendsCount": 30,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 113,
+    "location": "Singapore",
+    "mediaCount": 442,
+    "name": "Looknode",
+    "normalFollowersCount": 3621,
+    "notifications": true,
+    "pinnedTweetIdsStr": [],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/936483020487327746/1663073820",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1569671480878993409/M80jlGey_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "looknode_com",
+    "statusesCount": 1231,
+    "translatorType": "none",
+    "url": "https://t.co/89f9oZiSSk",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "profileImageShape": "Circle",
+  "restId": "936483020487327746",
+  "tipjarSettings": {}
+}

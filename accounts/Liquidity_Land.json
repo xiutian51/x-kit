@@ -1,0 +1,62 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNTI5NzAyOTY3MzM4NzU0MDQ4",
+  "isBlueVerified": false,
+  "legacy": {
+    "canDm": false,
+    "canMediaTag": false,
+    "createdAt": "Thu May 26 05:56:40 +0000 2022",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "Portal to a higher Yield. \n\nGet 15-50% higher rewards for staking and airdrop in Tier1 protocols. Working directly.",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "linktr.ee/Liquidity.Land",
+            "expanded_url": "https://linktr.ee/Liquidity.Land",
+            "url": "https://t.co/mRQ1wVniiV",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 6419,
+    "followersCount": 4997,
+    "following": true,
+    "friendsCount": 1514,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 13,
+    "location": "",
+    "mediaCount": 111,
+    "name": "Liquidity.Land",
+    "normalFollowersCount": 4997,
+    "pinnedTweetIdsStr": [
+      "1861389230238285962"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1529702967338754048/1737583256",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1882187259924856832/gsq7zCFt_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "Liquidity_Land",
+    "statusesCount": 2340,
+    "translatorType": "none",
+    "url": "https://t.co/mRQ1wVniiV",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "profileImageShape": "Circle",
+  "restId": "1529702967338754048",
+  "tipjarSettings": {}
+}

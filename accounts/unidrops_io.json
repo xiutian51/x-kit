@@ -1,0 +1,81 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxODQ5NjUxNDc3",
+  "isBlueVerified": false,
+  "legacy": {
+    "canDm": false,
+    "canMediaTag": true,
+    "createdAt": "Mon Sep 09 22:33:38 +0000 2013",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "致力于区块链基础教育，专注空投、DeFi挖矿、套利、打新的培训。\n\n学习链上挖矿：https://t.co/6SueGQR2zo",
+    "entities": {
+      "description": {
+        "urls": [
+          {
+            "display_url": "docs.unidrops.io",
+            "expanded_url": "https://docs.unidrops.io/",
+            "url": "https://t.co/6SueGQR2zo",
+            "indices": [
+              41,
+              64
+            ]
+          }
+        ]
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "unidrops.io",
+            "expanded_url": "https://www.unidrops.io",
+            "url": "https://t.co/5tiAD1XPen",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 13,
+    "followersCount": 1130,
+    "following": true,
+    "friendsCount": 103,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 28,
+    "location": "",
+    "mediaCount": 84,
+    "name": "Unidrops 🦅🟠$FF",
+    "normalFollowersCount": 1130,
+    "pinnedTweetIdsStr": [],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1849651477/1713789646",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1782389071106789376/rHq2oeWT_normal.png",
+    "profileInterstitialType": "",
+    "screenName": "unidrops_io",
+    "statusesCount": 174,
+    "translatorType": "none",
+    "url": "https://t.co/5tiAD1XPen",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [
+      {
+        "iconName": "IconBriefcaseStroke",
+        "id": 1094,
+        "name": "Blockchain"
+      }
+    ],
+    "professionalType": "Creator",
+    "restId": "1905964252579742204"
+  },
+  "profileImageShape": "Circle",
+  "restId": "1849651477",
+  "tipjarSettings": {}
+}

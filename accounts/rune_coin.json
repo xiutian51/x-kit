@@ -1,0 +1,48 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNzQ4MDIwNTk4MzI2ODIwODY0",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Thu Jan 18 16:33:10 +0000 2024",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "Good luck, and enjoy the game.",
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 666,
+    "followersCount": 307745,
+    "following": true,
+    "friendsCount": 1,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 501,
+    "location": "SUPPLY = 21B",
+    "mediaCount": 118,
+    "name": "Runecoin ▣⛏️",
+    "normalFollowersCount": 307745,
+    "pinnedTweetIdsStr": [
+      "1903382536538992654"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1748020598326820864/1705881542",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1781051819482914816/ZLt6h3WH_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "rune_coin",
+    "statusesCount": 668,
+    "translatorType": "none",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "profileImageShape": "Circle",
+  "restId": "1748020598326820864",
+  "tipjarSettings": {}
+}

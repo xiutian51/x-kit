@@ -1,0 +1,60 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjo3NzU1ODAzNDc5NDk5MTYxNjE=",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Tue Sep 13 06:22:19 +0000 2016",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "擅长胡说八道 NFA｜INTP 和AI交流比人多｜ex PM @OKX",
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 187,
+    "followedBy": true,
+    "followersCount": 160,
+    "following": true,
+    "friendsCount": 1061,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 2,
+    "location": "Singapore",
+    "mediaCount": 34,
+    "name": "Mayson",
+    "normalFollowersCount": 160,
+    "pinnedTweetIdsStr": [],
+    "possiblySensitive": true,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/775580347949916161/1743039159",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1905285557640630274/YHe_4GhD_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "Mohan_6",
+    "statusesCount": 346,
+    "translatorType": "none",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [
+      {
+        "iconName": "IconBriefcaseStroke",
+        "id": 962,
+        "name": "Mobile Application"
+      }
+    ],
+    "professionalType": "Creator",
+    "restId": "1532816737640783872"
+  },
+  "profileImageShape": "Circle",
+  "restId": "775580347949916161",
+  "tipjarSettings": {
+    "isEnabled": true
+  }
+}

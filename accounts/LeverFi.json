@@ -1,0 +1,65 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNDk5MTMxNzQ5ODQxODU4NTY2",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Wed Mar 02 21:17:28 +0000 2022",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "Decentralized AI infrastructure that powers next-gen AI agents across blockchains.",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "bit.ly/LeverFi-Twitter",
+            "expanded_url": "https://bit.ly/LeverFi-Twitter",
+            "url": "https://t.co/aZO7pM2b8B",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 425,
+    "followersCount": 26131,
+    "following": true,
+    "friendsCount": 52,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 199,
+    "location": "on the ledger",
+    "mediaCount": 146,
+    "name": "LeverFi",
+    "normalFollowersCount": 26131,
+    "pinnedTweetIdsStr": [],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1499131749841858566/1749732754",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1514224753376370695/WI72SpBl_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "LeverFi",
+    "statusesCount": 2967,
+    "translatorType": "none",
+    "url": "https://t.co/aZO7pM2b8B",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [],
+    "professionalType": "Business",
+    "restId": "1573177814458564609"
+  },
+  "profileImageShape": "Circle",
+  "restId": "1499131749841858566",
+  "tipjarSettings": {}
+}

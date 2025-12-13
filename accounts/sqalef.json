@@ -1,0 +1,67 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNTAzNzM2NDU=",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Mon May 31 19:38:40 +0000 2010",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "speculator, participant of markets, chaotic neutral",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "app.hyperliquid.xyz/join/WALEF",
+            "expanded_url": "https://app.hyperliquid.xyz/join/WALEF",
+            "url": "https://t.co/X2OTJLtNEP",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 82493,
+    "followersCount": 3871,
+    "following": true,
+    "friendsCount": 3014,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 70,
+    "location": "",
+    "mediaCount": 838,
+    "name": "Sqalef",
+    "normalFollowersCount": 3871,
+    "pinnedTweetIdsStr": [
+      "1972082117300666457"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/150373645/1759184945",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1972475871089905664/AhOXGm0C_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "sqalef",
+    "statusesCount": 8824,
+    "translatorType": "none",
+    "url": "https://t.co/X2OTJLtNEP",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [],
+    "professionalType": "Creator",
+    "restId": "1473031566955888646"
+  },
+  "profileImageShape": "Circle",
+  "restId": "150373645",
+  "tipjarSettings": {}
+}

@@ -1,0 +1,73 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNjEzMjA5OTYzMzEyMzQwOTky",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Wed Jan 11 16:23:39 +0000 2023",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "🚀 The AI-driven platform that makes traders smarter with on-chain insights.\n🎉 Backed by @GoogleStartups and trusted by prestigious partners.\n$SOCAI #SOCAI",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "spotonchain.ai",
+            "expanded_url": "https://spotonchain.ai/",
+            "url": "https://t.co/qA0nAzj55n",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 1468,
+    "followersCount": 112544,
+    "following": true,
+    "friendsCount": 392,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 1196,
+    "location": "singapore",
+    "mediaCount": 2661,
+    "name": "Spot On Chain",
+    "normalFollowersCount": 112544,
+    "pinnedTweetIdsStr": [
+      "1944949426327576820"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1613209963312340992/1698742133",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1720312319375552512/UzDa84Cn_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "spotonchain",
+    "statusesCount": 3973,
+    "translatorType": "none",
+    "url": "https://t.co/qA0nAzj55n",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [
+      {
+        "iconName": "IconBriefcaseStroke",
+        "id": 713,
+        "name": "Science & Technology"
+      }
+    ],
+    "professionalType": "Creator",
+    "restId": "1613701059809267714"
+  },
+  "profileImageShape": "Circle",
+  "restId": "1613209963312340992",
+  "tipjarSettings": {}
+}

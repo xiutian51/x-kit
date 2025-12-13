@@ -1,0 +1,75 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxMzU1Nzc1NDMwOTQzNDA4MTM0",
+  "isBlueVerified": false,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": false,
+    "createdAt": "Sun Jan 31 07:10:42 +0000 2021",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "🔥四大诉求 缺一不可🔥  ❌不要出卖 要真相❗️  ❌不要捞钱 要真干❗️  ❌不要假白纸 要真行动❗️  ❌不要吴迪钊 要真英雄❗️",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "t.me/bakuhaoh",
+            "expanded_url": "https://t.me/bakuhaoh",
+            "url": "https://t.co/XBvI65784O",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 578,
+    "followersCount": 30512,
+    "following": true,
+    "friendsCount": 506,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 97,
+    "location": "Shinjuku-ku, Tokyo",
+    "mediaCount": 535,
+    "name": "吴迪钊刑台",
+    "normalFollowersCount": 30512,
+    "pinnedTweetIdsStr": [
+      "1725258197097914614"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1355775430943408134/1700176905",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1725293055883038720/WtUS4y8e_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "kamiya_mamoru",
+    "statusesCount": 2592,
+    "translatorType": "none",
+    "url": "https://t.co/XBvI65784O",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [
+      {
+        "iconName": "IconBriefcaseStroke",
+        "id": 53,
+        "name": "Automotive"
+      }
+    ],
+    "professionalType": "Creator",
+    "restId": "1485186718730960896"
+  },
+  "profileImageShape": "Circle",
+  "restId": "1355775430943408134",
+  "tipjarSettings": {
+    "isEnabled": true
+  }
+}

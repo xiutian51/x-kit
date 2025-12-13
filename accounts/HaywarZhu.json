@@ -1,0 +1,62 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjo5MTA5NDYwNjYyMjQyMzQ0OTY=",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": false,
+    "canMediaTag": true,
+    "createdAt": "Thu Sep 21 19:17:21 +0000 2017",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "专攻汇率对交易 | 没有付费群 | Web3公益教育 | BN跟单实盘383BD | Two verified 10x live accounts in 2 years — both clean runs.",
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 407,
+    "followersCount": 15737,
+    "following": true,
+    "friendsCount": 1749,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 561,
+    "location": "Toronto 🇨🇦",
+    "mediaCount": 200,
+    "name": "Haywar | 海老师 🗳️",
+    "normalFollowersCount": 15737,
+    "pinnedTweetIdsStr": [
+      "1977015528800571627"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/910946066224234496/1750158075",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1904297408273772544/TwlamTm3_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "HaywarZhu",
+    "statusesCount": 1684,
+    "translatorType": "none",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [
+      {
+        "iconName": "IconBriefcaseStroke",
+        "id": 15,
+        "name": "Entertainment & Recreation"
+      }
+    ],
+    "professionalType": "Creator",
+    "restId": "1906882953650848116"
+  },
+  "profileImageShape": "Circle",
+  "restId": "910946066224234496",
+  "tipjarSettings": {
+    "ethereumHandle": "0x348f3cc2Cc63EF98C9B86F58406B555193CdA308",
+    "isEnabled": false
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNTIyODcwNTIxNDE0Nzg3MDcy",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": false,
+    "createdAt": "Sat May 07 09:28:09 +0000 2022",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "I write a free weekly newsletter covering the latest crypto narratives : https://t.co/GDiah6MkSW\n\nLink of my TG channel below",
+    "entities": {
+      "description": {
+        "urls": [
+          {
+            "display_url": "cryptonarratives.substack.com",
+            "expanded_url": "http://cryptonarratives.substack.com",
+            "url": "https://t.co/GDiah6MkSW",
+            "indices": [
+              73,
+              96
+            ]
+          }
+        ]
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "t.me/cryptonarrativ…",
+            "expanded_url": "https://t.me/cryptonarratives1",
+            "url": "https://t.co/WgNxrbRxR3",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 9313,
+    "followersCount": 60004,
+    "following": true,
+    "friendsCount": 1958,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 2531,
+    "location": "",
+    "mediaCount": 2062,
+    "name": "VIKTOR",
+    "normalFollowersCount": 60004,
+    "pinnedTweetIdsStr": [
+      "1994127371918823882"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1522870521414787072/1687801981",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1532659895832543234/BZevAduj_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "thedefivillain",
+    "statusesCount": 14151,
+    "translatorType": "none",
+    "url": "https://t.co/WgNxrbRxR3",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "profileImageShape": "Circle",
+  "restId": "1522870521414787072",
+  "tipjarSettings": {}
+}

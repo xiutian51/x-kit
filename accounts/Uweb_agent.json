@@ -1,0 +1,57 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNjQ0NjQ2NTE0MDgwNTA5OTUy",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Sat Apr 08 10:21:10 +0000 2023",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "Uweb(University of Web3)是一家位于香港的Web3.0专业教育机构，传授数字资产配置策略与AI驱动投研方法，由于佳宁博士@Uwebdryu创办。推文主要分享由Uweb分析的链上指标剖析，不构成任何投资建议。",
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 527,
+    "followersCount": 4500,
+    "following": true,
+    "friendsCount": 407,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 31,
+    "location": "Hong Kong",
+    "mediaCount": 493,
+    "name": "Uweb商学院🏛️University of Web3",
+    "normalFollowersCount": 4500,
+    "pinnedTweetIdsStr": [],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1644646514080509952/1724249559",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1823919144536039424/IhlGIDCA_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "Uweb_agent",
+    "statusesCount": 1246,
+    "translatorType": "none",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [
+      {
+        "iconName": "IconBriefcaseStroke",
+        "id": 144,
+        "name": "Education"
+      }
+    ],
+    "professionalType": "Creator",
+    "restId": "1743557143964315996"
+  },
+  "profileImageShape": "Circle",
+  "restId": "1644646514080509952",
+  "tipjarSettings": {}
+}

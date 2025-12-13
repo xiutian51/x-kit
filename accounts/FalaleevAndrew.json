@@ -1,0 +1,59 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxMjM0ODg2MTU5MDQzNjM3MjQ5",
+  "isBlueVerified": false,
+  "legacy": {
+    "canDm": false,
+    "canMediaTag": true,
+    "createdAt": "Tue Mar 03 17:01:28 +0000 2020",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "CTO @Neon_EVM",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "linkedin.com/in/andrew-fala…",
+            "expanded_url": "https://www.linkedin.com/in/andrew-falaleev-14320639/",
+            "url": "https://t.co/aYEcxcspcw",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 254,
+    "followersCount": 335,
+    "following": true,
+    "friendsCount": 293,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 10,
+    "location": "Lisbon, Portugal",
+    "mediaCount": 1,
+    "name": "Andrey Falaleev",
+    "normalFollowersCount": 335,
+    "pinnedTweetIdsStr": [],
+    "possiblySensitive": false,
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1410079178628730886/Cofr8FsK_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "FalaleevAndrew",
+    "statusesCount": 33,
+    "translatorType": "none",
+    "url": "https://t.co/aYEcxcspcw",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "profileImageShape": "Circle",
+  "restId": "1234886159043637249",
+  "tipjarSettings": {}
+}

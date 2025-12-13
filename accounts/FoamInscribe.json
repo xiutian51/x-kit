@@ -1,0 +1,70 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": false,
+  "id": "VXNlcjoxNzM2MzU2NzIwNDcyMTA0OTYw",
+  "isBlueVerified": false,
+  "legacy": {
+    "canDm": false,
+    "canMediaTag": true,
+    "createdAt": "Sun Dec 17 12:04:45 +0000 2023",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "A Fomo3D inscription experiment by @SolanaInscribe | $FOAM 🫧 #SPL20\n💬https://t.co/pAVKFkRn53",
+    "entities": {
+      "description": {
+        "urls": [
+          {
+            "display_url": "discord.gg/solanainscribe",
+            "expanded_url": "http://discord.gg/solanainscribe",
+            "url": "https://t.co/pAVKFkRn53",
+            "indices": [
+              69,
+              92
+            ]
+          }
+        ]
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "foam.soillabs.io",
+            "expanded_url": "https://foam.soillabs.io/",
+            "url": "https://t.co/kZCbcKIyOA",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 8,
+    "followersCount": 4178,
+    "following": true,
+    "friendsCount": 12,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 31,
+    "location": "Solana",
+    "mediaCount": 26,
+    "name": "FoamInscribe🛁🫧",
+    "normalFollowersCount": 4178,
+    "pinnedTweetIdsStr": [],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1736356720472104960/1703150610",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1737765958901743616/88uMHrFy_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "FoamInscribe",
+    "statusesCount": 170,
+    "translatorType": "none",
+    "url": "https://t.co/kZCbcKIyOA",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "profileImageShape": "Circle",
+  "restId": "1736356720472104960",
+  "tipjarSettings": {}
+}

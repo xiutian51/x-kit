@@ -1,0 +1,82 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {
+    "label": {
+      "url": {
+        "url": "https://twitter.com/UseUniversalX",
+        "urlType": "DeepLink"
+      },
+      "badge": {
+        "url": "https://pbs.twimg.com/profile_images/1885153504291102720/R7usrJag_bigger.jpg"
+      },
+      "description": "UniversalX",
+      "userLabelType": "BusinessLabel",
+      "userLabelDisplayType": "Badge"
+    }
+  },
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNzg4MTQ0NTU5MDE0NTA2NDk2",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": false,
+    "canMediaTag": false,
+    "createdAt": "Wed May 08 09:51:37 +0000 2024",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "向内求| 在做自己这件事情上,没人能与你竞争 #meme | Trading with UX: https://t.co/ivx2JOfGiJ",
+    "entities": {
+      "description": {
+        "urls": [
+          {
+            "display_url": "universalx.app/?inviteCode=AB…",
+            "expanded_url": "https://universalx.app?inviteCode=ABOBV7",
+            "url": "https://t.co/ivx2JOfGiJ",
+            "indices": [
+              48,
+              71
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 8927,
+    "followersCount": 4332,
+    "following": true,
+    "friendsCount": 2715,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 115,
+    "location": "Silverlake",
+    "mediaCount": 69,
+    "name": "Milady.in",
+    "normalFollowersCount": 4332,
+    "pinnedTweetIdsStr": [
+      "1874825833896198649"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1788144559014506496/1715164817",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1851931058633347074/GJ0nTgf__normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "0xmiladymm",
+    "statusesCount": 3458,
+    "translatorType": "none",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [
+      {
+        "iconName": "IconBriefcaseStroke",
+        "id": 713,
+        "name": "Science & Technology"
+      }
+    ],
+    "professionalType": "Business",
+    "restId": "1905583531184849316"
+  },
+  "profileImageShape": "Circle",
+  "restId": "1788144559014506496",
+  "tipjarSettings": {}
+}

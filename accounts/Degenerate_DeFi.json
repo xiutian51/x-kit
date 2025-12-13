@@ -1,0 +1,75 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {
+    "label": {
+      "url": {
+        "url": "https://twitter.com/MessariCrypto",
+        "urlType": "DeepLink"
+      },
+      "badge": {
+        "url": "https://pbs.twimg.com/profile_images/1879266423010181120/ko4sS0ZR_bigger.jpg"
+      },
+      "description": "Messari",
+      "userLabelType": "BusinessLabel",
+      "userLabelDisplayType": "Badge"
+    }
+  },
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjo4NjI4Njg5OTYyOTQ0NTEyMDA=",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Fri May 12 03:16:14 +0000 2017",
+    "defaultProfile": false,
+    "defaultProfileImage": false,
+    "description": "research @messaricrypto | finding stablecoin gems",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "messari.io/research/qorba…",
+            "expanded_url": "https://messari.io/research/qorban-ferrell",
+            "url": "https://t.co/wakpHc6uX8",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 26528,
+    "followersCount": 6541,
+    "following": true,
+    "friendsCount": 441,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 189,
+    "location": "Backed by vibes & T-bills",
+    "mediaCount": 369,
+    "name": "Stablecoin Intern",
+    "normalFollowersCount": 6541,
+    "pinnedTweetIdsStr": [
+      "1947284705143132477"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/862868996294451200/1719443024",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1956078912599203840/LXWIxIyJ_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "Degenerate_DeFi",
+    "statusesCount": 2962,
+    "translatorType": "none",
+    "url": "https://t.co/wakpHc6uX8",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "profileImageShape": "Circle",
+  "restId": "862868996294451200",
+  "tipjarSettings": {}
+}

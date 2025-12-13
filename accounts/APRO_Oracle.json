@@ -1,0 +1,76 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNzM0MTcxODA3NTY4MjMyNDQ4",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Mon Dec 11 11:22:44 +0000 2023",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "🚛 The 1st AI-enhanced Oracle for Cutting-Edge Ecosystems (#RWA , #AI , #Prediction Market , #DeFi ) . Backed by @Polychain , @FTDA_US and @yzilabs",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "linktr.ee/apro_oracle",
+            "expanded_url": "https://linktr.ee/apro_oracle",
+            "url": "https://t.co/xesAEf8Ov1",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 3319,
+    "followersCount": 169617,
+    "following": true,
+    "friendsCount": 227,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 184,
+    "location": "Oracle Era",
+    "mediaCount": 441,
+    "name": "APRO |🔶NO.1 Oracle",
+    "normalFollowersCount": 169617,
+    "pinnedTweetIdsStr": [
+      "1987350295110951172"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1734171807568232448/1755017858",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1979930335761633280/dmNqHKgi_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "APRO_Oracle",
+    "statusesCount": 1464,
+    "translatorType": "none",
+    "url": "https://t.co/xesAEf8Ov1",
+    "verified": false,
+    "verifiedType": "Business",
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [
+      {
+        "iconName": "IconBriefcaseStroke",
+        "id": 192,
+        "name": "Financial Services"
+      }
+    ],
+    "professionalType": "Business",
+    "restId": "1979930430267933118"
+  },
+  "profileImageShape": "Square",
+  "restId": "1734171807568232448",
+  "tipjarSettings": {
+    "isEnabled": false
+  }
+}

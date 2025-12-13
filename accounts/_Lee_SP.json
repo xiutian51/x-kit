@@ -1,0 +1,53 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNDMwMzY5MDQ2MDk3MTIxMjg0",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": false,
+    "createdAt": "Wed Aug 25 03:19:13 +0000 2021",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "我相信我的坚信可以胜利",
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 3644,
+    "followersCount": 30901,
+    "following": true,
+    "friendsCount": 4041,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 156,
+    "location": "CN",
+    "mediaCount": 426,
+    "name": "Leesp",
+    "normalFollowersCount": 30901,
+    "pinnedTweetIdsStr": [
+      "1952649481729482999"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1430369046097121284/1756442929",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1961291281390551040/tM2y_Zdw_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "_Lee_SP",
+    "statusesCount": 5486,
+    "translatorType": "none",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [],
+    "professionalType": "Business",
+    "restId": "1474076936745803778"
+  },
+  "profileImageShape": "Circle",
+  "restId": "1430369046097121284",
+  "tipjarSettings": {}
+}

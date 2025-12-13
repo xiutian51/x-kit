@@ -1,0 +1,73 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNjYwMjQ2OTEzODIyNzQwNDgw",
+  "isBlueVerified": false,
+  "legacy": {
+    "canDm": false,
+    "canMediaTag": true,
+    "createdAt": "Sun May 21 11:31:40 +0000 2023",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "Your All-in-One Finance Hub\nRedefining Finance, One Tap at a Time",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "linktr.ee/brillionfi",
+            "expanded_url": "https://linktr.ee/brillionfi",
+            "url": "https://t.co/mfh9iAHOOS",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 1456,
+    "followersCount": 20296,
+    "following": true,
+    "friendsCount": 75,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 28,
+    "location": "Utrecht, The Netherlands",
+    "mediaCount": 419,
+    "name": "Brillion",
+    "normalFollowersCount": 20296,
+    "pinnedTweetIdsStr": [
+      "1851647059830391253"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1660246913822740480/1730301850",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1851646277928259584/Ewpa8o9K_normal.png",
+    "profileInterstitialType": "",
+    "screenName": "BrillionFi",
+    "statusesCount": 1608,
+    "translatorType": "none",
+    "url": "https://t.co/mfh9iAHOOS",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [
+      {
+        "iconName": "IconBriefcaseStroke",
+        "id": 1094,
+        "name": "Blockchain"
+      }
+    ],
+    "professionalType": "Business",
+    "restId": "1661058985796026374"
+  },
+  "profileImageShape": "Circle",
+  "restId": "1660246913822740480",
+  "tipjarSettings": {}
+}

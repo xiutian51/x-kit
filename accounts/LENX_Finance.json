@@ -1,0 +1,73 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNjAzNjgxNTA1OTUxNDk0MTQ2",
+  "isBlueVerified": false,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Fri Dec 16 09:20:48 +0000 2022",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "Omnichain #Bitcoin Liquidity Protocol.\nBacked by @fraxfinance.",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "side.xyz/lenx",
+            "expanded_url": "https://side.xyz/lenx",
+            "url": "https://t.co/nbCTXFlxJ2",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 1638,
+    "followersCount": 16968,
+    "following": true,
+    "friendsCount": 284,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 75,
+    "location": "＞＜／",
+    "mediaCount": 134,
+    "name": "LENX (¤,X) | BTC Stablecoin & Lending",
+    "normalFollowersCount": 16968,
+    "pinnedTweetIdsStr": [
+      "1754827547584381314"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1603681505951494146/1702912687",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1762694148854059008/4maoV8N__normal.png",
+    "profileInterstitialType": "",
+    "screenName": "LENX_Finance",
+    "statusesCount": 983,
+    "translatorType": "none",
+    "url": "https://t.co/nbCTXFlxJ2",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [
+      {
+        "iconName": "IconBriefcaseStroke",
+        "id": 192,
+        "name": "Financial Services"
+      }
+    ],
+    "professionalType": "Business",
+    "restId": "1676838270083436545"
+  },
+  "profileImageShape": "Circle",
+  "restId": "1603681505951494146",
+  "tipjarSettings": {}
+}

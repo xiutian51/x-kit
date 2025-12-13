@@ -1,0 +1,92 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjo5MjIwODYwNzkwNzQ2ODA4MzM=",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Sun Oct 22 13:03:47 +0000 2017",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "An  online open-source developer community focusing on Ethereum & Layer2.\nOfficial website: https://t.co/aFPj7mxvac  \nhttps://t.co/eqGPrSztRh",
+    "entities": {
+      "description": {
+        "urls": [
+          {
+            "display_url": "dapplearning.org",
+            "expanded_url": "https://dapplearning.org/",
+            "url": "https://t.co/aFPj7mxvac",
+            "indices": [
+              92,
+              115
+            ]
+          },
+          {
+            "display_url": "youtube.com/c/DappLearning",
+            "expanded_url": "https://www.youtube.com/c/DappLearning",
+            "url": "https://t.co/eqGPrSztRh",
+            "indices": [
+              118,
+              141
+            ]
+          }
+        ]
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "github.com/Dapp-Learning-…",
+            "expanded_url": "https://github.com/Dapp-Learning-DAO/Dapp-Learning",
+            "url": "https://t.co/IYQLiOsDmJ",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 795,
+    "followersCount": 3764,
+    "following": true,
+    "friendsCount": 1680,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 90,
+    "location": "Ethereum",
+    "mediaCount": 292,
+    "name": "Dapp-Learning",
+    "normalFollowersCount": 3764,
+    "pinnedTweetIdsStr": [
+      "1916323231042044021"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/922086079074680833/1672468321",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1792541391945674752/WRs68aqA_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "Dapp_Learning",
+    "statusesCount": 1616,
+    "translatorType": "none",
+    "url": "https://t.co/IYQLiOsDmJ",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [
+      {
+        "iconName": "IconBriefcaseStroke",
+        "id": 1094,
+        "name": "Blockchain"
+      }
+    ],
+    "professionalType": "Creator",
+    "restId": "1929542595468021910"
+  },
+  "profileImageShape": "Circle",
+  "restId": "922086079074680833",
+  "tipjarSettings": {}
+}

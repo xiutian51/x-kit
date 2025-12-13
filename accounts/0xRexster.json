@@ -1,0 +1,56 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjo3NDc1NDExNzg=",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Thu Aug 09 16:47:20 +0000 2012",
+    "defaultProfile": false,
+    "defaultProfileImage": false,
+    "description": "#degen #BTC\nFan Club: https://t.co/KvoFwtvA7O",
+    "entities": {
+      "description": {
+        "urls": [
+          {
+            "display_url": "discord.gg/aPnkZEKJ",
+            "expanded_url": "https://discord.gg/aPnkZEKJ",
+            "url": "https://t.co/KvoFwtvA7O",
+            "indices": [
+              22,
+              45
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 118,
+    "followersCount": 59300,
+    "following": true,
+    "friendsCount": 192,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 85,
+    "location": "JP",
+    "mediaCount": 72,
+    "name": "0xRexster",
+    "normalFollowersCount": 59300,
+    "pinnedTweetIdsStr": [],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/747541178/1749376959",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1931653078706733059/1z0_TRb5_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "0xRexster",
+    "statusesCount": 513,
+    "translatorType": "none",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "profileImageShape": "Circle",
+  "restId": "747541178",
+  "tipjarSettings": {}
+}

@@ -1,0 +1,45 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNTY0NjEwMjc0MzE2ODkwMTIz",
+  "isBlueVerified": false,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Tue Aug 30 13:45:51 +0000 2022",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "Big fan of @JohnMayer #NFT #明星小卡",
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 4934,
+    "followersCount": 1388,
+    "following": true,
+    "friendsCount": 2,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 2,
+    "location": "Singapore",
+    "mediaCount": 33,
+    "name": "0xDune",
+    "normalFollowersCount": 1388,
+    "pinnedTweetIdsStr": [],
+    "possiblySensitive": false,
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1956544981642178560/pEFjoqMw_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "0xDune0104",
+    "statusesCount": 73,
+    "translatorType": "none",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "profileImageShape": "Circle",
+  "restId": "1564610274316890123",
+  "tipjarSettings": {}
+}

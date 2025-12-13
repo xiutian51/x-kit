@@ -1,0 +1,73 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNjE5MjAwMTU2OTI2MTgxMzc2",
+  "isBlueVerified": false,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Sat Jan 28 05:06:26 +0000 2023",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "Three Arrowz Capitel is legal and solvent and was founded by Su in 2024. CN @sanjianziben\n\nCA 526A9a7VDdfr32EDWr3YDFgZk7BA3LjToAKG2WTbpump (Solana)",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "t.me/threearrowzcap",
+            "expanded_url": "https://www.t.me/threearrowzcap",
+            "url": "https://t.co/9n7NAPnRaz",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 1927,
+    "followersCount": 35767,
+    "following": true,
+    "friendsCount": 68,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 256,
+    "location": "www.threearrowz.capital",
+    "mediaCount": 68,
+    "name": "Three Arrowz Capitel",
+    "normalFollowersCount": 35767,
+    "pinnedTweetIdsStr": [
+      "1854574202881544293"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1619200156926181376/1727344915",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1839243988605255680/RYX9IZNm_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "threearrowzcap",
+    "statusesCount": 308,
+    "translatorType": "none",
+    "url": "https://t.co/9n7NAPnRaz",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [
+      {
+        "iconName": "IconBriefcaseStroke",
+        "id": 1040,
+        "name": "Financial Tech Company"
+      }
+    ],
+    "professionalType": "Business",
+    "restId": "1673157678636384256"
+  },
+  "profileImageShape": "Circle",
+  "restId": "1619200156926181376",
+  "tipjarSettings": {}
+}

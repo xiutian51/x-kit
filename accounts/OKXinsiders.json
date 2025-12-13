@@ -1,0 +1,62 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNzIzMzY4MzU5NDc4MDk1ODcy",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": false,
+    "canMediaTag": true,
+    "createdAt": "Sat Nov 11 15:53:47 +0000 2023",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "Building @XLayerOfficial @INSWAPxlayer",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "linktr.ee/INSWAP",
+            "expanded_url": "https://linktr.ee/INSWAP",
+            "url": "https://t.co/awcalztPx1",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 428,
+    "followersCount": 964,
+    "following": true,
+    "friendsCount": 668,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 4,
+    "location": "XLayer",
+    "mediaCount": 402,
+    "name": "INS",
+    "normalFollowersCount": 964,
+    "pinnedTweetIdsStr": [
+      "1993897555911205117"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1723368359478095872/1744268720",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1911676392455954432/Q0bN1fqk_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "OKXinsiders",
+    "statusesCount": 529,
+    "translatorType": "none",
+    "url": "https://t.co/awcalztPx1",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "profileImageShape": "Circle",
+  "restId": "1723368359478095872",
+  "tipjarSettings": {}
+}

@@ -1,0 +1,72 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNjk0MzA4MzIwMzY5MTIzMzI4",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": false,
+    "canMediaTag": true,
+    "createdAt": "Wed Aug 23 11:19:32 +0000 2023",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "Your friend is not your exit liquidity. Join us at https://t.co/WlSa4F2Y3B 🐥",
+    "entities": {
+      "description": {
+        "urls": [
+          {
+            "display_url": "t.me/follow_gg_bot",
+            "expanded_url": "http://t.me/follow_gg_bot",
+            "url": "https://t.co/WlSa4F2Y3B",
+            "indices": [
+              51,
+              74
+            ]
+          }
+        ]
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "linktr.ee/followdotgg",
+            "expanded_url": "https://linktr.ee/followdotgg",
+            "url": "https://t.co/j6Dh8XWIIl",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 341,
+    "followersCount": 1003,
+    "following": true,
+    "friendsCount": 154,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 6,
+    "location": "",
+    "mediaCount": 25,
+    "name": "follow.gg",
+    "normalFollowersCount": 1003,
+    "pinnedTweetIdsStr": [
+      "1702604848162898188"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1694308320369123328/1693928722",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1696318067809128448/8mKE5gT5_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "FollowDotGG",
+    "statusesCount": 220,
+    "translatorType": "none",
+    "url": "https://t.co/j6Dh8XWIIl",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "profileImageShape": "Circle",
+  "restId": "1694308320369123328",
+  "tipjarSettings": {}
+}

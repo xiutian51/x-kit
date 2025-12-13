@@ -1,0 +1,63 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNjgxNjQzMjM5MTY0NTAyMDE2",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Wed Jul 19 12:33:16 +0000 2023",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "Socrates is a SocialFi & GameFi platform that financializes information to speed up its flow and bring people closer to facts and truth.",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "socrates.com",
+            "expanded_url": "https://www.socrates.com/",
+            "url": "https://t.co/nR7DFFiVyP",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 726,
+    "followersCount": 41406,
+    "following": true,
+    "friendsCount": 14,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 49,
+    "location": "Hong Kong",
+    "mediaCount": 804,
+    "name": "Socrates",
+    "normalFollowersCount": 41406,
+    "pinnedTweetIdsStr": [
+      "1960306141562630182"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1681643239164502016/1689777806",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1887173774191230976/Ma7424_5_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "Socrates_global",
+    "statusesCount": 1760,
+    "translatorType": "none",
+    "url": "https://t.co/nR7DFFiVyP",
+    "verified": false,
+    "verifiedType": "Business",
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "profileImageShape": "Square",
+  "restId": "1681643239164502016",
+  "tipjarSettings": {}
+}

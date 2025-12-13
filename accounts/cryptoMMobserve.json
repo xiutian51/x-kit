@@ -1,0 +1,48 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxMDY5NTA1NTE4MzQxNzY3MTY4",
+  "isBlueVerified": false,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Mon Dec 03 08:16:00 +0000 2018",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "HFT pm, prediction MM, stand with HK",
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 249,
+    "followersCount": 1174,
+    "following": true,
+    "friendsCount": 555,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 28,
+    "location": "",
+    "mediaCount": 31,
+    "name": "HFT观察者",
+    "normalFollowersCount": 1174,
+    "pinnedTweetIdsStr": [
+      "1840137625430012241"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1069505518341767168/1665082471",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1563073102015528961/vgdfH7Cm_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "cryptoMMobserve",
+    "statusesCount": 411,
+    "translatorType": "none",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "profileImageShape": "Circle",
+  "restId": "1069505518341767168",
+  "tipjarSettings": {}
+}

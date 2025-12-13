@@ -1,0 +1,65 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNDMwMzM4NzQ5NTk5MjExNTIz",
+  "isBlueVerified": false,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Wed Aug 25 01:18:38 +0000 2021",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "Crypto-native research firm. Dive Down the Rabbit Hole of Blockchain and Crypto: @cryptoprag",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "m6-labs.beehiiv.com/subscribe",
+            "expanded_url": "https://m6-labs.beehiiv.com/subscribe",
+            "url": "https://t.co/E13HbLY7lI",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 17194,
+    "followersCount": 6882,
+    "following": true,
+    "friendsCount": 484,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 180,
+    "location": "Valhalla ",
+    "mediaCount": 1531,
+    "name": "M6 Labs",
+    "normalFollowersCount": 6882,
+    "pinnedTweetIdsStr": [],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1430338749599211523/1705369080",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1747069661035053056/Idb1UdqJ_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "M6Labs",
+    "statusesCount": 10516,
+    "translatorType": "none",
+    "url": "https://t.co/E13HbLY7lI",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [],
+    "professionalType": "Business",
+    "restId": "1604152850367528961"
+  },
+  "profileImageShape": "Circle",
+  "restId": "1430338749599211523",
+  "tipjarSettings": {}
+}

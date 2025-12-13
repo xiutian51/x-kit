@@ -1,0 +1,87 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxMDMxMTI2MTc4OTk0NzY1ODI0",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Sun Aug 19 10:30:13 +0000 2018",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "听说我是币圈著名反指KOL。 所以我的推特均不构成投资建议，当然你可以反着开。 https://t.co/mVS2Y4nAZw",
+    "entities": {
+      "description": {
+        "urls": [
+          {
+            "display_url": "binance.com/zh-CN/futures/…",
+            "expanded_url": "https://www.binance.com/zh-CN/futures/ref/occ",
+            "url": "https://t.co/mVS2Y4nAZw",
+            "indices": [
+              40,
+              63
+            ]
+          }
+        ]
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "linktr.ee/0xolid",
+            "expanded_url": "http://linktr.ee/0xolid",
+            "url": "https://t.co/YSWA986tzT",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 4024,
+    "followersCount": 87936,
+    "following": true,
+    "friendsCount": 1003,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 1091,
+    "location": "Singapore",
+    "mediaCount": 3112,
+    "name": "很大很大的橙子",
+    "normalFollowersCount": 87936,
+    "pinnedTweetIdsStr": [
+      "1905174352519426151"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1031126178994765824/1667383383",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1406527898308136961/jRLnNYIr_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "0xVeryBigOrange",
+    "statusesCount": 7732,
+    "translatorType": "none",
+    "url": "https://t.co/YSWA986tzT",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [
+      {
+        "iconName": "IconBriefcaseStroke",
+        "id": 713,
+        "name": "Science & Technology"
+      }
+    ],
+    "professionalType": "Creator",
+    "restId": "1543037109032071169"
+  },
+  "profileImageShape": "Circle",
+  "restId": "1031126178994765824",
+  "superFollowEligible": true,
+  "tipjarSettings": {
+    "ethereumHandle": "0xa18d1810C8457f7d09E3311DF8D2Faf1d9c2E19C",
+    "isEnabled": true
+  }
+}

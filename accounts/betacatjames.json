@@ -1,0 +1,47 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxMzQ1MzAzNzg2OTkxMDA1Njk3",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Sat Jan 02 09:41:46 +0000 2021",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "",
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 9046,
+    "followedBy": true,
+    "followersCount": 3383,
+    "following": true,
+    "friendsCount": 1718,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 17,
+    "location": "blockchain",
+    "mediaCount": 587,
+    "name": "李富贵LFG",
+    "normalFollowersCount": 3383,
+    "pinnedTweetIdsStr": [],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1345303786991005697/1733137482",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1879765023603699712/2wqUHTAI_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "betacatjames",
+    "statusesCount": 2073,
+    "translatorType": "none",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "profileImageShape": "Circle",
+  "restId": "1345303786991005697",
+  "tipjarSettings": {}
+}

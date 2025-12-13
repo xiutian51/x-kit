@@ -1,0 +1,67 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNjA0MjEwNzg2NTQwNDQxNjAy",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Sat Dec 17 20:24:14 +0000 2022",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "Multifunctional Interoperability Platform | \n\nBridge & Refuel across 50+ Chains",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "minter.merkly.com",
+            "expanded_url": "http://minter.merkly.com",
+            "url": "https://t.co/W7KKvZBcEV",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 1398,
+    "followersCount": 29779,
+    "following": true,
+    "friendsCount": 32,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 122,
+    "location": "Omnichain",
+    "mediaCount": 193,
+    "name": "Merkly",
+    "normalFollowersCount": 29779,
+    "pinnedTweetIdsStr": [
+      "1775150795903647853"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1604210786540441602/1712838867",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1730147960082628608/3Oz6434E_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "merkly_com",
+    "statusesCount": 551,
+    "translatorType": "none",
+    "url": "https://t.co/W7KKvZBcEV",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [],
+    "professionalType": "Business",
+    "restId": "1669709054602629121"
+  },
+  "profileImageShape": "Circle",
+  "restId": "1604210786540441602",
+  "tipjarSettings": {}
+}

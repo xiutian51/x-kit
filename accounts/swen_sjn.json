@@ -1,0 +1,72 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxMzA3Njc1Mjg4OTkwNTUyMDY1",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": false,
+    "createdAt": "Sun Sep 20 13:37:53 +0000 2020",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "co-founder @lightprotocol, https://t.co/CSzgGVcIOz. always be kind",
+    "entities": {
+      "description": {
+        "urls": [
+          {
+            "display_url": "zkcompression.com",
+            "expanded_url": "http://zkcompression.com",
+            "url": "https://t.co/CSzgGVcIOz",
+            "indices": [
+              27,
+              50
+            ]
+          }
+        ]
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "zkcompression.com",
+            "expanded_url": "https://www.zkcompression.com",
+            "url": "https://t.co/kgTxVU47gG",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 24544,
+    "followersCount": 5896,
+    "following": true,
+    "friendsCount": 814,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 93,
+    "location": "",
+    "mediaCount": 356,
+    "name": "swen | lightprotocol.com",
+    "normalFollowersCount": 5896,
+    "pinnedTweetIdsStr": [
+      "1988716726607818818"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1307675288990552065/1718624009",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1466087653615579138/ePenJBxL_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "swen_sjn",
+    "statusesCount": 4402,
+    "translatorType": "none",
+    "url": "https://t.co/kgTxVU47gG",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "profileImageShape": "Circle",
+  "restId": "1307675288990552065",
+  "tipjarSettings": {}
+}

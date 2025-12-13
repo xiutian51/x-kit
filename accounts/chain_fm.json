@@ -1,0 +1,81 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxODQ5NzQwNTI4NjA4NDc3MTg1",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Fri Oct 25 09:11:48 +0000 2024",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "Listen to the Chain with https://t.co/slcoZkwDm5. Subscribe and create channels to explore the on-chain universe together. Join us https://t.co/H1scIgRota",
+    "entities": {
+      "description": {
+        "urls": [
+          {
+            "display_url": "chain.fm",
+            "expanded_url": "https://chain.fm",
+            "url": "https://t.co/slcoZkwDm5",
+            "indices": [
+              25,
+              48
+            ]
+          },
+          {
+            "display_url": "t.me/chain_fm",
+            "expanded_url": "http://t.me/chain_fm",
+            "url": "https://t.co/H1scIgRota",
+            "indices": [
+              131,
+              154
+            ]
+          }
+        ]
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "chain.fm",
+            "expanded_url": "http://chain.fm",
+            "url": "https://t.co/2WqNrswBtj",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 207,
+    "followersCount": 10540,
+    "following": true,
+    "friendsCount": 8,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 69,
+    "location": "on-chain",
+    "mediaCount": 49,
+    "name": "Chain.fm",
+    "normalFollowersCount": 10540,
+    "pinnedTweetIdsStr": [
+      "1866355122068164655"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1849740528608477185/1730767385",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1850462010338930688/9-4yHpWg_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "chain_fm",
+    "statusesCount": 123,
+    "translatorType": "none",
+    "url": "https://t.co/2WqNrswBtj",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "profileImageShape": "Circle",
+  "restId": "1849740528608477185",
+  "tipjarSettings": {}
+}

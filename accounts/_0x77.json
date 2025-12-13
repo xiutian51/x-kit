@@ -1,0 +1,53 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNDc1ODExMjYxMDA3MTYzMzk1",
+  "isBlueVerified": false,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Tue Dec 28 12:50:08 +0000 2021",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "Web3 builder. Founder of @gotchipus.",
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 172,
+    "followersCount": 110114,
+    "following": true,
+    "friendsCount": 269,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 183,
+    "location": "OnChain",
+    "mediaCount": 53,
+    "name": "0x77 🐙",
+    "normalFollowersCount": 110114,
+    "pinnedTweetIdsStr": [
+      "1907846699449725368"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1475811261007163395/1735473921",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1904037969746677760/W_YriAq6_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "_0x77",
+    "statusesCount": 246,
+    "translatorType": "none",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [],
+    "professionalType": "Business",
+    "restId": "1591806658048851969"
+  },
+  "profileImageShape": "Circle",
+  "restId": "1475811261007163395",
+  "tipjarSettings": {}
+}

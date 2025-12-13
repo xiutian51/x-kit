@@ -1,0 +1,72 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjo5NzcwMjAyMDQwNzE3OTI2NDE=",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Fri Mar 23 03:12:23 +0000 2018",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "The highest-performing EVM blockchain designed for developers to scale and earn. Eco @SonicEcosystem. Presence @SonicWorldHQ.",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "linktr.ee/soniclabs",
+            "expanded_url": "https://linktr.ee/soniclabs",
+            "url": "https://t.co/YP1fMsd1Xk",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 8719,
+    "followersCount": 825364,
+    "following": true,
+    "friendsCount": 394,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 4438,
+    "location": "",
+    "mediaCount": 2162,
+    "name": "Sonic",
+    "normalFollowersCount": 825364,
+    "pinnedTweetIdsStr": [],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/977020204071792641/1757943212",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1886106303262490624/3rEXurVD_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "SonicLabs",
+    "statusesCount": 9708,
+    "translatorType": "none",
+    "url": "https://t.co/YP1fMsd1Xk",
+    "verified": false,
+    "verifiedType": "Business",
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [
+      {
+        "iconName": "IconBriefcaseStroke",
+        "id": 1094,
+        "name": "Blockchain"
+      }
+    ],
+    "professionalType": "Business",
+    "restId": "1605477338132934656"
+  },
+  "profileImageShape": "Square",
+  "restId": "977020204071792641",
+  "tipjarSettings": {}
+}

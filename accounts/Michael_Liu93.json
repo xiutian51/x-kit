@@ -1,0 +1,59 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNTI1NzQyMzUyMDA2Mjg3MzYx",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Sun May 15 07:38:27 +0000 2022",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "Ex-VC & Banker Turned Degen, See You In The Trenches.\n最专业的链上交易工具: https://t.co/p8XmpE9bZY",
+    "entities": {
+      "description": {
+        "urls": [
+          {
+            "display_url": "gmgn.ai/?ref=9Z7Wz20p",
+            "expanded_url": "https://gmgn.ai/?ref=9Z7Wz20p",
+            "url": "https://t.co/p8XmpE9bZY",
+            "indices": [
+              66,
+              89
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 24776,
+    "followedBy": true,
+    "followersCount": 76059,
+    "following": true,
+    "friendsCount": 2630,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 2096,
+    "location": "",
+    "mediaCount": 651,
+    "name": "憨厚的麦总",
+    "normalFollowersCount": 76059,
+    "pinnedTweetIdsStr": [
+      "1972939407033552903"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1525742352006287361/1724061174",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1981574059759378432/Fgvjn2l0_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "Michael_Liu93",
+    "statusesCount": 11660,
+    "translatorType": "none",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "profileImageShape": "Circle",
+  "restId": "1525742352006287361",
+  "tipjarSettings": {}
+}

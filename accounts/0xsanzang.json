@@ -1,0 +1,77 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNDQ0NzQ2ODI5NjIzNTI5NDcy",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Sun Oct 03 19:31:10 +0000 2021",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "$btc | #修仙 | 保守主义 | 儿童故事会 | 阳明信徒 | 心外无物 | 百无一用 | 有付费魔方大厦社群详情见👇，",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "ouydl.org/ul/pThCucg",
+            "expanded_url": "http://ouydl.org/ul/pThCucg",
+            "url": "https://t.co/BRsStFvBOm",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 605,
+    "followersCount": 7347,
+    "following": true,
+    "friendsCount": 971,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 130,
+    "location": "",
+    "mediaCount": 1967,
+    "name": "0x三藏 | 三生万物",
+    "normalFollowersCount": 7347,
+    "pinnedTweetIdsStr": [
+      "1980420941965586574"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1444746829623529472/1716283812",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1737518472584994817/VXPboeJE_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "0xsanzang",
+    "statusesCount": 6574,
+    "translatorType": "none",
+    "url": "https://t.co/BRsStFvBOm",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [
+      {
+        "iconName": "IconBriefcaseStroke",
+        "id": 530,
+        "name": "Astrologist"
+      }
+    ],
+    "professionalType": "Creator",
+    "restId": "1516826123790786561"
+  },
+  "profileImageShape": "Circle",
+  "restId": "1444746829623529472",
+  "tipjarSettings": {
+    "bitcoinHandle": "14F5N1n6JWgYjAfPfBeXeGNfjH1zqt8utx",
+    "ethereumHandle": "0x2ec3e75ddee3005c77ef23345350dfed9efe833a",
+    "isEnabled": true
+  }
+}

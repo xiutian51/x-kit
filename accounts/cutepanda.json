@@ -1,0 +1,80 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNDEyMzQ3NjcwMjQ1NTExMTgz",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Tue Jul 06 09:48:49 +0000 2021",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "$Virtual Bullish on Robotics Fragment: +888 0999 0888 Telegram: @CutePandaWeb3 https://t.co/J8V8soOl3P",
+    "entities": {
+      "description": {
+        "urls": [
+          {
+            "display_url": "t.me/cutepandacalls",
+            "expanded_url": "https://t.me/cutepandacalls",
+            "url": "https://t.co/J8V8soOl3P",
+            "indices": [
+              79,
+              102
+            ]
+          }
+        ]
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "fomo.family/r/cutepanda",
+            "expanded_url": "https://fomo.family/r/cutepanda",
+            "url": "https://t.co/4jrRcPQ44l",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 2744,
+    "followersCount": 23735,
+    "following": true,
+    "friendsCount": 2009,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 825,
+    "location": "",
+    "mediaCount": 1075,
+    "name": "cutepanda",
+    "normalFollowersCount": 23735,
+    "pinnedTweetIdsStr": [],
+    "possiblySensitive": false,
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1989582811276382208/M1_OqPVK_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "cutepanda",
+    "statusesCount": 6791,
+    "translatorType": "none",
+    "url": "https://t.co/4jrRcPQ44l",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [
+      {
+        "iconName": "IconBriefcaseStroke",
+        "id": 192,
+        "name": "Financial Services"
+      }
+    ],
+    "professionalType": "Creator",
+    "restId": "1629450581625692168"
+  },
+  "profileImageShape": "Circle",
+  "restId": "1412347670245511183",
+  "tipjarSettings": {}
+}

@@ -1,0 +1,62 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxMzYxNTc3MjMwMjE2NzUzMTU5",
+  "isBlueVerified": false,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": false,
+    "createdAt": "Tue Feb 16 07:24:52 +0000 2021",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "",
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 3224,
+    "followersCount": 332,
+    "following": true,
+    "friendsCount": 1257,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 9,
+    "location": "",
+    "mediaCount": 47,
+    "name": "defi希希.edge 🦭",
+    "normalFollowersCount": 332,
+    "pinnedTweetIdsStr": [
+      "1988245971583856700"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1361577230216753159/1746417439",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1919236463423807488/whZmmFKX_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "defixixi",
+    "statusesCount": 3550,
+    "translatorType": "none",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [
+      {
+        "iconName": "IconBriefcaseStroke",
+        "id": 192,
+        "name": "Financial Services"
+      }
+    ],
+    "professionalType": "Creator",
+    "restId": "1534509835873820672"
+  },
+  "profileImageShape": "Circle",
+  "restId": "1361577230216753159",
+  "tipjarSettings": {
+    "ethereumHandle": "0xFddd8E89DfB65FE2Da8E907939A281135eF3802d",
+    "isEnabled": true
+  }
+}

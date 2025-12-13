@@ -1,0 +1,59 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxMzMwNTEwNzY2MDQ3NDQ5MDky",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Sun Nov 22 13:57:51 +0000 2020",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "除了套利（亏钱），别的都不会。菜鸡一个，不做任何变现，无任何联系方式。",
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 390,
+    "followersCount": 30784,
+    "following": true,
+    "friendsCount": 1748,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 716,
+    "location": "都是成年人，防盗防骗。",
+    "mediaCount": 102,
+    "name": "爱套利的渣沫沫",
+    "normalFollowersCount": 30784,
+    "pinnedTweetIdsStr": [
+      "1873378739280908734"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1330510766047449092/1702579429",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1737858089112788992/uNgCFT7c_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "zhamomo666",
+    "statusesCount": 758,
+    "translatorType": "none",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [
+      {
+        "iconName": "IconBriefcaseStroke",
+        "id": 1015,
+        "name": "Nonprofits & Activism"
+      }
+    ],
+    "professionalType": "Business",
+    "restId": "1522557920231116800"
+  },
+  "profileImageShape": "Circle",
+  "restId": "1330510766047449092",
+  "tipjarSettings": {}
+}

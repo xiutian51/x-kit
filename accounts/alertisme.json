@@ -1,0 +1,58 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoyODI2MTYxNzAy",
+  "isBlueVerified": false,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": false,
+    "createdAt": "Mon Sep 22 11:07:10 +0000 2014",
+    "defaultProfile": false,
+    "defaultProfileImage": false,
+    "description": "Web3｜DeFi｜RWA｜安全｜智能合约｜钱包｜交易所｜合规｜政府关系｜\n\n前 SlowMist 合伙人 & 安全业务负责人\n前 imToken 硬件钱包 imKey 产品负责人",
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 306,
+    "followedBy": true,
+    "followersCount": 3501,
+    "following": true,
+    "friendsCount": 934,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 38,
+    "location": "",
+    "mediaCount": 36,
+    "name": "ISME",
+    "normalFollowersCount": 3501,
+    "pinnedTweetIdsStr": [],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/2826161702/1749708350",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1933037295860662272/83yjxuOh_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "alertisme",
+    "statusesCount": 153,
+    "translatorType": "none",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [
+      {
+        "iconName": "IconBriefcaseStroke",
+        "id": 713,
+        "name": "Science & Technology"
+      }
+    ],
+    "professionalType": "Business",
+    "restId": "1567857381811564545"
+  },
+  "profileImageShape": "Circle",
+  "restId": "2826161702",
+  "tipjarSettings": {}
+}

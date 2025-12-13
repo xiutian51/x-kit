@@ -1,0 +1,75 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {
+    "label": {
+      "url": {
+        "url": "https://twitter.com/megaeth",
+        "urlType": "DeepLink"
+      },
+      "badge": {
+        "url": "https://pbs.twimg.com/profile_images/1861751545790070784/KvlxTzAq_bigger.jpg"
+      },
+      "description": "MegaETH",
+      "userLabelType": "BusinessLabel",
+      "userLabelDisplayType": "Badge"
+    }
+  },
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjo5NzIwNzQ1NTg2MzAwNjAwMzI=",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": false,
+    "createdAt": "Fri Mar 09 11:40:09 +0000 2018",
+    "defaultProfile": false,
+    "defaultProfileImage": false,
+    "description": "cofounder @megaeth | advisoooor @Consensys I founder 🔥hotpot DAO 🔥I paid $200k tuition to @harvardhbs when $ETH was $80. AMA",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "shuyao.substack.com",
+            "expanded_url": "https://shuyao.substack.com/",
+            "url": "https://t.co/fQfoNPT7dr",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 32256,
+    "followersCount": 40501,
+    "following": true,
+    "friendsCount": 2208,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 959,
+    "location": "灵境",
+    "mediaCount": 2170,
+    "name": "brother bing / 饼兄 Σ:",
+    "normalFollowersCount": 40501,
+    "pinnedTweetIdsStr": [
+      "1775314323914580049"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/972074558630060032/1736444262",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1877410452608565248/lN8hImdQ_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "hotpot_dao",
+    "statusesCount": 19597,
+    "translatorType": "none",
+    "url": "https://t.co/fQfoNPT7dr",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "profileImageShape": "Circle",
+  "restId": "972074558630060032",
+  "tipjarSettings": {}
+}

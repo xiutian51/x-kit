@@ -1,0 +1,71 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxMjI2MzkxNjcxMzI1MDY5MzEz",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Sun Feb 09 06:25:43 +0000 2020",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "The agent that makes your car really really smart",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "ai.dimo.co",
+            "expanded_url": "https://ai.dimo.co",
+            "url": "https://t.co/Dww8Vh12QH",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 7023,
+    "followersCount": 30473,
+    "following": true,
+    "friendsCount": 1848,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 322,
+    "location": "",
+    "mediaCount": 1007,
+    "name": "DIMO",
+    "normalFollowersCount": 30473,
+    "pinnedTweetIdsStr": [],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1226391671325069313/1761849685",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1983966734856982528/Li6NAfhJ_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "DIMO_Network",
+    "statusesCount": 3605,
+    "translatorType": "none",
+    "url": "https://t.co/Dww8Vh12QH",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [
+      {
+        "iconName": "IconBriefcaseStroke",
+        "id": 1009,
+        "name": "Community"
+      }
+    ],
+    "professionalType": "Business",
+    "restId": "1527122096555368449"
+  },
+  "profileImageShape": "Circle",
+  "restId": "1226391671325069313",
+  "tipjarSettings": {}
+}

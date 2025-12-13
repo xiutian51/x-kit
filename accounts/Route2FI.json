@@ -1,0 +1,70 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {
+    "label": {
+      "url": {
+        "url": "https://twitter.com/PolymarketTrade",
+        "urlType": "DeepLink"
+      },
+      "badge": {
+        "url": "https://pbs.twimg.com/profile_images/1984009470628761600/g0ajJ_4j_bigger.jpg"
+      },
+      "description": "Polymarket Traders",
+      "userLabelType": "BusinessLabel",
+      "userLabelDisplayType": "Badge"
+    }
+  },
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxMDg0Mzk3OTQyMzE5MDU0ODUw",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Sun Jan 13 10:33:11 +0000 2019",
+    "defaultProfile": false,
+    "defaultProfileImage": false,
+    "description": "Trading on news & the latest narratives | Writing about what's on my mind | @paradex maxi",
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 345583,
+    "followersCount": 302108,
+    "following": true,
+    "friendsCount": 1939,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 7013,
+    "location": "",
+    "mediaCount": 1394,
+    "name": "Route 2 FI",
+    "normalFollowersCount": 302108,
+    "pinnedTweetIdsStr": [
+      "1891406641326879018"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1084397942319054850/1623789416",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1469588644088451073/VEu0DKDG_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "Route2FI",
+    "statusesCount": 26656,
+    "translatorType": "none",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [],
+    "professionalType": "Creator",
+    "restId": "1459074136043667472"
+  },
+  "profileImageShape": "Circle",
+  "restId": "1084397942319054850",
+  "tipjarSettings": {
+    "bitcoinHandle": "",
+    "ethereumHandle": "0x5FafDA4Af3CCB1D5b659b2dA1e7b18aC1F8f1930",
+    "isEnabled": false
+  }
+}

@@ -1,0 +1,70 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNTUxNDc2MjExNjIwMjMzMjE2",
+  "isBlueVerified": false,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Mon Jul 25 07:55:43 +0000 2022",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "Crypto Insights for founders｜Founder @YBSBarker｜Alum @LSEnews",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "ybsbarker.com",
+            "expanded_url": "https://ybsbarker.com",
+            "url": "https://t.co/0zH4e808Z5",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 1530,
+    "followersCount": 3210,
+    "following": true,
+    "friendsCount": 153,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 93,
+    "location": "unstable",
+    "mediaCount": 194,
+    "name": "佐爷",
+    "normalFollowersCount": 3210,
+    "pinnedTweetIdsStr": [
+      "1997576065808818645"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1551476211620233216/1706673761",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1724277024452395008/y40rkhlH_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "zuoyeweb3",
+    "statusesCount": 1329,
+    "translatorType": "none",
+    "url": "https://t.co/0zH4e808Z5",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [],
+    "professionalType": "Creator",
+    "restId": "1599138673550921730"
+  },
+  "profileImageShape": "Circle",
+  "restId": "1551476211620233216",
+  "tipjarSettings": {
+    "ethereumHandle": "0x47Ed3c2c7eA58924058477F576722362de8C54D3",
+    "isEnabled": true
+  }
+}

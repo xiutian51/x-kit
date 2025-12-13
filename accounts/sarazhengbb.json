@@ -1,0 +1,57 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNDAwODMxNDY4MzE4ODQ2OTgy",
+  "isBlueVerified": false,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Fri Jun 04 15:07:13 +0000 2021",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "Never all-in Crypto | Grow up with #Web3 | Studying #MKT | Bilingual | ISFJ | GDUFS |",
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 420,
+    "followersCount": 700,
+    "following": true,
+    "friendsCount": 354,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 4,
+    "location": "旺铺不会出租",
+    "mediaCount": 60,
+    "name": "Sarazhengbb 🐨",
+    "normalFollowersCount": 700,
+    "pinnedTweetIdsStr": [],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1400831468318846982/1733451343",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1840755266167652352/kfrg1UIw_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "sarazhengbb",
+    "statusesCount": 1513,
+    "translatorType": "none",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [
+      {
+        "iconName": "IconBriefcaseStroke",
+        "id": 934,
+        "name": "Social Media Influencer"
+      }
+    ],
+    "professionalType": "Creator",
+    "restId": "1867567723745772030"
+  },
+  "profileImageShape": "Circle",
+  "restId": "1400831468318846982",
+  "tipjarSettings": {}
+}

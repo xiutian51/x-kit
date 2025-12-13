@@ -1,0 +1,72 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoyMzA2NjMxMzkx",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Thu Jan 23 14:00:09 +0000 2014",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "Founder @1kBCapital\nTrader\n2019-24五年币coin全公开实盘交易员 已退出\n没有收费群\n\nColumbia University MSFE / Ex-Amber Group / 1kB Capital / Crypto Since Oct 2017",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "1kb.capital",
+            "expanded_url": "http://1kb.capital",
+            "url": "https://t.co/vMV5x21tuO",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 102,
+    "followersCount": 23838,
+    "following": true,
+    "friendsCount": 580,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 676,
+    "location": "",
+    "mediaCount": 86,
+    "name": "安东尼Anthony",
+    "normalFollowersCount": 23838,
+    "pinnedTweetIdsStr": [
+      "1855453087227691276"
+    ],
+    "possiblySensitive": false,
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1961015242940665856/Et8NCDxS_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "1kbxx",
+    "statusesCount": 793,
+    "translatorType": "regular",
+    "url": "https://t.co/vMV5x21tuO",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [
+      {
+        "iconName": "IconBriefcaseStroke",
+        "id": 192,
+        "name": "Financial Services"
+      }
+    ],
+    "professionalType": "Business",
+    "restId": "1666742929355046914"
+  },
+  "profileImageShape": "Circle",
+  "restId": "2306631391",
+  "tipjarSettings": {}
+}

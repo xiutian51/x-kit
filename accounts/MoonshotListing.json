@@ -1,0 +1,58 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxODE2ODkwMjYyMTkyMjc5NTUy",
+  "isBlueVerified": false,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Fri Jul 26 17:36:19 +0000 2024",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "By @0xYupa.\n\nNot affiliated with @moonshot.\n\nAXIOM : https://t.co/vJ3SOID5xH",
+    "entities": {
+      "description": {
+        "urls": [
+          {
+            "display_url": "axiom.trade/@yupa",
+            "expanded_url": "https://axiom.trade/@yupa",
+            "url": "https://t.co/vJ3SOID5xH",
+            "indices": [
+              53,
+              76
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 36,
+    "followersCount": 38857,
+    "following": true,
+    "friendsCount": 16,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 568,
+    "location": "",
+    "mediaCount": 1,
+    "name": "Moonshot Listings ( Unaffiliated )",
+    "normalFollowersCount": 38857,
+    "pinnedTweetIdsStr": [
+      "1873526594423468483"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1816890262192279552/1729077006",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1816932814438219776/9Z4YXTd3_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "MoonshotListing",
+    "statusesCount": 372,
+    "translatorType": "none",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "profileImageShape": "Circle",
+  "restId": "1816890262192279552",
+  "tipjarSettings": {}
+}

@@ -1,0 +1,84 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxODgxMTY4Nzk0",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": false,
+    "canMediaTag": true,
+    "createdAt": "Wed Sep 18 23:01:47 +0000 2013",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "The most authoritative publication covering tech that high-powered tech execs and founders read daily.\n\nTITV M-F at 1 ET: https://t.co/M0NywExPjR",
+    "entities": {
+      "description": {
+        "urls": [
+          {
+            "display_url": "theinformation.com/titv",
+            "expanded_url": "https://www.theinformation.com/titv",
+            "url": "https://t.co/M0NywExPjR",
+            "indices": [
+              122,
+              145
+            ]
+          }
+        ]
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "theinformation.com/subscribe_h",
+            "expanded_url": "https://www.theinformation.com/subscribe_h",
+            "url": "https://t.co/fsBmMpI5tX",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 9495,
+    "followersCount": 131469,
+    "following": true,
+    "friendsCount": 704,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 2909,
+    "location": "San Francisco",
+    "mediaCount": 5281,
+    "name": "The Information",
+    "normalFollowersCount": 131469,
+    "pinnedTweetIdsStr": [
+      "1998524408181276786"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1881168794/1744910621",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1747484907163516928/d_K3Z_hH_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "theinformation",
+    "statusesCount": 35200,
+    "translatorType": "none",
+    "url": "https://t.co/fsBmMpI5tX",
+    "verified": false,
+    "verifiedType": "Business",
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [
+      {
+        "iconName": "IconBriefcaseStroke",
+        "id": 580,
+        "name": "Media & News Company"
+      }
+    ],
+    "professionalType": "Business",
+    "restId": "1534971359113138212"
+  },
+  "profileImageShape": "Square",
+  "restId": "1881168794",
+  "tipjarSettings": {}
+}

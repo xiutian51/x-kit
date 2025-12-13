@@ -1,0 +1,70 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNDYzNjU1MDM4OTM3NzA2NTAw",
+  "isBlueVerified": false,
+  "legacy": {
+    "canDm": false,
+    "canMediaTag": true,
+    "createdAt": "Wed Nov 24 23:45:45 +0000 2021",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "Build a better internet, together.\n\nCommunity on a mission to help builders create the future of the Web.\n\nhttps://t.co/C5s6Eu7MnH 🌇",
+    "entities": {
+      "description": {
+        "urls": [
+          {
+            "display_url": "discord.builderdao.io",
+            "expanded_url": "http://discord.builderdao.io",
+            "url": "https://t.co/C5s6Eu7MnH",
+            "indices": [
+              107,
+              130
+            ]
+          }
+        ]
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "builderdao.io",
+            "expanded_url": "https://builderdao.io",
+            "url": "https://t.co/Ws0XFYwA5Z",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 228,
+    "followersCount": 1915,
+    "following": true,
+    "friendsCount": 35,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 45,
+    "location": "web3",
+    "mediaCount": 23,
+    "name": "Builder DAO",
+    "normalFollowersCount": 1915,
+    "pinnedTweetIdsStr": [],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1463655038937706500/1643745412",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1509556827331121155/77h9MlPm_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "TheBuilderDAO",
+    "statusesCount": 217,
+    "translatorType": "none",
+    "url": "https://t.co/Ws0XFYwA5Z",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "profileImageShape": "Circle",
+  "restId": "1463655038937706500",
+  "tipjarSettings": {}
+}

@@ -1,0 +1,74 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxMDQ0ODM2MDgzNTMwNDUyOTky",
+  "isBlueVerified": false,
+  "legacy": {
+    "canDm": false,
+    "canMediaTag": true,
+    "createdAt": "Wed Sep 26 06:28:29 +0000 2018",
+    "defaultProfile": false,
+    "defaultProfileImage": false,
+    "description": "Together we're building the Superchain to scale Ethereum | OP Labs @OPLabsPBC | Governance @OptimismGov",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "optimism.io",
+            "expanded_url": "https://www.optimism.io/",
+            "url": "https://t.co/7DN4HF2Zqf",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 15368,
+    "followersCount": 740550,
+    "following": true,
+    "friendsCount": 279,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 4421,
+    "location": "Global",
+    "mediaCount": 1130,
+    "name": "Optimism",
+    "normalFollowersCount": 740550,
+    "pinnedTweetIdsStr": [
+      "1998745523629736333"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1044836083530452992/1709676539",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1734354549496836096/-laoU9C9_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "Optimism",
+    "statusesCount": 9270,
+    "translatorType": "none",
+    "url": "https://t.co/7DN4HF2Zqf",
+    "verified": false,
+    "verifiedType": "Business",
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [
+      {
+        "iconName": "IconBriefcaseStroke",
+        "id": 713,
+        "name": "Science & Technology"
+      }
+    ],
+    "professionalType": "Business",
+    "restId": "1726698632580157938"
+  },
+  "profileImageShape": "Square",
+  "restId": "1044836083530452992",
+  "tipjarSettings": {}
+}

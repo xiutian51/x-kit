@@ -1,0 +1,55 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNTE5MDA4MjA1NjYxNDQyMDQ5",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Tue Apr 26 17:39:20 +0000 2022",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "building @goplussecurity | security | ai | invest | intp\n\n🛡️On-chain security, use GoPlus: https://t.co/VavSqWAf4e",
+    "entities": {
+      "description": {
+        "urls": [
+          {
+            "display_url": "chromewebstore.google.com/search/goplus",
+            "expanded_url": "https://chromewebstore.google.com/search/goplus",
+            "url": "https://t.co/VavSqWAf4e",
+            "indices": [
+              91,
+              114
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 654,
+    "followersCount": 2135,
+    "following": true,
+    "friendsCount": 1512,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 57,
+    "location": "",
+    "mediaCount": 62,
+    "name": "beekeeper 🚦 acc/dd",
+    "normalFollowersCount": 2135,
+    "pinnedTweetIdsStr": [],
+    "possiblySensitive": false,
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1785965808319152128/gLJqSBPL_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "gbeekeeper",
+    "statusesCount": 825,
+    "translatorType": "none",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "profileImageShape": "Circle",
+  "restId": "1519008205661442049",
+  "tipjarSettings": {}
+}

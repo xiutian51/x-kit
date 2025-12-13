@@ -1,0 +1,83 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNzc2OTE3MjQ2MjcyNzUzNjY0",
+  "isBlueVerified": false,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Sun Apr 07 10:18:07 +0000 2024",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "The first AMM-based pre-market DEX, trading like Uniswap | Support ✨ Points 🪙 Pre-launch tokens 📅 Vesting tokens | https://t.co/SpMxUxXcpF",
+    "entities": {
+      "description": {
+        "urls": [
+          {
+            "display_url": "app.bubbly.finance",
+            "expanded_url": "http://app.bubbly.finance",
+            "url": "https://t.co/SpMxUxXcpF",
+            "indices": [
+              115,
+              138
+            ]
+          }
+        ]
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "link3.to/bubbly_finance",
+            "expanded_url": "https://link3.to/bubbly_finance",
+            "url": "https://t.co/gL143QyCLf",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 264,
+    "followersCount": 6858,
+    "following": true,
+    "friendsCount": 65,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 29,
+    "location": "Omnichain",
+    "mediaCount": 154,
+    "name": "Bubbly 🫧",
+    "normalFollowersCount": 6858,
+    "pinnedTweetIdsStr": [
+      "1828069896074473949"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1776917246272753664/1716910871",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1875028475368833024/VMUORf2m_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "BubblyFinance",
+    "statusesCount": 391,
+    "translatorType": "none",
+    "url": "https://t.co/gL143QyCLf",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [
+      {
+        "iconName": "IconBriefcaseStroke",
+        "id": 714,
+        "name": "Technology Company"
+      }
+    ],
+    "professionalType": "Business",
+    "restId": "1776919865808637974"
+  },
+  "profileImageShape": "Circle",
+  "restId": "1776917246272753664",
+  "tipjarSettings": {}
+}

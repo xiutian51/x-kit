@@ -1,0 +1,58 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNDIwODQyMjU5OTczNTQxODk3",
+  "isBlueVerified": false,
+  "legacy": {
+    "canDm": false,
+    "canMediaTag": true,
+    "createdAt": "Thu Jul 29 20:22:53 +0000 2021",
+    "defaultProfile": true,
+    "defaultProfileImage": true,
+    "description": "",
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 132,
+    "followersCount": 2924,
+    "following": true,
+    "friendsCount": 0,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 18,
+    "location": "",
+    "mediaCount": 2,
+    "name": "Gucci Berry",
+    "normalFollowersCount": 2924,
+    "pinnedTweetIdsStr": [
+      "1737160626684788985"
+    ],
+    "possiblySensitive": false,
+    "profileImageUrlHttps": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+    "profileInterstitialType": "",
+    "screenName": "GucciBari",
+    "statusesCount": 58,
+    "translatorType": "none",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [
+      {
+        "iconName": "IconBriefcaseStroke",
+        "id": 713,
+        "name": "Science & Technology"
+      }
+    ],
+    "professionalType": "Business",
+    "restId": "1737099474088939762"
+  },
+  "profileImageShape": "Circle",
+  "restId": "1420842259973541897",
+  "tipjarSettings": {}
+}

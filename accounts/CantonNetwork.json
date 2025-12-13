@@ -1,0 +1,74 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNjM1NDE5MDQ1MDU4MDMxNjE3",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": false,
+    "canMediaTag": true,
+    "createdAt": "Mon Mar 13 23:15:10 +0000 2023",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "The only public blockchain with privacy that works, powering Wall Street and trillions on-chain.",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "canton.network",
+            "expanded_url": "https://www.canton.network",
+            "url": "https://t.co/YQE0zcbIX0",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 1082,
+    "followersCount": 74720,
+    "following": true,
+    "friendsCount": 215,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 231,
+    "location": "NYC",
+    "mediaCount": 429,
+    "name": "Canton Network",
+    "normalFollowersCount": 74720,
+    "pinnedTweetIdsStr": [
+      "1987912531676205239"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1635419045058031617/1755560758",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1957589819074158594/Wgh-q50O_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "CantonNetwork",
+    "statusesCount": 2730,
+    "translatorType": "none",
+    "url": "https://t.co/YQE0zcbIX0",
+    "verified": false,
+    "verifiedType": "Business",
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [
+      {
+        "iconName": "IconBriefcaseStroke",
+        "id": 1094,
+        "name": "Blockchain"
+      }
+    ],
+    "professionalType": "Business",
+    "restId": "1986904344923680849"
+  },
+  "profileImageShape": "Square",
+  "restId": "1635419045058031617",
+  "tipjarSettings": {}
+}

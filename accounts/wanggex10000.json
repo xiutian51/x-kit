@@ -1,0 +1,45 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNzY3NDc4NzEwMTk2OTA4MDMy",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": false,
+    "canMediaTag": true,
+    "createdAt": "Tue Mar 12 09:12:37 +0000 2024",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "Main player meme sol bsc",
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 27253,
+    "followersCount": 5506,
+    "following": true,
+    "friendsCount": 6387,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 25,
+    "location": "",
+    "mediaCount": 331,
+    "name": "Jerry 🏝️|蓝鸟会🕊|",
+    "normalFollowersCount": 5506,
+    "pinnedTweetIdsStr": [],
+    "possiblySensitive": false,
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1767480006685720576/9eIr5E8d_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "wanggex10000",
+    "statusesCount": 29851,
+    "translatorType": "none",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "profileImageShape": "Circle",
+  "restId": "1767478710196908032",
+  "tipjarSettings": {}
+}

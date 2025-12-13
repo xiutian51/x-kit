@@ -1,0 +1,73 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNTI4MTIzNzA3MTQ2ODcwNzg2",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": false,
+    "createdAt": "Sat May 21 21:21:13 +0000 2022",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "content creator / shitposter\n\ncreate useless lists",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "t.me/kuchdeals",
+            "expanded_url": "http://t.me/kuchdeals",
+            "url": "https://t.co/EjUgEGIl8J",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 112178,
+    "followersCount": 57260,
+    "following": true,
+    "friendsCount": 1481,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 833,
+    "location": "",
+    "mediaCount": 5072,
+    "name": "kuch",
+    "normalFollowersCount": 57260,
+    "pinnedTweetIdsStr": [
+      "1985757581172977747"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1528123707146870786/1752266437",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1923797852968333312/eWzXpnRZ_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "thekuchh",
+    "statusesCount": 34268,
+    "translatorType": "none",
+    "url": "https://t.co/EjUgEGIl8J",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [
+      {
+        "iconName": "IconBriefcaseStroke",
+        "id": 934,
+        "name": "Social Media Influencer"
+      }
+    ],
+    "professionalType": "Creator",
+    "restId": "1646246768634363906"
+  },
+  "profileImageShape": "Circle",
+  "restId": "1528123707146870786",
+  "tipjarSettings": {}
+}

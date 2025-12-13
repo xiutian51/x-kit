@@ -1,0 +1,63 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNzE1Njg5OTU0MDcwNzM2ODk2",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Sat Oct 21 11:22:30 +0000 2023",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "Liquidity for All\n\n| Unlock Your Trading Edge",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "linktr.ee/edgeX.exchange",
+            "expanded_url": "https://linktr.ee/edgeX.exchange",
+            "url": "https://t.co/lGamKABw0i",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 414,
+    "followersCount": 43596,
+    "following": true,
+    "friendsCount": 19,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 198,
+    "location": "Ethereum",
+    "mediaCount": 218,
+    "name": "edgeX🦭",
+    "normalFollowersCount": 43596,
+    "pinnedTweetIdsStr": [
+      "1990714531027493366"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1715689954070736896/1762243334",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1976495879319322624/mMUMJ9ym_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "edgeX_exchange",
+    "statusesCount": 423,
+    "translatorType": "none",
+    "url": "https://t.co/lGamKABw0i",
+    "verified": false,
+    "verifiedType": "Business",
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "profileImageShape": "Square",
+  "restId": "1715689954070736896",
+  "tipjarSettings": {}
+}

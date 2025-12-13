@@ -1,0 +1,73 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjozODYyODI1NjA=",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Fri Oct 07 00:11:04 +0000 2011",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "🇨🇳🇺🇸🇸🇬🇯🇵 Founder of @primitivecrypto Thesis: Long substance, short status; Long freedom, short coercion. @DoveyWanCN for 中文 @DoveyAgeX for max health",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "primitive.ventures",
+            "expanded_url": "https://primitive.ventures/",
+            "url": "https://t.co/WR1vuMWpyC",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 7290,
+    "followersCount": 139804,
+    "following": true,
+    "friendsCount": 624,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 2559,
+    "location": "Decentralized",
+    "mediaCount": 2941,
+    "name": "Dovey \"Rug the fiat\" Wan (hiring)",
+    "normalFollowersCount": 139804,
+    "pinnedTweetIdsStr": [
+      "1374390028218994688"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/386282560/1657640470",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1842438817397297152/0WZDqXBE_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "DoveyWan",
+    "statusesCount": 17985,
+    "translatorType": "none",
+    "url": "https://t.co/WR1vuMWpyC",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [
+      {
+        "iconName": "IconBriefcaseStroke",
+        "id": 958,
+        "name": "Entrepreneur"
+      }
+    ],
+    "professionalType": "Creator",
+    "restId": "1923259628756009245"
+  },
+  "profileImageShape": "Circle",
+  "restId": "386282560",
+  "tipjarSettings": {}
+}

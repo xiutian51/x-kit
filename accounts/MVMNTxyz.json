@@ -1,0 +1,45 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNTY5MTc4NDA1MzQ1Njc3MzEz",
+  "isBlueVerified": false,
+  "legacy": {
+    "canDm": false,
+    "canMediaTag": true,
+    "createdAt": "Mon Sep 12 04:18:06 +0000 2022",
+    "defaultProfile": true,
+    "defaultProfileImage": true,
+    "description": "",
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 15,
+    "followersCount": 571,
+    "following": true,
+    "friendsCount": 0,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 2,
+    "location": "",
+    "mediaCount": 1,
+    "name": "MVMNT",
+    "normalFollowersCount": 571,
+    "pinnedTweetIdsStr": [],
+    "possiblySensitive": false,
+    "profileImageUrlHttps": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+    "profileInterstitialType": "",
+    "screenName": "MVMNTxyz",
+    "statusesCount": 4,
+    "translatorType": "none",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "profileImageShape": "Circle",
+  "restId": "1569178405345677313",
+  "tipjarSettings": {}
+}

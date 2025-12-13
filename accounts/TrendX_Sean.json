@@ -1,0 +1,81 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNTE0OTI5Nzg2MTQwNzc4NTAy",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Fri Apr 15 11:35:43 +0000 2022",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "CMO @TrendX_official  \nBuilder with a marketer’s soul | Simplifying on-chain trading\nStart: https://t.co/Eiyn6ex3hW",
+    "entities": {
+      "description": {
+        "urls": [
+          {
+            "display_url": "trendx.tech",
+            "expanded_url": "http://trendx.tech",
+            "url": "https://t.co/Eiyn6ex3hW",
+            "indices": [
+              92,
+              115
+            ]
+          }
+        ]
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "linktr.ee/trendx.tech",
+            "expanded_url": "https://linktr.ee/trendx.tech",
+            "url": "https://t.co/zK9AID69Z3",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 3240,
+    "followersCount": 29402,
+    "following": true,
+    "friendsCount": 127,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 57,
+    "location": "Abu Dhabi",
+    "mediaCount": 21,
+    "name": "Sean",
+    "normalFollowersCount": 29402,
+    "pinnedTweetIdsStr": [],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1514929786140778502/1747365373",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1928417797346111488/xXqw_mQS_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "TrendX_Sean",
+    "statusesCount": 291,
+    "translatorType": "none",
+    "url": "https://t.co/zK9AID69Z3",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [
+      {
+        "iconName": "IconBriefcaseStroke",
+        "id": 958,
+        "name": "Entrepreneur"
+      }
+    ],
+    "professionalType": "Creator",
+    "restId": "1621329245783080960"
+  },
+  "profileImageShape": "Circle",
+  "restId": "1514929786140778502",
+  "tipjarSettings": {}
+}

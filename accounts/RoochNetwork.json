@@ -1,0 +1,83 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNjAwNzc3NzIxMDc1ODM4OTc3",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Thu Dec 08 09:04:05 +0000 2022",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "Bitcoin Secured MoveVM Layer2\n\nPre-mainnet 🔜  Mainnet 👉 https://t.co/3u5ERsSHJl",
+    "entities": {
+      "description": {
+        "urls": [
+          {
+            "display_url": "linktr.ee/roochnetwork",
+            "expanded_url": "http://linktr.ee/roochnetwork",
+            "url": "https://t.co/3u5ERsSHJl",
+            "indices": [
+              56,
+              79
+            ]
+          }
+        ]
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "rooch.network",
+            "expanded_url": "https://rooch.network",
+            "url": "https://t.co/4F1oNEhIqh",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 315,
+    "followersCount": 51599,
+    "following": true,
+    "friendsCount": 95,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 116,
+    "location": "Web3",
+    "mediaCount": 259,
+    "name": "Rooch Network",
+    "normalFollowersCount": 51599,
+    "pinnedTweetIdsStr": [
+      "1867414512816861376"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1600777721075838977/1723016906",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1846897640677822470/8g6-quYE_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "RoochNetwork",
+    "statusesCount": 715,
+    "translatorType": "none",
+    "url": "https://t.co/4F1oNEhIqh",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [
+      {
+        "iconName": "IconBriefcaseStroke",
+        "id": 1009,
+        "name": "Community"
+      }
+    ],
+    "professionalType": "Business",
+    "restId": "1607578242780889091"
+  },
+  "profileImageShape": "Circle",
+  "restId": "1600777721075838977",
+  "tipjarSettings": {}
+}

@@ -1,0 +1,73 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNDQzNTEwNDI2MjIyODE3Mjgy",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Thu Sep 30 09:38:05 +0000 2021",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "CEO of @Stablestock; Venture Partner of MPCI经纬; CoFounder of @10kventure. Build for Onchain Stock Ecosystem",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "linkedin.com/in/zixi-zhu-8b…",
+            "expanded_url": "https://www.linkedin.com/in/zixi-zhu-8bb57b1ab/",
+            "url": "https://t.co/CNeRdfQ28d",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 5674,
+    "followersCount": 14238,
+    "following": true,
+    "friendsCount": 1804,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 273,
+    "location": "Singapore",
+    "mediaCount": 446,
+    "name": "Zixi.bnb @ We're building Stablestock",
+    "normalFollowersCount": 14238,
+    "pinnedTweetIdsStr": [],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1443510426222817282/1752841513",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1951802277964251136/fJ0tXEio_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "ZixiStablestock",
+    "statusesCount": 2246,
+    "translatorType": "none",
+    "url": "https://t.co/CNeRdfQ28d",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [
+      {
+        "iconName": "IconBriefcaseStroke",
+        "id": 192,
+        "name": "Financial Services"
+      }
+    ],
+    "professionalType": "Creator",
+    "restId": "1615352452580282368"
+  },
+  "profileImageShape": "Circle",
+  "restId": "1443510426222817282",
+  "tipjarSettings": {
+    "ethereumHandle": "0xe2d05e337C65e4Bd176e0bdb596EB925984981E4"
+  }
+}

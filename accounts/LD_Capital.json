@@ -1,0 +1,62 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxMDIyNjY0NjA0MTgxMTE4OTc2",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": false,
+    "canMediaTag": true,
+    "createdAt": "Fri Jul 27 02:06:56 +0000 2018",
+    "defaultProfile": false,
+    "defaultProfileImage": false,
+    "description": "Web3 VC supported 250+ portfolios since 2016. The investments span across Infra, Defi, Gamefi, AI, ETH eco, with afocus on disruptive innovative projects.",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "ldcap.com",
+            "expanded_url": "http://ldcap.com",
+            "url": "https://t.co/UJcEjolwXY",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 1049,
+    "followersCount": 24416,
+    "following": true,
+    "friendsCount": 435,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 634,
+    "location": "HongKong",
+    "mediaCount": 329,
+    "name": "LD Capital",
+    "normalFollowersCount": 24416,
+    "pinnedTweetIdsStr": [
+      "1704378067228205324"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1022664604181118976/1642320853",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1023766350504677376/lLjDKbYh_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "LD_Capital",
+    "statusesCount": 1394,
+    "translatorType": "none",
+    "url": "https://t.co/UJcEjolwXY",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "profileImageShape": "Circle",
+  "restId": "1022664604181118976",
+  "tipjarSettings": {}
+}

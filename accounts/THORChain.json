@@ -1,0 +1,68 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxMDEyMDIxMTcwMjQ0MTYxNTM2",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Wed Jun 27 17:13:44 +0000 2018",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "Decentralized exchange for Bitcoin & native assets on 10+ chains⚡️ Cross-chain infrastructure for Trust Wallet, Ledger & more⚡️$100B+ swapped — Powered by $RUNE",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "swap.thorchain.org",
+            "expanded_url": "http://swap.thorchain.org",
+            "url": "https://t.co/LfBwcvYilM",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 20386,
+    "followersCount": 286702,
+    "following": true,
+    "friendsCount": 1166,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 2278,
+    "location": "thorchain.org",
+    "mediaCount": 2300,
+    "name": "THORChain",
+    "normalFollowersCount": 286702,
+    "pinnedTweetIdsStr": [
+      "1998820472515948777"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1012021170244161536/1756932287",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1882828603018088448/_s0MEEpK_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "THORChain",
+    "statusesCount": 23696,
+    "translatorType": "none",
+    "url": "https://t.co/LfBwcvYilM",
+    "verified": false,
+    "verifiedType": "Business",
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [],
+    "professionalType": "Business",
+    "restId": "1455888850614558726"
+  },
+  "profileImageShape": "Square",
+  "restId": "1012021170244161536",
+  "tipjarSettings": {}
+}

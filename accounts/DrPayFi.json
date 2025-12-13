@@ -1,0 +1,58 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjo2ODE3MDA2Nw==",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Sun Aug 23 15:45:39 +0000 2009",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "Co-founder https://t.co/p9ed05nlYE",
+    "entities": {
+      "description": {
+        "urls": [
+          {
+            "display_url": "Huma.Finance",
+            "expanded_url": "https://Huma.Finance",
+            "url": "https://t.co/p9ed05nlYE",
+            "indices": [
+              11,
+              34
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 8126,
+    "followersCount": 6866,
+    "following": true,
+    "friendsCount": 479,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 96,
+    "location": "",
+    "mediaCount": 56,
+    "name": "Richard Liu",
+    "normalFollowersCount": 6866,
+    "pinnedTweetIdsStr": [
+      "1987708682377773168"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/68170067/1721684651",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1815500521853366272/4QW8Xh_i_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "DrPayFi",
+    "statusesCount": 2292,
+    "translatorType": "none",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "profileImageShape": "Circle",
+  "restId": "68170067",
+  "tipjarSettings": {}
+}

@@ -1,0 +1,100 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {
+    "label": {
+      "url": {
+        "url": "https://twitter.com/binance",
+        "urlType": "DeepLink"
+      },
+      "badge": {
+        "url": "https://pbs.twimg.com/profile_images/1940131561103347712/f5y2qENu_bigger.jpg"
+      },
+      "description": "Binance",
+      "userLabelType": "BusinessLabel",
+      "userLabelDisplayType": "Badge"
+    }
+  },
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNDUxMDM2MjQyNDMxMjYyNzIw",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Thu Oct 21 04:03:48 +0000 2021",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "关注Binance华语，\n洞悉行情节奏，\n劲享币安重重好礼，\n让你的邻家小编不下岗！\n注册立拿100U：https://t.co/SLuxJUoDEi\n商业合作： https://t.co/aPXd3SWVfx\n #Binance #BNB",
+    "entities": {
+      "description": {
+        "urls": [
+          {
+            "display_url": "binance.com/zh-CN",
+            "expanded_url": "https://www.binance.com/zh-CN",
+            "url": "https://t.co/SLuxJUoDEi",
+            "indices": [
+              52,
+              75
+            ]
+          },
+          {
+            "display_url": "t.me/chloeset0",
+            "expanded_url": "https://t.me/chloeset0",
+            "url": "https://t.co/aPXd3SWVfx",
+            "indices": [
+              82,
+              105
+            ]
+          }
+        ]
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "binance.com/zh-CN/download",
+            "expanded_url": "http://binance.com/zh-CN/download",
+            "url": "https://t.co/MuMMBD1AVs",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 7574,
+    "followersCount": 427174,
+    "following": true,
+    "friendsCount": 382,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 2402,
+    "location": "",
+    "mediaCount": 7626,
+    "name": "币安Binance华语",
+    "normalFollowersCount": 427174,
+    "pinnedTweetIdsStr": [
+      "1999043754771312686"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1451036242431262720/1765141945",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1815972658640740354/RySOJZ_Q_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "binancezh",
+    "statusesCount": 15110,
+    "translatorType": "none",
+    "url": "https://t.co/MuMMBD1AVs",
+    "verified": false,
+    "verifiedType": "Business",
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [],
+    "professionalType": "Business",
+    "restId": "1509773328235757569"
+  },
+  "profileImageShape": "Square",
+  "restId": "1451036242431262720",
+  "tipjarSettings": {}
+}

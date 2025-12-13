@@ -1,0 +1,71 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxMzM5ODM4MDEzNDg5MTI3NDI0",
+  "isBlueVerified": false,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Fri Dec 18 07:41:17 +0000 2020",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "The First-to-Market Aggregator of Decentralized Data Storages for Web 3.0",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "coldstack.io",
+            "expanded_url": "https://coldstack.io/",
+            "url": "https://t.co/EqIm4x0R29",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 1226,
+    "followersCount": 30609,
+    "following": true,
+    "friendsCount": 130,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 143,
+    "location": "Decentralized",
+    "mediaCount": 321,
+    "name": "ColdStack",
+    "normalFollowersCount": 30609,
+    "pinnedTweetIdsStr": [],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1339838013489127424/1652263751",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1524330606146068481/LAtTn39e_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "coldstack_io",
+    "statusesCount": 612,
+    "translatorType": "none",
+    "url": "https://t.co/EqIm4x0R29",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [
+      {
+        "iconName": "IconBriefcaseStroke",
+        "id": 713,
+        "name": "Science & Technology"
+      }
+    ],
+    "professionalType": "Business",
+    "restId": "1486821643624271877"
+  },
+  "profileImageShape": "Circle",
+  "restId": "1339838013489127424",
+  "tipjarSettings": {}
+}

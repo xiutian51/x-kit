@@ -1,0 +1,74 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxMzc2OTU5NTkyMzIwNTczNDQw",
+  "isBlueVerified": false,
+  "legacy": {
+    "canDm": false,
+    "canMediaTag": true,
+    "createdAt": "Tue Mar 30 18:09:39 +0000 2021",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "Move. Play. Create. Solana OG since '21. Building an AI enabled future for Genopets starting with @EliteAgents_AI",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "EliteAgents.ai",
+            "expanded_url": "https://www.EliteAgents.ai/",
+            "url": "https://t.co/Zken8fD5oK",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 13281,
+    "followersCount": 229687,
+    "following": true,
+    "friendsCount": 566,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 960,
+    "location": "Phase AI—Genopets: Elite Agent",
+    "mediaCount": 2743,
+    "name": "Genopets - WHITTAKR Agent Era",
+    "normalFollowersCount": 229687,
+    "pinnedTweetIdsStr": [
+      "1918290918748373399"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1376959592320573440/1723157715",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1819155612350976001/21hjsDF4_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "genopets",
+    "statusesCount": 8681,
+    "translatorType": "none",
+    "url": "https://t.co/Zken8fD5oK",
+    "verified": false,
+    "verifiedType": "Business",
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [
+      {
+        "iconName": "IconBriefcaseStroke",
+        "id": 962,
+        "name": "Mobile Application"
+      }
+    ],
+    "professionalType": "Business",
+    "restId": "1545178584301441029"
+  },
+  "profileImageShape": "Square",
+  "restId": "1376959592320573440",
+  "tipjarSettings": {}
+}

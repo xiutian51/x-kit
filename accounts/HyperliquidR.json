@@ -1,0 +1,62 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxOTc4MzE1MzA5NDcyOTQ4MjI0",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": false,
+    "canMediaTag": true,
+    "createdAt": "Wed Oct 15 04:22:02 +0000 2025",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "The Research Hub for Hyperliquid.\n\nNot part of or affiliated to Hyperliquid team or foundation",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "hyperliquidr.xyz",
+            "expanded_url": "https://hyperliquidr.xyz/",
+            "url": "https://t.co/ZCm0sdKZeA",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 119,
+    "followersCount": 1113,
+    "following": true,
+    "friendsCount": 22,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 30,
+    "location": "Hyperliquid.",
+    "mediaCount": 5,
+    "name": "Hyperliquid Research Collective (HRC)",
+    "normalFollowersCount": 1113,
+    "pinnedTweetIdsStr": [
+      "1990738447569694886"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1978315309472948224/1763083497",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1986353142427230209/adSFchBj_normal.png",
+    "profileInterstitialType": "",
+    "screenName": "HyperliquidR",
+    "statusesCount": 40,
+    "translatorType": "none",
+    "url": "https://t.co/ZCm0sdKZeA",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "profileImageShape": "Circle",
+  "restId": "1978315309472948224",
+  "tipjarSettings": {}
+}

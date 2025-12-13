@@ -1,0 +1,83 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNDg1NDg5MTU2MzY5MzAxNTA4",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": false,
+    "createdAt": "Mon Jan 24 05:46:54 +0000 2022",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "Stop gambling - let AI hunt memecoins & trade with risk control!  \nJoin Wisdomise Community Now 👇\nhttps://t.co/CplEy20gpJ",
+    "entities": {
+      "description": {
+        "urls": [
+          {
+            "display_url": "t.me/Wisdomisecommu…",
+            "expanded_url": "https://t.me/Wisdomisecommunity",
+            "url": "https://t.co/CplEy20gpJ",
+            "indices": [
+              98,
+              121
+            ]
+          }
+        ]
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "app.wisdomise.com/coin-radar/ove…",
+            "expanded_url": "https://app.wisdomise.com/coin-radar/overview?utm_source=twitter_bio",
+            "url": "https://t.co/B7Xrkc3FBm",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 2273,
+    "followersCount": 131561,
+    "following": true,
+    "friendsCount": 149,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 64,
+    "location": "Zug, Switzerland",
+    "mediaCount": 890,
+    "name": "Wisdomise AI",
+    "normalFollowersCount": 131561,
+    "pinnedTweetIdsStr": [
+      "1915703883210412106"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1485489156369301508/1740400350",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1533832248709074945/M2m7CCFl_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "wisdomise",
+    "statusesCount": 2534,
+    "translatorType": "none",
+    "url": "https://t.co/B7Xrkc3FBm",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [
+      {
+        "iconName": "IconBriefcaseStroke",
+        "id": 192,
+        "name": "Financial Services"
+      }
+    ],
+    "professionalType": "Business",
+    "restId": "1485928429602349057"
+  },
+  "profileImageShape": "Circle",
+  "restId": "1485489156369301508",
+  "tipjarSettings": {}
+}

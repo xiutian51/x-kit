@@ -1,0 +1,61 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjo5OTcxMzU3MDgyMDM2MzQ2ODk=",
+  "isBlueVerified": false,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Thu May 17 15:24:13 +0000 2018",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "一级链上搏杀家 山顶望风 买啥跌啥 进圈亏钱 纸手罢了 已经卖飞 $SATS $ATOM $PEPE $NEIRO",
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 2004,
+    "followersCount": 609,
+    "following": true,
+    "friendsCount": 2089,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 6,
+    "location": "City of London, London",
+    "mediaCount": 179,
+    "name": "电子厂流水线线长⚛️💎",
+    "normalFollowersCount": 609,
+    "pinnedTweetIdsStr": [
+      "1842438233428533426"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/997135708203634689/1595053977",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1880993600894590976/oq9ul6A3_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "BAITKKOM",
+    "statusesCount": 1453,
+    "translatorType": "none",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [
+      {
+        "iconName": "IconBriefcaseStroke",
+        "id": 15,
+        "name": "Entertainment & Recreation"
+      }
+    ],
+    "professionalType": "Creator",
+    "restId": "1519202090429521920"
+  },
+  "profileImageShape": "Circle",
+  "restId": "997135708203634689",
+  "tipjarSettings": {
+    "isEnabled": true
+  }
+}

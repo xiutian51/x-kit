@@ -1,0 +1,73 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNTU2NzY1MjY3MjExOTkzMDk3",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Mon Aug 08 22:12:30 +0000 2022",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "Cooking the self-custodial stablecoins neobank @allscaleio",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "allscale.io",
+            "expanded_url": "http://allscale.io",
+            "url": "https://t.co/mgmeC4U0rx",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 2374,
+    "followersCount": 24521,
+    "following": true,
+    "friendsCount": 1724,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 288,
+    "location": "SF / Vancouver",
+    "mediaCount": 719,
+    "name": "Shawn Pang",
+    "normalFollowersCount": 24521,
+    "pinnedTweetIdsStr": [
+      "1998202731132026938"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1556765267211993097/1758747346",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1885945732831858688/uCZD8meP_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "0xshawnpang",
+    "statusesCount": 6344,
+    "translatorType": "none",
+    "url": "https://t.co/mgmeC4U0rx",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [
+      {
+        "iconName": "IconBriefcaseStroke",
+        "id": 958,
+        "name": "Entrepreneur"
+      }
+    ],
+    "professionalType": "Creator",
+    "restId": "1557617191759101952"
+  },
+  "profileImageShape": "Circle",
+  "restId": "1556765267211993097",
+  "tipjarSettings": {}
+}

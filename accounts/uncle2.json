@@ -1,0 +1,70 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjo5NjE1MjAwNjQwNDExMTk3NDQ=",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": false,
+    "createdAt": "Thu Feb 08 08:40:22 +0000 2018",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "🎲 Crypto OG 💻 AI 超级玩家 🧵 Web3 空投资讯：https://t.co/in5jc7AQcw 👛 OneKey 官网购买优惠：https://t.co/itT4L3Y3M1\nirys-verify-0x8068bd-freeguyyee",
+    "entities": {
+      "description": {
+        "urls": [
+          {
+            "display_url": "t.me/w3lumao",
+            "expanded_url": "https://t.me/w3lumao",
+            "url": "https://t.co/in5jc7AQcw",
+            "indices": [
+              34,
+              57
+            ]
+          },
+          {
+            "display_url": "shop.onekey.so/zh-hans?r=Q3QE8",
+            "expanded_url": "https://shop.onekey.so/zh-hans?r=Q3QE8",
+            "url": "https://t.co/itT4L3Y3M1",
+            "indices": [
+              74,
+              97
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 41132,
+    "followersCount": 5092,
+    "following": true,
+    "friendsCount": 6999,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 55,
+    "location": "HongKong",
+    "mediaCount": 1493,
+    "name": "二舅",
+    "normalFollowersCount": 5092,
+    "pinnedTweetIdsStr": [
+      "1935663686007545878"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/961520064041119744/1706939964",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1859211412306051073/SxL4dWGn_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "uncle2",
+    "statusesCount": 31956,
+    "translatorType": "none",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "profileImageShape": "Circle",
+  "restId": "961520064041119744",
+  "tipjarSettings": {
+    "ethereumHandle": "0x3638BBcBd33a88Bb8ac27a2a1AcB9484549979c6",
+    "isEnabled": false
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxMTI4NjQyNTk4ODk2MzgxOTUy",
+  "isBlueVerified": false,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": false,
+    "createdAt": "Wed May 15 12:45:39 +0000 2019",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "🎓@Harvard | 📈@JPMorgan @Fidelity | Equity Research - Portfolio Manager - Crypto OG | 哈佛学霸｜美股顶级机构基金经理 | ✨最新干货实时交流在下方discord 入群有要求✨",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "discord.gg/dHaC3wjC5N",
+            "expanded_url": "https://discord.gg/dHaC3wjC5N",
+            "url": "https://t.co/wM6eUEyyee",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 779,
+    "followersCount": 3546,
+    "following": true,
+    "friendsCount": 326,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 52,
+    "location": "New York, USA",
+    "mediaCount": 107,
+    "name": "哈佛二姐, CFA, CPA",
+    "normalFollowersCount": 3546,
+    "pinnedTweetIdsStr": [
+      "1956035605093351767"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1128642598896381952/1716958911",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1974154301997264904/n0H3P3Fk_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "0xCyborg",
+    "statusesCount": 630,
+    "translatorType": "none",
+    "url": "https://t.co/wM6eUEyyee",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "profileImageShape": "Circle",
+  "restId": "1128642598896381952",
+  "tipjarSettings": {}
+}

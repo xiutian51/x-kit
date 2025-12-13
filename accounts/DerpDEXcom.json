@@ -1,0 +1,72 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxMzk0NjY5MjYwMjcwNTcxNTI3",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Tue May 18 15:00:49 +0000 2021",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "Trade 🧐, earn 🤑, stake 🤩 , and launch 🤯 crypto with the most meme-able DEX. Powered by $DERP 😎 https://t.co/5ZTxI18LXE",
+    "entities": {
+      "description": {
+        "urls": [
+          {
+            "display_url": "derpdex.com",
+            "expanded_url": "http://derpdex.com",
+            "url": "https://t.co/5ZTxI18LXE",
+            "indices": [
+              95,
+              118
+            ]
+          }
+        ]
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "link3.to/derpdex_com",
+            "expanded_url": "https://link3.to/derpdex_com",
+            "url": "https://t.co/aOTHMGh0WO",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 5727,
+    "followersCount": 67832,
+    "following": true,
+    "friendsCount": 586,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 166,
+    "location": "memeland",
+    "mediaCount": 564,
+    "name": "DerpDEX",
+    "normalFollowersCount": 67832,
+    "pinnedTweetIdsStr": [
+      "1776173223060836855"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1394669260270571527/1696237519",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1740291064651808768/e3CcLxEg_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "DerpDEXcom",
+    "statusesCount": 2324,
+    "translatorType": "none",
+    "url": "https://t.co/aOTHMGh0WO",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "profileImageShape": "Circle",
+  "restId": "1394669260270571527",
+  "tipjarSettings": {}
+}

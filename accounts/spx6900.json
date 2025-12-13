@@ -1,0 +1,72 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNzA2NzgwODEzMjY5MDYxNjMy",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": false,
+    "canMediaTag": true,
+    "createdAt": "Tue Sep 26 21:20:36 +0000 2023",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "$SPX: FLIPPING THE STOCK MARKET 💹🧲 https://t.co/PqGcLA8v9N",
+    "entities": {
+      "description": {
+        "urls": [
+          {
+            "display_url": "t.me/SPX6900Portal",
+            "expanded_url": "https://t.me/SPX6900Portal",
+            "url": "https://t.co/PqGcLA8v9N",
+            "indices": [
+              35,
+              58
+            ]
+          }
+        ]
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "spx6900.com",
+            "expanded_url": "http://spx6900.com",
+            "url": "https://t.co/WJUBfvlR3q",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 17846,
+    "followersCount": 84058,
+    "following": true,
+    "friendsCount": 110,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 376,
+    "location": "ETH SOL BASE",
+    "mediaCount": 1331,
+    "name": "SPX6900💹🧲",
+    "normalFollowersCount": 84058,
+    "pinnedTweetIdsStr": [
+      "1868663986868408350"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1706780813269061632/1710129188",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1797870574397452288/6siva-oU_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "spx6900",
+    "statusesCount": 4050,
+    "translatorType": "none",
+    "url": "https://t.co/WJUBfvlR3q",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "profileImageShape": "Circle",
+  "restId": "1706780813269061632",
+  "tipjarSettings": {}
+}

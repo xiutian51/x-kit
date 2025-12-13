@@ -1,0 +1,66 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {
+    "label": {
+      "url": {
+        "url": "https://twitter.com/okx",
+        "urlType": "DeepLink"
+      },
+      "badge": {
+        "url": "https://pbs.twimg.com/profile_images/1968722816154345472/vEj4j3o9_bigger.jpg"
+      },
+      "description": "OKX",
+      "userLabelType": "BusinessLabel",
+      "userLabelDisplayType": "Badge"
+    }
+  },
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjozMjI3NTMyNDQ1",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": false,
+    "createdAt": "Tue May 26 19:56:35 +0000 2015",
+    "defaultProfile": false,
+    "defaultProfileImage": false,
+    "description": "Creator of the OKX brand. Read my personal views about crypto and what we are up to at OKX & @Wallet",
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 32833,
+    "followersCount": 31841,
+    "following": true,
+    "friendsCount": 2538,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 215,
+    "location": "🌎 | 🇺🇸",
+    "mediaCount": 674,
+    "name": "Haider",
+    "normalFollowersCount": 31841,
+    "pinnedTweetIdsStr": [
+      "1971263662070333471"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/3227532445/1757222776",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1975808859915620352/BOVNqhev_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "Haider",
+    "statusesCount": 7598,
+    "translatorType": "none",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [],
+    "professionalType": "Business",
+    "restId": "1521442022057410560"
+  },
+  "profileImageShape": "Circle",
+  "restId": "3227532445",
+  "tipjarSettings": {}
+}

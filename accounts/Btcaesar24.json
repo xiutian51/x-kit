@@ -1,0 +1,76 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjo5MjYwNzUzMTQ5MTE5MjAxMzA=",
+  "isBlueVerified": false,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Thu Nov 02 13:15:35 +0000 2017",
+    "defaultProfile": false,
+    "defaultProfileImage": false,
+    "description": "唯一联系方式微信: Btcaesar24",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "ouxyi.link/ul/6CngT5?chan…",
+            "expanded_url": "https://www.ouxyi.link/ul/6CngT5?channelId=1816706",
+            "url": "https://t.co/OgEcHqQREq",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 14,
+    "followersCount": 24022,
+    "following": true,
+    "friendsCount": 1538,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 521,
+    "location": "交易平台推荐",
+    "mediaCount": 877,
+    "name": "Meta凯撒",
+    "normalFollowersCount": 24022,
+    "pinnedTweetIdsStr": [
+      "1621712752896249857"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/926075314911920130/1611914812",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1431944193702653974/NW_XO25s_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "Btcaesar24",
+    "statusesCount": 3921,
+    "translatorType": "none",
+    "url": "https://t.co/OgEcHqQREq",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [
+      {
+        "iconName": "IconBriefcaseStroke",
+        "id": 192,
+        "name": "Financial Services"
+      }
+    ],
+    "professionalType": "Creator",
+    "restId": "1479285402359910402"
+  },
+  "profileImageShape": "Circle",
+  "restId": "926075314911920130",
+  "tipjarSettings": {
+    "bitcoinHandle": "3Nv1BVwgnRjoK2Z6mbUMUDL2tm1em6mYGa",
+    "isEnabled": true
+  }
+}

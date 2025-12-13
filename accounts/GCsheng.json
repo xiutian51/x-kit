@@ -1,0 +1,84 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {
+    "label": {
+      "url": {
+        "url": "https://twitter.com/0xinfini",
+        "urlType": "DeepLink"
+      },
+      "badge": {
+        "url": "https://pbs.twimg.com/profile_images/1966496740435222529/UCDLDWO2_bigger.jpg"
+      },
+      "description": "Infini",
+      "userLabelType": "BusinessLabel",
+      "userLabelDisplayType": "Badge"
+    }
+  },
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxMzQ0OTYzNzA2NjU3MDE3ODU4",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": false,
+    "createdAt": "Fri Jan 01 11:08:40 +0000 2021",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "NFT 菩萨丨精算师 丨贪财好色丨全是情绪没有观点丨立场不明丨 \n#Binance\n找链上机会就上binance钱包网页版享受手续费折扣：https://t.co/8pQX4Oxnbj",
+    "entities": {
+      "description": {
+        "urls": [
+          {
+            "display_url": "web3.binance.com/referral?ref=N…",
+            "expanded_url": "https://web3.binance.com/referral?ref=NZZTNWQ9",
+            "url": "https://t.co/8pQX4Oxnbj",
+            "indices": [
+              69,
+              92
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 24554,
+    "followersCount": 45427,
+    "following": true,
+    "friendsCount": 1493,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 812,
+    "location": "",
+    "mediaCount": 482,
+    "name": "深大高财生.eth",
+    "normalFollowersCount": 45427,
+    "pinnedTweetIdsStr": [
+      "1974874946901065861"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1344963706657017858/1757335634",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1956429310363074560/kZapgvHx_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "GCsheng",
+    "statusesCount": 6931,
+    "translatorType": "none",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [
+      {
+        "iconName": "IconBriefcaseStroke",
+        "id": 132,
+        "name": "Commercial & Industrial"
+      }
+    ],
+    "professionalType": "Business",
+    "restId": "1495720398809296902"
+  },
+  "profileImageShape": "Circle",
+  "restId": "1344963706657017858",
+  "tipjarSettings": {
+    "isEnabled": true
+  }
+}

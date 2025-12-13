@@ -1,0 +1,65 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNTc1NDE0NTczMDE5OTc5Nzc2",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": false,
+    "createdAt": "Thu Sep 29 09:18:05 +0000 2022",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "Crypto insights. Ambassador @prodigyfi .Dune lessons link here 👇",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "miro.com/app/board/uXjV…",
+            "expanded_url": "https://miro.com/app/board/uXjVM0nn33o=/?share_link_id=533538036418",
+            "url": "https://t.co/U8MNLHGkki",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 35287,
+    "followersCount": 108147,
+    "following": true,
+    "friendsCount": 1593,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 3033,
+    "location": "Hong Kong",
+    "mediaCount": 2012,
+    "name": "Defi_Mochi",
+    "normalFollowersCount": 108147,
+    "pinnedTweetIdsStr": [
+      "1946911141877432770"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1575414573019979776/1754015188",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1951107178062028801/4pEJLUTI_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "defi_mochi",
+    "statusesCount": 16444,
+    "translatorType": "none",
+    "url": "https://t.co/U8MNLHGkki",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "profileImageShape": "Circle",
+  "restId": "1575414573019979776",
+  "tipjarSettings": {
+    "ethereumHandle": "",
+    "isEnabled": true
+  }
+}

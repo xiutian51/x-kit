@@ -1,0 +1,81 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNjY4ODg3MTIzMjE3NTEwNDAx",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": false,
+    "canMediaTag": true,
+    "createdAt": "Wed Jun 14 07:45:25 +0000 2023",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "The First AI-Powered KOLFi Platform\n\nOpen Source Extension: https://t.co/xyiaT4uBuI\n\nhttps://t.co/oXfqRKwQQg",
+    "entities": {
+      "description": {
+        "urls": [
+          {
+            "display_url": "chromewebstore.google.com/detail/gonmfaf…",
+            "expanded_url": "https://chromewebstore.google.com/detail/gonmfafjcdkngkbhcpmcphlgfhabkeji",
+            "url": "https://t.co/xyiaT4uBuI",
+            "indices": [
+              60,
+              83
+            ]
+          },
+          {
+            "display_url": "t.me/xhunt_ai",
+            "expanded_url": "https://t.me/xhunt_ai",
+            "url": "https://t.co/oXfqRKwQQg",
+            "indices": [
+              85,
+              108
+            ]
+          }
+        ]
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "xhunt.ai",
+            "expanded_url": "https://www.xhunt.ai/",
+            "url": "https://t.co/nLgs4yh5eJ",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 417,
+    "followersCount": 11087,
+    "following": true,
+    "friendsCount": 44,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 133,
+    "location": "HK",
+    "mediaCount": 170,
+    "name": "XHunt",
+    "normalFollowersCount": 11087,
+    "pinnedTweetIdsStr": [
+      "1998703075364843880"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1668887123217510401/1755509219",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1957373648488263681/blkhPYP8_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "xhunt_ai",
+    "statusesCount": 680,
+    "translatorType": "none",
+    "url": "https://t.co/nLgs4yh5eJ",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "profileImageShape": "Circle",
+  "restId": "1668887123217510401",
+  "tipjarSettings": {}
+}

@@ -1,0 +1,70 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoyNzc2MzQ1ODY2",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Thu Aug 28 12:49:43 +0000 2014",
+    "defaultProfile": false,
+    "defaultProfileImage": false,
+    "description": "Build Debot: Your way to Smarter DEX Trading. https://t.co/Q2d4kKYUuD",
+    "entities": {
+      "description": {
+        "urls": [
+          {
+            "display_url": "debot.ai",
+            "expanded_url": "https://debot.ai",
+            "url": "https://t.co/Q2d4kKYUuD",
+            "indices": [
+              46,
+              69
+            ]
+          }
+        ]
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "debot.ai",
+            "expanded_url": "http://debot.ai",
+            "url": "https://t.co/pew1EvneYk",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 1386,
+    "followersCount": 3464,
+    "following": true,
+    "friendsCount": 855,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 50,
+    "location": "Hongkong",
+    "mediaCount": 127,
+    "name": "Cat@Debot",
+    "normalFollowersCount": 3464,
+    "pinnedTweetIdsStr": [],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/2776345866/1740729503",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1869048307378794496/GFaf9ujJ_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "0xCat_Crypto",
+    "statusesCount": 1092,
+    "translatorType": "none",
+    "url": "https://t.co/pew1EvneYk",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "profileImageShape": "Circle",
+  "restId": "2776345866",
+  "tipjarSettings": {}
+}

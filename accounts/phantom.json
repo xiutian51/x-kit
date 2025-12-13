@@ -1,0 +1,78 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxMzc5MDUzMDQxOTk1ODkwNjk1",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": false,
+    "canMediaTag": false,
+    "createdAt": "Mon Apr 05 12:47:30 +0000 2021",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "The crypto app for everyone. Get support at https://t.co/4xgbjivbm2\nNot for UK users. See @phantom__UK",
+    "entities": {
+      "description": {
+        "urls": [
+          {
+            "display_url": "help.phantom.com",
+            "expanded_url": "http://help.phantom.com",
+            "url": "https://t.co/4xgbjivbm2",
+            "indices": [
+              44,
+              67
+            ]
+          }
+        ]
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "phantom.com",
+            "expanded_url": "https://phantom.com",
+            "url": "https://t.co/kYcGm3m58Q",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 108265,
+    "followersCount": 942170,
+    "following": true,
+    "friendsCount": 1488,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 3529,
+    "location": "",
+    "mediaCount": 6478,
+    "name": "Phantom",
+    "normalFollowersCount": 942170,
+    "pinnedTweetIdsStr": [
+      "1995601327792292005"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1379053041995890695/1759243536",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1973036509449121792/ePaMAzyA_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "phantom",
+    "statusesCount": 53028,
+    "translatorType": "none",
+    "url": "https://t.co/kYcGm3m58Q",
+    "verified": false,
+    "verifiedType": "Business",
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [],
+    "professionalType": "Business",
+    "restId": "1669100051782680578"
+  },
+  "profileImageShape": "Square",
+  "restId": "1379053041995890695",
+  "tipjarSettings": {}
+}

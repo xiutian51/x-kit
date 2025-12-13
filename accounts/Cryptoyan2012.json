@@ -1,0 +1,73 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjo5Mjc5MjM2NjQ=",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Mon Nov 05 16:29:20 +0000 2012",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "一颗逊色的韭菜 超100%POR资金储备，安全首选。交易所&钱包，#OKX 就够 https://t.co/mxk0O1PfNW OK 钱包20%手续费减免邀请码:OKBMOON",
+    "entities": {
+      "description": {
+        "urls": [
+          {
+            "display_url": "ouxyi.link/ul/6CngT5?chan…",
+            "expanded_url": "https://www.ouxyi.link/ul/6CngT5?channelId=1870832111",
+            "url": "https://t.co/mxk0O1PfNW",
+            "indices": [
+              41,
+              64
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 437,
+    "followersCount": 12932,
+    "following": true,
+    "friendsCount": 374,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 197,
+    "location": "",
+    "mediaCount": 390,
+    "name": "小颜",
+    "normalFollowersCount": 12932,
+    "pinnedTweetIdsStr": [
+      "1681883819643895808"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/927923664/1701395394",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1779061555914829824/FxyANbg-_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "Cryptoyan2012",
+    "statusesCount": 8231,
+    "translatorType": "none",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [
+      {
+        "iconName": "IconBriefcaseStroke",
+        "id": 934,
+        "name": "Social Media Influencer"
+      }
+    ],
+    "professionalType": "Creator",
+    "restId": "1591272552600457216"
+  },
+  "profileImageShape": "Circle",
+  "restId": "927923664",
+  "tipjarSettings": {
+    "bitcoinHandle": "bc1qyygcfvauuuu3xmqzu26cm9a83jwhlcsv2se9tn",
+    "ethereumHandle": "0xaFCE5F3d5E8106aF59B1722D54C59F4BbA6186d4",
+    "isEnabled": true
+  }
+}

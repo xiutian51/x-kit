@@ -1,0 +1,110 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {
+    "label": {
+      "url": {
+        "url": "https://twitter.com/0xinfini",
+        "urlType": "DeepLink"
+      },
+      "badge": {
+        "url": "https://pbs.twimg.com/profile_images/1966496740435222529/UCDLDWO2_bigger.jpg"
+      },
+      "description": "Infini",
+      "userLabelType": "BusinessLabel",
+      "userLabelDisplayType": "Badge"
+    }
+  },
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxMzY1MTA3MDI1NzcyODc1Nzc4",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Fri Feb 26 01:12:52 +0000 2021",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "Hypurr#4368🐱https://t.co/cFlU3njShB 🌊Kaito Top ICT -All CT #8 & Ethos#4｜🎒用 #Binance 交易🔗 https://t.co/NHehktZTOj",
+    "entities": {
+      "description": {
+        "urls": [
+          {
+            "display_url": "app.hyperliquid.xyz/join/ZKSGU",
+            "expanded_url": "http://app.hyperliquid.xyz/join/ZKSGU",
+            "url": "https://t.co/cFlU3njShB",
+            "indices": [
+              12,
+              35
+            ]
+          },
+          {
+            "display_url": "binance.com/join?ref=FO3QE…",
+            "expanded_url": "https://www.binance.com/join?ref=FO3QE2XB",
+            "url": "https://t.co/NHehktZTOj",
+            "indices": [
+              88,
+              111
+            ]
+          }
+        ]
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "heairdrop.notion.site/0093268e78f248…",
+            "expanded_url": "https://heairdrop.notion.site/0093268e78f248ab9e057287cc599bc1",
+            "url": "https://t.co/NFijxP6zjy",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 210043,
+    "followersCount": 39770,
+    "following": true,
+    "friendsCount": 1060,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 771,
+    "location": " 定投HYPE+重仓Variational",
+    "mediaCount": 1421,
+    "name": "孤鹤.hl",
+    "normalFollowersCount": 39770,
+    "pinnedTweetIdsStr": [
+      "1983048725485498750"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1365107025772875778/1753941405",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1972556108431839232/c5i19yv8_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "ZKSgu",
+    "statusesCount": 36799,
+    "translatorType": "none",
+    "url": "https://t.co/NFijxP6zjy",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [
+      {
+        "iconName": "IconBriefcaseStroke",
+        "id": 192,
+        "name": "Financial Services"
+      }
+    ],
+    "professionalType": "Creator",
+    "restId": "1589567367511769088"
+  },
+  "profileImageShape": "Circle",
+  "restId": "1365107025772875778",
+  "superFollowEligible": true,
+  "tipjarSettings": {
+    "bitcoinHandle": "",
+    "ethereumHandle": "0x11356147119Ac90CD9e5a4316fe1088fd53616BA",
+    "isEnabled": true
+  }
+}

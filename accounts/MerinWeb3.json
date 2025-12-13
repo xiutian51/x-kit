@@ -1,0 +1,62 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNzM0ODU1NTUzNzExNTQ2MzY4",
+  "isBlueVerified": false,
+  "legacy": {
+    "canDm": false,
+    "canMediaTag": true,
+    "createdAt": "Wed Dec 13 08:39:52 +0000 2023",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "🌐 MERIN | AI-Powered Decentralized Predictive Market Protocol 🔮 | Trade foresight, earn predictive capital | Collective intelligence meets verifiable outcomes",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "merin.tech",
+            "expanded_url": "http://merin.tech",
+            "url": "https://t.co/XbK3tTvoLb",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 41,
+    "followersCount": 24677,
+    "following": true,
+    "friendsCount": 59,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 77,
+    "location": "",
+    "mediaCount": 25,
+    "name": "MERIN",
+    "normalFollowersCount": 24677,
+    "pinnedTweetIdsStr": [
+      "1741106639221227931"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1734855553711546368/1761714747",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1979427637501059072/OBhfZtzF_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "MerinWeb3",
+    "statusesCount": 47,
+    "translatorType": "none",
+    "url": "https://t.co/XbK3tTvoLb",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "profileImageShape": "Circle",
+  "restId": "1734855553711546368",
+  "tipjarSettings": {}
+}

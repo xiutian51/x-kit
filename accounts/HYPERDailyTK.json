@@ -1,0 +1,90 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxMzkwMzIxNDU4MTQwNzc4NDk5",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Thu May 06 15:04:09 +0000 2021",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "#hyperliquid $HYPE Daily News. Join us - Trading: https://t.co/ITBD7Biu1A , Airdrop: https://t.co/xOvVyk4oAS For business proposal, contact: https://t.co/P5pWNlYhxe.",
+    "entities": {
+      "description": {
+        "urls": [
+          {
+            "display_url": "t.me/+FC46WN27lfplN…",
+            "expanded_url": "http://t.me/+FC46WN27lfplNGE1",
+            "url": "https://t.co/ITBD7Biu1A",
+            "indices": [
+              50,
+              73
+            ]
+          },
+          {
+            "display_url": "discord.com/invite/WgRgnx9…",
+            "expanded_url": "http://discord.com/invite/WgRgnx9mey",
+            "url": "https://t.co/xOvVyk4oAS",
+            "indices": [
+              85,
+              108
+            ]
+          },
+          {
+            "display_url": "t.me/tk_media",
+            "expanded_url": "http://t.me/tk_media",
+            "url": "https://t.co/P5pWNlYhxe",
+            "indices": [
+              141,
+              164
+            ]
+          }
+        ]
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "cryptoninjas.net",
+            "expanded_url": "http://cryptoninjas.net",
+            "url": "https://t.co/WpW2FkrdSJ",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 1638,
+    "followersCount": 85899,
+    "following": true,
+    "friendsCount": 167,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 1282,
+    "location": "Unofficial HYPE account",
+    "mediaCount": 4264,
+    "name": "Hyperliquid Daily",
+    "normalFollowersCount": 85899,
+    "pinnedTweetIdsStr": [
+      "1976875843281732038"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1390321458140778499/1756867583",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1963071032828559360/UhHDuqZU_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "HYPERDailyTK",
+    "statusesCount": 6748,
+    "translatorType": "none",
+    "url": "https://t.co/WpW2FkrdSJ",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "profileImageShape": "Circle",
+  "restId": "1390321458140778499",
+  "tipjarSettings": {}
+}

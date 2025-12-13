@@ -1,0 +1,63 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxODYzOTU3NTI3NTI5OTU1MzI4",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": false,
+    "canMediaTag": false,
+    "createdAt": "Tue Dec 03 14:45:07 +0000 2024",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "hyperunit.xyz",
+            "expanded_url": "http://hyperunit.xyz",
+            "url": "https://t.co/W2hiR5pnA2",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 1069,
+    "followersCount": 37602,
+    "following": true,
+    "friendsCount": 8,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 430,
+    "location": "",
+    "mediaCount": 29,
+    "name": "Unit",
+    "normalFollowersCount": 37602,
+    "pinnedTweetIdsStr": [
+      "1890437173738107107"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1863957527529955328/1739490177",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1937271299338035200/sEKHkXkc_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "unitxyz",
+    "statusesCount": 169,
+    "translatorType": "none",
+    "url": "https://t.co/W2hiR5pnA2",
+    "verified": false,
+    "verifiedType": "Business",
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "profileImageShape": "Square",
+  "restId": "1863957527529955328",
+  "tipjarSettings": {}
+}

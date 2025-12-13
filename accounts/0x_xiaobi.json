@@ -1,0 +1,46 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNTA4NjE0MzkxNjA4MjY2NzUz",
+  "isBlueVerified": false,
+  "legacy": {
+    "canDm": false,
+    "canMediaTag": true,
+    "createdAt": "Tue Mar 29 01:18:01 +0000 2022",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "",
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 324,
+    "followersCount": 444,
+    "following": true,
+    "friendsCount": 2025,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 3,
+    "location": "",
+    "mediaCount": 96,
+    "name": "小币消息",
+    "normalFollowersCount": 444,
+    "pinnedTweetIdsStr": [],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1508614391608266753/1704870571",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1534576716449845248/2ZgEr3pE_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "0x_xiaobi",
+    "statusesCount": 791,
+    "translatorType": "none",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "profileImageShape": "Circle",
+  "restId": "1508614391608266753",
+  "tipjarSettings": {}
+}

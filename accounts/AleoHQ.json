@@ -1,0 +1,78 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxMjA4MDgxMjM2NjE2NTE1NTg1",
+  "isBlueVerified": false,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": false,
+    "createdAt": "Fri Dec 20 17:46:58 +0000 2019",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "The first private L1 blockchain that enables confidential & compliant payments. Control what you share, customize without limits. Join: https://t.co/e10gsYHbUx",
+    "entities": {
+      "description": {
+        "urls": [
+          {
+            "display_url": "discord.gg/aleo",
+            "expanded_url": "https://discord.gg/aleo",
+            "url": "https://t.co/e10gsYHbUx",
+            "indices": [
+              136,
+              159
+            ]
+          }
+        ]
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "aleo.org",
+            "expanded_url": "https://aleo.org",
+            "url": "https://t.co/wHLnvIoIdX",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 3485,
+    "followersCount": 287102,
+    "following": true,
+    "friendsCount": 100,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 1482,
+    "location": "NYC, NY",
+    "mediaCount": 855,
+    "name": "Aleo",
+    "normalFollowersCount": 287102,
+    "pinnedTweetIdsStr": [
+      "1998393707167416562"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1208081236616515585/1726670085",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1836413549851140097/ZMjQzEUK_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "AleoHQ",
+    "statusesCount": 3824,
+    "translatorType": "none",
+    "url": "https://t.co/wHLnvIoIdX",
+    "verified": false,
+    "verifiedType": "Business",
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [],
+    "professionalType": "Business",
+    "restId": "1612485095075586052"
+  },
+  "profileImageShape": "Square",
+  "restId": "1208081236616515585",
+  "tipjarSettings": {}
+}

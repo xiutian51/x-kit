@@ -1,0 +1,59 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNTIxODY4Nzg1MjM3NDcxMjMy",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Wed May 04 15:06:38 +0000 2022",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "认知本身并不赚钱\n\n判断对了，也不赚钱\n\n要配上具体的行动，才能赚到钱\n\n红利出现的时候，要重仓，要all in\n\n#Binance 加入全球最大交易所-币安：👉 https://t.co/vNqx5Rob1D",
+    "entities": {
+      "description": {
+        "urls": [
+          {
+            "display_url": "binance.com",
+            "expanded_url": "https://www.binance.com/",
+            "url": "https://t.co/vNqx5Rob1D",
+            "indices": [
+              82,
+              105
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 4628,
+    "followedBy": true,
+    "followersCount": 8852,
+    "following": true,
+    "friendsCount": 940,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 222,
+    "location": "onchain",
+    "mediaCount": 997,
+    "name": "夏语冰",
+    "normalFollowersCount": 8852,
+    "pinnedTweetIdsStr": [
+      "1945400716664954889"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1521868785237471232/1755765257",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1633668797264699392/zaJfRKdF_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "xiaxiaoyubing",
+    "statusesCount": 2097,
+    "translatorType": "none",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "profileImageShape": "Circle",
+  "restId": "1521868785237471232",
+  "tipjarSettings": {}
+}

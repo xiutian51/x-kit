@@ -1,0 +1,47 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjozMzA2NzIxNTY=",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Thu Jul 07 00:00:19 +0000 2011",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "Web3招商主任 Global South加密議元 Chief Shilling Officer of Conflux       业内知名牛马",
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 1632,
+    "followersCount": 28366,
+    "following": true,
+    "friendsCount": 1266,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 594,
+    "location": "Boston",
+    "mediaCount": 342,
+    "name": "Forgiven",
+    "normalFollowersCount": 28366,
+    "pinnedTweetIdsStr": [
+      "1939201183249506519"
+    ],
+    "possiblySensitive": false,
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1785953492252971008/SmkUGDIG_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "forgivenever",
+    "statusesCount": 2926,
+    "translatorType": "none",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "profileImageShape": "Circle",
+  "restId": "330672156",
+  "tipjarSettings": {}
+}

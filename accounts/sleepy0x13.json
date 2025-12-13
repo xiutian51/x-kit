@@ -1,0 +1,82 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {
+    "label": {
+      "url": {
+        "url": "https://twitter.com/GoKiteAI",
+        "urlType": "DeepLink"
+      },
+      "badge": {
+        "url": "https://pbs.twimg.com/profile_images/1962781271978815488/07fQQARS_bigger.jpg"
+      },
+      "description": "KITE AI",
+      "userLabelType": "BusinessLabel",
+      "userLabelDisplayType": "Badge"
+    }
+  },
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxMjgzMjI3ODc5Njk4OTA3MTM2",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Wed Jul 15 02:32:36 +0000 2020",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "@BeatingOfficial @BlockBeatsAsia @WeirdoGhostGang\n\n#Binance ：https://t.co/H7YmsoJZEj",
+    "entities": {
+      "description": {
+        "urls": [
+          {
+            "display_url": "maxweb.cab/join?ref=44369…",
+            "expanded_url": "https://www.maxweb.cab/join?ref=44369573",
+            "url": "https://t.co/H7YmsoJZEj",
+            "indices": [
+              61,
+              84
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 9131,
+    "followersCount": 36714,
+    "following": true,
+    "friendsCount": 1856,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 614,
+    "location": "Hongkong",
+    "mediaCount": 1304,
+    "name": "sleepy.txt",
+    "normalFollowersCount": 36714,
+    "pinnedTweetIdsStr": [],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1283227879698907136/1761351291",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1943343935700537350/aL3hisoI_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "sleepy0x13",
+    "statusesCount": 9982,
+    "translatorType": "none",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [
+      {
+        "iconName": "IconBriefcaseStroke",
+        "id": 511,
+        "name": "Life Coach"
+      }
+    ],
+    "professionalType": "Creator",
+    "restId": "1504254740968124418"
+  },
+  "profileImageShape": "Circle",
+  "restId": "1283227879698907136",
+  "tipjarSettings": {
+    "isEnabled": true
+  }
+}

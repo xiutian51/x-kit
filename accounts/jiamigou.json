@@ -1,0 +1,99 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNDc2NzM5MTM2MDIzNTk3MDYw",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Fri Dec 31 02:17:14 +0000 2021",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "#Binance 入口 https://t.co/W2WpqHBKo7 ｜\n#Bitget 入口 https://t.co/fUBE8Rajpv ｜\n资料存放：https://t.co/6gsVGlFnIe",
+    "entities": {
+      "description": {
+        "urls": [
+          {
+            "display_url": "binance.com/join?ref=55730…",
+            "expanded_url": "https://www.binance.com/join?ref=557306361",
+            "url": "https://t.co/W2WpqHBKo7",
+            "indices": [
+              12,
+              35
+            ]
+          },
+          {
+            "display_url": "partner.bitgetapps.com/bg/d8x3l96n",
+            "expanded_url": "https://partner.bitgetapps.com/bg/d8x3l96n",
+            "url": "https://t.co/fUBE8Rajpv",
+            "indices": [
+              49,
+              72
+            ]
+          },
+          {
+            "display_url": "linktr.ee/jiamigou",
+            "expanded_url": "https://linktr.ee/jiamigou",
+            "url": "https://t.co/6gsVGlFnIe",
+            "indices": [
+              80,
+              103
+            ]
+          }
+        ]
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "t.me/jiamigou_BD",
+            "expanded_url": "https://t.me/jiamigou_BD",
+            "url": "https://t.co/fkV329RUSl",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 1790,
+    "followersCount": 187327,
+    "following": true,
+    "friendsCount": 6131,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 2473,
+    "location": "BD",
+    "mediaCount": 3871,
+    "name": "加密狗",
+    "normalFollowersCount": 187327,
+    "pinnedTweetIdsStr": [
+      "1906611696623640926"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1476739136023597060/1722405290",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1945067339914805248/EPwCI1Fo_normal.png",
+    "profileInterstitialType": "",
+    "screenName": "jiamigou",
+    "statusesCount": 21466,
+    "translatorType": "none",
+    "url": "https://t.co/fkV329RUSl",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [],
+    "professionalType": "Creator",
+    "restId": "1659438523194441728"
+  },
+  "profileImageShape": "Circle",
+  "restId": "1476739136023597060",
+  "superFollowEligible": true,
+  "tipjarSettings": {
+    "ethereumHandle": "0x9402715f9BDeed2b4Aad30D4C642227efC34F26d",
+    "isEnabled": false
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNTA1MDgxNDI2MDM0OTY2NTMz",
+  "isBlueVerified": false,
+  "legacy": {
+    "canDm": false,
+    "canMediaTag": true,
+    "createdAt": "Sat Mar 19 07:20:00 +0000 2022",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "Builder @puffer_finance |  Web3 Researcher | Buidler @TigerVCDAO | ex @CRCMVentures  \n\nNote: All opinions are my own. No financial advice.",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "t.me/stecoinzhang",
+            "expanded_url": "http://t.me/stecoinzhang",
+            "url": "https://t.co/OA1SuZUz87",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 4762,
+    "followersCount": 2175,
+    "following": true,
+    "friendsCount": 3946,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 40,
+    "location": "",
+    "mediaCount": 197,
+    "name": "Stecoin 🐡⛓",
+    "normalFollowersCount": 2175,
+    "pinnedTweetIdsStr": [
+      "1996582484138422315"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1505081426034966533/1693881597",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1661402003489308674/lBEfNwdL_normal.png",
+    "profileInterstitialType": "",
+    "screenName": "StecoinZhang",
+    "statusesCount": 2079,
+    "translatorType": "none",
+    "url": "https://t.co/OA1SuZUz87",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [
+      {
+        "iconName": "IconBriefcaseStroke",
+        "id": 192,
+        "name": "Financial Services"
+      }
+    ],
+    "professionalType": "Creator",
+    "restId": "1645546369388806145"
+  },
+  "profileImageShape": "Circle",
+  "restId": "1505081426034966533",
+  "tipjarSettings": {}
+}

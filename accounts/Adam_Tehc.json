@@ -1,0 +1,79 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {
+    "label": {
+      "url": {
+        "url": "https://twitter.com/counterpartytv",
+        "urlType": "DeepLink"
+      },
+      "badge": {
+        "url": "https://pbs.twimg.com/profile_images/1947503080272195584/9M4WdH7Z_bigger.jpg"
+      },
+      "description": "CounterParty TV",
+      "userLabelType": "BusinessLabel",
+      "userLabelDisplayType": "Badge"
+    }
+  },
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNDIzNTU4NDYyNjA1MzQwNjcy",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Fri Aug 06 08:16:04 +0000 2021",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "The dashboard guy | @counterpartytv | https://t.co/wYkuSQ5GMK",
+    "entities": {
+      "description": {
+        "urls": [
+          {
+            "display_url": "dune.com/adam_tehc",
+            "expanded_url": "https://dune.com/adam_tehc",
+            "url": "https://t.co/wYkuSQ5GMK",
+            "indices": [
+              38,
+              61
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 81244,
+    "followersCount": 28636,
+    "following": true,
+    "friendsCount": 3253,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 506,
+    "location": "on-chain",
+    "mediaCount": 1456,
+    "name": "Adam",
+    "normalFollowersCount": 28636,
+    "pinnedTweetIdsStr": [
+      "1987931778825551978"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1423558462605340672/1682407306",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1821893648578945024/7fonslGW_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "Adam_Tehc",
+    "statusesCount": 7871,
+    "translatorType": "none",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [],
+    "professionalType": "Creator",
+    "restId": "1463164334658314240"
+  },
+  "profileImageShape": "Circle",
+  "restId": "1423558462605340672",
+  "tipjarSettings": {
+    "bitcoinHandle": "177RsBAkgjSBksnR6ncDeiwEnPMxpqb9WV",
+    "isEnabled": false
+  }
+}

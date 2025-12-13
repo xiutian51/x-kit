@@ -1,0 +1,60 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjo1MDM5Mzk2MA==",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": false,
+    "canMediaTag": false,
+    "createdAt": "Wed Jun 24 18:44:10 +0000 2009",
+    "defaultProfile": false,
+    "defaultProfileImage": false,
+    "description": "Sharing things I'm learning through my foundation work and other interests.",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "gatesnot.es/tgn",
+            "expanded_url": "https://gatesnot.es/tgn",
+            "url": "https://t.co/TiXXwOGE95",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 549,
+    "followersCount": 62454352,
+    "following": true,
+    "friendsCount": 572,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 116242,
+    "location": "Seattle, WA",
+    "mediaCount": 1530,
+    "name": "Bill Gates",
+    "normalFollowersCount": 62454352,
+    "pinnedTweetIdsStr": [],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/50393960/1745250848",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1879013694367252480/Gxa-Pspq_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "BillGates",
+    "statusesCount": 4515,
+    "translatorType": "regular",
+    "url": "https://t.co/TiXXwOGE95",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "profileImageShape": "Circle",
+  "restId": "50393960",
+  "tipjarSettings": {}
+}

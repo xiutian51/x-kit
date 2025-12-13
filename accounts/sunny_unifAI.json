@@ -1,0 +1,45 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjo1OTgwMjAyNDM=",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": false,
+    "canMediaTag": true,
+    "createdAt": "Sun Jun 03 02:28:53 +0000 2012",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "contributor @unifainetwork / ex- @HashKey_Capital",
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 2124,
+    "followersCount": 2114,
+    "following": true,
+    "friendsCount": 1465,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 31,
+    "location": "https://unifai.network/",
+    "mediaCount": 68,
+    "name": "Sunny",
+    "normalFollowersCount": 2114,
+    "pinnedTweetIdsStr": [],
+    "possiblySensitive": false,
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1844956137445343232/AI4iw7G2_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "sunny_unifAI",
+    "statusesCount": 1216,
+    "translatorType": "none",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "profileImageShape": "Circle",
+  "restId": "598020243",
+  "tipjarSettings": {}
+}

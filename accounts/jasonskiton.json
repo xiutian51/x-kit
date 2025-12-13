@@ -1,0 +1,50 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNDM1MjU1Nzc0Mzg1NzQ1OTI0",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": false,
+    "createdAt": "Tue Sep 07 14:58:04 +0000 2021",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "Crypto trader, researcher and investor. Helping other traders to gain confidence by sharing my journey and lessons I learned from 5 years in crypto.",
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 3566,
+    "followersCount": 971,
+    "following": true,
+    "friendsCount": 397,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 13,
+    "location": "E",
+    "mediaCount": 138,
+    "name": "jasonskiton",
+    "normalFollowersCount": 971,
+    "pinnedTweetIdsStr": [
+      "1977759667070615859"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1435255774385745924/1764866280",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1973539805880365056/2gfJOmmP_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "jasonskiton",
+    "statusesCount": 750,
+    "translatorType": "none",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "profileImageShape": "Circle",
+  "restId": "1435255774385745924",
+  "tipjarSettings": {
+    "isEnabled": true
+  }
+}

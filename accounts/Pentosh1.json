@@ -1,0 +1,48 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxMTM4OTkzMTYzNzA2NzUzMDI5",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": false,
+    "createdAt": "Thu Jun 13 02:15:06 +0000 2019",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "#bitcoin team @buildonbeam trading @dreamcash\n\nfull time larp",
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 120730,
+    "followersCount": 891057,
+    "following": true,
+    "friendsCount": 887,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 15537,
+    "location": "",
+    "mediaCount": 445,
+    "name": "🐧 Pentoshi mostly afk until march",
+    "normalFollowersCount": 891057,
+    "pinnedTweetIdsStr": [],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1138993163706753029/1676034608",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1978639679298695168/okonqp0L_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "Pentosh1",
+    "statusesCount": 2661,
+    "translatorType": "none",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "profileImageShape": "Circle",
+  "restId": "1138993163706753029",
+  "tipjarSettings": {
+    "isEnabled": true
+  }
+}

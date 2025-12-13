@@ -1,0 +1,85 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNzQzMTY5NTk0OTM0ODU3NzI4",
+  "isBlueVerified": false,
+  "legacy": {
+    "canDm": false,
+    "canMediaTag": true,
+    "createdAt": "Fri Jan 05 07:16:42 +0000 2024",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "ATAS Partner https://t.co/ltzTfDmJi6\n油管免费订单流课程自取",
+    "entities": {
+      "description": {
+        "urls": [
+          {
+            "display_url": "atas.net/registration-d…",
+            "expanded_url": "https://atas.net/registration-demo/?rs=partners_oft255584",
+            "url": "https://t.co/ltzTfDmJi6",
+            "indices": [
+              13,
+              36
+            ]
+          }
+        ]
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "youtube.com/@kbeast_eth?si…",
+            "expanded_url": "https://youtube.com/@kbeast_eth?si=ykl7vGfKfPghxpQy",
+            "url": "https://t.co/D0BZVL69wW",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 7883,
+    "followersCount": 15225,
+    "following": true,
+    "friendsCount": 569,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 335,
+    "location": "xyz886 planet",
+    "mediaCount": 11017,
+    "name": "KBeast.eth",
+    "normalFollowersCount": 15225,
+    "pinnedTweetIdsStr": [
+      "1972925464139485219"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1743169594934857728/1765355018",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1996025915311357953/MRuyIMeN_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "Xbt886",
+    "statusesCount": 25873,
+    "translatorType": "none",
+    "url": "https://t.co/D0BZVL69wW",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [
+      {
+        "iconName": "IconBriefcaseStroke",
+        "id": 940,
+        "name": "Musician"
+      }
+    ],
+    "professionalType": "Creator",
+    "restId": "1771148741535531397"
+  },
+  "profileImageShape": "Circle",
+  "restId": "1743169594934857728",
+  "tipjarSettings": {
+    "isEnabled": true
+  }
+}

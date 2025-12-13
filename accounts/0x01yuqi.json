@@ -1,0 +1,85 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxMzc4NzIyODIxOTkyMzc4MzY5",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Sun Apr 04 14:55:16 +0000 2021",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "SOL聪明钱频道：https://t.co/jLGCSPT0MH\nSOL交易量Alert：https://t.co/GH09TeWive\neth土狗监控Alert：https://t.co/JK6BSTkib1\nPUMP推特Alert：https://t.co/6RuyhcEoUU\n商务合作私信DM",
+    "entities": {
+      "description": {
+        "urls": [
+          {
+            "display_url": "t.me/Shanxunjiankong",
+            "expanded_url": "https://t.me/Shanxunjiankong",
+            "url": "https://t.co/jLGCSPT0MH",
+            "indices": [
+              9,
+              32
+            ]
+          },
+          {
+            "display_url": "t.me/yinghesol",
+            "expanded_url": "https://t.me/yinghesol",
+            "url": "https://t.co/GH09TeWive",
+            "indices": [
+              45,
+              68
+            ]
+          },
+          {
+            "display_url": "t.me/TugoujianKong",
+            "expanded_url": "https://t.me/TugoujianKong",
+            "url": "https://t.co/JK6BSTkib1",
+            "indices": [
+              82,
+              105
+            ]
+          },
+          {
+            "display_url": "t.me/hunterpump",
+            "expanded_url": "https://t.me/hunterpump",
+            "url": "https://t.co/6RuyhcEoUU",
+            "indices": [
+              118,
+              141
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 761,
+    "followersCount": 17745,
+    "following": true,
+    "friendsCount": 1289,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 412,
+    "location": "",
+    "mediaCount": 543,
+    "name": "0x01yuqi",
+    "normalFollowersCount": 17745,
+    "pinnedTweetIdsStr": [
+      "1858148497826128287"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1378722821992378369/1676518998",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1665281250473418753/y7g6MlcR_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "0x01yuqi",
+    "statusesCount": 1267,
+    "translatorType": "none",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "profileImageShape": "Circle",
+  "restId": "1378722821992378369",
+  "tipjarSettings": {}
+}

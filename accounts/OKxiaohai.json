@@ -1,0 +1,86 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {
+    "label": {
+      "url": {
+        "url": "https://twitter.com/OneKeyHQ",
+        "urlType": "DeepLink"
+      },
+      "badge": {
+        "url": "https://pbs.twimg.com/profile_images/1874442595646230531/wphGtJMP_bigger.jpg"
+      },
+      "description": "OneKey",
+      "userLabelType": "BusinessLabel",
+      "userLabelDisplayType": "Badge"
+    }
+  },
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxMjI2OTA2NzY5Mjg2NDA2MTQ1",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": false,
+    "createdAt": "Mon Feb 10 16:32:32 +0000 2020",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "TG 频道: https://t.co/pxvy250E2z 一些投机记录 / 💼 @OneKeyHQ / 不懂 DeFi，不会套利。",
+    "entities": {
+      "description": {
+        "urls": [
+          {
+            "display_url": "t.me/StarsOnChain",
+            "expanded_url": "https://t.me/StarsOnChain",
+            "url": "https://t.co/pxvy250E2z",
+            "indices": [
+              7,
+              30
+            ]
+          }
+        ]
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "onekey.so/r/HAIHAI",
+            "expanded_url": "http://onekey.so/r/HAIHAI",
+            "url": "https://t.co/dnCz2Uovem",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 6779,
+    "followersCount": 10146,
+    "following": true,
+    "friendsCount": 1155,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 209,
+    "location": "宝藏 👉",
+    "mediaCount": 539,
+    "name": "阿小小海 🐈 🐈‍⬛",
+    "normalFollowersCount": 10146,
+    "pinnedTweetIdsStr": [],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1226906769286406145/1753887602",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1964556922818031616/__gJh3_c_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "OKxiaohai",
+    "statusesCount": 8352,
+    "translatorType": "none",
+    "url": "https://t.co/dnCz2Uovem",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "profileImageShape": "Circle",
+  "restId": "1226906769286406145",
+  "tipjarSettings": {
+    "ethereumHandle": "0xF7EEad2114Fad7994207C99Eb00467aDcf9ff3c5",
+    "isEnabled": true
+  }
+}

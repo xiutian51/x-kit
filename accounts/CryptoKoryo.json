@@ -1,0 +1,73 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNDUzNDc4NzIxMDYzNjIwNjEz",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Wed Oct 27 21:49:04 +0000 2021",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "Founder @_dexuai | Narratives | Data maxi",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "dexu.ai",
+            "expanded_url": "https://dexu.ai/",
+            "url": "https://t.co/xomM6E05Dy",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 26935,
+    "followersCount": 55212,
+    "following": true,
+    "friendsCount": 717,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 1831,
+    "location": "",
+    "mediaCount": 5278,
+    "name": "Crypto Koryo",
+    "normalFollowersCount": 55212,
+    "pinnedTweetIdsStr": [
+      "1871176224816701829"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1453478721063620613/1635542984",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1758108277798301696/A8C4UToR_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "CryptoKoryo",
+    "statusesCount": 19173,
+    "translatorType": "none",
+    "url": "https://t.co/xomM6E05Dy",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [
+      {
+        "iconName": "IconBriefcaseStroke",
+        "id": 192,
+        "name": "Financial Services"
+      }
+    ],
+    "professionalType": "Business",
+    "restId": "1455906437243285504"
+  },
+  "profileImageShape": "Circle",
+  "restId": "1453478721063620613",
+  "tipjarSettings": {}
+}

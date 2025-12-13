@@ -1,0 +1,84 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjozMTgzNDU2ODQ5",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Sun Apr 19 15:24:40 +0000 2015",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "Semi-retired Crypto trader #Bitcoin Sharing knowledge for a hobby. TG: https://t.co/bIz5Splgw3 Substack : https://t.co/XBys1my9VG",
+    "entities": {
+      "description": {
+        "urls": [
+          {
+            "display_url": "t.me/bloodgoodXBT",
+            "expanded_url": "https://t.me/bloodgoodXBT",
+            "url": "https://t.co/bIz5Splgw3",
+            "indices": [
+              71,
+              94
+            ]
+          },
+          {
+            "display_url": "substack.com/@bloodgoodxbt",
+            "expanded_url": "https://substack.com/@bloodgoodxbt",
+            "url": "https://t.co/XBys1my9VG",
+            "indices": [
+              106,
+              129
+            ]
+          }
+        ]
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "bloodgoodbtc.com",
+            "expanded_url": "https://bloodgoodbtc.com/",
+            "url": "https://t.co/Pq7DTSgNMc",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 7450,
+    "followersCount": 269777,
+    "following": true,
+    "friendsCount": 283,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 2465,
+    "location": "Europe",
+    "mediaCount": 829,
+    "name": "Bloodgood",
+    "normalFollowersCount": 269777,
+    "pinnedTweetIdsStr": [],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/3183456849/1604596943",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1440553887706935301/WAzjWvPU_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "bloodgoodBTC",
+    "statusesCount": 4486,
+    "translatorType": "none",
+    "url": "https://t.co/Pq7DTSgNMc",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [],
+    "professionalType": "Creator",
+    "restId": "1465768724124901380"
+  },
+  "profileImageShape": "Circle",
+  "restId": "3183456849",
+  "tipjarSettings": {}
+}

@@ -1,0 +1,63 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNTIyNjk2NDkyNzkxODY5NDQ1",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Fri May 06 21:55:33 +0000 2022",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "The distribution powerhouse of crypto - for attention, data & capital.\n\nPowered by AI.",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "linktr.ee/kaito_ai",
+            "expanded_url": "http://linktr.ee/kaito_ai",
+            "url": "https://t.co/jyntVROjG4",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 31086,
+    "followersCount": 432861,
+    "following": true,
+    "friendsCount": 375,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 2316,
+    "location": "All links  👉",
+    "mediaCount": 3018,
+    "name": "Kaito AI 🌊",
+    "normalFollowersCount": 432861,
+    "pinnedTweetIdsStr": [
+      "1991839459323609270"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1522696492791869445/1752234585",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1928090141299724296/AGJP2FDM_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "KaitoAI",
+    "statusesCount": 10636,
+    "translatorType": "none",
+    "url": "https://t.co/jyntVROjG4",
+    "verified": false,
+    "verifiedType": "Business",
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "profileImageShape": "Square",
+  "restId": "1522696492791869445",
+  "tipjarSettings": {}
+}

@@ -1,0 +1,60 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxMDE1NDM2Mg==",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": false,
+    "createdAt": "Sun Nov 11 15:25:25 +0000 2007",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "Serial Entrepreneur, $TSLA shareholder since 2013, Invest with common sense and see trading as a way to chill.",
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 24585,
+    "followersCount": 22377,
+    "following": true,
+    "friendsCount": 406,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 231,
+    "location": "LA/JP",
+    "mediaCount": 3086,
+    "name": "Jason Z",
+    "normalFollowersCount": 22377,
+    "pinnedTweetIdsStr": [],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/10154362/1733065143",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1845525791511371776/S7B80Nct_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "JasonZX",
+    "statusesCount": 8296,
+    "translatorType": "none",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [
+      {
+        "iconName": "IconBriefcaseStroke",
+        "id": 958,
+        "name": "Entrepreneur"
+      }
+    ],
+    "professionalType": "Creator",
+    "restId": "1699689945718558988"
+  },
+  "profileImageShape": "Circle",
+  "restId": "10154362",
+  "tipjarSettings": {
+    "isEnabled": true,
+    "patreonHandle": "JJJKMM"
+  }
+}

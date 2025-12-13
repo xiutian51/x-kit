@@ -1,0 +1,63 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNzU3MDk4MDYzMzc2NjY2NjI0",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Mon Feb 12 17:43:33 +0000 2024",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "The dollar that builds AI, wherever it forms.\nDeveloped by @permianlabs | Backed by @hiFramework, @dragonfly_xyz,  @yzilabs, @bullish, @cbventures",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "linktr.ee/usdai_official",
+            "expanded_url": "https://linktr.ee/usdai_official",
+            "url": "https://t.co/2LwrybRSo2",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 1522,
+    "followersCount": 27654,
+    "following": true,
+    "friendsCount": 425,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 263,
+    "location": "USD.AI",
+    "mediaCount": 306,
+    "name": "USD.AI | Public Launch is Live",
+    "normalFollowersCount": 27654,
+    "pinnedTweetIdsStr": [
+      "1998509376571846969"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1757098063376666624/1754079660",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1951320192929210368/TNqvIAxs_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "USDai_Official",
+    "statusesCount": 1056,
+    "translatorType": "none",
+    "url": "https://t.co/2LwrybRSo2",
+    "verified": false,
+    "verifiedType": "Business",
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "profileImageShape": "Square",
+  "restId": "1757098063376666624",
+  "tipjarSettings": {}
+}

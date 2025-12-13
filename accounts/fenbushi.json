@@ -1,0 +1,67 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjozNzgwMTczMDAw",
+  "isBlueVerified": false,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Sun Oct 04 10:39:06 +0000 2015",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "Building the Web 3.0 ecosystem",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "fenbushicapital.vc",
+            "expanded_url": "https://fenbushicapital.vc",
+            "url": "https://t.co/GLX9OKmKB3",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 1644,
+    "followersCount": 24729,
+    "following": true,
+    "friendsCount": 915,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 734,
+    "location": "Metaverse",
+    "mediaCount": 151,
+    "name": "Fenbushi Capital",
+    "normalFollowersCount": 24729,
+    "pinnedTweetIdsStr": [
+      "1998592387078307888"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/3780173000/1652098411",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1523637276500119552/NPBj_8qI_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "fenbushi",
+    "statusesCount": 1130,
+    "translatorType": "none",
+    "url": "https://t.co/GLX9OKmKB3",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [],
+    "professionalType": "Business",
+    "restId": "1492084224761171973"
+  },
+  "profileImageShape": "Circle",
+  "restId": "3780173000",
+  "tipjarSettings": {}
+}

@@ -1,0 +1,76 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNTQ1MzUzMzE1Nzg5NDcxNzQ5",
+  "isBlueVerified": false,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Fri Jul 08 10:26:48 +0000 2022",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "安全、易用、开源。\nOneKey 引领钱包新标准。\n\n同时被 @Binance 和 @Coinbase 投资采用的安全硬件和软件钱包。\n需要帮助? https://t.co/kpeo9PMVrp 开工单一对一解决。",
+    "entities": {
+      "description": {
+        "urls": [
+          {
+            "display_url": "help.onekey.so",
+            "expanded_url": "http://help.onekey.so",
+            "url": "https://t.co/kpeo9PMVrp",
+            "indices": [
+              74,
+              97
+            ]
+          }
+        ]
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "bit.ly/m/onekeycn",
+            "expanded_url": "http://bit.ly/m/onekeycn",
+            "url": "https://t.co/x9nFmM6u4R",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 4378,
+    "followersCount": 36141,
+    "following": true,
+    "friendsCount": 233,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 207,
+    "location": "官网下载或购买 👉",
+    "mediaCount": 1486,
+    "name": "OneKey 中文",
+    "normalFollowersCount": 36141,
+    "pinnedTweetIdsStr": [],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1545353315789471749/1750486018",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1888594742910537728/cbaHhBaJ_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "OneKeyCN",
+    "statusesCount": 5848,
+    "translatorType": "none",
+    "url": "https://t.co/x9nFmM6u4R",
+    "verified": false,
+    "verifiedType": "Business",
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [],
+    "professionalType": "Business",
+    "restId": "1602549629148545026"
+  },
+  "profileImageShape": "Square",
+  "restId": "1545353315789471749",
+  "tipjarSettings": {}
+}

@@ -1,0 +1,48 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoyNjc0NjQ1Mzk=",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": false,
+    "canMediaTag": true,
+    "createdAt": "Thu Mar 17 00:31:04 +0000 2011",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "Using Twitter as unusual flow journal. Also personal acct\n\nPolitics, Psychology, Economics, Markets Event Driven Short Squeeze Trader RT are likely bookmarks",
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 9094,
+    "followersCount": 15966,
+    "following": true,
+    "friendsCount": 2397,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 331,
+    "location": "Austin",
+    "mediaCount": 15153,
+    "name": "PPE",
+    "normalFollowersCount": 15966,
+    "pinnedTweetIdsStr": [
+      "1951306014021628350"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/267464539/1521326778",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1260228653742465025/cesR2n3C_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "planert41",
+    "statusesCount": 70140,
+    "translatorType": "none",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "profileImageShape": "Circle",
+  "restId": "267464539",
+  "tipjarSettings": {}
+}

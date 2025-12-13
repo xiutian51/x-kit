@@ -1,0 +1,94 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjo0MDk2NDA5MDUy",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": false,
+    "canMediaTag": true,
+    "createdAt": "Mon Nov 02 01:04:12 +0000 2015",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "Crypto market real-time data AI multi-dimensional autonomous agent analysis platform \nTG:https://t.co/nPExLqH5UY\nDC:https://t.co/iKYKrKqYLr",
+    "entities": {
+      "description": {
+        "urls": [
+          {
+            "display_url": "t.me/+QINF1i_A-S42M…",
+            "expanded_url": "https://t.me/+QINF1i_A-S42MzEx",
+            "url": "https://t.co/nPExLqH5UY",
+            "indices": [
+              89,
+              112
+            ]
+          },
+          {
+            "display_url": "discord.com/invite/mydUWJg…",
+            "expanded_url": "https://discord.com/invite/mydUWJgU2c",
+            "url": "https://t.co/iKYKrKqYLr",
+            "indices": [
+              116,
+              139
+            ]
+          }
+        ]
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "valuescan.io",
+            "expanded_url": "https://www.valuescan.io/",
+            "url": "https://t.co/4QDCzEuWqo",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 254,
+    "followersCount": 11822,
+    "following": true,
+    "friendsCount": 132,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 14,
+    "location": "",
+    "mediaCount": 94,
+    "name": "valuescan",
+    "normalFollowersCount": 11822,
+    "pinnedTweetIdsStr": [
+      "1848135707556253849"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/4096409052/1764569094",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1996233155762946048/n49_gZ7K_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "web3_valuescan",
+    "statusesCount": 131,
+    "translatorType": "none",
+    "url": "https://t.co/4QDCzEuWqo",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [
+      {
+        "iconName": "IconBriefcaseStroke",
+        "id": 477,
+        "name": "Professional Services"
+      }
+    ],
+    "professionalType": "Business",
+    "restId": "1517241071494967296"
+  },
+  "profileImageShape": "Circle",
+  "restId": "4096409052",
+  "tipjarSettings": {
+    "isEnabled": true
+  }
+}

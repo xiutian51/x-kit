@@ -1,0 +1,66 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjozMjg4MzU1NjM4",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Thu Jul 23 05:13:51 +0000 2015",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "yjw.io",
+            "expanded_url": "http://yjw.io",
+            "url": "https://t.co/1eru8aciPp",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 567,
+    "followedBy": true,
+    "followersCount": 1449,
+    "following": true,
+    "friendsCount": 1000,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 16,
+    "location": "OnChain",
+    "mediaCount": 165,
+    "name": "Jv🧩",
+    "normalFollowersCount": 1449,
+    "pinnedTweetIdsStr": [
+      "1986776208269615534"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/3288355638/1744078420",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1907077620942131200/mvmBZOgg_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "web3jv",
+    "statusesCount": 605,
+    "translatorType": "none",
+    "url": "https://t.co/1eru8aciPp",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "profileImageShape": "Circle",
+  "restId": "3288355638",
+  "tipjarSettings": {
+    "bitcoinHandle": "",
+    "isEnabled": false
+  }
+}

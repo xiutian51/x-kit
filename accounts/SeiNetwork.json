@@ -1,0 +1,68 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNTE1MTA0MzQyOTA2MzI3MDQ1",
+  "isBlueVerified": false,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Fri Apr 15 23:06:49 +0000 2022",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "The Fastest Layer 1 Blockchain • High-Performance Rails for Digital Asset Markets • RT ≠ endorsement • Account managed by @Sei_FND",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "Sei.io",
+            "expanded_url": "https://Sei.io",
+            "url": "https://t.co/RE9vKHF3K0",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 9364,
+    "followersCount": 781965,
+    "following": true,
+    "friendsCount": 349,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 2259,
+    "location": "",
+    "mediaCount": 1233,
+    "name": "Sei",
+    "normalFollowersCount": 781965,
+    "pinnedTweetIdsStr": [
+      "1998865809247187337"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1515104342906327045/1765401039",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1998864096943566848/quL0fkgk_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "SeiNetwork",
+    "statusesCount": 5837,
+    "translatorType": "none",
+    "url": "https://t.co/RE9vKHF3K0",
+    "verified": false,
+    "verifiedType": "Business",
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [],
+    "professionalType": "Business",
+    "restId": "1519027238502498305"
+  },
+  "profileImageShape": "Square",
+  "restId": "1515104342906327045",
+  "tipjarSettings": {}
+}

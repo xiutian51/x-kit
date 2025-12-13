@@ -1,0 +1,74 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNjQ0MzI1MzYxODY0NTQ0MjU4",
+  "isBlueVerified": false,
+  "legacy": {
+    "canDm": false,
+    "canMediaTag": true,
+    "createdAt": "Fri Apr 07 13:04:59 +0000 2023",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "趋势交易是最容易获利的方式 \n\n油管：https://t.co/qMZ5taeb1m\nTG：https://t.co/sEa3X6nE4O\n免费订阅群：https://t.co/PFZ7WSWpWU",
+    "entities": {
+      "description": {
+        "urls": [
+          {
+            "display_url": "youtube.com/@TradingChris0…",
+            "expanded_url": "https://www.youtube.com/@TradingChris0506",
+            "url": "https://t.co/qMZ5taeb1m",
+            "indices": [
+              19,
+              42
+            ]
+          },
+          {
+            "display_url": "t.me/chris0506",
+            "expanded_url": "https://t.me/chris0506",
+            "url": "https://t.co/sEa3X6nE4O",
+            "indices": [
+              46,
+              69
+            ]
+          },
+          {
+            "display_url": "t.me/+XKF7K_mZnzQ3N…",
+            "expanded_url": "https://t.me/+XKF7K_mZnzQ3NmY1",
+            "url": "https://t.co/PFZ7WSWpWU",
+            "indices": [
+              76,
+              99
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 2149,
+    "followersCount": 864,
+    "following": true,
+    "friendsCount": 12,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 20,
+    "location": "",
+    "mediaCount": 413,
+    "name": "Chris克里斯",
+    "normalFollowersCount": 864,
+    "pinnedTweetIdsStr": [],
+    "possiblySensitive": true,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1644325361864544258/1739256813",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1875070654372057088/FjaxuCez_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "ChrisXcpzc0506",
+    "statusesCount": 1774,
+    "translatorType": "none",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "profileImageShape": "Circle",
+  "restId": "1644325361864544258",
+  "tipjarSettings": {}
+}

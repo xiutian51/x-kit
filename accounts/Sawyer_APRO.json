@@ -1,0 +1,60 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNDA2OTU4NzI0MDY1ODk0NDA0",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Mon Jun 21 12:55:09 +0000 2021",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "🏍️ Cooking @APRO_Oracle | PRO for DATA | Best Wingman for the #Web3 team | All in $BTC | Learning #AI #RWA #BNB #Base",
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 7823,
+    "followedBy": true,
+    "followersCount": 10794,
+    "following": true,
+    "friendsCount": 1114,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 34,
+    "location": "",
+    "mediaCount": 216,
+    "name": "Sawyer @APRO",
+    "normalFollowersCount": 10794,
+    "pinnedTweetIdsStr": [
+      "1976675856446783697"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1406958724065894404/1761099850",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1979179194647986178/bomxKw4Q_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "Sawyer_APRO",
+    "statusesCount": 1710,
+    "translatorType": "none",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [
+      {
+        "iconName": "IconBriefcaseStroke",
+        "id": 1094,
+        "name": "Blockchain"
+      }
+    ],
+    "professionalType": "Creator",
+    "restId": "1623958773625950208"
+  },
+  "profileImageShape": "Circle",
+  "restId": "1406958724065894404",
+  "tipjarSettings": {}
+}

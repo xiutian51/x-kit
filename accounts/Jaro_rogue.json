@@ -1,0 +1,62 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNjQyOTY1MTY2MjM1OTgzODk5",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Mon Apr 03 19:00:34 +0000 2023",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "VP @ ASPI. Rogue Funds CIO, Mechanical Engineer. Not advice, do not rely, past performance is not indicative, my positioning may change. Opinions are my own.",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "rogue-funds.com",
+            "expanded_url": "https://www.rogue-funds.com",
+            "url": "https://t.co/GfuDPXjBIN",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 30995,
+    "followersCount": 6550,
+    "following": true,
+    "friendsCount": 152,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 122,
+    "location": "North Carolina",
+    "mediaCount": 334,
+    "name": "Jacob Rowe",
+    "normalFollowersCount": 6550,
+    "pinnedTweetIdsStr": [
+      "1924244197143380153"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1642965166235983899/1680993092",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1644831619973369858/F5VsoZI4_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "Jaro_rogue",
+    "statusesCount": 7595,
+    "translatorType": "none",
+    "url": "https://t.co/GfuDPXjBIN",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "profileImageShape": "Circle",
+  "restId": "1642965166235983899",
+  "tipjarSettings": {}
+}

@@ -1,0 +1,76 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjo3NzY0ODAyMzc1ODQ0NjE4MjQ=",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Thu Sep 15 17:58:09 +0000 2016",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "Co-founder, CMO @tectonicxyz. Venture Partner @hack_vc. Previously CMO Polygon, CMO Hedera Fdn. ex AVAX, TRX. @Web3jobopps @hexacoalpha. TG: therealminkim",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "t.me/web3jobopps",
+            "expanded_url": "http://t.me/web3jobopps",
+            "url": "https://t.co/kN4F7Rn3mU",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 8256,
+    "followersCount": 12145,
+    "following": true,
+    "friendsCount": 11530,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 172,
+    "location": "Puerto Rico, SF, MIA, NYC ",
+    "mediaCount": 290,
+    "name": "Min H. Kim 🇵🇷🇰🇷🌴🌲",
+    "normalFollowersCount": 12145,
+    "pinnedTweetIdsStr": [
+      "1977092079462584730"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/776480237584461824/1696336976",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1979401060608344064/rJIu9LAy_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "Minittowinit",
+    "statusesCount": 3304,
+    "translatorType": "none",
+    "url": "https://t.co/kN4F7Rn3mU",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [
+      {
+        "iconName": "IconBriefcaseStroke",
+        "id": 478,
+        "name": "Advertising & Marketing Agency"
+      }
+    ],
+    "professionalType": "Business",
+    "restId": "1626010639452758016"
+  },
+  "profileImageShape": "Circle",
+  "restId": "776480237584461824",
+  "tipjarSettings": {
+    "bitcoinHandle": "33fLGCcsFuxE9pt1SynjDomgLJrsFBmubh",
+    "isEnabled": false
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxMDAwMjkxODAzMDQ2NjcwMzM2",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": false,
+    "canMediaTag": true,
+    "createdAt": "Sat May 26 08:25:25 +0000 2018",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "@MetricsVentures",
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 2472,
+    "followersCount": 2072,
+    "following": true,
+    "friendsCount": 856,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 65,
+    "location": "",
+    "mediaCount": 148,
+    "name": "Ruby",
+    "normalFollowersCount": 2072,
+    "pinnedTweetIdsStr": [],
+    "possiblySensitive": false,
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1953176661719171075/neWnYQjg_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "0xBFRuby",
+    "statusesCount": 1558,
+    "translatorType": "none",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [
+      {
+        "iconName": "IconBriefcaseStroke",
+        "id": 1009,
+        "name": "Community"
+      }
+    ],
+    "professionalType": "Business",
+    "restId": "1464978791361568777"
+  },
+  "profileImageShape": "Circle",
+  "restId": "1000291803046670336",
+  "tipjarSettings": {}
+}

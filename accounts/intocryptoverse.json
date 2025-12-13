@@ -1,0 +1,92 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjo5NDM1MDY4MDY5MzE3MzQ1Mjg=",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": false,
+    "canMediaTag": false,
+    "createdAt": "Wed Dec 20 15:42:07 +0000 2017",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "CEO/Founder @ITC_Crypto @ITC_Stocks @ITC_Macro PhD Engineering https://t.co/VwxEaJxIl8\nhttps://t.co/mxlx11o28K",
+    "entities": {
+      "description": {
+        "urls": [
+          {
+            "display_url": "youtube.com/@intothecrypto…",
+            "expanded_url": "https://www.youtube.com/@intothecryptoverse",
+            "url": "https://t.co/VwxEaJxIl8",
+            "indices": [
+              63,
+              86
+            ]
+          },
+          {
+            "display_url": "benjamincowen.com",
+            "expanded_url": "https://www.benjamincowen.com/",
+            "url": "https://t.co/mxlx11o28K",
+            "indices": [
+              87,
+              110
+            ]
+          }
+        ]
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "intothecryptoverse.com",
+            "expanded_url": "https://intothecryptoverse.com/",
+            "url": "https://t.co/Llgs17EVN0",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 17590,
+    "followersCount": 1133591,
+    "following": true,
+    "friendsCount": 1067,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 9790,
+    "location": "The Cryptoverse",
+    "mediaCount": 7128,
+    "name": "Benjamin Cowen",
+    "normalFollowersCount": 1133591,
+    "pinnedTweetIdsStr": [],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/943506806931734528/1636665119",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1661406326709256193/fcLfe0jv_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "intocryptoverse",
+    "statusesCount": 26775,
+    "translatorType": "none",
+    "url": "https://t.co/Llgs17EVN0",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [
+      {
+        "iconName": "IconBriefcaseStroke",
+        "id": 144,
+        "name": "Education"
+      }
+    ],
+    "professionalType": "Creator",
+    "restId": "1572039528390475776"
+  },
+  "profileImageShape": "Circle",
+  "restId": "943506806931734528",
+  "tipjarSettings": {
+    "isEnabled": true
+  }
+}

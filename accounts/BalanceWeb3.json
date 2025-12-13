@@ -1,0 +1,72 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNjUxMTQ1NDc2ODc0NTg0MDY1",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Wed Apr 26 08:45:40 +0000 2023",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "Fun & updates from https://t.co/Qb427q8H6W | I hype $EPT & Key Nodes like a pro.",
+    "entities": {
+      "description": {
+        "urls": [
+          {
+            "display_url": "Balance.Fun",
+            "expanded_url": "http://Balance.Fun",
+            "url": "https://t.co/Qb427q8H6W",
+            "indices": [
+              19,
+              42
+            ]
+          }
+        ]
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "linktr.ee/balance_fun",
+            "expanded_url": "http://linktr.ee/balance_fun",
+            "url": "https://t.co/5MpQy8zxH6",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 63,
+    "followersCount": 98551,
+    "following": true,
+    "friendsCount": 54,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 41,
+    "location": "Epal Labs",
+    "mediaCount": 142,
+    "name": "Balance Foundation",
+    "normalFollowersCount": 98551,
+    "pinnedTweetIdsStr": [
+      "1914288009819611622"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1651145476874584065/1737186023",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1863542214368034816/inhWM0W9_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "BalanceWeb3",
+    "statusesCount": 748,
+    "translatorType": "none",
+    "url": "https://t.co/5MpQy8zxH6",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "profileImageShape": "Circle",
+  "restId": "1651145476874584065",
+  "tipjarSettings": {}
+}

@@ -1,0 +1,76 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxMzc0OTg1NTM1MTY5NTUyMzg4",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Thu Mar 25 07:24:42 +0000 2021",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "在悲观时看见光，在乐观时看见影。",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "opensea.io/collection/las…",
+            "expanded_url": "https://opensea.io/collection/lasercat-nft",
+            "url": "https://t.co/jFlsyYbtpW",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 13011,
+    "followersCount": 150828,
+    "following": true,
+    "friendsCount": 3357,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 3541,
+    "location": "",
+    "mediaCount": 1772,
+    "name": "LaserCat397.eth",
+    "normalFollowersCount": 150828,
+    "pinnedTweetIdsStr": [
+      "1768495447700840708"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1374985535169552388/1678886523",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1931808821388931072/8vCozkM2_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "BitCloutCat",
+    "statusesCount": 7350,
+    "translatorType": "none",
+    "url": "https://t.co/jFlsyYbtpW",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [
+      {
+        "iconName": "IconBriefcaseStroke",
+        "id": 958,
+        "name": "Entrepreneur"
+      }
+    ],
+    "professionalType": "Creator",
+    "restId": "1598243188627902465"
+  },
+  "profileImageShape": "Circle",
+  "restId": "1374985535169552388",
+  "tipjarSettings": {
+    "ethereumHandle": "0x1AF331dc34dD7C5C62AF28B5685328318b61888a",
+    "isEnabled": true
+  }
+}

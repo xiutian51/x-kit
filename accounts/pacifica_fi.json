@@ -1,0 +1,72 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxODg3NDY1OTYyMTcxMjMyMjU2",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Thu Feb 06 11:38:55 +0000 2025",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "Building the next generation of perp exchanges. Closed Beta, now live: https://t.co/snmzjJ1FtV",
+    "entities": {
+      "description": {
+        "urls": [
+          {
+            "display_url": "pacifica.fi",
+            "expanded_url": "https://pacifica.fi",
+            "url": "https://t.co/snmzjJ1FtV",
+            "indices": [
+              71,
+              94
+            ]
+          }
+        ]
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "discord.gg/pacifica",
+            "expanded_url": "https://discord.gg/pacifica",
+            "url": "https://t.co/mJbPQx0UY7",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 1423,
+    "followersCount": 30966,
+    "following": true,
+    "friendsCount": 7,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 196,
+    "location": "",
+    "mediaCount": 456,
+    "name": "Pacifica",
+    "normalFollowersCount": 30966,
+    "pinnedTweetIdsStr": [
+      "1932277071088349420"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1887465962171232256/1743145495",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1911022804159389696/THxMFj50_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "pacifica_fi",
+    "statusesCount": 1274,
+    "translatorType": "none",
+    "url": "https://t.co/mJbPQx0UY7",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "profileImageShape": "Circle",
+  "restId": "1887465962171232256",
+  "tipjarSettings": {}
+}

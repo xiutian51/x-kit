@@ -1,0 +1,73 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjozMjc4OTA2NDAx",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": false,
+    "createdAt": "Mon Jul 13 20:25:23 +0000 2015",
+    "defaultProfile": false,
+    "defaultProfileImage": false,
+    "description": "🦊 The world’s leading crypto wallet.\n \nNeed help? https://t.co/gIVYDT5xVU | @MetaMaskSupport 🧡",
+    "entities": {
+      "description": {
+        "urls": [
+          {
+            "display_url": "support.metamask.io",
+            "expanded_url": "http://support.metamask.io",
+            "url": "https://t.co/gIVYDT5xVU",
+            "indices": [
+              50,
+              73
+            ]
+          }
+        ]
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "metamask.io",
+            "expanded_url": "https://metamask.io/",
+            "url": "https://t.co/8UNUrl9T4G",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 8006,
+    "followersCount": 1432030,
+    "following": true,
+    "friendsCount": 509,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 6505,
+    "location": "The Blockchain",
+    "mediaCount": 1532,
+    "name": "MetaMask.eth 🦊",
+    "normalFollowersCount": 1432030,
+    "pinnedTweetIdsStr": [
+      "1996611140881691034"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/3278906401/1765341299",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1945525968732295169/fqmzhm8Q_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "MetaMask",
+    "statusesCount": 8363,
+    "translatorType": "none",
+    "url": "https://t.co/8UNUrl9T4G",
+    "verified": false,
+    "verifiedType": "Business",
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "profileImageShape": "Square",
+  "restId": "3278906401",
+  "tipjarSettings": {}
+}

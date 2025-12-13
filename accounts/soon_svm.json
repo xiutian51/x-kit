@@ -1,0 +1,73 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNzk5MDg5MjAzNDgzMTkzMzQ0",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Fri Jun 07 14:41:48 +0000 2024",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "AI Capital Market WIP. Backed by @Jump_, @hack_vc & @anagramxyz https://t.co/EFAKt91B1F",
+    "entities": {
+      "description": {
+        "urls": [
+          {
+            "display_url": "soo.network",
+            "expanded_url": "http://soo.network",
+            "url": "https://t.co/EFAKt91B1F",
+            "indices": [
+              64,
+              87
+            ]
+          }
+        ]
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "linktr.ee/soon_svm",
+            "expanded_url": "https://linktr.ee/soon_svm",
+            "url": "https://t.co/ORKWWDolgd",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 7853,
+    "followersCount": 154841,
+    "following": true,
+    "friendsCount": 792,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 308,
+    "location": "High-Performance-as-a-Service",
+    "mediaCount": 791,
+    "name": "SOON - Solana Optimistic Network (Mainnet Arc)",
+    "normalFollowersCount": 154841,
+    "pinnedTweetIdsStr": [
+      "1924379566531096632"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1799089203483193344/1754359965",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1824061692843802624/ypS4GORQ_normal.png",
+    "profileInterstitialType": "",
+    "screenName": "soon_svm",
+    "statusesCount": 3970,
+    "translatorType": "none",
+    "url": "https://t.co/ORKWWDolgd",
+    "verified": false,
+    "verifiedType": "Business",
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "profileImageShape": "Square",
+  "restId": "1799089203483193344",
+  "tipjarSettings": {}
+}

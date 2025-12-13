@@ -1,0 +1,75 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {
+    "label": {
+      "url": {
+        "url": "https://twitter.com/AvaLabs",
+        "urlType": "DeepLink"
+      },
+      "badge": {
+        "url": "https://pbs.twimg.com/profile_images/1961587069488390144/0K8QZ_fm_bigger.jpg"
+      },
+      "description": "Ava Labs 🔺",
+      "userLabelType": "BusinessLabel",
+      "userLabelDisplayType": "Badge"
+    }
+  },
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjozNjkzMTg3NjU=",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Wed Sep 07 04:32:36 +0000 2011",
+    "defaultProfile": false,
+    "defaultProfileImage": false,
+    "description": "Marketing Manager @avacloud / @avax. Deploy your own L1 in minutes. | NFA / DYOR",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "avacloud.io",
+            "expanded_url": "http://www.avacloud.io",
+            "url": "https://t.co/OkZvKQTDBd",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 91786,
+    "followersCount": 4274,
+    "following": true,
+    "friendsCount": 3146,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 43,
+    "location": "",
+    "mediaCount": 1107,
+    "name": "Perry 🔺",
+    "normalFollowersCount": 4274,
+    "pinnedTweetIdsStr": [
+      "1889115415239950776"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/369318765/1741205962",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1948140795216666625/EnG4y_54_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "perryjsmith",
+    "statusesCount": 9581,
+    "translatorType": "none",
+    "url": "https://t.co/OkZvKQTDBd",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "profileImageShape": "Circle",
+  "restId": "369318765",
+  "tipjarSettings": {}
+}

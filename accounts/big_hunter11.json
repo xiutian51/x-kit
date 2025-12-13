@@ -1,0 +1,58 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNzcyOTMzMzM4MDQ0NzM1NDg4",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Wed Mar 27 10:27:23 +0000 2024",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "加密投资人，比特币周期观察者，提出关于比特币周期顶部的二阶变化率模型，精准预测本周期牛顶\n\n火币HTX注册：https://t.co/4qNrpXtqjV",
+    "entities": {
+      "description": {
+        "urls": [
+          {
+            "display_url": "htx.com.pk/invite/zh-cn/1…",
+            "expanded_url": "http://www.htx.com.pk/invite/zh-cn/1h?invite_code=lucky111",
+            "url": "https://t.co/4qNrpXtqjV",
+            "indices": [
+              54,
+              77
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 4501,
+    "followersCount": 5059,
+    "following": true,
+    "friendsCount": 1565,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 54,
+    "location": "新加坡",
+    "mediaCount": 1550,
+    "name": "加密大猎手",
+    "normalFollowersCount": 5059,
+    "pinnedTweetIdsStr": [
+      "1816412020327260333"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1772933338044735488/1711595380",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1773185039188234240/lj_i4-tr_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "big_hunter11",
+    "statusesCount": 4935,
+    "translatorType": "none",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "profileImageShape": "Circle",
+  "restId": "1772933338044735488",
+  "tipjarSettings": {}
+}

@@ -1,0 +1,83 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {
+    "label": {
+      "url": {
+        "url": "https://twitter.com/Artixx",
+        "urlType": "DeepLink"
+      },
+      "badge": {
+        "url": "https://pbs.twimg.com/profile_images/1954317907288281088/T0_QIr1-_bigger.jpg"
+      },
+      "description": "Artix",
+      "userLabelType": "BusinessLabel",
+      "userLabelDisplayType": "Badge"
+    }
+  },
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjozMTg1NzE2Njg2",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": false,
+    "createdAt": "Tue May 05 02:01:09 +0000 2015",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "News, Memes, Charts, Hopium, Market analysis and Latest crypto updates. Our official Telegram https://t.co/6iHJbN2D67",
+    "entities": {
+      "description": {
+        "urls": [
+          {
+            "display_url": "t.me/AshCryptoTG",
+            "expanded_url": "https://t.me/AshCryptoTG",
+            "url": "https://t.co/6iHJbN2D67",
+            "indices": [
+              94,
+              117
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 20485,
+    "followersCount": 2073004,
+    "following": true,
+    "friendsCount": 310,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 7160,
+    "location": "X",
+    "mediaCount": 10186,
+    "name": "Ash Crypto",
+    "normalFollowersCount": 2073004,
+    "pinnedTweetIdsStr": [
+      "1999198501897666788"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/3185716686/1742582397",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1935933861034090496/h_vgXOAw_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "AshCrypto",
+    "statusesCount": 26692,
+    "translatorType": "none",
+    "verified": false,
+    "verifiedType": "Business",
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [
+      {
+        "iconName": "IconBriefcaseStroke",
+        "id": 579,
+        "name": "Media & News"
+      }
+    ],
+    "professionalType": "Business",
+    "restId": "1840408164144939281"
+  },
+  "profileImageShape": "Square",
+  "restId": "3185716686",
+  "tipjarSettings": {}
+}

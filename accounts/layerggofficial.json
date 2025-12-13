@@ -1,0 +1,53 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxMzc1NjAxNzUxMDEzNzkzNzk3",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": false,
+    "createdAt": "Sat Mar 27 00:13:22 +0000 2021",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "Intuitive metrics(VC, Exchange, etc) | The deepest research in Market Trend/Project",
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 3685,
+    "followersCount": 126169,
+    "following": true,
+    "friendsCount": 187,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 2075,
+    "location": "",
+    "mediaCount": 1389,
+    "name": "Layergg",
+    "normalFollowersCount": 126169,
+    "pinnedTweetIdsStr": [
+      "1995443341614600535"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1375601751013793797/1666936559",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1585872982248808451/ZE9Fv1X-_normal.png",
+    "profileInterstitialType": "",
+    "screenName": "layerggofficial",
+    "statusesCount": 5121,
+    "translatorType": "none",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [],
+    "professionalType": "Creator",
+    "restId": "1621061190578495494"
+  },
+  "profileImageShape": "Circle",
+  "restId": "1375601751013793797",
+  "tipjarSettings": {}
+}

@@ -1,0 +1,47 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNDU5NjMyNzY5MzUzNDgyMjQw",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": false,
+    "canMediaTag": true,
+    "createdAt": "Sat Nov 13 21:22:37 +0000 2021",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "蓝狐笔记，通往web3的世界。 （1.仅记录想法，没有客观只有主观，不能作为投资建议 ；2.蓝狐笔记只有此号，没有任何telegram或discord等群，没有其他分号，不会要求任何人参与投资，也不会发表跟区块链无关内容 ；3.不会发布链接，不要点击，谨防受骗。)",
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 22825,
+    "followersCount": 69247,
+    "following": true,
+    "friendsCount": 994,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 1973,
+    "location": "",
+    "mediaCount": 400,
+    "name": "蓝狐",
+    "normalFollowersCount": 69247,
+    "pinnedTweetIdsStr": [],
+    "possiblySensitive": false,
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1897354441864699907/Br2FOvgO_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "lanhubiji",
+    "statusesCount": 7919,
+    "translatorType": "none",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "profileImageShape": "Circle",
+  "restId": "1459632769353482240",
+  "tipjarSettings": {
+    "isEnabled": true
+  }
+}

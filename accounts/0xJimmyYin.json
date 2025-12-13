@@ -1,0 +1,67 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjo3NTMwMjIwMTY0OTY4Mjg0MTY=",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": false,
+    "canMediaTag": true,
+    "createdAt": "Wed Jul 13 00:23:34 +0000 2016",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "building at https://t.co/molhB6JX0i | @izumi_Finance\nResearcher since 2017 | Degent Farmer | Daddy of three cute cryptokitties",
+    "entities": {
+      "description": {
+        "urls": [
+          {
+            "display_url": "izumi.finance",
+            "expanded_url": "http://izumi.finance",
+            "url": "https://t.co/molhB6JX0i",
+            "indices": [
+              12,
+              35
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 1368,
+    "followersCount": 8958,
+    "following": true,
+    "friendsCount": 2300,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 77,
+    "location": "Singapore",
+    "mediaCount": 21,
+    "name": "jimmyyin",
+    "normalFollowersCount": 8958,
+    "pinnedTweetIdsStr": [],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/753022016496828416/1627735577",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1467438874876018694/-Adz_c9V_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "0xJimmyYin",
+    "statusesCount": 1142,
+    "translatorType": "none",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [
+      {
+        "iconName": "IconBriefcaseStroke",
+        "id": 958,
+        "name": "Entrepreneur"
+      }
+    ],
+    "professionalType": "Business",
+    "restId": "1487069676714618882"
+  },
+  "profileImageShape": "Circle",
+  "restId": "753022016496828416",
+  "tipjarSettings": {}
+}

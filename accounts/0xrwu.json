@@ -1,0 +1,62 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjo3MDQ1ODA0NjczNDE4NTY3Njk=",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Tue Mar 01 08:14:08 +0000 2016",
+    "defaultProfile": false,
+    "defaultProfileImage": false,
+    "description": "Building onchain trading @coinbase\n\nfounder @tensor_hq @VECTORDOTFUN (acq'd by @coinbase)",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "richardwu.ca",
+            "expanded_url": "http://richardwu.ca",
+            "url": "https://t.co/QprFqVBozE",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 20475,
+    "followersCount": 30772,
+    "following": true,
+    "friendsCount": 1099,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 400,
+    "location": "richardwu.sol",
+    "mediaCount": 928,
+    "name": "Richard | Tensor (prompt/acc)",
+    "normalFollowersCount": 30772,
+    "pinnedTweetIdsStr": [
+      "1991874872830472336"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/704580467341856769/1691162997",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1856048699132063744/SuLKAaU7_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "0xrwu",
+    "statusesCount": 13734,
+    "translatorType": "none",
+    "url": "https://t.co/QprFqVBozE",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "profileImageShape": "Circle",
+  "restId": "704580467341856769",
+  "tipjarSettings": {}
+}

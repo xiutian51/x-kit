@@ -1,0 +1,77 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxMzQ1NTE5NjIy",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": false,
+    "canMediaTag": true,
+    "createdAt": "Thu Apr 11 23:25:13 +0000 2013",
+    "defaultProfile": false,
+    "defaultProfileImage": false,
+    "description": "4M+ businesses around the world trust our apps to drive growth + engagement. Will you be next?  https://t.co/qF8SITnvAK",
+    "entities": {
+      "description": {
+        "urls": [
+          {
+            "display_url": "bit.ly/1ClG1T4",
+            "expanded_url": "http://bit.ly/1ClG1T4",
+            "url": "https://t.co/qF8SITnvAK",
+            "indices": [
+              96,
+              119
+            ]
+          }
+        ]
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "gleam.io",
+            "expanded_url": "https://gleam.io/",
+            "url": "https://t.co/5oLTQeu7Ju",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 197,
+    "followersCount": 172995,
+    "following": true,
+    "friendsCount": 1404,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 227,
+    "location": "Melbourne, Australia",
+    "mediaCount": 1523,
+    "name": "Gleam",
+    "normalFollowersCount": 172995,
+    "pinnedTweetIdsStr": [
+      "1467765068712448002"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1345519622/1399336873",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1663696463761911809/QfntCTQn_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "gleamapp",
+    "statusesCount": 7521,
+    "translatorType": "regular",
+    "url": "https://t.co/5oLTQeu7Ju",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [],
+    "professionalType": "Business",
+    "restId": "1498839079680573442"
+  },
+  "profileImageShape": "Circle",
+  "restId": "1345519622",
+  "tipjarSettings": {}
+}

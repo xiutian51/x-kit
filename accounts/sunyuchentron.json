@@ -1,0 +1,76 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {
+    "label": {
+      "url": {
+        "url": "https://twitter.com/trondao",
+        "urlType": "DeepLink"
+      },
+      "badge": {
+        "url": "https://pbs.twimg.com/profile_images/1970541264568520704/J6wYDxYk_bigger.jpg"
+      },
+      "description": "TRON DAO",
+      "userLabelType": "BusinessLabel",
+      "userLabelDisplayType": "Badge"
+    }
+  },
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxMjIyMTgyNzU2NDAwMDM3ODg5",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Tue Jan 28 15:41:01 +0000 2020",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "👨‍💻 企业家 | 🤵‍♂️ 外交官 | 👨‍🚀 宇航员 #712 | 🍌 艺术收藏家 | 创始人 @trondaoCN | 顾问 @BitTorrent & @htx_global | 英文@justinsuntron",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "sunpump.meme",
+            "expanded_url": "https://sunpump.meme",
+            "url": "https://t.co/taPoSJSTqy",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 83,
+    "followersCount": 240099,
+    "following": true,
+    "friendsCount": 276,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 891,
+    "location": "Singapore",
+    "mediaCount": 2978,
+    "name": "孙宇晨（去过太空版）🧑‍🚀",
+    "normalFollowersCount": 240099,
+    "pinnedTweetIdsStr": [
+      "1994249217918030105"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1222182756400037889/1705557778",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1955272811448340480/M9982AS6_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "sunyuchentron",
+    "statusesCount": 8497,
+    "translatorType": "none",
+    "url": "https://t.co/taPoSJSTqy",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "profileImageShape": "Circle",
+  "restId": "1222182756400037889",
+  "superFollowEligible": true,
+  "tipjarSettings": {}
+}

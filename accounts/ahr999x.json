@@ -1,0 +1,51 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNDE5MjExNjQyMTQ3OTgzMzYz",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": false,
+    "canMediaTag": true,
+    "createdAt": "Sun Jul 25 08:23:40 +0000 2021",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "#Bitcoin ｜囤比特币 | 人人皆是中本聪｜人人皆是999 ｜ahr999 搬运者｜非 ahr999 本人 ｜感谢 ahr999 ｜相信比特币，相信未来！",
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 46,
+    "followersCount": 2883,
+    "following": true,
+    "friendsCount": 7,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 39,
+    "location": "去中心化网络",
+    "mediaCount": 87,
+    "name": "ahr999 Porter 0.1 BTC",
+    "normalFollowersCount": 2883,
+    "pinnedTweetIdsStr": [
+      "1428907572459839498"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1419211642147983363/1647848786",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1431198260182413319/FyctU9QV_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "ahr999x",
+    "statusesCount": 1227,
+    "translatorType": "none",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "profileImageShape": "Circle",
+  "restId": "1419211642147983363",
+  "tipjarSettings": {
+    "bitcoinHandle": "bc1qtx55gxm9sew45xtls9gw9rd6g0wn2rply5xpqg",
+    "isEnabled": true
+  }
+}

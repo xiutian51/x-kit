@@ -1,0 +1,56 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNDg2MjkyODQ=",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": false,
+    "createdAt": "Thu May 27 05:39:13 +0000 2010",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "🦧 IQ 69",
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 4285,
+    "followersCount": 25742,
+    "following": true,
+    "friendsCount": 2,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 884,
+    "location": "Bangkok, Thailand",
+    "mediaCount": 1177,
+    "name": "gm365",
+    "normalFollowersCount": 25742,
+    "pinnedTweetIdsStr": [
+      "1997165139687362710"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/148629284/1763370028",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1888075777041907712/6varnwUI_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "gm365",
+    "statusesCount": 4900,
+    "translatorType": "none",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [],
+    "professionalType": "Business",
+    "restId": "1595760845673230336"
+  },
+  "profileImageShape": "Circle",
+  "restId": "148629284",
+  "tipjarSettings": {
+    "ethereumHandle": "0x365A9a61191F249Ba4f0d21263852Da78D6FAd7c",
+    "isEnabled": true
+  }
+}

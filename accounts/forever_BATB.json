@@ -1,0 +1,58 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": false,
+  "id": "VXNlcjoxMTk4MjEyNjczMjEwNDM3NjMy",
+  "isBlueVerified": false,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": false,
+    "createdAt": "Sat Nov 23 12:12:27 +0000 2019",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "buy at the bottom",
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 2635,
+    "followersCount": 2276,
+    "following": true,
+    "friendsCount": 206,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 23,
+    "location": "",
+    "mediaCount": 12,
+    "name": "木下山人",
+    "normalFollowersCount": 2276,
+    "pinnedTweetIdsStr": [
+      "1736953473214914868"
+    ],
+    "possiblySensitive": false,
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1933821630138200064/XnX0kKSh_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "forever_BATB",
+    "statusesCount": 124,
+    "translatorType": "none",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [
+      {
+        "iconName": "IconBriefcaseStroke",
+        "id": 149,
+        "name": "School"
+      }
+    ],
+    "professionalType": "Business",
+    "restId": "1674303463826788354"
+  },
+  "profileImageShape": "Circle",
+  "restId": "1198212673210437632",
+  "tipjarSettings": {}
+}

@@ -1,0 +1,74 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNDgwNzMwOTY0NjUzMjY0ODk3",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Tue Jan 11 02:39:23 +0000 2022",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "OUTA the box, be a WEIRDO 👻\nLaunched in Feb 2022\n\nTrade WGG 🛒 https://t.co/kohLbNn4r8\nLinks🔗https://t.co/rEsxIEtP8m\n\n你友好的领居幽灵",
+    "entities": {
+      "description": {
+        "urls": [
+          {
+            "display_url": "blur.weirdoghost.com",
+            "expanded_url": "http://blur.weirdoghost.com",
+            "url": "https://t.co/kohLbNn4r8",
+            "indices": [
+              62,
+              85
+            ]
+          },
+          {
+            "display_url": "linktr.ee/weirdoghostgang",
+            "expanded_url": "https://linktr.ee/weirdoghostgang",
+            "url": "https://t.co/rEsxIEtP8m",
+            "indices": [
+              92,
+              115
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 3354,
+    "followersCount": 136243,
+    "following": true,
+    "friendsCount": 226,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 210,
+    "location": "Ghostopia",
+    "mediaCount": 850,
+    "name": "Weirdo Ghost Gang",
+    "normalFollowersCount": 136243,
+    "pinnedTweetIdsStr": [
+      "1722045288540430784"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1480730964653264897/1656191171",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1607529806278574083/5Os4HRpJ_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "WeirdoGhostGang",
+    "statusesCount": 2758,
+    "translatorType": "none",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [],
+    "professionalType": "Creator",
+    "restId": "1481572575398567936"
+  },
+  "profileImageShape": "Circle",
+  "restId": "1480730964653264897",
+  "tipjarSettings": {
+    "isEnabled": true
+  }
+}

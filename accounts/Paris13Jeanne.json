@@ -1,0 +1,76 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjozMzUzMjIzMTIz",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": false,
+    "createdAt": "Wed Jul 01 15:03:04 +0000 2015",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "二级实盘交易员/法国Essec金融硕士/CFA特许金融分析师一级/缠论lover/SM lover/加群需要注册:\n近3亿用户共同选择TOP1交易所币安 或\n钱包超丝滑，合约滑点小的OKX\n（链接如下）",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "t.me/+pvDUrBUsKNlkO…",
+            "expanded_url": "https://t.me/+pvDUrBUsKNlkOTNk",
+            "url": "https://t.co/t38FA915j8",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 69326,
+    "followersCount": 117755,
+    "following": true,
+    "friendsCount": 3001,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 1128,
+    "location": "Paris",
+    "mediaCount": 3630,
+    "name": "K线教主",
+    "normalFollowersCount": 117755,
+    "pinnedTweetIdsStr": [
+      "1963679826180805045"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/3353223123/1746101446",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1966498856683847680/60Li7Mqk_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "Paris13Jeanne",
+    "statusesCount": 50346,
+    "translatorType": "none",
+    "url": "https://t.co/t38FA915j8",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [
+      {
+        "iconName": "IconBriefcaseStroke",
+        "id": 934,
+        "name": "Social Media Influencer"
+      }
+    ],
+    "professionalType": "Business",
+    "restId": "1510482454699819009"
+  },
+  "profileImageShape": "Circle",
+  "restId": "3353223123",
+  "tipjarSettings": {
+    "ethereumHandle": "0xb3c03cE1FB914d69838f4e18962297c1708CED5E",
+    "isEnabled": true
+  }
+}

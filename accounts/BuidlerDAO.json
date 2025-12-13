@@ -1,0 +1,92 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNDkzOTY1MDU4ODgzNDMyNDUw",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Wed Feb 16 15:07:44 +0000 2022",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "Talents & projects protocol empowering BUIDLers and accelerating projects. Backed by @sequoia @SevenXVentures\n🦄 https://t.co/YapXaQIBB0\n🎓 https://t.co/DKFMISAG1f",
+    "entities": {
+      "description": {
+        "urls": [
+          {
+            "display_url": "springx.net",
+            "expanded_url": "https://springx.net/",
+            "url": "https://t.co/YapXaQIBB0",
+            "indices": [
+              112,
+              135
+            ]
+          },
+          {
+            "display_url": "cubesummit.xyz",
+            "expanded_url": "https://cubesummit.xyz/",
+            "url": "https://t.co/DKFMISAG1f",
+            "indices": [
+              138,
+              161
+            ]
+          }
+        ]
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "buidlerdao.xyz",
+            "expanded_url": "https://buidlerdao.xyz/",
+            "url": "https://t.co/6cfOPZxY5f",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 1612,
+    "followersCount": 43703,
+    "following": true,
+    "friendsCount": 339,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 166,
+    "location": "",
+    "mediaCount": 380,
+    "name": "BuidlerDAO",
+    "normalFollowersCount": 43703,
+    "pinnedTweetIdsStr": [
+      "1881950710163784083"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1493965058883432450/1653582560",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1683519202915917824/_fkeg3QZ_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "BuidlerDAO",
+    "statusesCount": 1839,
+    "translatorType": "none",
+    "url": "https://t.co/6cfOPZxY5f",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [
+      {
+        "iconName": "IconBriefcaseStroke",
+        "id": 1094,
+        "name": "Blockchain"
+      }
+    ],
+    "professionalType": "Creator",
+    "restId": "1526611732986068992"
+  },
+  "profileImageShape": "Circle",
+  "restId": "1493965058883432450",
+  "tipjarSettings": {}
+}

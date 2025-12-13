@@ -1,0 +1,101 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoyNjU3NTgzNDI=",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Mon Mar 14 03:09:10 +0000 2011",
+    "defaultProfile": false,
+    "defaultProfileImage": false,
+    "description": "Hardcore infra. https://t.co/zOnSIQQjyS https://t.co/d8fCmiYo4N Reading Club: https://t.co/BUgJWB3DFB",
+    "entities": {
+      "description": {
+        "urls": [
+          {
+            "display_url": "8004scan.io",
+            "expanded_url": "https://www.8004scan.io",
+            "url": "https://t.co/zOnSIQQjyS",
+            "indices": [
+              16,
+              39
+            ]
+          },
+          {
+            "display_url": "AltLayer.io",
+            "expanded_url": "https://AltLayer.io",
+            "url": "https://t.co/d8fCmiYo4N",
+            "indices": [
+              40,
+              63
+            ]
+          },
+          {
+            "display_url": "t.me/yqreads",
+            "expanded_url": "https://t.me/yqreads",
+            "url": "https://t.co/BUgJWB3DFB",
+            "indices": [
+              78,
+              101
+            ]
+          }
+        ]
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "t.me/yqreads",
+            "expanded_url": "https://t.me/yqreads",
+            "url": "https://t.co/BUgJWB3DFB",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 3886,
+    "followersCount": 89657,
+    "following": true,
+    "friendsCount": 2397,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 471,
+    "location": "Mars",
+    "mediaCount": 440,
+    "name": "YQ",
+    "normalFollowersCount": 89657,
+    "pinnedTweetIdsStr": [
+      "1977279159044071922"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/265758342/1502640313",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1974116571078627328/7cC2ZbEL_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "yq_acc",
+    "statusesCount": 5086,
+    "translatorType": "none",
+    "url": "https://t.co/BUgJWB3DFB",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [
+      {
+        "iconName": "IconBriefcaseStroke",
+        "id": 713,
+        "name": "Science & Technology"
+      }
+    ],
+    "professionalType": "Business",
+    "restId": "1590591354085683200"
+  },
+  "profileImageShape": "Circle",
+  "restId": "265758342",
+  "tipjarSettings": {}
+}

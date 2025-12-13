@@ -1,0 +1,75 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {
+    "label": {
+      "url": {
+        "url": "https://twitter.com/bitget",
+        "urlType": "DeepLink"
+      },
+      "badge": {
+        "url": "https://pbs.twimg.com/profile_images/1974032533588250624/sMfy8bGo_bigger.jpg"
+      },
+      "description": "Bitget",
+      "userLabelType": "BusinessLabel",
+      "userLabelDisplayType": "Badge"
+    }
+  },
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjo3MjMyMjQ0NDQ3NTIxNTg3MjA=",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Thu Apr 21 18:58:39 +0000 2016",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "Former TV host turned #BGB hodler | World traveler ✈️ | CEO at @bitget 🫡 | Writing daily #crypto insights with tips on personal growth ✍️ | NFA & DYOR",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "bitget.com/en/register?ut…",
+            "expanded_url": "https://www.bitget.com/en/register?utm_source=Twitter",
+            "url": "https://t.co/8GmOZ6QaYm",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 1222,
+    "followersCount": 273045,
+    "following": true,
+    "friendsCount": 1484,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 567,
+    "location": "Bitget",
+    "mediaCount": 842,
+    "name": "Gracy Chen @Bitget",
+    "normalFollowersCount": 273045,
+    "pinnedTweetIdsStr": [
+      "1981286863362244721"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/723224444752158720/1757498434",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1965689672090472448/V0B02neX_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "GracyBitget",
+    "statusesCount": 3859,
+    "translatorType": "none",
+    "url": "https://t.co/8GmOZ6QaYm",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "profileImageShape": "Circle",
+  "restId": "723224444752158720",
+  "tipjarSettings": {}
+}

@@ -1,0 +1,58 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNTA0NjE5Mjc1MjQzMzM1Njgz",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": false,
+    "canMediaTag": true,
+    "createdAt": "Fri Mar 18 00:42:55 +0000 2022",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "十年币圈老韭菜🌈独立研究员🧐圈内Builder💪\n原教旨主义者🆒二级交易爱好者💲\nWeb3日常吹水，分享项目心得和交易策略",
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 63,
+    "followersCount": 2017,
+    "following": true,
+    "friendsCount": 235,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 24,
+    "location": "",
+    "mediaCount": 162,
+    "name": "北海",
+    "normalFollowersCount": 2017,
+    "pinnedTweetIdsStr": [
+      "1741621052609081444"
+    ],
+    "possiblySensitive": false,
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1595694808403652608/KisiPyFg_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "albertchin20162",
+    "statusesCount": 686,
+    "translatorType": "none",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [
+      {
+        "iconName": "IconBriefcaseStroke",
+        "id": 1094,
+        "name": "Blockchain"
+      }
+    ],
+    "professionalType": "Creator",
+    "restId": "1761901806844780786"
+  },
+  "profileImageShape": "Circle",
+  "restId": "1504619275243335683",
+  "tipjarSettings": {}
+}

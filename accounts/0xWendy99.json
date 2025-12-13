@@ -1,0 +1,60 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNDk3OTEzMzExMzk2MDg1NzYw",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Sun Feb 27 12:35:51 +0000 2022",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "Crypto speculator, ex-VC, fulltime degen, go big or go home",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "t.me/wendy_alpha",
+            "expanded_url": "https://t.me/wendy_alpha",
+            "url": "https://t.co/9oT6bfCu11",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 2777,
+    "followersCount": 8579,
+    "following": true,
+    "friendsCount": 4609,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 220,
+    "location": "",
+    "mediaCount": 239,
+    "name": "0xWendy",
+    "normalFollowersCount": 8579,
+    "pinnedTweetIdsStr": [],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1497913311396085760/1646931920",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1948956722389024771/MVfhf1zP_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "0xWendy99",
+    "statusesCount": 2493,
+    "translatorType": "none",
+    "url": "https://t.co/9oT6bfCu11",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "profileImageShape": "Circle",
+  "restId": "1497913311396085760",
+  "tipjarSettings": {}
+}

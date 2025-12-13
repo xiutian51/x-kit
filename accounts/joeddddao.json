@@ -1,0 +1,70 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoyMjgyNDY0NzI0",
+  "isBlueVerified": false,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Wed Jan 08 17:51:03 +0000 2014",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "程序员 | INTJ | Trader | DDDD 量化交易社群：https://t.co/QXIgk3lEmX",
+    "entities": {
+      "description": {
+        "urls": [
+          {
+            "display_url": "t.me/ddddao2025",
+            "expanded_url": "http://t.me/ddddao2025",
+            "url": "https://t.co/QXIgk3lEmX",
+            "indices": [
+              34,
+              57
+            ]
+          }
+        ]
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "ddddapp.com",
+            "expanded_url": "https://ddddapp.com/",
+            "url": "https://t.co/LeY5kk5BU8",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 65,
+    "followersCount": 753,
+    "following": true,
+    "friendsCount": 774,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 9,
+    "location": "http://t.me/ddddao2025",
+    "mediaCount": 147,
+    "name": "Joe要量化",
+    "normalFollowersCount": 753,
+    "pinnedTweetIdsStr": [],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/2282464724/1748311233",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1900910487241715716/xAhw4Uv6_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "joeddddao",
+    "statusesCount": 447,
+    "translatorType": "none",
+    "url": "https://t.co/LeY5kk5BU8",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "profileImageShape": "Circle",
+  "restId": "2282464724",
+  "tipjarSettings": {}
+}

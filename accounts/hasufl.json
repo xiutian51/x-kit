@@ -1,0 +1,58 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {
+    "label": {
+      "url": {
+        "url": "https://twitter.com/SteakhouseFi",
+        "urlType": "DeepLink"
+      },
+      "badge": {
+        "url": "https://pbs.twimg.com/profile_images/1937810644964716545/LDiOF-l0_bigger.jpg"
+      },
+      "description": "Steakhouse Financial",
+      "userLabelType": "BusinessLabel",
+      "userLabelDisplayType": "Badge"
+    }
+  },
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjo1NjY1MzQ4ODY=",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": false,
+    "canMediaTag": false,
+    "createdAt": "Sun Apr 29 16:35:26 +0000 2012",
+    "defaultProfile": false,
+    "defaultProfileImage": false,
+    "description": "strategy steward @ flashbots \nadvisor @ lido, steakhouse",
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 61239,
+    "followersCount": 249139,
+    "following": true,
+    "friendsCount": 1316,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 5225,
+    "location": "",
+    "mediaCount": 880,
+    "name": "Hasu⚡️🤖",
+    "normalFollowersCount": 249139,
+    "pinnedTweetIdsStr": [],
+    "possiblySensitive": false,
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1939674327873396736/TlfIZMiO_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "hasufl",
+    "statusesCount": 31831,
+    "translatorType": "none",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "profileImageShape": "Circle",
+  "restId": "566534886",
+  "tipjarSettings": {}
+}

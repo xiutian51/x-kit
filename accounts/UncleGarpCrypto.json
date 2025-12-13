@@ -1,0 +1,46 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNjc0NjM3MDY3NDIxMzg0NzA0",
+  "isBlueVerified": false,
+  "legacy": {
+    "canDm": false,
+    "canMediaTag": true,
+    "createdAt": "Fri Jun 30 04:32:54 +0000 2023",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "UncleGarp_Cryptox10000",
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 390,
+    "followersCount": 1501,
+    "following": true,
+    "friendsCount": 1027,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 1,
+    "location": "",
+    "mediaCount": 17,
+    "name": "UncleGarpCrypto",
+    "normalFollowersCount": 1501,
+    "pinnedTweetIdsStr": [],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1674637067421384704/1690116511",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1683097065751220225/xBZBgMZL_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "UncleGarpCrypto",
+    "statusesCount": 716,
+    "translatorType": "none",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "profileImageShape": "Circle",
+  "restId": "1674637067421384704",
+  "tipjarSettings": {}
+}

@@ -1,0 +1,71 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjo5NTI5ODA0ODcwOTc3ODIyNzI=",
+  "isBlueVerified": false,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Mon Jan 15 19:07:08 +0000 2018",
+    "defaultProfile": false,
+    "defaultProfileImage": false,
+    "description": "💰 Web3 Community (600k on IG)\n📚 Education & Entertainment\n📈 Forecast & Analysis\n💡 Understand Crypto\n\n⬇️ 𝙎𝙩𝙖𝙧𝙩 𝙔𝙤𝙪𝙧 𝘾𝙧𝙮𝙥𝙩𝙤 𝙅𝙤𝙪𝙧𝙣𝙚𝙮 ⬇️",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "welcome.cryptoexplorer.cc",
+            "expanded_url": "https://welcome.cryptoexplorer.cc",
+            "url": "https://t.co/mRqu7B3sxa",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 195,
+    "followersCount": 963,
+    "following": true,
+    "friendsCount": 64,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 13,
+    "location": "Vienna",
+    "mediaCount": 2504,
+    "name": "CryptoExplorer",
+    "normalFollowersCount": 963,
+    "pinnedTweetIdsStr": [],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/952980487097782272/1571065105",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1181978071865409537/dVmZZ8Jz_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "cryptoexpl0rer",
+    "statusesCount": 2674,
+    "translatorType": "none",
+    "url": "https://t.co/mRqu7B3sxa",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [
+      {
+        "iconName": "IconBriefcaseStroke",
+        "id": 144,
+        "name": "Education"
+      }
+    ],
+    "professionalType": "Business",
+    "restId": "1498605180736126976"
+  },
+  "profileImageShape": "Circle",
+  "restId": "952980487097782272",
+  "tipjarSettings": {}
+}

@@ -1,0 +1,74 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjo4MjM3OTkyMDYyNjc2MjU0NzM=",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": false,
+    "canMediaTag": true,
+    "createdAt": "Tue Jan 24 07:46:51 +0000 2017",
+    "defaultProfile": false,
+    "defaultProfileImage": false,
+    "description": "We are an innovation network of 700+ teams and projects, driving breakthroughs in computing to push humanity forward.",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "protocol.ai",
+            "expanded_url": "http://protocol.ai",
+            "url": "https://t.co/FC0keTsbLr",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 8176,
+    "followersCount": 127135,
+    "following": true,
+    "friendsCount": 395,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 911,
+    "location": "Decentralized",
+    "mediaCount": 1784,
+    "name": "Protocol Labs",
+    "normalFollowersCount": 127135,
+    "pinnedTweetIdsStr": [
+      "1995851754387493145"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/823799206267625473/1732118260",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1584119257805324289/q0iMQmxI_normal.png",
+    "profileInterstitialType": "",
+    "screenName": "protocollabs",
+    "statusesCount": 7998,
+    "translatorType": "none",
+    "url": "https://t.co/FC0keTsbLr",
+    "verified": false,
+    "verifiedType": "Business",
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [
+      {
+        "iconName": "IconBriefcaseStroke",
+        "id": 713,
+        "name": "Science & Technology"
+      }
+    ],
+    "professionalType": "Business",
+    "restId": "1584561633560502282"
+  },
+  "profileImageShape": "Square",
+  "restId": "823799206267625473",
+  "tipjarSettings": {}
+}

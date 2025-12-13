@@ -1,0 +1,47 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjo5OTg5ODg5NjkxMTg0MDA1MTI=",
+  "isBlueVerified": false,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Tue May 22 18:08:25 +0000 2018",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "A fearless risk-taker, embracing challenges as opportunities for growth and transformation. 🏔️🌱\n\nMotivational Speaker • Web3 Advisor • Radio Host🎙️",
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 6759,
+    "followedBy": true,
+    "followersCount": 760,
+    "following": true,
+    "friendsCount": 3779,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 2,
+    "location": "",
+    "mediaCount": 35,
+    "name": "Jiang",
+    "normalFollowersCount": 760,
+    "pinnedTweetIdsStr": [],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/998988969118400512/1745935765",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1888611213770104832/Y2kyyCAl_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "0x_jiang",
+    "statusesCount": 1017,
+    "translatorType": "none",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "profileImageShape": "Circle",
+  "restId": "998988969118400512",
+  "tipjarSettings": {}
+}

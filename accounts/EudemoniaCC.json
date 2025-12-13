@@ -1,0 +1,89 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {
+    "label": {
+      "url": {
+        "url": "https://twitter.com/MorphNetwork",
+        "urlType": "DeepLink"
+      },
+      "badge": {
+        "url": "https://pbs.twimg.com/profile_images/1993524099218391040/VPfT_A46_bigger.jpg"
+      },
+      "description": "Morph",
+      "userLabelType": "BusinessLabel",
+      "userLabelDisplayType": "Badge"
+    }
+  },
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNDk2NzM2ODQ5NzAzODI1NDA5",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": false,
+    "createdAt": "Thu Feb 24 06:41:02 +0000 2022",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "Cooking @MorphNetwork ｜MorphBlack Holder🐨💎｜@TsingHua_Uni alumni｜exNLVC Crypto Investment｜https://t.co/0Wv0oTLKyI alumni｜@THUBA_DAO｜Know me from Highlights",
+    "entities": {
+      "description": {
+        "urls": [
+          {
+            "display_url": "decadex.org",
+            "expanded_url": "http://decadex.org",
+            "url": "https://t.co/0Wv0oTLKyI",
+            "indices": [
+              89,
+              112
+            ]
+          }
+        ]
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "decadex.org",
+            "expanded_url": "http://decadex.org",
+            "url": "https://t.co/0Wv0oTLKyI",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 8785,
+    "followersCount": 40343,
+    "following": true,
+    "friendsCount": 2769,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 246,
+    "location": "银河开外的心",
+    "mediaCount": 633,
+    "name": "EudemoniaCC🐨",
+    "normalFollowersCount": 40343,
+    "pinnedTweetIdsStr": [
+      "1831616608454017099"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1496736849703825409/1664076206",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1618233479308664833/NHSzvXkT_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "EudemoniaCC",
+    "statusesCount": 5094,
+    "translatorType": "none",
+    "url": "https://t.co/0Wv0oTLKyI",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "profileImageShape": "Circle",
+  "restId": "1496736849703825409",
+  "tipjarSettings": {
+    "bitcoinHandle": "399DXN6yPj6WZxCNXNm2s9fwC8M1KC1DXH",
+    "ethereumHandle": "0x1d380b851589438e3627fd85260952cd8498e437",
+    "isEnabled": true
+  }
+}

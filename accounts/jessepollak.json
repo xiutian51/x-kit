@@ -1,0 +1,75 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {
+    "label": {
+      "url": {
+        "url": "https://twitter.com/base",
+        "urlType": "DeepLink"
+      },
+      "badge": {
+        "url": "https://pbs.twimg.com/profile_images/1945608199500910592/rnk6ixxH_bigger.jpg"
+      },
+      "description": "Base",
+      "userLabelType": "BusinessLabel",
+      "userLabelDisplayType": "Badge"
+    }
+  },
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxODg3Njg0Mg==",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": false,
+    "canMediaTag": false,
+    "createdAt": "Sun Jan 11 19:36:50 +0000 2009",
+    "defaultProfile": false,
+    "defaultProfileImage": false,
+    "description": "@base builder #001 | DM @jessexbt_ai to get building",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "jesse.xyz",
+            "expanded_url": "https://jesse.xyz",
+            "url": "https://t.co/b0wXk39fc9",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 167093,
+    "followersCount": 332811,
+    "following": true,
+    "friendsCount": 4184,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 4351,
+    "location": "east bay & the internet",
+    "mediaCount": 1368,
+    "name": "jesse.base.eth",
+    "normalFollowersCount": 332811,
+    "pinnedTweetIdsStr": [
+      "1991552898799686102"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/18876842/1627429838",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1879556312822120448/QngrqCSC_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "jessepollak",
+    "statusesCount": 55151,
+    "translatorType": "none",
+    "url": "https://t.co/b0wXk39fc9",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "profileImageShape": "Circle",
+  "restId": "18876842",
+  "tipjarSettings": {}
+}

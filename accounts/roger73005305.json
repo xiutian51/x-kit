@@ -1,0 +1,86 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxMjgwODgyNzYxMTAwOTEwNTk4",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Wed Jul 08 15:13:55 +0000 2020",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "#Bitget 注册: https://t.co/ywqSbJW3qc\n#valuescan  邀请码: A6VUDJ",
+    "entities": {
+      "description": {
+        "urls": [
+          {
+            "display_url": "partner.itouyu.top/bg/347h3dcz",
+            "expanded_url": "http://partner.itouyu.top/bg/347h3dcz",
+            "url": "https://t.co/ywqSbJW3qc",
+            "indices": [
+              12,
+              35
+            ]
+          }
+        ]
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "valuescan.io/login?inviteCo…",
+            "expanded_url": "https://www.valuescan.io/login?inviteCode=A6VUDJ",
+            "url": "https://t.co/raTGCOi0kj",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 8974,
+    "followersCount": 61551,
+    "following": true,
+    "friendsCount": 998,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 1158,
+    "location": "Poland",
+    "mediaCount": 3229,
+    "name": "比特进",
+    "normalFollowersCount": 61551,
+    "pinnedTweetIdsStr": [
+      "1931179850963759553"
+    ],
+    "possiblySensitive": false,
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1931553533041819648/Vn71V0qK_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "roger73005305",
+    "statusesCount": 19207,
+    "translatorType": "none",
+    "url": "https://t.co/raTGCOi0kj",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [
+      {
+        "iconName": "IconBriefcaseStroke",
+        "id": 192,
+        "name": "Financial Services"
+      }
+    ],
+    "professionalType": "Creator",
+    "restId": "1619046601263136771"
+  },
+  "profileImageShape": "Circle",
+  "restId": "1280882761100910598",
+  "tipjarSettings": {
+    "bitcoinHandle": "3DSHBEaZvbgKF6oJMbetS1N9TkiPLaZbYN",
+    "ethereumHandle": "0x7f9483B4d04D0317F957935ACFbC738cd959E5e4",
+    "isEnabled": true
+  }
+}

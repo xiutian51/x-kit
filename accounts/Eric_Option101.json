@@ -1,0 +1,48 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxMzI5NDM1NzI=",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": false,
+    "canMediaTag": true,
+    "createdAt": "Wed Apr 14 15:55:02 +0000 2010",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "投资美股（SP500/TSLA/PLTR/RKLB/JOBY）和虚拟货币（BTC/TAO/WLFI），定投+长期持有+被动收入=慢慢变富。偶尔聊点读书心得。",
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 55,
+    "followersCount": 1303,
+    "following": true,
+    "friendsCount": 475,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 23,
+    "location": "",
+    "mediaCount": 193,
+    "name": "Eric Li (FIRE@45)",
+    "normalFollowersCount": 1303,
+    "pinnedTweetIdsStr": [
+      "1955089557302677612"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/132943572/1750907647",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1931147663006908416/KX1R8m8P_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "Eric_Option101",
+    "statusesCount": 1355,
+    "translatorType": "none",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "profileImageShape": "Circle",
+  "restId": "132943572",
+  "tipjarSettings": {}
+}

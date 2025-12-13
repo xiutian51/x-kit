@@ -1,0 +1,100 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {
+    "label": {
+      "url": {
+        "url": "https://twitter.com/Sidekick_Labs",
+        "urlType": "DeepLink"
+      },
+      "badge": {
+        "url": "https://pbs.twimg.com/profile_images/1997943436050378753/6j8_E-_V_bigger.jpg"
+      },
+      "description": "Sidekick",
+      "userLabelType": "BusinessLabel",
+      "userLabelDisplayType": "Badge"
+    }
+  },
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjo2MjkzNDc3MDc=",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Sat Jul 07 12:01:33 +0000 2012",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "#OKX 带单2023第一，Bitget交易赛冠军*2|OKX超级节点| OKX数字资产顶级交易所永久手续费减免邀请码alvintw：https://t.co/rISdXaOVzJ| #Binance ：邀请码CKR6ODUG | Bitget邀请码vdw59665 | Q群1053336326",
+    "entities": {
+      "description": {
+        "urls": [
+          {
+            "display_url": "okx.com/join/alvintw",
+            "expanded_url": "https://www.okx.com/join/alvintw",
+            "url": "https://t.co/rISdXaOVzJ",
+            "indices": [
+              67,
+              90
+            ]
+          }
+        ]
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "okx.com/join/alvintw",
+            "expanded_url": "https://www.okx.com/join/alvintw",
+            "url": "https://t.co/rISdXaOVzJ",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 11168,
+    "followersCount": 38391,
+    "following": true,
+    "friendsCount": 1257,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 323,
+    "location": "Hong Kong",
+    "mediaCount": 10116,
+    "name": "神隐Alvin（实盘交易主打真实）",
+    "normalFollowersCount": 38391,
+    "pinnedTweetIdsStr": [
+      "1681572586646540288"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/629347707/1699074519",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1947144984601440256/_vee-BA2_normal.png",
+    "profileInterstitialType": "",
+    "screenName": "alvinnn666",
+    "statusesCount": 26818,
+    "translatorType": "none",
+    "url": "https://t.co/rISdXaOVzJ",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [
+      {
+        "iconName": "IconBriefcaseStroke",
+        "id": 199,
+        "name": "Investment Company"
+      }
+    ],
+    "professionalType": "Creator",
+    "restId": "1590600061620146176"
+  },
+  "profileImageShape": "Circle",
+  "restId": "629347707",
+  "tipjarSettings": {
+    "bitcoinHandle": "3AY2k7ZSZwryPPXX7LTvepSwqbP2xDWMKg",
+    "ethereumHandle": "0x46Fe1aBDE63FEEF2BC92bACd0af069c0f191420C",
+    "isEnabled": true
+  }
+}

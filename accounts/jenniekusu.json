@@ -1,0 +1,86 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {
+    "label": {
+      "url": {
+        "url": "https://twitter.com/awenetwork_ai",
+        "urlType": "DeepLink"
+      },
+      "badge": {
+        "url": "https://pbs.twimg.com/profile_images/1947277654299750400/tS9Ez-Ii_bigger.jpg"
+      },
+      "description": "AWE",
+      "userLabelType": "BusinessLabel",
+      "userLabelDisplayType": "Badge"
+    }
+  },
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjo3MDkxOTYyNTEwMTE1NTUzMjg=",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": false,
+    "createdAt": "Mon Mar 14 01:55:37 +0000 2016",
+    "defaultProfile": false,
+    "defaultProfileImage": false,
+    "description": "Storyteller for crypto and ai｜building copilot team for founders｜真诚是第一性吸引力｜EN: @jenniekusuen｜TG: https://t.co/huawBw1pec",
+    "entities": {
+      "description": {
+        "urls": [
+          {
+            "display_url": "t.me/jenniesph",
+            "expanded_url": "https://t.me/jenniesph",
+            "url": "https://t.co/huawBw1pec",
+            "indices": [
+              97,
+              120
+            ]
+          }
+        ]
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "jenniekusu.super.site",
+            "expanded_url": "https://jenniekusu.super.site/",
+            "url": "https://t.co/0g0DBx1kkd",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 3088,
+    "followedBy": true,
+    "followersCount": 37258,
+    "following": true,
+    "friendsCount": 4501,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 65,
+    "location": "合作私信TG@jenniekusu",
+    "mediaCount": 326,
+    "name": "jenniekusu",
+    "normalFollowersCount": 37258,
+    "pinnedTweetIdsStr": [
+      "1947318838069960983"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/709196251011555328/1741086195",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1896879092282077184/MCeZX-Af_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "jenniekusu",
+    "statusesCount": 2928,
+    "translatorType": "none",
+    "url": "https://t.co/0g0DBx1kkd",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "profileImageShape": "Circle",
+  "restId": "709196251011555328",
+  "tipjarSettings": {}
+}

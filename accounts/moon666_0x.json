@@ -1,0 +1,85 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxMzk0MjMxNDYzNDA3NTQ2Mzcy",
+  "isBlueVerified": false,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": false,
+    "createdAt": "Mon May 17 10:01:12 +0000 2021",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "🌛INFP #Focus on market investment and research 📊找到最后一块拼图 成为我的信徒 个人频道 （从零开始）https://t.co/qfPfqmAkqX",
+    "entities": {
+      "description": {
+        "urls": [
+          {
+            "display_url": "t.me/conglingkaishi…",
+            "expanded_url": "https://t.me/conglingkaishi666",
+            "url": "https://t.co/qfPfqmAkqX",
+            "indices": [
+              75,
+              98
+            ]
+          }
+        ]
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "t.me/conglingkaishi…",
+            "expanded_url": "https://t.me/conglingkaishi666",
+            "url": "https://t.co/qfPfqmAkqX",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 1535,
+    "followersCount": 1566,
+    "following": true,
+    "friendsCount": 1215,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 27,
+    "location": "moon",
+    "mediaCount": 185,
+    "name": "𝓜𝓸𝓸𝓷🧩",
+    "normalFollowersCount": 1566,
+    "pinnedTweetIdsStr": [
+      "1928635730114351606"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1394231463407546372/1748054055",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1879894629216395264/OSwL4gKe_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "moon666_0x",
+    "statusesCount": 2556,
+    "translatorType": "none",
+    "url": "https://t.co/qfPfqmAkqX",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [
+      {
+        "iconName": "IconBriefcaseStroke",
+        "id": 192,
+        "name": "Financial Services"
+      }
+    ],
+    "professionalType": "Business",
+    "restId": "1595980715841454080"
+  },
+  "profileImageShape": "Circle",
+  "restId": "1394231463407546372",
+  "tipjarSettings": {
+    "isEnabled": true
+  }
+}

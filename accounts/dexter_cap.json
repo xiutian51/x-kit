@@ -1,0 +1,56 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": false,
+  "id": "VXNlcjoxNjkyNDUwNDU3NzYyMDQxODU2",
+  "isBlueVerified": false,
+  "legacy": {
+    "canDm": false,
+    "canMediaTag": true,
+    "createdAt": "Fri Aug 18 08:17:01 +0000 2023",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "// @gm_dot_ai @lootbot_ai @whalesmarket latest thing: https://t.co/5pzPykNU6Q",
+    "entities": {
+      "description": {
+        "urls": [
+          {
+            "display_url": "paperhands.gm.ai",
+            "expanded_url": "https://paperhands.gm.ai/",
+            "url": "https://t.co/5pzPykNU6Q",
+            "indices": [
+              54,
+              77
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 1253,
+    "followersCount": 27566,
+    "following": true,
+    "friendsCount": 441,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 225,
+    "location": "Singapore",
+    "mediaCount": 84,
+    "name": "dexter",
+    "normalFollowersCount": 27566,
+    "pinnedTweetIdsStr": [],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1692450457762041856/1708869645",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1761751747733884928/4WeNmno4_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "dexter_cap",
+    "statusesCount": 1100,
+    "translatorType": "none",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "profileImageShape": "Circle",
+  "restId": "1692450457762041856",
+  "tipjarSettings": {}
+}

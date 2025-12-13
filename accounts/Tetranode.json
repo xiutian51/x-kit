@@ -1,0 +1,48 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjozNzgzOTI5Mw==",
+  "isBlueVerified": false,
+  "legacy": {
+    "canDm": false,
+    "canMediaTag": false,
+    "createdAt": "Tue May 05 02:53:21 +0000 2009",
+    "defaultProfile": false,
+    "defaultProfileImage": false,
+    "description": "Creation of @ratwell0x\nPuppeteered by @DgenFren\nOccasionally LARPing as @FrogsAndOrca",
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 27814,
+    "followersCount": 172856,
+    "following": true,
+    "friendsCount": 1924,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 3343,
+    "location": "",
+    "mediaCount": 5024,
+    "name": "TΞtranodΞ 🦇🔊",
+    "normalFollowersCount": 172856,
+    "pinnedTweetIdsStr": [
+      "1657054275959410688"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/37839293/1652291326",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1550332457467015168/iWP9EW1D_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "Tetranode",
+    "statusesCount": 14846,
+    "translatorType": "none",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "profileImageShape": "Circle",
+  "restId": "37839293",
+  "tipjarSettings": {}
+}

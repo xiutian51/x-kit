@@ -1,0 +1,72 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjo5MTg4MDQ2MjQzMDMzODI1Mjg=",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": false,
+    "canMediaTag": false,
+    "createdAt": "Fri Oct 13 11:44:27 +0000 2017",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "All models are wrong, some are useful. DYOR.  https://t.co/4UQOQ8ejKv",
+    "entities": {
+      "description": {
+        "urls": [
+          {
+            "display_url": "planbtc.com",
+            "expanded_url": "http://planbtc.com",
+            "url": "https://t.co/4UQOQ8ejKv",
+            "indices": [
+              46,
+              69
+            ]
+          }
+        ]
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "planbtc.com",
+            "expanded_url": "https://planbtc.com/",
+            "url": "https://t.co/807uCpglH9",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 47427,
+    "followersCount": 2160068,
+    "following": true,
+    "friendsCount": 173,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 17478,
+    "location": "",
+    "mediaCount": 2759,
+    "name": "PlanB",
+    "normalFollowersCount": 2160068,
+    "pinnedTweetIdsStr": [
+      "1109168697250377728"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/918804624303382528/1652960333",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1541188633163595776/DB1plS2K_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "100trillionUSD",
+    "statusesCount": 12784,
+    "translatorType": "none",
+    "url": "https://t.co/807uCpglH9",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "profileImageShape": "Circle",
+  "restId": "918804624303382528",
+  "tipjarSettings": {}
+}

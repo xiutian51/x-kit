@@ -1,0 +1,78 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNjY5OTAxMDg3NTMxMzAyOTEy",
+  "isBlueVerified": false,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Sat Jun 17 02:53:47 +0000 2023",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "The best trading bot, built by on-chain traders. \n\nETH | SOL | BASE | BNB | SONIC | UNI\n\nOnly @BananaGun is real, watch out!\n\nhttps://t.co/TNB8wS4dX5",
+    "entities": {
+      "description": {
+        "urls": [
+          {
+            "display_url": "linktr.ee/bananagunbot",
+            "expanded_url": "http://linktr.ee/bananagunbot",
+            "url": "https://t.co/TNB8wS4dX5",
+            "indices": [
+              126,
+              149
+            ]
+          }
+        ]
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "bananagun.io",
+            "expanded_url": "https://bananagun.io/",
+            "url": "https://t.co/YqxMIOaXAs",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 1081,
+    "followersCount": 98722,
+    "following": true,
+    "friendsCount": 47,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 541,
+    "location": "",
+    "mediaCount": 1841,
+    "name": "Banana Gun 🍌🔫",
+    "normalFollowersCount": 98722,
+    "pinnedTweetIdsStr": [
+      "1937205034258698435"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1669901087531302912/1712830424",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1778120223079419904/1W5AaQO5_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "bananagun",
+    "statusesCount": 3011,
+    "translatorType": "none",
+    "url": "https://t.co/YqxMIOaXAs",
+    "verified": false,
+    "verifiedType": "Business",
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [],
+    "professionalType": "Business",
+    "restId": "1675316117672275968"
+  },
+  "profileImageShape": "Square",
+  "restId": "1669901087531302912",
+  "tipjarSettings": {}
+}

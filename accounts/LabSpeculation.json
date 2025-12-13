@@ -1,0 +1,67 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNDgxMjI3MDExMTAwMjMzNzMw",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": false,
+    "createdAt": "Wed Jan 12 11:30:29 +0000 2022",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "YouTube频道：https://t.co/GDIXrAGfWz",
+    "entities": {
+      "description": {
+        "urls": [
+          {
+            "display_url": "youtube.com/@speculation",
+            "expanded_url": "https://www.youtube.com/@speculation",
+            "url": "https://t.co/GDIXrAGfWz",
+            "indices": [
+              10,
+              33
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 648,
+    "followersCount": 63902,
+    "following": true,
+    "friendsCount": 887,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 682,
+    "location": "",
+    "mediaCount": 1532,
+    "name": "投机实验室",
+    "normalFollowersCount": 63902,
+    "pinnedTweetIdsStr": [],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1481227011100233730/1647443170",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1504111773183578120/Hu0TWmyW_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "LabSpeculation",
+    "statusesCount": 2417,
+    "translatorType": "none",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [
+      {
+        "iconName": "IconBriefcaseStroke",
+        "id": 192,
+        "name": "Financial Services"
+      }
+    ],
+    "professionalType": "Creator",
+    "restId": "1524643202560663552"
+  },
+  "profileImageShape": "Circle",
+  "restId": "1481227011100233730",
+  "tipjarSettings": {}
+}

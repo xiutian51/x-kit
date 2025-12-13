@@ -1,0 +1,85 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {
+    "label": {
+      "url": {
+        "url": "https://twitter.com/placeholdervc",
+        "urlType": "DeepLink"
+      },
+      "badge": {
+        "url": "https://pbs.twimg.com/profile_images/906968425553186817/0ar7Vv30_bigger.jpg"
+      },
+      "description": "Placeholder",
+      "userLabelType": "BusinessLabel",
+      "userLabelDisplayType": "Badge"
+    }
+  },
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjo3MTA0NjMxMTk4ODYyNjIyNzI=",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Thu Mar 17 13:49:42 +0000 2016",
+    "defaultProfile": false,
+    "defaultProfileImage": false,
+    "description": "Partner @placeholdervc; co-author #Cryptoassets 📔; formerly led crypto @ARKinvest. Xeets not financial advice. Disclaimer: https://t.co/Xp0VJsuufc",
+    "entities": {
+      "description": {
+        "urls": [
+          {
+            "display_url": "placeholder.vc/privacy-policy",
+            "expanded_url": "http://placeholder.vc/privacy-policy",
+            "url": "https://t.co/Xp0VJsuufc",
+            "indices": [
+              123,
+              146
+            ]
+          }
+        ]
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "placeholder.vc",
+            "expanded_url": "http://placeholder.vc",
+            "url": "https://t.co/o6tRN4SsGe",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 56303,
+    "followersCount": 333771,
+    "following": true,
+    "friendsCount": 2148,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 8313,
+    "location": "New York, USA",
+    "mediaCount": 2241,
+    "name": "Chris Burniske",
+    "normalFollowersCount": 333771,
+    "pinnedTweetIdsStr": [
+      "1979046848649470358"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/710463119886262272/1763738615",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1494841994572562433/I-j4N9Z7_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "cburniske",
+    "statusesCount": 33038,
+    "translatorType": "none",
+    "url": "https://t.co/o6tRN4SsGe",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "profileImageShape": "Circle",
+  "restId": "710463119886262272",
+  "tipjarSettings": {}
+}

@@ -1,0 +1,90 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNTE0NTc0ODk3ODAwMTc5NzE2",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Thu Apr 14 12:02:55 +0000 2022",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "专注于美股和加密货币投资\n官方网站（https://t.co/rzjdj3SDxw）\ndiscord社群（https://t.co/kHtnd4Pu7i）\n推荐注册加密货币交易所（https://t.co/9vkxkDhIq8）",
+    "entities": {
+      "description": {
+        "urls": [
+          {
+            "display_url": "xiaoyinsi.com",
+            "expanded_url": "https://xiaoyinsi.com",
+            "url": "https://t.co/rzjdj3SDxw",
+            "indices": [
+              18,
+              41
+            ]
+          },
+          {
+            "display_url": "xiaoyinsi.com/community",
+            "expanded_url": "https://xiaoyinsi.com/community",
+            "url": "https://t.co/kHtnd4Pu7i",
+            "indices": [
+              53,
+              76
+            ]
+          },
+          {
+            "display_url": "okx.com/zh-hans/join/x…",
+            "expanded_url": "https://www.okx.com/zh-hans/join/xclxcl",
+            "url": "https://t.co/9vkxkDhIq8",
+            "indices": [
+              90,
+              113
+            ]
+          }
+        ]
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "xiaoyinsi.com",
+            "expanded_url": "https://xiaoyinsi.com",
+            "url": "https://t.co/rzjdj3SDxw",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 27,
+    "followersCount": 9204,
+    "following": true,
+    "friendsCount": 1,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 132,
+    "location": "London",
+    "mediaCount": 148,
+    "name": "小隐寺",
+    "normalFollowersCount": 9204,
+    "pinnedTweetIdsStr": [
+      "1995778566001496542"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1514574897800179716/1736074315",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1875844813943439360/o7lrUO_K_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "xiaoyinsi2025",
+    "statusesCount": 236,
+    "translatorType": "none",
+    "url": "https://t.co/rzjdj3SDxw",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "profileImageShape": "Circle",
+  "restId": "1514574897800179716",
+  "tipjarSettings": {}
+}

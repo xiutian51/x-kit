@@ -1,0 +1,71 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjo4NTk0ODQzMzc4NTA1MjM2NDg=",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Tue May 02 19:06:49 +0000 2017",
+    "defaultProfile": false,
+    "defaultProfileImage": false,
+    "description": "Trader & Investor. Building at @RR2Capital.",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "discord.gg/rand",
+            "expanded_url": "https://discord.gg/rand",
+            "url": "https://t.co/7giHJDXzmi",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 298978,
+    "followersCount": 332565,
+    "following": true,
+    "friendsCount": 1067,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 5054,
+    "location": "",
+    "mediaCount": 24476,
+    "name": "Rand",
+    "normalFollowersCount": 332565,
+    "pinnedTweetIdsStr": [
+      "1999031081916575753"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/859484337850523648/1702835492",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1833123917231251456/syW7dLNd_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "cryptorand",
+    "statusesCount": 84106,
+    "translatorType": "none",
+    "url": "https://t.co/7giHJDXzmi",
+    "verified": false,
+    "verifiedType": "Business",
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [],
+    "professionalType": "Business",
+    "restId": "1457844326105501698"
+  },
+  "profileImageShape": "Square",
+  "restId": "859484337850523648",
+  "superFollowEligible": true,
+  "tipjarSettings": {
+    "isEnabled": true
+  }
+}

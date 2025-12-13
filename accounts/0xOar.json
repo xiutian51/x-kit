@@ -1,0 +1,57 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjo5NzMxMzY0NTA3MDYyNzIyNTY=",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": false,
+    "createdAt": "Mon Mar 12 09:59:44 +0000 2018",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "bulid in public. @BinanceWallet",
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 1537,
+    "followersCount": 18099,
+    "following": true,
+    "friendsCount": 1289,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 464,
+    "location": "Singapore",
+    "mediaCount": 283,
+    "name": "Jackson.ll",
+    "normalFollowersCount": 18099,
+    "pinnedTweetIdsStr": [],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/973136450706272256/1619064547",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1587050006481367040/it9I_H1t_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "0xOar",
+    "statusesCount": 3278,
+    "translatorType": "none",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [
+      {
+        "iconName": "IconBriefcaseStroke",
+        "id": 192,
+        "name": "Financial Services"
+      }
+    ],
+    "professionalType": "Business",
+    "restId": "1631544300470427648"
+  },
+  "profileImageShape": "Circle",
+  "restId": "973136450706272256",
+  "tipjarSettings": {}
+}

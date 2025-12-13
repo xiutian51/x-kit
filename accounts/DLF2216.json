@@ -1,0 +1,59 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNjM1ODQ5MDg1ODcyOTEwMzM2",
+  "isBlueVerified": false,
+  "legacy": {
+    "canDm": false,
+    "canMediaTag": true,
+    "createdAt": "Wed Mar 15 03:43:28 +0000 2023",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "One Piece",
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 397,
+    "followersCount": 10571,
+    "following": true,
+    "friendsCount": 1518,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 236,
+    "location": "",
+    "mediaCount": 76,
+    "name": "DLF",
+    "normalFollowersCount": 10571,
+    "pinnedTweetIdsStr": [
+      "1671193876797984768"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1635849085872910336/1682838192",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1635849339548635139/ZkIfph72_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "DLF2216",
+    "statusesCount": 541,
+    "translatorType": "none",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [
+      {
+        "iconName": "IconBriefcaseStroke",
+        "id": 1094,
+        "name": "Blockchain"
+      }
+    ],
+    "professionalType": "Business",
+    "restId": "1637424501104463873"
+  },
+  "profileImageShape": "Circle",
+  "restId": "1635849085872910336",
+  "tipjarSettings": {}
+}

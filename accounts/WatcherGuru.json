@@ -1,0 +1,78 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxMzg3NDk3ODcxNzUxMTk2Njcy",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Wed Apr 28 20:04:12 +0000 2021",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "Watcher Guru gives you unparalleled, unbiased coverage of all-things crypto & finance in real-time | Tweets Are Not Financial Advice | @BTCPrice",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "watcher.guru/insta",
+            "expanded_url": "https://watcher.guru/insta",
+            "url": "https://t.co/ySLskwm8Jg",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 40029,
+    "followersCount": 3642515,
+    "following": true,
+    "friendsCount": 3,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 18293,
+    "location": "Texas, USA",
+    "mediaCount": 3129,
+    "name": "Watcher.Guru",
+    "normalFollowersCount": 3642515,
+    "pinnedTweetIdsStr": [
+      "1572324773090234370"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1387497871751196672/1672776767",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1641221212578754562/DfiC0KW2_normal.png",
+    "profileInterstitialType": "",
+    "screenName": "WatcherGuru",
+    "statusesCount": 17238,
+    "translatorType": "none",
+    "url": "https://t.co/ySLskwm8Jg",
+    "verified": false,
+    "verifiedType": "Business",
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [
+      {
+        "iconName": "IconBriefcaseStroke",
+        "id": 579,
+        "name": "Media & News"
+      }
+    ],
+    "professionalType": "Creator",
+    "restId": "1455303640453890067"
+  },
+  "profileImageShape": "Square",
+  "restId": "1387497871751196672",
+  "superFollowEligible": true,
+  "tipjarSettings": {
+    "bitcoinHandle": "",
+    "isEnabled": false
+  }
+}

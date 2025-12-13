@@ -1,0 +1,68 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNjgxNTQwNzIxNjg0Mzg5ODg4",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": false,
+    "canMediaTag": true,
+    "createdAt": "Wed Jul 19 05:45:43 +0000 2023",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "Meet a new kind of crypto app.",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "infinex.xyz",
+            "expanded_url": "http://infinex.xyz",
+            "url": "https://t.co/i6hN3yu2s9",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 3746,
+    "followersCount": 81022,
+    "following": true,
+    "friendsCount": 2,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 515,
+    "location": "",
+    "mediaCount": 979,
+    "name": "Infinex",
+    "normalFollowersCount": 81022,
+    "pinnedTweetIdsStr": [
+      "1995322420383903927"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1681540721684389888/1759280706",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1978267585633525760/PavGc5KA_normal.png",
+    "profileInterstitialType": "",
+    "screenName": "infinex",
+    "statusesCount": 3174,
+    "translatorType": "none",
+    "url": "https://t.co/i6hN3yu2s9",
+    "verified": false,
+    "verifiedType": "Business",
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [],
+    "professionalType": "Business",
+    "restId": "1745341995974017251"
+  },
+  "profileImageShape": "Square",
+  "restId": "1681540721684389888",
+  "tipjarSettings": {}
+}

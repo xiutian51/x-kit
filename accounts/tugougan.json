@@ -1,0 +1,62 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNDMzOTYxMDM4MTk0NDk1NDk1",
+  "isBlueVerified": false,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Sat Sep 04 01:12:28 +0000 2021",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "发现及分享早期金狗，仅仅分享自己打狗经历，别跟！盈亏自负！",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "t.me/tugougan_eth",
+            "expanded_url": "https://t.me/tugougan_eth",
+            "url": "https://t.co/y6zjwA7fD6",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 312,
+    "followersCount": 7529,
+    "following": true,
+    "friendsCount": 2269,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 198,
+    "location": "",
+    "mediaCount": 180,
+    "name": "土狗肝",
+    "normalFollowersCount": 7529,
+    "pinnedTweetIdsStr": [],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1433961038194495495/1688107166",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1956415924854214656/kF9YZZZZ_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "tugougan",
+    "statusesCount": 4108,
+    "translatorType": "none",
+    "url": "https://t.co/y6zjwA7fD6",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "profileImageShape": "Circle",
+  "restId": "1433961038194495495",
+  "tipjarSettings": {
+    "isEnabled": true
+  }
+}

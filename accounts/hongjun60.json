@@ -1,0 +1,99 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxMTY4MDI4NjU4",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": false,
+    "canMediaTag": true,
+    "createdAt": "Mon Feb 11 06:30:24 +0000 2013",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "Founder of Valley 101（硅谷101）｜Podcaster @thevalley101 @web3_101 \nhttps://t.co/dBbudITzrA\nhttps://t.co/RgIxFn11wx\nhttps://t.co/QQ49UEhkSp",
+    "entities": {
+      "description": {
+        "urls": [
+          {
+            "display_url": "sv101.fireside.fm",
+            "expanded_url": "http://sv101.fireside.fm",
+            "url": "https://t.co/dBbudITzrA",
+            "indices": [
+              64,
+              87
+            ]
+          },
+          {
+            "display_url": "web3101.fireside.fm",
+            "expanded_url": "https://web3101.fireside.fm",
+            "url": "https://t.co/RgIxFn11wx",
+            "indices": [
+              88,
+              111
+            ]
+          },
+          {
+            "display_url": "youtube.com/@TheValley101",
+            "expanded_url": "https://www.youtube.com/@TheValley101",
+            "url": "https://t.co/QQ49UEhkSp",
+            "indices": [
+              112,
+              135
+            ]
+          }
+        ]
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "sv101.fireside.fm",
+            "expanded_url": "https://sv101.fireside.fm/",
+            "url": "https://t.co/nxXQgncM7F",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 131,
+    "followersCount": 6678,
+    "following": true,
+    "friendsCount": 462,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 66,
+    "location": "San Francisco, CA",
+    "mediaCount": 39,
+    "name": "泓君Jane",
+    "normalFollowersCount": 6678,
+    "pinnedTweetIdsStr": [],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1168028658/1448032925",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/667724438859812864/AqpLxMe-_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "hongjun60",
+    "statusesCount": 324,
+    "translatorType": "none",
+    "url": "https://t.co/nxXQgncM7F",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [
+      {
+        "iconName": "IconBriefcaseStroke",
+        "id": 933,
+        "name": "Media Personality"
+      }
+    ],
+    "professionalType": "Creator",
+    "restId": "1519748707574460416"
+  },
+  "profileImageShape": "Circle",
+  "restId": "1168028658",
+  "tipjarSettings": {}
+}

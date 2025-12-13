@@ -1,0 +1,84 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjo2Mjg1MDk1MTI=",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Fri Jul 06 16:16:28 +0000 2012",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "穿越噪音｜日常思考 https://t.co/3JsdGUELmb ｜挚爱火人节 @burningman｜前媒体运营@blockbeatsasia｜英文信息流 @otzgary",
+    "entities": {
+      "description": {
+        "urls": [
+          {
+            "display_url": "t.me/gary10x",
+            "expanded_url": "http://t.me/gary10x",
+            "url": "https://t.co/3JsdGUELmb",
+            "indices": [
+              10,
+              33
+            ]
+          }
+        ]
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "t.me/otzgary",
+            "expanded_url": "https://t.me/otzgary",
+            "url": "https://t.co/imlQzZk4BS",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 8745,
+    "followedBy": true,
+    "followersCount": 11697,
+    "following": true,
+    "friendsCount": 2279,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 274,
+    "location": "dm👉",
+    "mediaCount": 410,
+    "name": "Gary",
+    "normalFollowersCount": 11697,
+    "pinnedTweetIdsStr": [
+      "1998798043798450388"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/628509512/1762853738",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1981383427287830528/IeMBTus0_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "garyintern",
+    "statusesCount": 5273,
+    "translatorType": "none",
+    "url": "https://t.co/imlQzZk4BS",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [
+      {
+        "iconName": "IconBriefcaseStroke",
+        "id": 478,
+        "name": "Advertising & Marketing Agency"
+      }
+    ],
+    "professionalType": "Creator",
+    "restId": "1992480055730291011"
+  },
+  "profileImageShape": "Circle",
+  "restId": "628509512",
+  "tipjarSettings": {}
+}

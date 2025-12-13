@@ -1,0 +1,62 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjo3NjkxNzIzMjI4MzQwODc5Mzg=",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": false,
+    "canMediaTag": true,
+    "createdAt": "Fri Aug 26 13:59:07 +0000 2016",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "自己玩自己的，并且试图成为大富翁的钻石触手怪",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "t.me/Crypto_Market_…",
+            "expanded_url": "https://t.me/Crypto_Market_Daily",
+            "url": "https://t.co/YPQsdxWAbY",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 128,
+    "followersCount": 546,
+    "following": true,
+    "friendsCount": 675,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 4,
+    "location": "",
+    "mediaCount": 351,
+    "name": "Grampe",
+    "normalFollowersCount": 546,
+    "pinnedTweetIdsStr": [
+      "1960708398527472057"
+    ],
+    "possiblySensitive": true,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/769172322834087938/1702538912",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1736743497464725504/9CWKmXix_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "Grampe466",
+    "statusesCount": 1468,
+    "translatorType": "none",
+    "url": "https://t.co/YPQsdxWAbY",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "profileImageShape": "Circle",
+  "restId": "769172322834087938",
+  "tipjarSettings": {}
+}

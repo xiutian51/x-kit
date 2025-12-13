@@ -1,0 +1,53 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNTQ5MjYyMjgxMjgzOTY0OTI5",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Tue Jul 19 05:18:19 +0000 2022",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "#1 Ranked trader on Bybit 2023 & 2024. Top 10 ranked wallet on DeBank. Follow for whale insights on crypto & markets.",
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 357,
+    "followersCount": 76076,
+    "following": true,
+    "friendsCount": 396,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 2562,
+    "location": "",
+    "mediaCount": 185,
+    "name": "DeFi^2",
+    "normalFollowersCount": 76076,
+    "pinnedTweetIdsStr": [
+      "1780141300152508722"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1549262281283964929/1736477245",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1549263355168411650/MLjnns2Q_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "DefiSquared",
+    "statusesCount": 449,
+    "translatorType": "none",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [],
+    "professionalType": "Creator",
+    "restId": "1585537096055492609"
+  },
+  "profileImageShape": "Circle",
+  "restId": "1549262281283964929",
+  "tipjarSettings": {}
+}

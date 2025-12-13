@@ -1,0 +1,46 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxMzA3MzIzNjYyOTQ5NzQwNTQ0",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": false,
+    "canMediaTag": true,
+    "createdAt": "Sat Sep 19 14:20:35 +0000 2020",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "BUIDL，以前大厂搞安全的，世界平衡器操作员\n这个crypto行业，如果meme是主流，那挺可悲",
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 353,
+    "followersCount": 327,
+    "following": true,
+    "friendsCount": 559,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 13,
+    "location": "",
+    "mediaCount": 64,
+    "name": "clickbinary",
+    "normalFollowersCount": 327,
+    "pinnedTweetIdsStr": [],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1307323662949740544/1630669557",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1770516118836543488/EuLHqAqF_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "BinaryFlow",
+    "statusesCount": 1124,
+    "translatorType": "none",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "profileImageShape": "Circle",
+  "restId": "1307323662949740544",
+  "tipjarSettings": {}
+}

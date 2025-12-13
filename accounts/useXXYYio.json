@@ -1,0 +1,72 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxODI4MTc3NDI0MjQyMzUyMTMy",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Mon Aug 26 21:07:42 +0000 2024",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "All-in-one trading tool for degens ⚡️https://t.co/vtLDOyE6Hd\nFast, reliable, and fully optimized for #meme trading",
+    "entities": {
+      "description": {
+        "urls": [
+          {
+            "display_url": "xxyy.io",
+            "expanded_url": "http://xxyy.io",
+            "url": "https://t.co/vtLDOyE6Hd",
+            "indices": [
+              37,
+              60
+            ]
+          }
+        ]
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "linktr.ee/xxyyio",
+            "expanded_url": "https://linktr.ee/xxyyio",
+            "url": "https://t.co/PNsRxpPW1o",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 283,
+    "followersCount": 12342,
+    "following": true,
+    "friendsCount": 119,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 73,
+    "location": "xxyy.io",
+    "mediaCount": 100,
+    "name": "XXYY",
+    "normalFollowersCount": 12342,
+    "pinnedTweetIdsStr": [
+      "1997871585991229871"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1828177424242352132/1733822609",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1848214353545506816/sNT4kZ4A_normal.png",
+    "profileInterstitialType": "",
+    "screenName": "useXXYYio",
+    "statusesCount": 317,
+    "translatorType": "none",
+    "url": "https://t.co/PNsRxpPW1o",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "profileImageShape": "Circle",
+  "restId": "1828177424242352132",
+  "tipjarSettings": {}
+}

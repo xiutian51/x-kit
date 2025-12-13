@@ -1,0 +1,61 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNjI4NTQ0NTExOTEwNzM5OTcx",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Wed Feb 22 23:57:32 +0000 2023",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "YouTube主播洋拉图，海外银行、海外券商、加密货币爱好者，和大家一起探索交流",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "youtube.com/@yanglatu",
+            "expanded_url": "https://youtube.com/@yanglatu",
+            "url": "https://t.co/UAW65ubLFN",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 76,
+    "followersCount": 692,
+    "following": true,
+    "friendsCount": 180,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 5,
+    "location": "",
+    "mediaCount": 84,
+    "name": "洋拉图",
+    "normalFollowersCount": 692,
+    "pinnedTweetIdsStr": [],
+    "possiblySensitive": false,
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1815521959024988160/JufW4HUj_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "yanglatu",
+    "statusesCount": 175,
+    "translatorType": "none",
+    "url": "https://t.co/UAW65ubLFN",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "profileImageShape": "Circle",
+  "restId": "1628544511910739971",
+  "tipjarSettings": {
+    "isEnabled": true
+  }
+}

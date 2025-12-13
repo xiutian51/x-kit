@@ -1,0 +1,48 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjo3MDg1NjE4NTUxNDExODM0ODg=",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Sat Mar 12 07:54:45 +0000 2016",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "Prev @Binance  | Founder @coin_voice |  Keep moving forward",
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 785,
+    "followersCount": 6642,
+    "following": true,
+    "friendsCount": 640,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 79,
+    "location": "Mars",
+    "mediaCount": 191,
+    "name": "Ethan yu",
+    "normalFollowersCount": 6642,
+    "pinnedTweetIdsStr": [
+      "1824301930841354422"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/708561855141183488/1710030513",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1421151265388736521/fcz3aZIJ_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "Ethanyu",
+    "statusesCount": 1801,
+    "translatorType": "none",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "profileImageShape": "Circle",
+  "restId": "708561855141183488",
+  "tipjarSettings": {}
+}

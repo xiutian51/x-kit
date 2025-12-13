@@ -1,0 +1,45 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoyNTg0ODAyNzY=",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Sun Feb 27 20:34:12 +0000 2011",
+    "defaultProfile": false,
+    "defaultProfileImage": false,
+    "description": "Bitcoin security researcher",
+    "entities": {
+      "description": {
+        "urls": []
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 4284,
+    "followersCount": 92494,
+    "following": true,
+    "friendsCount": 241,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 2005,
+    "location": "🌋☢️⚡",
+    "mediaCount": 137,
+    "name": "Justin Drake",
+    "normalFollowersCount": 92494,
+    "pinnedTweetIdsStr": [],
+    "possiblySensitive": false,
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1812007963059441664/al_wakzq_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "drakefjustin",
+    "statusesCount": 1468,
+    "translatorType": "none",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "profileImageShape": "Circle",
+  "restId": "258480276",
+  "tipjarSettings": {}
+}

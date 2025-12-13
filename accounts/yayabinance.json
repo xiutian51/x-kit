@@ -1,0 +1,84 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxMzAwNjIxNTgxNjUyMTE5NTUy",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Tue Sep 01 02:28:50 +0000 2020",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "crypto｜holder｜Bitcoin｜BNB  #Binance KOL合作拓展｜https://t.co/0Z12biBae8",
+    "entities": {
+      "description": {
+        "urls": [
+          {
+            "display_url": "binance.com",
+            "expanded_url": "http://binance.com",
+            "url": "https://t.co/0Z12biBae8",
+            "indices": [
+              44,
+              67
+            ]
+          }
+        ]
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "binance.com/zh-CN",
+            "expanded_url": "https://www.binance.com/zh-CN",
+            "url": "https://t.co/5bfqdLp766",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 12234,
+    "followedBy": true,
+    "followersCount": 27885,
+    "following": true,
+    "friendsCount": 1542,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 138,
+    "location": "",
+    "mediaCount": 316,
+    "name": "丫丫🔶BNB",
+    "normalFollowersCount": 27885,
+    "pinnedTweetIdsStr": [],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1300621581652119552/1688528896",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1899320343451574272/WA-DwxUG_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "yayabinance",
+    "statusesCount": 4665,
+    "translatorType": "none",
+    "url": "https://t.co/5bfqdLp766",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [
+      {
+        "iconName": "IconBriefcaseStroke",
+        "id": 1009,
+        "name": "Community"
+      }
+    ],
+    "professionalType": "Creator",
+    "restId": "1655543810137681921"
+  },
+  "profileImageShape": "Circle",
+  "restId": "1300621581652119552",
+  "tipjarSettings": {
+    "isEnabled": true
+  }
+}

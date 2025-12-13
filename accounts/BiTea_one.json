@@ -1,0 +1,73 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNTM5NTI1Nzg5ODcxMjYzNzQ0",
+  "isBlueVerified": false,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Wed Jun 22 08:29:09 +0000 2022",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "BiTea, makes investing in Web3 easy and efficient.",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "t.me/BiTea_one",
+            "expanded_url": "https://t.me/BiTea_one",
+            "url": "https://t.co/toX5U7Icrg",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 469,
+    "followersCount": 7737,
+    "following": true,
+    "friendsCount": 185,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 19,
+    "location": "Singapore",
+    "mediaCount": 204,
+    "name": "BiTea",
+    "normalFollowersCount": 7737,
+    "pinnedTweetIdsStr": [
+      "1677236947746684933"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1539525789871263744/1686809440",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1681528086783987712/lc-m75CS_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "BiTea_one",
+    "statusesCount": 716,
+    "translatorType": "none",
+    "url": "https://t.co/toX5U7Icrg",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [
+      {
+        "iconName": "IconBriefcaseStroke",
+        "id": 192,
+        "name": "Financial Services"
+      }
+    ],
+    "professionalType": "Business",
+    "restId": "1596776250194161664"
+  },
+  "profileImageShape": "Circle",
+  "restId": "1539525789871263744",
+  "tipjarSettings": {}
+}

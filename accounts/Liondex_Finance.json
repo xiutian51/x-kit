@@ -1,0 +1,62 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxMzkzMzI0ODYxMDg3NDMyNzEz",
+  "isBlueVerified": false,
+  "legacy": {
+    "canDm": false,
+    "canMediaTag": true,
+    "createdAt": "Fri May 14 21:58:40 +0000 2021",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "Decentralized Finance at its best",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "liondex.finance",
+            "expanded_url": "https://liondex.finance/",
+            "url": "https://t.co/lwJcdUhwcv",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 4,
+    "followersCount": 22642,
+    "following": true,
+    "friendsCount": 6,
+    "hasCustomTimelines": false,
+    "isTranslator": false,
+    "listedCount": 10,
+    "location": "",
+    "mediaCount": 7,
+    "name": "LionDEX Finance",
+    "normalFollowersCount": 22642,
+    "pinnedTweetIdsStr": [
+      "1401162017868861441"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1393324861087432713/1622425383",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1394773678538252288/L-T_SBRO_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "Liondex_Finance",
+    "statusesCount": 9,
+    "translatorType": "none",
+    "url": "https://t.co/lwJcdUhwcv",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "profileImageShape": "Circle",
+  "restId": "1393324861087432713",
+  "tipjarSettings": {}
+}

@@ -1,0 +1,58 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNDE0MTQ2ODY4MDQ5NzE1MjAy",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Sun Jul 11 08:57:54 +0000 2021",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "两轮牛熊经历，2025年8月19日高点清仓，带领群友完美避开10月11日全网200亿U爆仓黑天鹅。盈利达到A7，牛顶套现第一人。\n\n◉ ok钱包邀请码：987987\n◉邀请链接：https://t.co/qAHqStJvVl",
+    "entities": {
+      "description": {
+        "urls": [
+          {
+            "display_url": "web3.okx.com/join/987987",
+            "expanded_url": "https://web3.okx.com/join/987987",
+            "url": "https://t.co/qAHqStJvVl",
+            "indices": [
+              89,
+              112
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 15586,
+    "followersCount": 19396,
+    "following": true,
+    "friendsCount": 176,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 194,
+    "location": "English",
+    "mediaCount": 644,
+    "name": "BQ南乔",
+    "normalFollowersCount": 19396,
+    "pinnedTweetIdsStr": [
+      "1962139622282305908"
+    ],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1414146868049715202/1721185657",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1955396959772282880/ny2n_4-5_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "BQnanqiao",
+    "statusesCount": 11736,
+    "translatorType": "none",
+    "verified": false,
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "profileImageShape": "Circle",
+  "restId": "1414146868049715202",
+  "tipjarSettings": {}
+}

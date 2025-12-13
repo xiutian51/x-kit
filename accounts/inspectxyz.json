@@ -1,0 +1,66 @@
+{
+  "typename": "User",
+  "affiliatesHighlightedLabel": {},
+  "hasGraduatedAccess": true,
+  "id": "VXNlcjoxNDc1MzQwNTMyODA1MDI5ODkx",
+  "isBlueVerified": true,
+  "legacy": {
+    "canDm": true,
+    "canMediaTag": true,
+    "createdAt": "Mon Dec 27 05:40:11 +0000 2021",
+    "defaultProfile": true,
+    "defaultProfileImage": false,
+    "description": "",
+    "entities": {
+      "description": {
+        "urls": []
+      },
+      "url": {
+        "urls": [
+          {
+            "display_url": "inspect.xyz",
+            "expanded_url": "http://www.inspect.xyz",
+            "url": "https://t.co/RcBzqV3LGL",
+            "indices": [
+              0,
+              23
+            ]
+          }
+        ]
+      }
+    },
+    "fastFollowersCount": 0,
+    "favouritesCount": 8999,
+    "followersCount": 193221,
+    "following": true,
+    "friendsCount": 282,
+    "hasCustomTimelines": true,
+    "isTranslator": false,
+    "listedCount": 491,
+    "location": "",
+    "mediaCount": 1353,
+    "name": "Inspect",
+    "normalFollowersCount": 193221,
+    "pinnedTweetIdsStr": [],
+    "possiblySensitive": false,
+    "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1475340532805029891/1752582635",
+    "profileImageUrlHttps": "https://pbs.twimg.com/profile_images/1945098664713609216/AkDymwj7_normal.jpg",
+    "profileInterstitialType": "",
+    "screenName": "inspectxyz",
+    "statusesCount": 4203,
+    "translatorType": "none",
+    "url": "https://t.co/RcBzqV3LGL",
+    "verified": false,
+    "verifiedType": "Business",
+    "wantRetweets": true,
+    "withheldInCountries": []
+  },
+  "professional": {
+    "category": [],
+    "professionalType": "Business",
+    "restId": "1640405907694665760"
+  },
+  "profileImageShape": "Square",
+  "restId": "1475340532805029891",
+  "tipjarSettings": {}
+}
