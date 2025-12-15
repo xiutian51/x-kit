@@ -3,8 +3,9 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>X-Kit Dashboard - 推文数据中心</title>
+  <title>X-Kit Dashboard - Web3 智能分析中心</title>
   <link href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;500;600&family=Noto+Sans+SC:wght@400;500;700&display=swap" rel="stylesheet">
+  <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
   <style>
     :root {
       --bg-primary: #0d1117;
@@ -811,6 +812,454 @@
       background: var(--accent-orange);
     }
     
+    /* Tab Navigation */
+    .tab-nav {
+      display: flex;
+      gap: 4px;
+      padding: 16px 24px;
+      background: var(--bg-secondary);
+      border-bottom: 1px solid var(--border-color);
+      margin-bottom: 24px;
+      border-radius: var(--radius-md) var(--radius-md) 0 0;
+    }
+    
+    .tab-btn {
+      padding: 10px 20px;
+      border: none;
+      background: transparent;
+      color: var(--text-secondary);
+      font-size: 0.9rem;
+      font-weight: 500;
+      cursor: pointer;
+      border-radius: var(--radius-sm);
+      transition: all 0.2s;
+      display: flex;
+      align-items: center;
+      gap: 8px;
+    }
+    
+    .tab-btn:hover {
+      background: var(--bg-tertiary);
+      color: var(--text-primary);
+    }
+    
+    .tab-btn.active {
+      background: var(--accent-primary);
+      color: #fff;
+    }
+    
+    .tab-content {
+      display: none;
+    }
+    
+    .tab-content.active {
+      display: block;
+    }
+    
+    /* Web3 Analysis Panel */
+    .web3-grid {
+      display: grid;
+      grid-template-columns: repeat(2, 1fr);
+      gap: 20px;
+      margin-bottom: 24px;
+    }
+    
+    @media (max-width: 1200px) {
+      .web3-grid {
+        grid-template-columns: 1fr;
+      }
+    }
+    
+    .web3-card {
+      background: var(--bg-card);
+      border: 1px solid var(--border-color);
+      border-radius: var(--radius-md);
+      overflow: hidden;
+    }
+    
+    .web3-card-header {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      padding: 16px 20px;
+      border-bottom: 1px solid var(--border-color);
+      background: var(--bg-secondary);
+    }
+    
+    .web3-card-title {
+      font-size: 1rem;
+      font-weight: 600;
+      display: flex;
+      align-items: center;
+      gap: 8px;
+    }
+    
+    .web3-card-body {
+      padding: 20px;
+    }
+    
+    /* Sentiment Gauge */
+    .sentiment-gauge {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      padding: 20px;
+    }
+    
+    .gauge-value {
+      font-size: 3rem;
+      font-weight: 700;
+      font-family: 'JetBrains Mono', monospace;
+    }
+    
+    .gauge-value.bullish { color: var(--accent-green); }
+    .gauge-value.bearish { color: #f85149; }
+    .gauge-value.neutral { color: var(--accent-orange); }
+    
+    .gauge-label {
+      font-size: 1.1rem;
+      color: var(--text-secondary);
+      margin-top: 8px;
+    }
+    
+    .sentiment-bar {
+      width: 100%;
+      height: 12px;
+      background: var(--bg-tertiary);
+      border-radius: 6px;
+      margin-top: 20px;
+      overflow: hidden;
+      display: flex;
+    }
+    
+    .sentiment-bar-segment {
+      height: 100%;
+      transition: width 0.5s ease;
+    }
+    
+    .sentiment-bar-segment.bullish { background: var(--accent-green); }
+    .sentiment-bar-segment.neutral { background: var(--accent-orange); }
+    .sentiment-bar-segment.bearish { background: #f85149; }
+    
+    .sentiment-legend {
+      display: flex;
+      justify-content: center;
+      gap: 24px;
+      margin-top: 16px;
+      font-size: 0.85rem;
+    }
+    
+    .legend-item {
+      display: flex;
+      align-items: center;
+      gap: 6px;
+    }
+    
+    .legend-dot {
+      width: 10px;
+      height: 10px;
+      border-radius: 50%;
+    }
+    
+    .legend-dot.bullish { background: var(--accent-green); }
+    .legend-dot.neutral { background: var(--accent-orange); }
+    .legend-dot.bearish { background: #f85149; }
+    
+    /* Crypto Mentions */
+    .crypto-list {
+      max-height: 300px;
+      overflow-y: auto;
+    }
+    
+    .crypto-item {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      padding: 12px 0;
+      border-bottom: 1px solid var(--border-color);
+    }
+    
+    .crypto-item:last-child {
+      border-bottom: none;
+    }
+    
+    .crypto-symbol {
+      font-weight: 600;
+      font-family: 'JetBrains Mono', monospace;
+      color: var(--accent-cyan);
+    }
+    
+    .crypto-stats {
+      display: flex;
+      align-items: center;
+      gap: 12px;
+    }
+    
+    .crypto-count {
+      background: var(--bg-tertiary);
+      padding: 4px 10px;
+      border-radius: 12px;
+      font-size: 0.85rem;
+      color: var(--text-secondary);
+    }
+    
+    .crypto-sentiment {
+      display: flex;
+      gap: 8px;
+      font-size: 0.8rem;
+    }
+    
+    .crypto-sentiment .bullish { color: var(--accent-green); }
+    .crypto-sentiment .bearish { color: #f85149; }
+    
+    /* Category Stats */
+    .category-list {
+      display: flex;
+      flex-direction: column;
+      gap: 12px;
+    }
+    
+    .category-item {
+      display: flex;
+      align-items: center;
+      gap: 12px;
+    }
+    
+    .category-label {
+      width: 80px;
+      font-size: 0.85rem;
+      color: var(--text-secondary);
+      text-transform: uppercase;
+    }
+    
+    .category-bar {
+      flex: 1;
+      height: 24px;
+      background: var(--bg-tertiary);
+      border-radius: 4px;
+      overflow: hidden;
+    }
+    
+    .category-bar-fill {
+      height: 100%;
+      border-radius: 4px;
+      display: flex;
+      align-items: center;
+      padding: 0 8px;
+      font-size: 0.8rem;
+      color: #fff;
+      font-weight: 500;
+      transition: width 0.5s ease;
+    }
+    
+    .category-bar-fill.defi { background: linear-gradient(135deg, #58a6ff, #388bfd); }
+    .category-bar-fill.nft { background: linear-gradient(135deg, #a371f7, #8957e5); }
+    .category-bar-fill.gamefi { background: linear-gradient(135deg, #f778ba, #db61a2); }
+    .category-bar-fill.layer2 { background: linear-gradient(135deg, #56d4dd, #3fb950); }
+    .category-bar-fill.other { background: linear-gradient(135deg, #f0883e, #d29922); }
+    
+    /* Insights Panel */
+    .insight-list {
+      display: flex;
+      flex-direction: column;
+      gap: 16px;
+      max-height: 400px;
+      overflow-y: auto;
+    }
+    
+    .insight-card {
+      background: var(--bg-secondary);
+      border: 1px solid var(--border-color);
+      border-radius: var(--radius-sm);
+      padding: 16px;
+      transition: border-color 0.2s;
+    }
+    
+    .insight-card:hover {
+      border-color: var(--accent-primary);
+    }
+    
+    .insight-type {
+      display: inline-block;
+      padding: 3px 8px;
+      border-radius: 4px;
+      font-size: 0.75rem;
+      font-weight: 600;
+      text-transform: uppercase;
+      margin-bottom: 8px;
+    }
+    
+    .insight-type.consensus { background: rgba(63, 185, 80, 0.2); color: var(--accent-green); }
+    .insight-type.divergence { background: rgba(248, 81, 73, 0.2); color: #f85149; }
+    .insight-type.prediction { background: rgba(163, 113, 247, 0.2); color: var(--accent-purple); }
+    .insight-type.analysis { background: rgba(88, 166, 255, 0.2); color: var(--accent-primary); }
+    
+    .insight-content {
+      font-size: 0.95rem;
+      line-height: 1.6;
+      margin-bottom: 8px;
+    }
+    
+    .insight-meta {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      font-size: 0.8rem;
+      color: var(--text-muted);
+    }
+    
+    .insight-confidence {
+      display: flex;
+      align-items: center;
+      gap: 4px;
+    }
+    
+    /* Analysis Progress */
+    .analysis-progress {
+      display: flex;
+      align-items: center;
+      gap: 16px;
+      padding: 16px 20px;
+      background: var(--bg-secondary);
+      border-radius: var(--radius-sm);
+      margin-bottom: 20px;
+    }
+    
+    .progress-ring {
+      width: 60px;
+      height: 60px;
+      position: relative;
+    }
+    
+    .progress-ring svg {
+      transform: rotate(-90deg);
+    }
+    
+    .progress-ring-circle {
+      fill: none;
+      stroke: var(--bg-tertiary);
+      stroke-width: 6;
+    }
+    
+    .progress-ring-progress {
+      fill: none;
+      stroke: var(--accent-primary);
+      stroke-width: 6;
+      stroke-linecap: round;
+      transition: stroke-dashoffset 0.5s ease;
+    }
+    
+    .progress-text {
+      position: absolute;
+      top: 50%;
+      left: 50%;
+      transform: translate(-50%, -50%);
+      font-size: 0.9rem;
+      font-weight: 600;
+      font-family: 'JetBrains Mono', monospace;
+    }
+    
+    .progress-info {
+      flex: 1;
+    }
+    
+    .progress-title {
+      font-weight: 600;
+      margin-bottom: 4px;
+    }
+    
+    .progress-desc {
+      font-size: 0.85rem;
+      color: var(--text-muted);
+    }
+    
+    /* Chart Container */
+    .chart-container {
+      position: relative;
+      height: 250px;
+      width: 100%;
+    }
+    
+    /* Batch Analyze Button */
+    .batch-analyze-btn {
+      display: flex;
+      align-items: center;
+      gap: 8px;
+      padding: 12px 20px;
+      background: linear-gradient(135deg, var(--accent-purple), var(--accent-primary));
+      border: none;
+      border-radius: var(--radius-sm);
+      color: #fff;
+      font-size: 0.9rem;
+      font-weight: 600;
+      cursor: pointer;
+      transition: all 0.2s;
+    }
+    
+    .batch-analyze-btn:hover {
+      transform: translateY(-1px);
+      box-shadow: 0 4px 12px rgba(163, 113, 247, 0.4);
+    }
+    
+    .batch-analyze-btn:disabled {
+      opacity: 0.6;
+      cursor: not-allowed;
+      transform: none;
+      box-shadow: none;
+    }
+    
+    /* Consensus/Divergence Panel */
+    .consensus-panel {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 20px;
+    }
+    
+    @media (max-width: 900px) {
+      .consensus-panel {
+        grid-template-columns: 1fr;
+      }
+    }
+    
+    .consensus-section {
+      background: var(--bg-secondary);
+      border-radius: var(--radius-sm);
+      padding: 16px;
+    }
+    
+    .consensus-section h4 {
+      display: flex;
+      align-items: center;
+      gap: 8px;
+      margin-bottom: 12px;
+      font-size: 0.95rem;
+    }
+    
+    .consensus-section h4.consensus-title { color: var(--accent-green); }
+    .consensus-section h4.divergence-title { color: #f85149; }
+    
+    .consensus-list {
+      display: flex;
+      flex-direction: column;
+      gap: 10px;
+    }
+    
+    .consensus-item {
+      padding: 10px 12px;
+      background: var(--bg-card);
+      border-radius: var(--radius-sm);
+      font-size: 0.9rem;
+      border-left: 3px solid var(--accent-green);
+    }
+    
+    .divergence-item {
+      padding: 10px 12px;
+      background: var(--bg-card);
+      border-radius: var(--radius-sm);
+      font-size: 0.9rem;
+      border-left: 3px solid #f85149;
+    }
+    
     /* Login Page */
     .login-overlay {
       position: fixed;
@@ -995,7 +1444,7 @@
         <div class="logo-icon">📊</div>
         <div>
           <h1>X-Kit Dashboard</h1>
-          <p>推文数据可视化分析中心</p>
+          <p>Web3 智能分析中心</p>
         </div>
       </div>
       <div class="header-actions">
@@ -1009,86 +1458,254 @@
       </div>
     </header>
     
-    <!-- Stats Grid -->
-    <div class="stats-grid">
-      <div class="stat-card">
-        <div class="stat-label">总推文数</div>
-        <div class="stat-value" id="total-tweets">--</div>
-      </div>
-      <div class="stat-card">
-        <div class="stat-label">用户数量</div>
-        <div class="stat-value" id="total-users">--</div>
-      </div>
-      <div class="stat-card">
-        <div class="stat-label">包含图片</div>
-        <div class="stat-value" id="tweets-images">--</div>
-      </div>
-      <div class="stat-card">
-        <div class="stat-label">包含视频</div>
-        <div class="stat-value" id="tweets-videos">--</div>
-      </div>
+    <!-- Tab Navigation -->
+    <div class="tab-nav">
+      <button class="tab-btn active" onclick="switchTab('overview')">
+        <span>📈</span> 数据概览
+      </button>
+      <button class="tab-btn" onclick="switchTab('web3')">
+        <span>🔮</span> Web3 分析
+      </button>
+      <button class="tab-btn" onclick="switchTab('users')">
+        <span>👥</span> 用户管理
+      </button>
     </div>
     
-    <!-- Main Content -->
-    <div class="main-content">
-      <!-- User List Section -->
-      <div class="section">
-        <div class="section-header">
-          <h2 class="section-title">
-            <span class="icon">👥</span>
-            用户列表
-          </h2>
-          <span id="user-count" style="color: var(--text-muted); font-size: 0.9rem;"></span>
+    <!-- Tab Content: Overview -->
+    <div class="tab-content active" id="tab-overview">
+      <!-- Stats Grid -->
+      <div class="stats-grid">
+        <div class="stat-card">
+          <div class="stat-label">总推文数</div>
+          <div class="stat-value" id="total-tweets">--</div>
         </div>
-        <div class="search-box">
-          <input type="text" class="search-input" id="user-search" placeholder="🔍 搜索用户名或昵称..." oninput="filterUsers()">
+        <div class="stat-card">
+          <div class="stat-label">用户数量</div>
+          <div class="stat-value" id="total-users">--</div>
         </div>
-        <div class="user-list" id="user-list">
-          <div class="loading-state">
-            <div class="spinner"></div>
-            <p>加载用户列表...</p>
-          </div>
+        <div class="stat-card">
+          <div class="stat-label">包含图片</div>
+          <div class="stat-value" id="tweets-images">--</div>
         </div>
-        <div class="pagination" id="user-pagination" style="display: none;">
-          <button onclick="changePage(-1)" id="prev-btn">上一页</button>
-          <span class="page-info" id="page-info"></span>
-          <button onclick="changePage(1)" id="next-btn">下一页</button>
+        <div class="stat-card">
+          <div class="stat-label">包含视频</div>
+          <div class="stat-value" id="tweets-videos">--</div>
         </div>
       </div>
       
-      <!-- AI Summary Panel -->
-      <div class="section ai-panel">
-        <div class="section-header">
-          <h2 class="section-title">
-            <span class="icon">🤖</span>
-            AI 智能总结
-          </h2>
+      <!-- Main Content -->
+      <div class="main-content">
+        <!-- AI Summary Panel -->
+        <div class="section ai-panel" style="grid-column: 1 / -1;">
+          <div class="section-header">
+            <h2 class="section-title">
+              <span class="icon">🤖</span>
+              AI 智能总结
+            </h2>
+          </div>
+          <div class="ai-input-group">
+            <div class="ai-input-row">
+              <input type="text" class="ai-input" id="ai-username" placeholder="用户名（可选，留空总结全部）">
+              <select class="ai-input" id="ai-days" style="flex: 0 0 100px;">
+                <option value="1">1天</option>
+                <option value="3">3天</option>
+                <option value="7" selected>7天</option>
+                <option value="14">14天</option>
+                <option value="30">30天</option>
+              </select>
+            </div>
+            <div class="ai-input-row">
+              <select class="ai-input" id="ai-provider" style="flex: 0 0 140px;">
+                <option value="">使用默认模型</option>
+              </select>
+              <button class="btn btn-primary" style="flex: 1;" onclick="generateSummary()">
+                <span>✨</span> 生成 AI 总结
+              </button>
+            </div>
+          </div>
+          <div class="ai-output" id="ai-output">
+            <div class="ai-placeholder">
+              <div class="icon">🧠</div>
+              <p>点击上方按钮生成推文智能总结</p>
+              <p style="font-size: 0.8rem; margin-top: 8px;">支持多模型：通义千问、腾讯混元</p>
+            </div>
+          </div>
         </div>
-        <div class="ai-input-group">
-          <div class="ai-input-row">
-            <input type="text" class="ai-input" id="ai-username" placeholder="用户名（可选，留空总结全部）">
-            <select class="ai-input" id="ai-days" style="flex: 0 0 100px;">
-              <option value="1">1天</option>
+      </div>
+    </div>
+    
+    <!-- Tab Content: Web3 Analysis -->
+    <div class="tab-content" id="tab-web3">
+      <!-- Analysis Progress -->
+      <div class="analysis-progress" id="analysis-progress">
+        <div class="progress-ring">
+          <svg width="60" height="60">
+            <circle class="progress-ring-circle" cx="30" cy="30" r="24"></circle>
+            <circle class="progress-ring-progress" cx="30" cy="30" r="24" 
+                    stroke-dasharray="150.8" stroke-dashoffset="150.8" id="progress-circle"></circle>
+          </svg>
+          <span class="progress-text" id="progress-pct">0%</span>
+        </div>
+        <div class="progress-info">
+          <div class="progress-title">分析进度</div>
+          <div class="progress-desc" id="progress-desc">已分析 0 / 0 条推文</div>
+        </div>
+        <button class="batch-analyze-btn" id="batch-analyze-btn" onclick="startBatchAnalysis()">
+          <span>🚀</span> 开始批量分析
+        </button>
+      </div>
+      
+      <!-- Web3 Stats Grid -->
+      <div class="web3-grid">
+        <!-- Market Sentiment -->
+        <div class="web3-card">
+          <div class="web3-card-header">
+            <h3 class="web3-card-title"><span>📊</span> 市场情绪</h3>
+            <select class="ai-input" id="sentiment-days" style="width: 100px;" onchange="loadWeb3Stats()">
+              <option value="1">今天</option>
               <option value="3">3天</option>
               <option value="7" selected>7天</option>
               <option value="14">14天</option>
               <option value="30">30天</option>
             </select>
           </div>
-          <div class="ai-input-row">
-            <select class="ai-input" id="ai-provider" style="flex: 0 0 140px;">
-              <option value="">使用默认模型</option>
-            </select>
-            <button class="btn btn-primary" style="flex: 1;" onclick="generateSummary()">
-              <span>✨</span> 生成 AI 总结
-            </button>
+          <div class="web3-card-body">
+            <div class="sentiment-gauge" id="sentiment-gauge">
+              <div class="gauge-value neutral" id="sentiment-value">--</div>
+              <div class="gauge-label" id="sentiment-label">加载中...</div>
+              <div class="sentiment-bar" id="sentiment-bar">
+                <div class="sentiment-bar-segment bullish" style="width: 33%;"></div>
+                <div class="sentiment-bar-segment neutral" style="width: 34%;"></div>
+                <div class="sentiment-bar-segment bearish" style="width: 33%;"></div>
+              </div>
+              <div class="sentiment-legend">
+                <div class="legend-item"><span class="legend-dot bullish"></span> 看涨 <span id="bullish-pct">--</span></div>
+                <div class="legend-item"><span class="legend-dot neutral"></span> 中性 <span id="neutral-pct">--</span></div>
+                <div class="legend-item"><span class="legend-dot bearish"></span> 看跌 <span id="bearish-pct">--</span></div>
+              </div>
+            </div>
           </div>
         </div>
-        <div class="ai-output" id="ai-output">
-          <div class="ai-placeholder">
-            <div class="icon">🧠</div>
-            <p>点击上方按钮生成推文智能总结</p>
-            <p style="font-size: 0.8rem; margin-top: 8px;">支持多模型：通义千问、腾讯混元</p>
+        
+        <!-- Crypto Mentions -->
+        <div class="web3-card">
+          <div class="web3-card-header">
+            <h3 class="web3-card-title"><span>💰</span> 热门币种</h3>
+          </div>
+          <div class="web3-card-body">
+            <div class="crypto-list" id="crypto-list">
+              <div class="loading-state" style="padding: 20px;">
+                <div class="spinner"></div>
+              </div>
+            </div>
+          </div>
+        </div>
+        
+        <!-- Category Distribution -->
+        <div class="web3-card">
+          <div class="web3-card-header">
+            <h3 class="web3-card-title"><span>🏷️</span> 赛道分布</h3>
+          </div>
+          <div class="web3-card-body">
+            <div class="category-list" id="category-list">
+              <div class="loading-state" style="padding: 20px;">
+                <div class="spinner"></div>
+              </div>
+            </div>
+          </div>
+        </div>
+        
+        <!-- Sentiment Trend Chart -->
+        <div class="web3-card">
+          <div class="web3-card-header">
+            <h3 class="web3-card-title"><span>📈</span> 情绪趋势</h3>
+          </div>
+          <div class="web3-card-body">
+            <div class="chart-container">
+              <canvas id="sentiment-chart"></canvas>
+            </div>
+          </div>
+        </div>
+      </div>
+      
+      <!-- Consensus & Divergence -->
+      <div class="web3-card" style="margin-bottom: 24px;">
+        <div class="web3-card-header">
+          <h3 class="web3-card-title"><span>🎯</span> 共识与分歧</h3>
+          <button class="btn" onclick="analyzeConsensus()">
+            <span>🔄</span> 刷新分析
+          </button>
+        </div>
+        <div class="web3-card-body">
+          <div class="consensus-panel" id="consensus-panel">
+            <div class="consensus-section">
+              <h4 class="consensus-title">✅ 市场共识</h4>
+              <div class="consensus-list" id="consensus-list">
+                <div class="loading-state" style="padding: 20px;">
+                  <p style="color: var(--text-muted);">点击"刷新分析"获取共识观点</p>
+                </div>
+              </div>
+            </div>
+            <div class="consensus-section">
+              <h4 class="divergence-title">⚡ 观点分歧</h4>
+              <div class="consensus-list" id="divergence-list">
+                <div class="loading-state" style="padding: 20px;">
+                  <p style="color: var(--text-muted);">点击"刷新分析"获取分歧观点</p>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      
+      <!-- Top Insights -->
+      <div class="web3-card">
+        <div class="web3-card-header">
+          <h3 class="web3-card-title"><span>💡</span> 关键洞察</h3>
+          <select class="ai-input" id="insight-type" style="width: 120px;" onchange="loadInsights()">
+            <option value="">全部类型</option>
+            <option value="consensus">共识</option>
+            <option value="divergence">分歧</option>
+            <option value="prediction">预测</option>
+            <option value="analysis">分析</option>
+          </select>
+        </div>
+        <div class="web3-card-body">
+          <div class="insight-list" id="insight-list">
+            <div class="loading-state" style="padding: 40px;">
+              <div class="spinner"></div>
+              <p>加载洞察...</p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    
+    <!-- Tab Content: Users -->
+    <div class="tab-content" id="tab-users">
+      <div class="main-content" style="grid-template-columns: 1fr;">
+        <!-- User List Section -->
+        <div class="section">
+          <div class="section-header">
+            <h2 class="section-title">
+              <span class="icon">👥</span>
+              用户列表
+            </h2>
+            <span id="user-count" style="color: var(--text-muted); font-size: 0.9rem;"></span>
+          </div>
+          <div class="search-box">
+            <input type="text" class="search-input" id="user-search" placeholder="🔍 搜索用户名或昵称..." oninput="filterUsers()">
+          </div>
+          <div class="user-list" id="user-list">
+            <div class="loading-state">
+              <div class="spinner"></div>
+              <p>加载用户列表...</p>
+            </div>
+          </div>
+          <div class="pagination" id="user-pagination" style="display: none;">
+            <button onclick="changePage(-1)" id="prev-btn">上一页</button>
+            <span class="page-info" id="page-info"></span>
+            <button onclick="changePage(1)" id="next-btn">下一页</button>
           </div>
         </div>
       </div>
@@ -1159,6 +1776,10 @@
     let currentUser = null;
     let availableProviders = [];
     const usersPerPage = 20;
+    
+    // Web3 分析相关
+    let sentimentChart = null;
+    let currentTab = 'overview';
     
     // ==================== 认证相关 ====================
     
@@ -1701,6 +2322,417 @@
       loadStats();
       loadUsers();
       checkServerStatus();
+      if (currentTab === 'web3') {
+        loadWeb3Stats();
+      }
+    }
+    
+    // ==================== Tab 切换 ====================
+    
+    function switchTab(tabName) {
+      currentTab = tabName;
+      
+      // 更新 Tab 按钮状态
+      document.querySelectorAll('.tab-btn').forEach(btn => {
+        btn.classList.remove('active');
+      });
+      event.currentTarget.classList.add('active');
+      
+      // 更新 Tab 内容显示
+      document.querySelectorAll('.tab-content').forEach(content => {
+        content.classList.remove('active');
+      });
+      document.getElementById(`tab-${tabName}`).classList.add('active');
+      
+      // 加载对应 Tab 的数据
+      if (tabName === 'web3') {
+        loadWeb3Stats();
+        loadInsights();
+      } else if (tabName === 'users') {
+        loadUsers();
+      }
+    }
+    
+    // ==================== Web3 分析功能 ====================
+    
+    /**
+     * 加载 Web3 分析统计数据
+     */
+    async function loadWeb3Stats() {
+      const days = document.getElementById('sentiment-days')?.value || 7;
+      
+      try {
+        // 并行加载多个数据
+        const [statsRes, sentimentRes, historyRes] = await Promise.all([
+          authFetch(`${serverUrl}/api/web3/analysis-stats?days=${days}`),
+          authFetch(`${serverUrl}/api/web3/market-sentiment?days=${days}`),
+          authFetch(`${serverUrl}/api/web3/sentiment-history?days=${days}`)
+        ]);
+        
+        const statsData = await statsRes.json();
+        const sentimentData = await sentimentRes.json();
+        const historyData = await historyRes.json();
+        
+        if (statsData.success) {
+          renderAnalysisProgress(statsData.data);
+          renderCategoryStats(statsData.data.category_stats);
+          renderCryptoList(statsData.data.crypto_stats);
+        }
+        
+        if (sentimentData.success) {
+          renderSentimentGauge(sentimentData.data);
+        }
+        
+        if (historyData.success) {
+          renderSentimentChart(historyData.data.history);
+        }
+        
+      } catch (e) {
+        console.error('加载 Web3 统计失败:', e);
+      }
+    }
+    
+    /**
+     * 渲染分析进度
+     */
+    function renderAnalysisProgress(data) {
+      const rate = data.analysis_rate || 0;
+      const analyzed = data.analyzed_count || 0;
+      const total = data.total_count || 0;
+      
+      // 更新进度环
+      const circle = document.getElementById('progress-circle');
+      const circumference = 150.8; // 2 * PI * 24
+      const offset = circumference - (rate / 100) * circumference;
+      circle.style.strokeDashoffset = offset;
+      
+      // 更新文字
+      document.getElementById('progress-pct').textContent = `${Math.round(rate)}%`;
+      document.getElementById('progress-desc').textContent = `已分析 ${analyzed} / ${total} 条推文`;
+    }
+    
+    /**
+     * 渲染市场情绪仪表盘
+     */
+    function renderSentimentGauge(data) {
+      const sentiment = data.overall_sentiment || 'neutral';
+      const score = data.sentiment_score || 0;
+      const breakdown = data.breakdown || {};
+      
+      // 更新情绪值
+      const valueEl = document.getElementById('sentiment-value');
+      valueEl.textContent = score > 0 ? `+${score.toFixed(2)}` : score.toFixed(2);
+      valueEl.className = `gauge-value ${sentiment}`;
+      
+      // 更新标签
+      const labels = { bullish: '看涨', bearish: '看跌', neutral: '中性' };
+      document.getElementById('sentiment-label').textContent = labels[sentiment] || '中性';
+      
+      // 更新情绪条
+      const bullishPct = breakdown.bullish?.percentage || 0;
+      const neutralPct = breakdown.neutral?.percentage || 0;
+      const bearishPct = breakdown.bearish?.percentage || 0;
+      
+      const bar = document.getElementById('sentiment-bar');
+      bar.innerHTML = `
+        <div class="sentiment-bar-segment bullish" style="width: ${bullishPct}%;"></div>
+        <div class="sentiment-bar-segment neutral" style="width: ${neutralPct}%;"></div>
+        <div class="sentiment-bar-segment bearish" style="width: ${bearishPct}%;"></div>
+      `;
+      
+      // 更新图例
+      document.getElementById('bullish-pct').textContent = `${bullishPct}%`;
+      document.getElementById('neutral-pct').textContent = `${neutralPct}%`;
+      document.getElementById('bearish-pct').textContent = `${bearishPct}%`;
+    }
+    
+    /**
+     * 渲染赛道分布
+     */
+    function renderCategoryStats(stats) {
+      const container = document.getElementById('category-list');
+      
+      if (!stats || stats.length === 0) {
+        container.innerHTML = '<div class="empty-state" style="padding: 20px;"><p>暂无分类数据</p></div>';
+        return;
+      }
+      
+      const maxCount = Math.max(...stats.map(s => s.count));
+      const categoryLabels = {
+        defi: 'DeFi',
+        nft: 'NFT',
+        gamefi: 'GameFi',
+        layer2: 'Layer2',
+        other: '其他'
+      };
+      
+      container.innerHTML = stats.map(stat => {
+        const width = (stat.count / maxCount * 100).toFixed(1);
+        const label = categoryLabels[stat.category] || stat.category;
+        const categoryClass = stat.category.toLowerCase();
+        
+        return `
+          <div class="category-item">
+            <span class="category-label">${label}</span>
+            <div class="category-bar">
+              <div class="category-bar-fill ${categoryClass}" style="width: ${width}%;">
+                ${stat.count}
+              </div>
+            </div>
+          </div>
+        `;
+      }).join('');
+    }
+    
+    /**
+     * 渲染热门币种列表
+     */
+    function renderCryptoList(stats) {
+      const container = document.getElementById('crypto-list');
+      
+      if (!stats || stats.length === 0) {
+        container.innerHTML = '<div class="empty-state" style="padding: 20px;"><p>暂无币种数据</p></div>';
+        return;
+      }
+      
+      container.innerHTML = stats.slice(0, 10).map(crypto => `
+        <div class="crypto-item">
+          <span class="crypto-symbol">${crypto.symbol}</span>
+          <div class="crypto-stats">
+            <span class="crypto-count">${crypto.count} 次提及</span>
+            <div class="crypto-sentiment">
+              <span class="bullish">📈 ${crypto.bullish_count || 0}</span>
+              <span class="bearish">📉 ${crypto.bearish_count || 0}</span>
+            </div>
+          </div>
+        </div>
+      `).join('');
+    }
+    
+    /**
+     * 渲染情绪趋势图表
+     */
+    function renderSentimentChart(history) {
+      const ctx = document.getElementById('sentiment-chart')?.getContext('2d');
+      if (!ctx) return;
+      
+      // 销毁旧图表
+      if (sentimentChart) {
+        sentimentChart.destroy();
+      }
+      
+      if (!history || history.length === 0) {
+        return;
+      }
+      
+      const labels = history.map(h => h.date);
+      const bullishData = history.map(h => h.bullish_pct);
+      const bearishData = history.map(h => h.bearish_pct);
+      const scoreData = history.map(h => h.avg_score * 50 + 50); // 归一化到 0-100
+      
+      sentimentChart = new Chart(ctx, {
+        type: 'line',
+        data: {
+          labels: labels,
+          datasets: [
+            {
+              label: '看涨比例',
+              data: bullishData,
+              borderColor: '#3fb950',
+              backgroundColor: 'rgba(63, 185, 80, 0.1)',
+              fill: true,
+              tension: 0.4
+            },
+            {
+              label: '看跌比例',
+              data: bearishData,
+              borderColor: '#f85149',
+              backgroundColor: 'rgba(248, 81, 73, 0.1)',
+              fill: true,
+              tension: 0.4
+            }
+          ]
+        },
+        options: {
+          responsive: true,
+          maintainAspectRatio: false,
+          plugins: {
+            legend: {
+              position: 'top',
+              labels: {
+                color: '#8b949e',
+                font: { size: 11 }
+              }
+            }
+          },
+          scales: {
+            x: {
+              grid: { color: 'rgba(48, 54, 61, 0.5)' },
+              ticks: { color: '#8b949e', font: { size: 10 } }
+            },
+            y: {
+              grid: { color: 'rgba(48, 54, 61, 0.5)' },
+              ticks: { 
+                color: '#8b949e', 
+                font: { size: 10 },
+                callback: value => value + '%'
+              },
+              min: 0,
+              max: 100
+            }
+          }
+        }
+      });
+    }
+    
+    /**
+     * 加载关键洞察
+     */
+    async function loadInsights() {
+      const days = document.getElementById('sentiment-days')?.value || 7;
+      const type = document.getElementById('insight-type')?.value || '';
+      const container = document.getElementById('insight-list');
+      
+      container.innerHTML = '<div class="loading-state" style="padding: 40px;"><div class="spinner"></div><p>加载洞察...</p></div>';
+      
+      try {
+        const url = `${serverUrl}/api/web3/top-insights?days=${days}&limit=10${type ? `&type=${type}` : ''}`;
+        const response = await authFetch(url);
+        const data = await response.json();
+        
+        if (data.success && data.data.insights.length > 0) {
+          container.innerHTML = data.data.insights.map(insight => `
+            <div class="insight-card">
+              <span class="insight-type ${insight.type}">${getInsightTypeLabel(insight.type)}</span>
+              <div class="insight-content">${escapeHtml(insight.content)}</div>
+              <div class="insight-meta">
+                <span>${insight.author} · ${insight.date}</span>
+                <span class="insight-confidence">
+                  置信度: ${(insight.confidence * 100).toFixed(0)}%
+                </span>
+              </div>
+            </div>
+          `).join('');
+        } else {
+          container.innerHTML = '<div class="empty-state" style="padding: 40px;"><div class="icon">💭</div><p>暂无洞察数据</p><p style="font-size: 0.85rem; margin-top: 8px;">请先进行批量分析</p></div>';
+        }
+      } catch (e) {
+        console.error('加载洞察失败:', e);
+        container.innerHTML = '<div class="empty-state" style="padding: 40px;"><div class="icon">⚠️</div><p>加载失败</p></div>';
+      }
+    }
+    
+    /**
+     * 获取洞察类型标签
+     */
+    function getInsightTypeLabel(type) {
+      const labels = {
+        consensus: '共识',
+        divergence: '分歧',
+        prediction: '预测',
+        analysis: '分析'
+      };
+      return labels[type] || type;
+    }
+    
+    /**
+     * 开始批量分析
+     */
+    async function startBatchAnalysis() {
+      const btn = document.getElementById('batch-analyze-btn');
+      const days = document.getElementById('sentiment-days')?.value || 7;
+      
+      btn.disabled = true;
+      btn.innerHTML = '<span class="spinner" style="width: 16px; height: 16px; border-width: 2px;"></span> 分析中...';
+      
+      try {
+        const response = await authFetch(`${serverUrl}/api/web3/batch-analyze`, {
+          method: 'POST',
+          body: JSON.stringify({
+            days: parseInt(days),
+            limit: 50
+          })
+        });
+        
+        const data = await response.json();
+        
+        if (data.success) {
+          alert(`分析完成！\n成功: ${data.data.analyzed} 条\n失败: ${data.data.failed} 条`);
+          // 刷新统计数据
+          loadWeb3Stats();
+          loadInsights();
+        } else {
+          alert('分析失败: ' + (data.error || '未知错误'));
+        }
+      } catch (e) {
+        console.error('批量分析失败:', e);
+        alert('批量分析失败: ' + e.message);
+      } finally {
+        btn.disabled = false;
+        btn.innerHTML = '<span>🚀</span> 开始批量分析';
+      }
+    }
+    
+    /**
+     * 分析共识与分歧
+     */
+    async function analyzeConsensus() {
+      const days = document.getElementById('sentiment-days')?.value || 7;
+      const consensusList = document.getElementById('consensus-list');
+      const divergenceList = document.getElementById('divergence-list');
+      
+      consensusList.innerHTML = '<div class="loading-state" style="padding: 20px;"><div class="spinner"></div></div>';
+      divergenceList.innerHTML = '<div class="loading-state" style="padding: 20px;"><div class="spinner"></div></div>';
+      
+      try {
+        const response = await authFetch(`${serverUrl}/api/web3/consensus-divergence`, {
+          method: 'POST',
+          body: JSON.stringify({ days: parseInt(days) })
+        });
+        
+        const data = await response.json();
+        
+        if (data.success) {
+          // 渲染共识
+          const consensus = data.data.consensus || [];
+          if (consensus.length > 0) {
+            consensusList.innerHTML = consensus.map(c => `
+              <div class="consensus-item">
+                <div>${escapeHtml(c.point)}</div>
+                <div style="font-size: 0.8rem; color: var(--text-muted); margin-top: 4px;">
+                  支持: ${c.support_count || 0} · 置信度: ${((c.confidence || 0) * 100).toFixed(0)}%
+                </div>
+              </div>
+            `).join('');
+          } else {
+            consensusList.innerHTML = '<p style="color: var(--text-muted); padding: 10px;">暂无明显共识</p>';
+          }
+          
+          // 渲染分歧
+          const divergence = data.data.divergence || [];
+          if (divergence.length > 0) {
+            divergenceList.innerHTML = divergence.map(d => `
+              <div class="divergence-item">
+                <div style="font-weight: 500; margin-bottom: 8px;">${escapeHtml(d.topic)}</div>
+                ${(d.viewpoints || []).map(v => `
+                  <div style="font-size: 0.85rem; padding: 4px 0; border-left: 2px solid ${v.sentiment === 'bullish' ? 'var(--accent-green)' : v.sentiment === 'bearish' ? '#f85149' : 'var(--accent-orange)'}; padding-left: 8px; margin: 4px 0;">
+                    ${escapeHtml(v.viewpoint)} <span style="color: var(--text-muted);">(${v.support_count || 0})</span>
+                  </div>
+                `).join('')}
+              </div>
+            `).join('');
+          } else {
+            divergenceList.innerHTML = '<p style="color: var(--text-muted); padding: 10px;">暂无明显分歧</p>';
+          }
+        } else {
+          consensusList.innerHTML = `<p style="color: var(--text-muted); padding: 10px;">${data.error || '分析失败'}</p>`;
+          divergenceList.innerHTML = `<p style="color: var(--text-muted); padding: 10px;">${data.error || '分析失败'}</p>`;
+        }
+      } catch (e) {
+        console.error('分析共识分歧失败:', e);
+        consensusList.innerHTML = '<p style="color: var(--text-muted); padding: 10px;">加载失败</p>';
+        divergenceList.innerHTML = '<p style="color: var(--text-muted); padding: 10px;">加载失败</p>';
+      }
     }
     
     // 工具函数
