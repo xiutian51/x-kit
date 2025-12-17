@@ -1,11 +1,616 @@
 [
   {
     "user": {
+      "screenName": "coinbase",
+      "name": "Coinbase 🛡️",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1999222833562451968/q2lVqSoW_normal.jpg",
+      "description": "The most trusted crypto exchange. For support: @CoinbaseSupport",
+      "followersCount": 6680259,
+      "friendsCount": 159,
+      "location": "Remote First"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2001415923887124480/vid/avc1/1920x1080/uC6y8NARoQlUetzy.mp4?tag=21"
+    ],
+    "tweetUrl": "https://x.com/coinbase/status/2001416301453901881",
+    "fullText": "The future of finance is on Coinbase.\n\nAll in one app. https://t.co/QH6Rn24PZ9"
+  },
+  {
+    "user": {
+      "screenName": "WhiteHouse",
+      "name": "The White House",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1916971216620982274/1DsLEcqW_normal.jpg",
+      "description": "The Golden Age of America Begins Right Now.\n📱 Text USA to 45470 to receive alerts.",
+      "followersCount": 3075967,
+      "friendsCount": 6,
+      "location": "Washington, DC"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G8ZzFhDWEAAxh6k.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/WhiteHouse/status/2001416153084670382",
+    "fullText": "President Donald J. Trump and Secretary of War Pete Hegseth honor the three Americans who made the ultimate sacrifice in service to our country.\n\nTheir selfless service and bravery will never be forgotten. 🇺🇸\n\nMay God bless their families. https://t.co/fTU1g4Cchd"
+  },
+  {
+    "user": {
+      "screenName": "DegenerateNews",
+      "name": "DEGEN NEWS",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1998394876019232768/5txsCPMk_normal.jpg",
+      "description": "Reporting DEGEN nonsense. Powered by @Polymarket. Disclaimer in expanded bio. TG: https://t.co/j1BQdcJjFU",
+      "followersCount": 419696,
+      "friendsCount": 34908,
+      "location": "DEGEN space"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2001416064081518593/vid/avc1/886x506/xssvjMoDKA5z9iZC.mp4?tag=21"
+    ],
+    "tweetUrl": "https://x.com/DegenerateNews/status/2001416147686633485",
+    "fullText": "BREAKING: COINBASE TO ROLL OUT EQUITY PERPETUALS EARLY NEXT YEAR OUTSIDE THE U.S. https://t.co/o5n1KSn02U"
+  },
+  {
+    "user": {
+      "screenName": "andyyy",
+      "name": "Andy",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1687521808331702272/Ky0QmeqD_normal.jpg",
+      "description": "founder @therollupco",
+      "followersCount": 74384,
+      "friendsCount": 5627,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G8ZzpL8XkAAksBR.png"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/andyyy/status/2001416103407346091",
+    "fullText": "JUST IN:\n\nCoinbase announces stock trading on the Coinbase app. All within one account, a huge selection of stocks and crypto.\n\nA major milestone to trade stocks &amp; ETFs 24/7 globally.\n\nWelcome to the future of finance. https://t.co/KSOeKTVbOn"
+  },
+  {
+    "user": {
+      "screenName": "WatcherGuru",
+      "name": "Watcher.Guru",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1641221212578754562/DfiC0KW2_normal.png",
+      "description": "Watcher Guru gives you unparalleled, unbiased coverage of all-things crypto & finance in real-time | Tweets Are Not Financial Advice | @BTCPrice",
+      "followersCount": 3647224,
+      "friendsCount": 3,
+      "location": "Texas, USA"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/WatcherGuru/status/2001416018309030326",
+    "fullText": "JUST IN: Coinbase launches stock trading."
+  },
+  {
+    "user": {
+      "screenName": "SeekingAlpha",
+      "name": "Seeking Alpha",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/534299535552421888/eHacq8EQ_normal.png",
+      "description": "A global leader in crowdsourced U.S. investment research, powered by one of the largest and most vibrant investor communities.",
+      "followersCount": 314315,
+      "friendsCount": 234,
+      "location": "New York, NY"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/SeekingAlpha/status/2001415872376979615",
+    "fullText": "U.S.-Venezuela tensions mount, but it's business as usual for Chevron $UCO $XLE $CVX #markets #stocks #business https://t.co/7f3hgYCPtI"
+  },
+  {
+    "user": {
       "screenName": "theinformation",
       "name": "The Information",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1747484907163516928/d_K3Z_hH_normal.jpg",
       "description": "The most authoritative publication covering tech that high-powered tech execs and founders read daily.\n\nTITV M-F at 1 ET: https://t.co/M0NywExPjR",
-      "followersCount": 133774,
+      "followersCount": 133792,
+      "friendsCount": 704,
+      "location": "San Francisco"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/theinformation/status/2001415868702437456",
+    "fullText": "A lawyer specializing in securities law likened profiting off confidential information on a prediction market to fraud akin to embezzlement. Read: https://t.co/UkyPDNZSIH"
+  },
+  {
+    "user": {
+      "screenName": "andyyy",
+      "name": "Andy",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1687521808331702272/Ky0QmeqD_normal.jpg",
+      "description": "founder @therollupco",
+      "followersCount": 74384,
+      "friendsCount": 5627,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G8Z0uJDWEAI0xAc.png",
+      "https://pbs.twimg.com/media/G8Z013cX0AAWwMi.png"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/andyyy/status/2001415835580076122",
+    "fullText": "BREAKING:\n\nAt the System Update event in SF today, Coinbase officially announces prediction markets in app, powered exclusively by Kalshi.\n\nTrade thousands of real-world events directly on Coinbase today. https://t.co/e4B3Y44l2Y"
+  },
+  {
+    "user": {
+      "screenName": "coinbase",
+      "name": "Coinbase 🛡️",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1999222833562451968/q2lVqSoW_normal.jpg",
+      "description": "The most trusted crypto exchange. For support: @CoinbaseSupport",
+      "followersCount": 6680259,
+      "friendsCount": 159,
+      "location": "Remote First"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2001414341095231488/vid/avc1/1920x1080/BirG-H5R9uLkjXK6.mp4?tag=21"
+    ],
+    "tweetUrl": "https://x.com/coinbase/status/2001414809628066163",
+    "fullText": "Stock trading.\n\nRolling out on Coinbase in the U.S. https://t.co/tTcjpvVyXc"
+  },
+  {
+    "user": {
+      "screenName": "AltCryptoGems",
+      "name": "Sjuul | AltCryptoGems",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1950543002721533952/y0gABDyF_normal.jpg",
+      "description": "Invest in the unexpected || Founder of @AltCryptoCast, @AltCryptoTalk & @KollectAgency || DM for Business Enquiries💰",
+      "followersCount": 477240,
+      "friendsCount": 1901,
+      "location": "Dubai"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G8Zz2_7XEAAIvWr.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/AltCryptoGems/status/2001414616614576215",
+    "fullText": "Crypto Markets Enter a Slowdown Phase\n\n“The number of active Bitcoin wallets has fallen to its lowest level in the past year, indicating that even when prices move, fewer participants are actually transacting.” \n\n– By @xwinfinance https://t.co/2bR2lSppDb"
+  },
+  {
+    "user": {
+      "screenName": "coinbase",
+      "name": "Coinbase 🛡️",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1999222833562451968/q2lVqSoW_normal.jpg",
+      "description": "The most trusted crypto exchange. For support: @CoinbaseSupport",
+      "followersCount": 6680259,
+      "friendsCount": 159,
+      "location": "Remote First"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2001414031769505792/vid/avc1/1920x1080/CMPJ024AMr1H-Y6w.mp4?tag=21"
+    ],
+    "tweetUrl": "https://x.com/coinbase/status/2001414442777743520",
+    "fullText": "87% of Americans believe the financial system needs changing.\n\n51% think that America’s financial system does not work fairly for everyone.\n\nIt’s time for an update. https://t.co/nrEpqX8xiK"
+  },
+  {
+    "user": {
+      "screenName": "DegenerateNews",
+      "name": "DEGEN NEWS",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1998394876019232768/5txsCPMk_normal.jpg",
+      "description": "Reporting DEGEN nonsense. Powered by @Polymarket. Disclaimer in expanded bio. TG: https://t.co/j1BQdcJjFU",
+      "followersCount": 419696,
+      "friendsCount": 34908,
+      "location": "DEGEN space"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G8Zz0PJWYAAJ2_w.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/DegenerateNews/status/2001414431050277099",
+    "fullText": "BREAKING: COINBASE ANNOUNCES STOCK TRADING NOW AVAILABLE https://t.co/TuHyMvWE9n"
+  },
+  {
+    "user": {
+      "screenName": "protocollabs",
+      "name": "Protocol Labs",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1584119257805324289/q0iMQmxI_normal.png",
+      "description": "We are an innovation network of 700+ teams and projects, driving breakthroughs in computing to push humanity forward.",
+      "followersCount": 127153,
+      "friendsCount": 396,
+      "location": "Decentralized"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/protocollabs/status/2001413907286573404",
+    "fullText": "⚡️Ingonyama (@Ingo_zk), with co-founder @OmerShlomovits, is forging the foundation upon which applications requiring Zero Knowledge Proof performance may be built at greater speed and scale.\nhttps://t.co/t8MAFJezlA"
+  },
+  {
+    "user": {
+      "screenName": "laurashin",
+      "name": "Laura Shin",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1539462748173746176/hxR80FYT_normal.png",
+      "description": "Crypto journalist 🎧 Host @unchained_pod 📚 Author, The Cryptopians 💌 Sign up https://t.co/gf90Q5GrXy Ads sponsorships@unchainedcrypto.com",
+      "followersCount": 281223,
+      "friendsCount": 4987,
+      "location": "Crypto Twitter"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/laurashin/status/2001413643125014666",
+    "fullText": "Coming crypto bills draw a bright line between real DeFi and intermediaries, but WLFI appears to fall squarely on the regulated side, raising tough questions for Trump’s agenda.\n\n@RegulatoryJason writes\n\nhttps://t.co/3axJdp5vKt"
+  },
+  {
+    "user": {
+      "screenName": "wallet",
+      "name": "OKX Wallet",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1961251596895227906/o3V4FDLG_normal.jpg",
+      "description": "The crypto wallet for everything onchain. Self-custody is the future.\n\nEngagement is not endorsement.",
+      "followersCount": 1987542,
+      "friendsCount": 412,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/wallet/status/2001413599311315353",
+    "fullText": "Hands up if you've been quietly accumulating this week ✋"
+  },
+  {
+    "user": {
+      "screenName": "binance",
+      "name": "Binance",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1940131561103347712/f5y2qENu_normal.jpg",
+      "description": "The world’s leading blockchain ecosystem and digital asset exchange | #Binance #BNB | Support: @BinanceHelpDesk | Posts are not directed towards UK users.",
+      "followersCount": 15182079,
+      "friendsCount": 575,
+      "location": ""
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/ext_tw_video/2001412341984878592/pu/vid/avc1/720x1166/cR7Szev2mANjx8k0.mp4?tag=12"
+    ],
+    "tweetUrl": "https://x.com/binance/status/2001412369243672792",
+    "fullText": "https://t.co/rZpZ66lbBQ"
+  },
+  {
+    "user": {
+      "screenName": "theinformation",
+      "name": "The Information",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1747484907163516928/d_K3Z_hH_normal.jpg",
+      "description": "The most authoritative publication covering tech that high-powered tech execs and founders read daily.\n\nTITV M-F at 1 ET: https://t.co/M0NywExPjR",
+      "followersCount": 133792,
+      "friendsCount": 704,
+      "location": "San Francisco"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/theinformation/status/2001412176993517589",
+    "fullText": "First Reported on The Information: OpenAI plans to incorporate Amazon’s Trainium AI server chips into its operations as part of a new investment deal. Read more: https://t.co/6VADcdUEF1"
+  },
+  {
+    "user": {
+      "screenName": "TheOnion",
+      "name": "The Onion",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1517492889852461056/bEnqsvVR_normal.jpg",
+      "description": "America's Finest News Source. A @globtetrahedron subsidiary.\n\nGet the paper delivered to your door: https://t.co/jJP2Apbhe8",
+      "followersCount": 10584955,
+      "friendsCount": 8,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/TheOnion/status/2001412161684300086",
+    "fullText": "Chess Grandmaster Tired Of People Comparing Every Life Situation To Chess Match https://t.co/8lRToAa2Ci"
+  },
+  {
+    "user": {
+      "screenName": "SeekingAlpha",
+      "name": "Seeking Alpha",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/534299535552421888/eHacq8EQ_normal.png",
+      "description": "A global leader in crowdsourced U.S. investment research, powered by one of the largest and most vibrant investor communities.",
+      "followersCount": 314315,
+      "friendsCount": 234,
+      "location": "New York, NY"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/SeekingAlpha/status/2001412106638495834",
+    "fullText": "General Mills, Inc. 2026 Q2 - Results - Earnings Call Presentation $GIS #investing #business #markets https://t.co/HzplG3xSj0"
+  },
+  {
+    "user": {
+      "screenName": "WatcherGuru",
+      "name": "Watcher.Guru",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1641221212578754562/DfiC0KW2_normal.png",
+      "description": "Watcher Guru gives you unparalleled, unbiased coverage of all-things crypto & finance in real-time | Tweets Are Not Financial Advice | @BTCPrice",
+      "followersCount": 3647224,
+      "friendsCount": 3,
+      "location": "Texas, USA"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/WatcherGuru/status/2001412018595635590",
+    "fullText": "JUST IN: 🇺🇸 Federal Reserve withdraws 2023 policy, now allowing uninsured banks to engage in crypto activities."
+  },
+  {
+    "user": {
+      "screenName": "WuBlockchain",
+      "name": "Wu Blockchain",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1763570636201615360/fuFapqAI_normal.jpg",
+      "description": "Important Crypto News mainly Asia\nLead by Colin Wu 吴说\nMore Channels: https://t.co/EWW3fUtX5v \nContact: Tele colinwu1989 \nnon-financial advice",
+      "followersCount": 547981,
+      "friendsCount": 881,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/WuBlockchain/status/2001411854028148937",
+    "fullText": "According to crypto journalist Eleanor Terrett, the U.S. Federal Reserve has decided to withdraw guidance issued in 2023 that had effectively restricted uninsured banks from becoming Federal Reserve members and engaging in crypto-related activities; the guidance had also served"
+  },
+  {
+    "user": {
+      "screenName": "Tetranode",
+      "name": "TΞtranodΞ 🦇🔊",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1550332457467015168/iWP9EW1D_normal.jpg",
+      "description": "Creation of @ratwell0x\nPuppeteered by @DgenFren\nOccasionally LARPing as @FrogsAndOrca",
+      "followersCount": 172809,
+      "friendsCount": 1928,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G8ZxH03a0AAW2jw.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/Tetranode/status/2001411641338900513",
+    "fullText": "The market remains irrational longer than I can drink solvents https://t.co/bWCilZvZNR"
+  },
+  {
+    "user": {
+      "screenName": "wublockchain12",
+      "name": "吴说区块链",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1763571513553543168/swT8lq9S_normal.jpg",
+      "description": "吴说中文推特：接近真相，更可信赖\n专业可信的行业新闻，优质深度内容推荐\n吴说所有内容渠道、播客、APP 等：https://t.co/rVoqryXVjk\n联系我们 TG: colinwu1989",
+      "followersCount": 169814,
+      "friendsCount": 1,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/wublockchain12/status/2001411579296747552",
+    "fullText": "吴说获悉，据加密记者 Eleanor Terrett，美联储已决定撤销其于 2023 年发布的一项监管指引，该指引此前实际上限制了未投保存款的银行加入美联储体系并开展加密相关业务；该指引曾作为美联储拒绝 Custodia Bank 申请主账户（master account）的依据之一。https://t.co/Vtk0RpuZ4O"
+  },
+  {
+    "user": {
+      "screenName": "SahilBloom",
+      "name": "Sahil Bloom",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1586859332104343552/V1HRpbP1_normal.jpg",
+      "description": "NYT Bestselling Author of The 5 Types of Wealth. Founder of Wild Roman. Gave up a grand slam on ESPN in 2012 and still waiting for it to land.",
+      "followersCount": 1133635,
+      "friendsCount": 331,
+      "location": "Boston, MA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G8ZxNiBXkAEcbXm.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/SahilBloom/status/2001411566076346811",
+    "fullText": "The person you choose to partner with in life is the single most important decision you will ever make.\n\nI’m forever grateful for the choice we made.\n\n9 years down and a lifetime to go.\n\nHappy Anniversary, beautiful! https://t.co/nUD22NmtVj"
+  },
+  {
+    "user": {
+      "screenName": "AshCrypto",
+      "name": "Ash Crypto",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1935933861034090496/h_vgXOAw_normal.jpg",
+      "description": "News, Memes, Charts, Hopium, Market analysis and Latest crypto updates. Our official Telegram https://t.co/6iHJbN2D67",
+      "followersCount": 2086326,
+      "friendsCount": 314,
+      "location": "X"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G8ZwEOeasAAktZR.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/AshCrypto/status/2001410311971066179",
+    "fullText": "https://t.co/6n6KrIUEYt"
+  },
+  {
+    "user": {
+      "screenName": "WuBlockchain",
+      "name": "Wu Blockchain",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1763570636201615360/fuFapqAI_normal.jpg",
+      "description": "Important Crypto News mainly Asia\nLead by Colin Wu 吴说\nMore Channels: https://t.co/EWW3fUtX5v \nContact: Tele colinwu1989 \nnon-financial advice",
+      "followersCount": 547981,
+      "friendsCount": 881,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/WuBlockchain/status/2001408746757743083",
+    "fullText": "K33 Research data shows that in 2025 alone, nearly $300 billion worth of previously dormant Bitcoin re-entered circulation. CryptoQuant reports that the past 30 days have seen one of the heaviest distributions by long-term holders in more than five years. Previously, this selling"
+  },
+  {
+    "user": {
+      "screenName": "LuxAlgo",
+      "name": "LuxAlgo",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1872719571141951488/Wd4LnEpE_normal.jpg",
+      "description": "The #1 AI agent for backtesting trading strategies \nWorld's largest provider of trading indicators 📈",
+      "followersCount": 109665,
+      "friendsCount": 342,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/LuxAlgo/status/2001408401692119217",
+    "fullText": "REPORT:\n\nRAM shortages have pushed Nvidia $NVDA to cut production of high-end GeForce RTX 50 series GPUs by 30%-40% in 2026.\n\nIt is said the cut will push consumers towards higher-margin, lower RAM models."
+  },
+  {
+    "user": {
+      "screenName": "SeekingAlpha",
+      "name": "Seeking Alpha",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/534299535552421888/eHacq8EQ_normal.png",
+      "description": "A global leader in crowdsourced U.S. investment research, powered by one of the largest and most vibrant investor communities.",
+      "followersCount": 314315,
+      "friendsCount": 234,
+      "location": "New York, NY"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/SeekingAlpha/status/2001408330531766562",
+    "fullText": "MetaX IPO surges 700% amid China's efforts to reduce reliance on Nvidia, AMD $PGJ $AMD $NVDA #stocks #investing #trading https://t.co/rWqPJ4H8oN"
+  },
+  {
+    "user": {
+      "screenName": "theinformation",
+      "name": "The Information",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1747484907163516928/d_K3Z_hH_normal.jpg",
+      "description": "The most authoritative publication covering tech that high-powered tech execs and founders read daily.\n\nTITV M-F at 1 ET: https://t.co/M0NywExPjR",
+      "followersCount": 133792,
+      "friendsCount": 704,
+      "location": "San Francisco"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/theinformation/status/2001408319483715864",
+    "fullText": "Salesforce tightened its data usage policies to restrict how other software firms can use data, prohibiting customers from training AI models on data created in its messaging app, Slack. Learn more: https://t.co/bDTLGscGSs"
+  },
+  {
+    "user": {
+      "screenName": "coinbase",
+      "name": "Coinbase 🛡️",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1999222833562451968/q2lVqSoW_normal.jpg",
+      "description": "The most trusted crypto exchange. For support: @CoinbaseSupport",
+      "followersCount": 6680259,
+      "friendsCount": 159,
+      "location": "Remote First"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/coinbase/status/2001408074783867131",
+    "fullText": "A new era of Coinbase starts now.\n\n— Exciting product announcements\n— Key business updates\n— Lots of other cool stuff\n\nhttps://t.co/hMAIm3DfqT"
+  },
+  {
+    "user": {
+      "screenName": "wublockchain12",
+      "name": "吴说区块链",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1763571513553543168/swT8lq9S_normal.jpg",
+      "description": "吴说中文推特：接近真相，更可信赖\n专业可信的行业新闻，优质深度内容推荐\n吴说所有内容渠道、播客、APP 等：https://t.co/rVoqryXVjk\n联系我们 TG: colinwu1989",
+      "followersCount": 169814,
+      "friendsCount": 1,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/wublockchain12/status/2001407684021764344",
+    "fullText": "据彭博社，比特币在 10 月创下逾 12.6 万美元历史高点后已回落近 30%，市场支撑乏力的一个核心原因在于长期持有者持续减持。K33 Research 数据显示，自 2023 年初以来，至少两年未动的比特币供应减少约 160 万枚，按当前价格计约 1400 亿美元，反映出长期持有者的持续抛售；仅 2025 年，就有接近 3000"
+  },
+  {
+    "user": {
+      "screenName": "coinbase",
+      "name": "Coinbase 🛡️",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1999222833562451968/q2lVqSoW_normal.jpg",
+      "description": "The most trusted crypto exchange. For support: @CoinbaseSupport",
+      "followersCount": 6680259,
+      "friendsCount": 159,
+      "location": "Remote First"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/coinbase/status/2001404709853098149",
+    "fullText": "/system_update_waiting_room\n\nhttps://t.co/hMAIm3DfqT"
+  },
+  {
+    "user": {
+      "screenName": "theinformation",
+      "name": "The Information",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1747484907163516928/d_K3Z_hH_normal.jpg",
+      "description": "The most authoritative publication covering tech that high-powered tech execs and founders read daily.\n\nTITV M-F at 1 ET: https://t.co/M0NywExPjR",
+      "followersCount": 133792,
+      "friendsCount": 704,
+      "location": "San Francisco"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2001404611853225984/vid/avc1/1280x720/MqIBkmucbyXJfv4L.mp4?tag=14"
+    ],
+    "tweetUrl": "https://x.com/theinformation/status/2001404675698905249",
+    "fullText": ".@Waymo’s new funding could put them at a valuation over $100 billion.\n\n“It's more than double the last round... so they are hoping to capitalize on this momentum.\" \n\n@Katie_Roof, The Information’’s Deputy Bureau Chief of Venture Capital, explains their extraordinary success. https://t.co/Tcn4hN0yXZ"
+  },
+  {
+    "user": {
+      "screenName": "TheOnion",
+      "name": "The Onion",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1517492889852461056/bEnqsvVR_normal.jpg",
+      "description": "America's Finest News Source. A @globtetrahedron subsidiary.\n\nGet the paper delivered to your door: https://t.co/jJP2Apbhe8",
+      "followersCount": 10584955,
+      "friendsCount": 8,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/TheOnion/status/2001404604655825391",
+    "fullText": "Joe Flacco’s Wife Dresses As Giant Football To Spice Things Up In Bedroom https://t.co/ZZKIuZxChQ"
+  },
+  {
+    "user": {
+      "screenName": "SeekingAlpha",
+      "name": "Seeking Alpha",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/534299535552421888/eHacq8EQ_normal.png",
+      "description": "A global leader in crowdsourced U.S. investment research, powered by one of the largest and most vibrant investor communities.",
+      "followersCount": 314315,
+      "friendsCount": 234,
+      "location": "New York, NY"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/SeekingAlpha/status/2001404556182442387",
+    "fullText": "The Fed's Breaking Point $SPX $NDX $DJI #stockmarket #stocks #investing https://t.co/akhah6yqDK"
+  },
+  {
+    "user": {
+      "screenName": "DegenerateNews",
+      "name": "DEGEN NEWS",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1998394876019232768/5txsCPMk_normal.jpg",
+      "description": "Reporting DEGEN nonsense. Powered by @Polymarket. Disclaimer in expanded bio. TG: https://t.co/j1BQdcJjFU",
+      "followersCount": 419696,
+      "friendsCount": 34908,
+      "location": "DEGEN space"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G8ZpmlrX0AAWQL2.png"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/DegenerateNews/status/2001403434252071168",
+    "fullText": "NEW: BLOOMBERG REPORTS \"BITCOIN’S MOST ENTRENCHED INVESTORS ARE STILL CASHING OUT — AND THE PRESSURE IS STARTING TO SHOW\"\n\nSOURCE: https://t.co/dlaER7mulI https://t.co/Cp1bsF3ivb"
+  },
+  {
+    "user": {
+      "screenName": "INKedBTC",
+      "name": "INK ®",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1740182255748743169/dP--q9t3_normal.jpg",
+      "description": "https://t.co/YSkMHOeQvI\nhttps://t.co/vhg0Y1UVQI",
+      "followersCount": 86482,
+      "friendsCount": 163,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G8ZpNwQWkAI2eUe.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/INKedBTC/status/2001402870294319437",
+    "fullText": "New custom getting inscribed today\n\n#GetINKed https://t.co/udYYPZJhhR"
+  },
+  {
+    "user": {
+      "screenName": "WhiteHouse",
+      "name": "The White House",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1916971216620982274/1DsLEcqW_normal.jpg",
+      "description": "The Golden Age of America Begins Right Now.\n📱 Text USA to 45470 to receive alerts.",
+      "followersCount": 3075967,
+      "friendsCount": 6,
+      "location": "Washington, DC"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G8ZlNBWWsAACNIV.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/WhiteHouse/status/2001402782021046519",
+    "fullText": "Trump Accounts: Jumpstarting the next generation of patriots. 🇺🇸 https://t.co/Ed74vvGCNS"
+  },
+  {
+    "user": {
+      "screenName": "theinformation",
+      "name": "The Information",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1747484907163516928/d_K3Z_hH_normal.jpg",
+      "description": "The most authoritative publication covering tech that high-powered tech execs and founders read daily.\n\nTITV M-F at 1 ET: https://t.co/M0NywExPjR",
+      "followersCount": 133792,
       "friendsCount": 704,
       "location": "San Francisco"
     },
@@ -20,7 +625,7 @@
       "name": "Seeking Alpha",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/534299535552421888/eHacq8EQ_normal.png",
       "description": "A global leader in crowdsourced U.S. investment research, powered by one of the largest and most vibrant investor communities.",
-      "followersCount": 314306,
+      "followersCount": 314315,
       "friendsCount": 234,
       "location": "New York, NY"
     },
@@ -35,7 +640,7 @@
       "name": "Whale Alert",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1132579647374417921/9ifIGXEQ_normal.png",
       "description": "Live reporting on large and interesting #blockchain transactions as they happen. Create your own alerts for over 100 coins on https://t.co/wQEfstUfLm",
-      "followersCount": 2847489,
+      "followersCount": 2847500,
       "friendsCount": 13,
       "location": "Worldwide"
     },
@@ -50,8 +655,8 @@
       "name": "DEGEN NEWS",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1998394876019232768/5txsCPMk_normal.jpg",
       "description": "Reporting DEGEN nonsense. Powered by @Polymarket. Disclaimer in expanded bio. TG: https://t.co/j1BQdcJjFU",
-      "followersCount": 419686,
-      "friendsCount": 34909,
+      "followersCount": 419696,
+      "friendsCount": 34908,
       "location": "DEGEN space"
     },
     "images": [
@@ -67,7 +672,7 @@
       "name": "The Information",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1747484907163516928/d_K3Z_hH_normal.jpg",
       "description": "The most authoritative publication covering tech that high-powered tech execs and founders read daily.\n\nTITV M-F at 1 ET: https://t.co/M0NywExPjR",
-      "followersCount": 133774,
+      "followersCount": 133792,
       "friendsCount": 704,
       "location": "San Francisco"
     },
@@ -84,7 +689,7 @@
       "name": "LuxAlgo",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1872719571141951488/Wd4LnEpE_normal.jpg",
       "description": "The #1 AI agent for backtesting trading strategies \nWorld's largest provider of trading indicators 📈",
-      "followersCount": 109664,
+      "followersCount": 109665,
       "friendsCount": 342,
       "location": ""
     },
@@ -101,7 +706,7 @@
       "name": "Hyperliquid Alpha Keys 🔑",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1965718483590864896/yLheDTvE_normal.jpg",
       "description": "🔑 Daily Hyperliquid profit signals. We decode whale moves into repeatable alpha. NFA. #Hyperliquid #BTC #ETH",
-      "followersCount": 2874,
+      "followersCount": 2872,
       "friendsCount": 24,
       "location": ""
     },
@@ -2128,6 +2733,23 @@
   },
   {
     "user": {
+      "screenName": "cyodyssey",
+      "name": "Siyuan",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1935388804073869312/TBrVsbPQ_normal.jpg",
+      "description": "Engineer & Investment @yzilabs | Happy-Sci @BNBCHAIN: DM for $200 Researcher Happy-Funding, thanks our great supporters! https://t.co/2rRkwBOmaY  | Married",
+      "followersCount": 12296,
+      "friendsCount": 766,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G8YyrrLaoAAnN7P.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/cyodyssey/status/2001342814052073493",
+    "fullText": "我们对 2026 年非常的乐观。这是人类有史以来最简单高效的可以把想法变成产品的时代。\n\nAI，Crypto 的基础建设已经极度的成熟，只要有想法，愿意动手，你总是能 build something。欢迎来 @BNBCHAIN 建设和报名 @EASYResidency 。\n\n原则其实很简单：好就是好。\n\n像盘主 @thecryptoskanda https://t.co/var4RPogcK"
+  },
+  {
+    "user": {
       "screenName": "DefiLlama",
       "name": "DefiLlama.com",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1915756547705036800/rAeLzZqs_normal.jpg",
@@ -3357,7 +3979,7 @@
       "name": "陈剑Jason",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1653068718321336321/grq9EkXA_normal.jpg",
       "description": "4XLabs | 瞎分析，也作为投资者和顾问与部分项目存在利益相关，请注意我的内容无法保证客观，不要对我有过高的道德要求，不喜欢就求求你把我拉黑｜#Binance 启程Wbe3，就在币安👉 https://t.co/U3aQal7399｜超100%POR资金储备，安全首选OKX 👉 https://t.co/iFUpotVI6b",
-      "followersCount": 108996,
+      "followersCount": 108997,
       "friendsCount": 381,
       "location": ""
     },
