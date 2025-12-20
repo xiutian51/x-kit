@@ -1,11 +1,463 @@
 [
   {
     "user": {
+      "screenName": "SeekingAlpha",
+      "name": "Seeking Alpha",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/534299535552421888/eHacq8EQ_normal.png",
+      "description": "A global leader in crowdsourced U.S. investment research, powered by one of the largest and most vibrant investor communities.",
+      "followersCount": 314388,
+      "friendsCount": 234,
+      "location": "New York, NY"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/SeekingAlpha/status/2002456474719543458",
+    "fullText": "Insider trades: Disney, Salesforce, Cisco among notable names this week $DIS $CSCO $OXY #markets #business #trading https://t.co/iNBYDeVCCK"
+  },
+  {
+    "user": {
+      "screenName": "blueorigin",
+      "name": "Blue Origin",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/950492536887328768/cfcc9vpE_normal.jpg",
+      "description": "For the Benefit of Earth",
+      "followersCount": 765805,
+      "friendsCount": 379,
+      "location": "Kent, WA"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2002454608585584640/vid/avc1/1920x1080/FT4TxhlRwMoYJAgb.mp4?tag=16"
+    ],
+    "tweetUrl": "https://x.com/blueorigin/status/2002454714575692119",
+    "fullText": "Space is for everyone. https://t.co/OUs4V2LURA"
+  },
+  {
+    "user": {
+      "screenName": "0x_claudia",
+      "name": "Claudia",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1921669746501500928/2itH34AD_normal.jpg",
+      "description": "Fiat, Pay, Card @Bybit_official",
+      "followersCount": 17444,
+      "friendsCount": 658,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G8ol21dbMAUvpC6.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/0x_claudia/status/2002454619210084818",
+    "fullText": "Imagine one day Bitcoin, Ethereum and other crypto assets could be the colleteral and you could borrow any fiat in any country instantly…\n\nDamn\n\nI couldn’t stop working during this Christmas weekend https://t.co/smZwRpp2hX"
+  },
+  {
+    "user": {
+      "screenName": "DefiLlama",
+      "name": "DefiLlama.com",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1915756547705036800/rAeLzZqs_normal.jpg",
+      "description": "Open and transparent DeFi analytics. @DLNews for news\n\nFor support: https://t.co/skXWYXnpK4",
+      "followersCount": 362615,
+      "friendsCount": 24,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G8olzyoW4AA_PRk.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/DefiLlama/status/2002454575408951726",
+    "fullText": "Now tracking @CrystalExch on our Fees &amp; Revenue Dashboard\n\nA decentralized on-chain order book built on Monad https://t.co/5esbNcVD1l"
+  },
+  {
+    "user": {
+      "screenName": "DeFi_Dad",
+      "name": "DeFi Dad ⟠ defidad.eth",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1613764698775633921/72tL5YzB_normal.jpg",
+      "description": "⟠ DeFi super-user, educator, angel\n🎙️ Host/Producer of The @Edge_Pod\n📰 FREE Newsletter: https://t.co/Pm9e0APe9B\n📺 Watch on https://t.co/txxZZAhqsW\n💫 Invests at @4RCapital",
+      "followersCount": 176869,
+      "friendsCount": 6072,
+      "location": ""
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2002450503834238976/vid/avc1/1280x720/YkXZv-m-U3LhNpxC.mp4?tag=21"
+    ],
+    "tweetUrl": "https://x.com/DeFi_Dad/status/2002454352229966305",
+    "fullText": "🎙️ New @edge_pod \n\n🔎 Could Real-Time Financial Verification Detect Risk Earlier?\n\n0:00 - Intro\n7:38 - Founders’ backgrounds\n14:38 - Problem with “trust me bro” DeFi\n23:00 - Real-time financial verification\n25:18 - How Accountable preserves privacy\n32:53 - Real-time reporting for https://t.co/RZXIvQcro8"
+  },
+  {
+    "user": {
+      "screenName": "FUNtoken_io",
+      "name": "FUNToken",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1774763162094501888/xLAQajJe_normal.jpg",
+      "description": "🎲 FUNToken - Welcome to the future of GameFi https://t.co/1tYGUKVmHf",
+      "followersCount": 62211,
+      "friendsCount": 7,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/FUNtoken_io/status/2002454129109840304",
+    "fullText": "🔥 FUN Token Community Milestones (18:52 UTC) 🔥\n\n🎁 Airdrops Given: 69,731,543 FUN\n⬆️ FUN Deposited: 166,104,727 FUN\n⬇️ FUN Withdrawn: 143,979,942 FUN\n🎮 Games Played: 43,881,789\n🙌 Referral Rewards Paid: 21,402,968 FUN\n💸 Interest Paid: 7,248,923 FUN\n\nJoin the FUN by adding the"
+  },
+  {
+    "user": {
+      "screenName": "DefiLlama",
+      "name": "DefiLlama.com",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1915756547705036800/rAeLzZqs_normal.jpg",
+      "description": "Open and transparent DeFi analytics. @DLNews for news\n\nFor support: https://t.co/skXWYXnpK4",
+      "followersCount": 362615,
+      "friendsCount": 24,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G8olUdMXwAA3w_y.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/DefiLlama/status/2002454025988673624",
+    "fullText": "Now tracking @multiplifi on our Fees &amp; Revenue Dashboard https://t.co/usUz9LjCkK"
+  },
+  {
+    "user": {
+      "screenName": "TheOnion",
+      "name": "The Onion",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1517492889852461056/bEnqsvVR_normal.jpg",
+      "description": "America's Finest News Source. A @globtetrahedron subsidiary.\n\nGet the paper delivered to your door: https://t.co/jJP2Apbhe8",
+      "followersCount": 10588926,
+      "friendsCount": 8,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/TheOnion/status/2002454020162519517",
+    "fullText": "New Eras Tour Docuseries Offers Rare Look At Taylor Swift https://t.co/EdYVjeyLw2"
+  },
+  {
+    "user": {
+      "screenName": "Fetch_ai",
+      "name": "Fetch.ai",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1829125609353551872/5GnVEkRB_normal.png",
+      "description": "Try https://t.co/HQ2Tj9lbnW now.\n\nFounding member of the @ASI_Alliance",
+      "followersCount": 264214,
+      "friendsCount": 758,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/Fetch_ai/status/2002453976306823315",
+    "fullText": "Step into the Agent Economy before your competitors do. Go to https://t.co/uUHPVsyg2T"
+  },
+  {
+    "user": {
+      "screenName": "DefiLlama",
+      "name": "DefiLlama.com",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1915756547705036800/rAeLzZqs_normal.jpg",
+      "description": "Open and transparent DeFi analytics. @DLNews for news\n\nFor support: https://t.co/skXWYXnpK4",
+      "followersCount": 362615,
+      "friendsCount": 24,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G8ok_3wXUAA-WOT.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/DefiLlama/status/2002453671792292282",
+    "fullText": "Now tracking @hylo_so LSTs on our Fees &amp; Revenue Dashboard https://t.co/W2sQmfauzy"
+  },
+  {
+    "user": {
+      "screenName": "DefiLlama",
+      "name": "DefiLlama.com",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1915756547705036800/rAeLzZqs_normal.jpg",
+      "description": "Open and transparent DeFi analytics. @DLNews for news\n\nFor support: https://t.co/skXWYXnpK4",
+      "followersCount": 362615,
+      "friendsCount": 24,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G8okgEXXIAAwJQl.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/DefiLlama/status/2002453130454454470",
+    "fullText": "Now tracking @cryptocom Liquid Staking on our Fees &amp; Revenue Dashboard https://t.co/O8x0IJLsHm"
+  },
+  {
+    "user": {
+      "screenName": "JA_Maartun",
+      "name": "Maartunn",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1585951872275415040/XMXK3bXW_normal.jpg",
+      "description": "Market Watcher 👀 || Community Analyst @cryptoquant_com 🏆 || Quoted by CNBC, Bloomberg 📰",
+      "followersCount": 46654,
+      "friendsCount": 947,
+      "location": "Nederland"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G8okUT_XwAEYz7C.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/JA_Maartun/status/2002453005514518534",
+    "fullText": "Typical flat weekend PA. https://t.co/KEDkCSuztS"
+  },
+  {
+    "user": {
+      "screenName": "Master_Jobber",
+      "name": "召北",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1580043789111943170/0aTDk7ck_normal.jpg",
+      "description": "在找工作。",
+      "followersCount": 4366,
+      "friendsCount": 301,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G8ohhfZbUAEA7wh.png"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/Master_Jobber/status/2002452216846921887",
+    "fullText": "箫声咽，秦娥梦断秦楼月。\n秦楼月，年年柳色，灞陵伤别。 https://t.co/xNdKLJIjmV"
+  },
+  {
+    "user": {
+      "screenName": "blknoiz06",
+      "name": "Ansem",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1961642107187109888/o0B468ZS_normal.jpg",
+      "description": "coldest nigga breathing",
+      "followersCount": 784072,
+      "friendsCount": 8710,
+      "location": "onchain 🌒"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G8oiPZ-XcAArxcw.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/blknoiz06/status/2002450640191270941",
+    "fullText": "wow https://t.co/3Dqf4b4CgM"
+  },
+  {
+    "user": {
+      "screenName": "theinformation",
+      "name": "The Information",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1747484907163516928/d_K3Z_hH_normal.jpg",
+      "description": "The most authoritative publication covering tech that high-powered tech execs and founders read daily.\n\nTITV M-F at 1 ET: https://t.co/M0NywExPjR",
+      "followersCount": 134077,
+      "friendsCount": 703,
+      "location": "San Francisco"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/theinformation/status/2002450185343910213",
+    "fullText": "OpenAI’s research team has focused on complex reasoning models, but most ChatGPT users want quick answers to simple questions. This misalignment is hindering the chatbot’s mass appeal. Full story here: https://t.co/UgxwC2Lr88"
+  },
+  {
+    "user": {
+      "screenName": "cryptorand",
+      "name": "Rand",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1833123917231251456/syW7dLNd_normal.jpg",
+      "description": "Trader & Investor. Building at @RR2Capital.",
+      "followersCount": 332929,
+      "friendsCount": 1075,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/cryptorand/status/2002450175571251651",
+    "fullText": "I can't even remember the last time I've watched an epic movie at the cinema... am I picky or lately all films are crappy?"
+  },
+  {
+    "user": {
+      "screenName": "Tintinx2021",
+      "name": "Tintin🏃🏻‍♀️‍➡️ █████",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1973712932321071104/TvQ8-aFX_normal.jpg",
+      "description": "用仓位验证自己的答案 / Join My Aster Fam: https://t.co/zsbXhhkgU9",
+      "followersCount": 55370,
+      "friendsCount": 7483,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/Tintinx2021/status/2002449746859078033",
+    "fullText": "@hongkongdoll @pendle_fi 早就关注了这个老师 真的很厉害😭"
+  },
+  {
+    "user": {
+      "screenName": "blueorigin",
+      "name": "Blue Origin",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/950492536887328768/cfcc9vpE_normal.jpg",
+      "description": "For the Benefit of Earth",
+      "followersCount": 765805,
+      "friendsCount": 379,
+      "location": "Kent, WA"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/blueorigin/status/2002449535772270597",
+    "fullText": "Key stats from today’s NS-37 mission:\n\nThe crew capsule reached an apogee of 346,775 ft AGL / 350,422 ft MSL (106 km AGL / 107 km MSL).\n\nThe booster reached an apogee of 346,386 ft AGL / 350,033 ft MSL (106 km AGL / 107 km MSL).\n\nThe official launch time was 8:15:00 AM CST /"
+  },
+  {
+    "user": {
+      "screenName": "Polymarket",
+      "name": "Polymarket",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2002109346289799169/16U890lU_normal.jpg",
+      "description": "The World's Largest Prediction Market. Trade politics, news, culture, sports & tech. Discord: https://t.co/tzKrbDf7dZ",
+      "followersCount": 854402,
+      "friendsCount": 5542,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G8og4MZWUAATxLl.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/Polymarket/status/2002449270797185213",
+    "fullText": "BREAKING: U.S. forces projected to seize another Venezuelan oil tanker this year.\n\n&gt;90% chance. https://t.co/p1aPzo05rz"
+  },
+  {
+    "user": {
+      "screenName": "Polymarket",
+      "name": "Polymarket",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2002109346289799169/16U890lU_normal.jpg",
+      "description": "The World's Largest Prediction Market. Trade politics, news, culture, sports & tech. Discord: https://t.co/tzKrbDf7dZ",
+      "followersCount": 854402,
+      "friendsCount": 5542,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/Polymarket/status/2002448359525957692",
+    "fullText": "JUST IN: There's now only a 3% chance the Epstein client list is released this year, as required by law.\nhttps://t.co/MgibyGu5um"
+  },
+  {
+    "user": {
+      "screenName": "thedefivillain",
+      "name": "VIKTOR",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1532659895832543234/BZevAduj_normal.jpg",
+      "description": "I write a free weekly newsletter covering the latest crypto narratives : https://t.co/GDiah6MkSW\n\nLink of my TG channel below",
+      "followersCount": 60123,
+      "friendsCount": 1960,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G8oe8AHXAAA-o3E.png"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/thedefivillain/status/2002447380407595241",
+    "fullText": "Most useful TradingView watchlist in the current market https://t.co/CtA0nXdp88"
+  },
+  {
+    "user": {
+      "screenName": "divemisa",
+      "name": "摸鱼Misa⛓️‍💥💕",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1978815465637236736/JJY2o01__normal.jpg",
+      "description": "币二代 | My dad hold btc since 2013. $OKB ｜省台文旅频道主持人",
+      "followersCount": 1577,
+      "friendsCount": 389,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G8ofGnta0AAF-ez.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/divemisa/status/2002447189877141991",
+    "fullText": "《副业》 https://t.co/TweQEM2qZY"
+  },
+  {
+    "user": {
+      "screenName": "ravespecialist",
+      "name": "𝖒 (hype/acc)",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1983508891477368832/YnhLLkvw_normal.jpg",
+      "description": "",
+      "followersCount": 6112,
+      "friendsCount": 3951,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/ravespecialist/status/2002446435359543329",
+    "fullText": "portfolio margin my hype so i can long equities and the swiss franc"
+  },
+  {
+    "user": {
+      "screenName": "thedefivillain",
+      "name": "VIKTOR",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1532659895832543234/BZevAduj_normal.jpg",
+      "description": "I write a free weekly newsletter covering the latest crypto narratives : https://t.co/GDiah6MkSW\n\nLink of my TG channel below",
+      "followersCount": 60123,
+      "friendsCount": 1960,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/thedefivillain/status/2002446125153071356",
+    "fullText": "What's the origin of the current quant debate?"
+  },
+  {
+    "user": {
+      "screenName": "WhiteHouse",
+      "name": "The White House",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1916971216620982274/1DsLEcqW_normal.jpg",
+      "description": "The Golden Age of America Begins Right Now.\n📱 Text USA to 45470 to receive alerts.",
+      "followersCount": 3085326,
+      "friendsCount": 6,
+      "location": "Washington, DC"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2002440365341614080/vid/avc1/4096x2160/YUZjmXLroroqd2Ei.mp4?tag=21"
+    ],
+    "tweetUrl": "https://x.com/WhiteHouse/status/2002444785701818388",
+    "fullText": "\"Most Favored Nation Drug pricing is about being fair to the American consumer.\" — @DrOzCMS\n\nFollowing President Trump's bold action, 14 of the 17 largest pharmaceutical companies have now agreed to lower their prices in the United States. 🇺🇸🇺🇸 https://t.co/jfokQgh83x"
+  },
+  {
+    "user": {
+      "screenName": "0xfluid",
+      "name": "Fluid 🌊",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1712332669697024001/xgs6LB3Y_normal.png",
+      "description": "An ever-evolving DeFi protocol and base for future financial system by @Instadapp.\n\nOn Ethereum & EVMs: Fluid.\nOn Solana: @jup_lend powered by Fluid.",
+      "followersCount": 38556,
+      "friendsCount": 33,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/0xfluid/status/2002444738700718240",
+    "fullText": "When it comes to the best financial apps and liquidity, there’s Fluid  \n\nWhy?\n\nOne connected liquidity layer: better outcomes for users.\n\n- Savings: Earn ~5–13% on stables or ETH \n- Loans: Borrow with up to 95% LTV, 0.1% liquidation penalties\n- Swaps: Deep stablecoin liquidity"
+  },
+  {
+    "user": {
+      "screenName": "viviennaBTC",
+      "name": "vivienna.btc",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1992889163495174144/vhVliipj_normal.jpg",
+      "description": "Macroeconomics | Bitcoin-er since 2017 | Prev. Defi researcher @huobiglobal | INTJ",
+      "followersCount": 26865,
+      "friendsCount": 370,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G8ocvYgbMAMDY9l.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/viviennaBTC/status/2002444597776298232",
+    "fullText": "勇敢承认错误，从此人生清净。 https://t.co/1ZPL0uhIH5"
+  },
+  {
+    "user": {
+      "screenName": "Polymarket",
+      "name": "Polymarket",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2002109346289799169/16U890lU_normal.jpg",
+      "description": "The World's Largest Prediction Market. Trade politics, news, culture, sports & tech. Discord: https://t.co/tzKrbDf7dZ",
+      "followersCount": 854402,
+      "friendsCount": 5542,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G8ocLJWX0AAhMVR.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/Polymarket/status/2002444361771200689",
+    "fullText": "BREAKING: Things are not looking good for the world's elites, as the public demands the full release of the Epstein Files.\n\nDo any of these names surprise you? https://t.co/l2wkuT54hv"
+  },
+  {
+    "user": {
       "screenName": "mrJackLevin",
       "name": "ⓧ Cypherius Prime 🛞X1",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1941249283031814144/vPOthxaT_normal.jpg",
       "description": "First Google network arch. engineer, distributed systems (1999-05), Founder https://t.co/22UhW2sFbZ, X1 Blockchain, Vero Prediction Market https://t.co/cYCcx1Yzh8",
-      "followersCount": 410284,
+      "followersCount": 410286,
       "friendsCount": 5205,
       "location": "Atlantis"
     },
@@ -20,7 +472,7 @@
       "name": "Crypto.com",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1873578819833204736/t-8bwuwM_normal.jpg",
       "description": "The best place to buy, sell, and pay with crypto #BTC #CRO #DeFi #FFTB",
-      "followersCount": 3064256,
+      "followersCount": 3064334,
       "friendsCount": 495,
       "location": ""
     },
@@ -37,7 +489,7 @@
       "name": "The Information",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1747484907163516928/d_K3Z_hH_normal.jpg",
       "description": "The most authoritative publication covering tech that high-powered tech execs and founders read daily.\n\nTITV M-F at 1 ET: https://t.co/M0NywExPjR",
-      "followersCount": 134068,
+      "followersCount": 134077,
       "friendsCount": 703,
       "location": "San Francisco"
     },
@@ -52,7 +504,7 @@
       "name": "Seeking Alpha",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/534299535552421888/eHacq8EQ_normal.png",
       "description": "A global leader in crowdsourced U.S. investment research, powered by one of the largest and most vibrant investor communities.",
-      "followersCount": 314386,
+      "followersCount": 314388,
       "friendsCount": 234,
       "location": "New York, NY"
     },
@@ -67,7 +519,7 @@
       "name": "0xMoon",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1946537446034071553/tNkWpnyE_normal.jpg",
       "description": "币安广场创作者\nHTX广场创作者\nGate民间发言人\n币安钱包7折邀请码：MOON6626\nOKX钱包7折邀请码：0XMOON\n3亿用户买币在币安https://t.co/yONbHFnppQ",
-      "followersCount": 40315,
+      "followersCount": 40311,
       "friendsCount": 894,
       "location": "Telegram"
     },
@@ -99,7 +551,7 @@
       "name": "Sezo",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1928786426390327296/Vdw7lR0V_normal.jpg",
       "description": "Researcher / DeFi Degen / Investor / @Polymarket trader / member @zscdao",
-      "followersCount": 30129,
+      "followersCount": 30128,
       "friendsCount": 485,
       "location": ""
     },
@@ -116,8 +568,8 @@
       "name": "ping.observer",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1978542358661619713/caUAszB8_normal.jpg",
       "description": "First memecoin launched on x402. Inspired by the \"ping\" network administration software. No utility, no financial advice, pure early adopter $PING vibes 🏝️",
-      "followersCount": 16756,
-      "friendsCount": 141,
+      "followersCount": 16784,
+      "friendsCount": 142,
       "location": "Base"
     },
     "images": [],
@@ -133,7 +585,7 @@
       "name": "Sonic",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2001710392750542850/MfTGFucS_normal.jpg",
       "description": "The highest-performing EVM blockchain designed for developers to scale and earn. Eco @SonicEcosystem. Presence @SonicWorldHQ.",
-      "followersCount": 825142,
+      "followersCount": 825332,
       "friendsCount": 394,
       "location": ""
     },
@@ -150,7 +602,7 @@
       "name": "Crypto_Painter",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1999005830872797184/kfpmb1Mr_normal.jpg",
       "description": "老朋友叫我“画师”，技术\\数据分析和量化交易，提供各种刁钻角度看市场，用时间做杠杆，正在开发一款交易工具：Disciplined！\n#OKX 启程Web3：https://t.co/cTJurNggO9\n#Binance 币安一键注册：https://t.co/WfOCGl6JEV",
-      "followersCount": 90639,
+      "followersCount": 90643,
       "friendsCount": 1597,
       "location": "电报群 TG Group → "
     },
@@ -167,7 +619,7 @@
       "name": "Binance",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1940131561103347712/f5y2qENu_normal.jpg",
       "description": "The world’s leading blockchain ecosystem and digital asset exchange | #Binance #BNB | Support: @BinanceHelpDesk | Posts are not directed towards UK users.",
-      "followersCount": 15197381,
+      "followersCount": 15197721,
       "friendsCount": 574,
       "location": ""
     },
@@ -459,7 +911,7 @@
       "name": "Simon Dedic",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1945552136592367616/y3x7RUZ4_normal.jpg",
       "description": "Founder & Managing Partner @MoonrockCapital",
-      "followersCount": 47115,
+      "followersCount": 47119,
       "friendsCount": 2039,
       "location": ""
     },
@@ -570,7 +1022,7 @@
       "name": "RaidSharks",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1956138218383912964/dTUWMoqM_normal.jpg",
       "description": "The most advanced Raid Bot for real community engagement. Gamify your raids with an integrated leaderboard and automated #Raid2Earn airdrops!\n\nBacked by $SHARX",
-      "followersCount": 10014,
+      "followersCount": 10021,
       "friendsCount": 180,
       "location": "raidsharksbot.com"
     },
@@ -1221,7 +1673,7 @@
       "name": "梭教授说",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1937899711350104064/3oRnBU5t_normal.jpg",
       "description": "All in || @lspdao || || virtual|| ||GMGN|| || TG：@hellosuoha  ||\n做一个有耐心的人，做个有耐心的，做个人。",
-      "followersCount": 173749,
+      "followersCount": 173757,
       "friendsCount": 467,
       "location": "Macau"
     },
@@ -1463,7 +1915,7 @@
       "name": "Benson Sun",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1668618508853477381/dEpVvzxO_normal.jpg",
       "description": "Founder of @coinkarma_\nFull-time degen, part-time shit poster\n\nhttps://t.co/kibwqND8yQ",
-      "followersCount": 71902,
+      "followersCount": 71903,
       "friendsCount": 834,
       "location": ""
     },
