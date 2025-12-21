@@ -1,11 +1,626 @@
 [
   {
     "user": {
+      "screenName": "LuxAlgo",
+      "name": "LuxAlgo",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1872719571141951488/Wd4LnEpE_normal.jpg",
+      "description": "The #1 AI agent for backtesting trading strategies \nWorld's largest provider of trading indicators 📈",
+      "followersCount": 109923,
+      "friendsCount": 342,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G8tk3DvWcAAYuMe.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/LuxAlgo/status/2002806753596150229",
+    "fullText": "Wow, we finally did it.\n\nOur SMC indicator is now officially the #1 ranked of all time on TradingView. https://t.co/7g4FBQXa4m"
+  },
+  {
+    "user": {
+      "screenName": "nihaovand",
+      "name": "Vand Ni｜Asian bro",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1954361526930100224/oKOGdT1a_normal.jpg",
+      "description": "正直的 Web3 Native ｜ 点蜡烛的人🕯️｜充满乐观与活力的 Builder；善良第一， 社区头号客服，做个有人格魅力的 Researcher｜运动员，下面链接是TG禁言群",
+      "followersCount": 34182,
+      "friendsCount": 4706,
+      "location": "加密人生"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G8tlOM6aYAEZM1h.jpg",
+      "https://pbs.twimg.com/media/G8tlOMkaAAA4UWt.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/nihaovand/status/2002805760611524689",
+    "fullText": "LV 消费8w就是vic，消费40w是vvic，Dior的vvic是30w，Gucci是40w。消费金额会在每年年底清零，爱马仕太高奢了我不清楚\n\nVic 没什么权益，vvic 有每个季度的展会/聚餐和在 VIC launch的权益\n\nVic Launch https://t.co/X6QhmAmjIg"
+  },
+  {
+    "user": {
+      "screenName": "WatcherGuru",
+      "name": "Watcher.Guru",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1641221212578754562/DfiC0KW2_normal.png",
+      "description": "Watcher Guru gives you unparalleled, unbiased coverage of all-things crypto & finance in real-time | Tweets Are Not Financial Advice | @BTCPrice",
+      "followersCount": 3648467,
+      "friendsCount": 3,
+      "location": "Texas, USA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G8tk3geXQAAdQsy.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/WatcherGuru/status/2002805367655551200",
+    "fullText": "JUST IN: 🇺🇸🇦🇪 Elon Musk meets with UAE President to discuss advanced technology and artificial intelligence. https://t.co/kQVo5be93h"
+  },
+  {
+    "user": {
+      "screenName": "theinformation",
+      "name": "The Information",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1747484907163516928/d_K3Z_hH_normal.jpg",
+      "description": "The most authoritative publication covering tech that high-powered tech execs and founders read daily.\n\nTITV M-F at 1 ET: https://t.co/M0NywExPjR",
+      "followersCount": 134112,
+      "friendsCount": 703,
+      "location": "San Francisco"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/theinformation/status/2002805025072889999",
+    "fullText": "To secure roles in upcoming mega IPOs, banks are offering more than just underwriting, including promises to become major corporate customers of the companies' AI technology. Read: https://t.co/1r5jMHpmBn"
+  },
+  {
+    "user": {
+      "screenName": "0xsexybanana",
+      "name": "郡主Christine (✱,✱)",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1977194897943019522/6IN_BFHr_normal.jpg",
+      "description": "郡主的投研笔记本 \nContributing @axisrobotics, Advising @0xinfini",
+      "followersCount": 38229,
+      "friendsCount": 2533,
+      "location": "United States"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G8tj6FTb0AAed8k.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/0xsexybanana/status/2002804620528345451",
+    "fullText": "尝试浇花十次没成功，感觉回到了小时候打游戏最后一关过不去的感觉 🎮 \n\n@axisrobotics https://t.co/rxFVsw4JpX"
+  },
+  {
+    "user": {
+      "screenName": "nofx_official",
+      "name": "NoFx",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1991002465320435712/E6wJrOQX_normal.jpg",
+      "description": "Your intuition, executed by AI. Universal trading OS for global market. Powered by open source.",
+      "followersCount": 1428,
+      "friendsCount": 60,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G8tj1pUaEAAPr1H.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/nofx_official/status/2002804504115511548",
+    "fullText": "NoFx Public Statement on Recent Community Discussions\n\n1. Recent Discussions: Handled by Legal Team\n\nWe’ve noticed a lot of chatter on social media about NoFx, including questions around community members, code usage, and intellectual property. We understand how misinformation https://t.co/qxhK1rQFJa"
+  },
+  {
+    "user": {
+      "screenName": "SeekingAlpha",
+      "name": "Seeking Alpha",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/534299535552421888/eHacq8EQ_normal.png",
+      "description": "A global leader in crowdsourced U.S. investment research, powered by one of the largest and most vibrant investor communities.",
+      "followersCount": 314437,
+      "friendsCount": 234,
+      "location": "New York, NY"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/SeekingAlpha/status/2002803770636562767",
+    "fullText": "J.P. Morgan sees mostly positive outlook for aerospace, mixed signals for defense $GE $XLI $BA #markets #finance #trading https://t.co/kIVgJRalGh"
+  },
+  {
+    "user": {
+      "screenName": "native_fi",
+      "name": "Native",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1889696998292340736/AabPsGjK_normal.png",
+      "description": "Native is an on-chain platform to build liquidity that is openly accessible and cost effective.",
+      "followersCount": 24931,
+      "friendsCount": 16,
+      "location": "DeFi"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G8thH5vbMAA5PS8.png"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/native_fi/status/2002802862448103859",
+    "fullText": "$20M deposited into the Native Credit Pool from @buidlpad Vaults in just 24 hours.\n\nNo more points game.\nJust real yield, on-chain. https://t.co/1It3BPeig6"
+  },
+  {
+    "user": {
+      "screenName": "python_xxt",
+      "name": "Robinson · 鲁棒逊",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1980814059525033985/d9tb6rAG_normal.jpg",
+      "description": "AI & Robustness in chaos.\n\nInsight  → Strategy → Operation\n\nNow,not How.\n\n我对现实世界的认知\n贫瘠到无法自知其贫瘠",
+      "followersCount": 23445,
+      "friendsCount": 491,
+      "location": "Deep thinker try to think"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/python_xxt/status/2002802844475531517",
+    "fullText": "极致的目标导向 \n—— 我不要你的头\n\n1935年，红军长征刚过完草地，进攻天险腊子口之前，红4团团长向林保证说:“如拿不下腊子口，我提头来见”。\n\n林的回答是:“我不要你的头，我要腊子口”。\n\n让我深思"
+  },
+  {
+    "user": {
+      "screenName": "CryptoWhaleLive",
+      "name": "Hyperliquid Alpha Keys 🔑",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1965718483590864896/yLheDTvE_normal.jpg",
+      "description": "🔑 Daily Hyperliquid profit signals. We decode whale moves into repeatable alpha. NFA. #Hyperliquid #BTC #ETH",
+      "followersCount": 2877,
+      "friendsCount": 24,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/CryptoWhaleLive/status/2002802821201092875",
+    "fullText": "🐋 24h Profit Leaderboard: #7\n\nWallet: 0xb5a6924d1da4e54705079b9957f6dedee5e62f82\nOn-chain Assets: $592.4K\nSymbol: BTC\nPnL (close-short): $5,827 USDC\nTx: https://t.co/V68flytkpc\n———\nLargest position: none (flat)"
+  },
+  {
+    "user": {
+      "screenName": "ETHGlobal",
+      "name": "ETHGlobal",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1770009360011333632/H5BFG6-M_normal.jpg",
+      "description": "We help builders bring the vision of Ethereum to life. Hosting ETHConf in NYC June, 2026.",
+      "followersCount": 104289,
+      "friendsCount": 1520,
+      "location": "Decentralized"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/ETHGlobal/status/2002801748042535026",
+    "fullText": "One thing we want builders to internalize:\n\nIt's easy to chase hype themes because it’s the fastest path to PMF-looking charts. But durable businesses tend to start with something more boring: payments, savings, risk clarity, distribution, trust."
+  },
+  {
+    "user": {
+      "screenName": "RobinhoodApp",
+      "name": "Robinhood",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1844399977482813442/1fTlYz2c_normal.png",
+      "description": "Trade. Invest. Earn.",
+      "followersCount": 1223352,
+      "friendsCount": 26,
+      "location": "Menlo Park, CA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G8thVxhWcAEwnuK.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/RobinhoodApp/status/2002801537727263058",
+    "fullText": "Happening now: 45% chance that U.S. government spending climbs to $500B for 2025. https://t.co/tdCiYywAdg\n\nFutures and cleared swaps trading involves significant risk and is not appropriate for everyone. Event contracts are offered by Robinhood Derivatives, LLC., a registered https://t.co/oF7inACtgM"
+  },
+  {
+    "user": {
+      "screenName": "LuxAlgo",
+      "name": "LuxAlgo",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1872719571141951488/Wd4LnEpE_normal.jpg",
+      "description": "The #1 AI agent for backtesting trading strategies \nWorld's largest provider of trading indicators 📈",
+      "followersCount": 109923,
+      "friendsCount": 342,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G8thS-jakAA0DrY.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/LuxAlgo/status/2002801472598356337",
+    "fullText": "https://t.co/QpgfdI1vjD"
+  },
+  {
+    "user": {
+      "screenName": "binance",
+      "name": "Binance",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1940131561103347712/f5y2qENu_normal.jpg",
+      "description": "The world’s leading blockchain ecosystem and digital asset exchange | #Binance #BNB | Support: @BinanceHelpDesk | Posts are not directed towards UK users.",
+      "followersCount": 15204141,
+      "friendsCount": 574,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G8thRn5WUAMWaLX.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/binance/status/2002801419804434476",
+    "fullText": "Private keys enable secure, verifiable actions on the blockchain 👇 https://t.co/mOUFy4cQg9"
+  },
+  {
+    "user": {
+      "screenName": "SonicLabs",
+      "name": "Sonic",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2001710392750542850/MfTGFucS_normal.jpg",
+      "description": "The highest-performing EVM blockchain designed for developers to scale and earn. Eco @SonicEcosystem. Presence @SonicWorldHQ.",
+      "followersCount": 825978,
+      "friendsCount": 394,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/SonicLabs/status/2002801263420043313",
+    "fullText": "🎄 It's Day 4 of our 8 Days of Christmas.\n\nToday's prize is 1,150 $USDC!\n\nTo enter today's drawing:\n\n- Retweet and like this post\n- Comment the two locations where Sonic Summit took place in 2025\n\n🎅 Good luck to everyone!"
+  },
+  {
+    "user": {
+      "screenName": "cryptocom",
+      "name": "Crypto.com",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1873578819833204736/t-8bwuwM_normal.jpg",
+      "description": "The best place to buy, sell, and pay with crypto #BTC #CRO #DeFi #FFTB",
+      "followersCount": 3064599,
+      "friendsCount": 495,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G8pK6w8WgAA8WZt.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/cryptocom/status/2002801241886183426",
+    "fullText": "‘Tis the season to build generational wealth https://t.co/P09ulYxIVZ"
+  },
+  {
+    "user": {
+      "screenName": "RayDalio",
+      "name": "Ray Dalio",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1465691046747283461/3ZtnoH5-_normal.jpg",
+      "description": "Official account of Ray Dalio, founder of Bridgewater Associates, author of #1 New York Times bestseller 'Principles,' professional mistake maker",
+      "followersCount": 1810720,
+      "friendsCount": 92,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G8thGtSWkAANZzQ.png"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/RayDalio/status/2002801235624427839",
+    "fullText": "In most organizations, evaluations run in only one direction, with the manager assessing the managee. The managee typically disagrees with the assessment, especially if it is worse than his or her self-assessment, because most people believe themselves to be better than they https://t.co/OAD7rM1IsM"
+  },
+  {
+    "user": {
+      "screenName": "0xMoon6626",
+      "name": "0xMoon",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1946537446034071553/tNkWpnyE_normal.jpg",
+      "description": "币安广场创作者\nHTX广场创作者\nGate民间发言人\n币安钱包7折邀请码：MOON6626\nOKX钱包7折邀请码：0XMOON\n3亿用户买币在币安https://t.co/yONbHFnppQ",
+      "followersCount": 40313,
+      "friendsCount": 895,
+      "location": "Telegram"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G8tglM4aoAAQjn-.jpg",
+      "https://pbs.twimg.com/media/G8tgowpboAEmO9D.jpg",
+      "https://pbs.twimg.com/media/G8tgsIVaUAAVw2_.jpg",
+      "https://pbs.twimg.com/media/G8tgvWQb0AA_kd0.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/0xMoon6626/status/2002800967822266636",
+    "fullText": "USDD可以挖TRX了？循环复投收益能达到21.2%APY？\n \n这两天看见一则公告，USDD的奖励正式变更为USDD+TRX的组合，按照目前10%的APY，奖励为7%的USDD+3%的TRX，这么一听好像有点屌啊。\n\n首先USDD的APY为10%，其中7%产出是USDD可以自动循环复利，还有3%的TRX如何收益最大化呢？\n \n1/ https://t.co/OaadDa91UE"
+  },
+  {
+    "user": {
+      "screenName": "Dincoco",
+      "name": "Dincoco-罡門 (八方來財版)",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1999015303582461956/kzRDmhrW_normal.jpg",
+      "description": "情緒是最好的生產力 在幣圈最重要的是抓熱點 ————我給你們情緒 你們給我價值 好嗎",
+      "followersCount": 15859,
+      "friendsCount": 7161,
+      "location": "Printr"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G8tgPGWacAA0i1P.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/Dincoco/status/2002800277209174026",
+    "fullText": "花500u打一張 @RaveDAO 黑卡\n除了可以獲得各種幣圈活動VIP頂級權益以外\n還可以白嫖近3000刀\n\n$Rave 牛逼！！！😭😭😭 https://t.co/t1hMknUUFq"
+  },
+  {
+    "user": {
+      "screenName": "hotbabyrebao",
+      "name": "web3热宝💢",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1963916711624572928/LmF0uT-X_normal.jpg",
+      "description": "爱好meme/合约｜Web3+AI🔸｜币圈认知升级 ｜新手入门 ⭐️ 币圈开户汇总：https://t.co/BXrl8ZIkmH📖孙宇晨读书会会长 🔸所有项目DYOR,不构成投资建议💛PTCG宝可梦发烧友",
+      "followersCount": 69706,
+      "friendsCount": 1453,
+      "location": "商务合作👉🏻"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/hotbabyrebao/status/2002799278465691730",
+    "fullText": "我在看邓予恒的抖音，22岁投了50亿美金的市场，有点给他洗脑，想买他的书，有看过的他书的人吗，如何？"
+  },
+  {
+    "user": {
+      "screenName": "BTCBruce1",
+      "name": "Bruce",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1921687633253842944/LecCOcgm_normal.jpg",
+      "description": "#Bitcoin miner @MSX_CN https://t.co/iTjwHPAzW5",
+      "followersCount": 155951,
+      "friendsCount": 1394,
+      "location": "Los Angeles, CA"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/BTCBruce1/status/2002798999556731376",
+    "fullText": "Perp DEX未来面临两大挑战：\n1. 监管升级\n对DEX的监管和合规性要求迟早会来\n一旦来临，DEX相比CEX的优势还剩哪些？\n\n2. 用户投资行为长期看是升级还是降级？\n用DEX的用户都是经验丰富的半专业人士\n那么未来这部分用户会越来越多吗？\n还是新增小白用户越来越多？"
+  },
+  {
+    "user": {
+      "screenName": "hazenlee",
+      "name": "𝙃𝘼𝙕𝙀𝙉𝙇𝙀𝙀",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1999890528549425152/rV_An7mP_normal.jpg",
+      "description": "𝙀／𝘼𝙘𝙘｜十年𝙊𝙂 伪𝙏𝙧𝙖𝙙𝙚𝙧真𝙃𝙤𝙙𝙡𝙚𝙧 ｜ 加密信仰传教士已𝘼𝙇𝙇 𝙄𝙉 ₿𝙏𝘾+𝘼𝙄 ｜ 观点明确 从不马后炮 模棱两可｜致力于科技金融投资交易科普｜抽象派行为艺术大师｜多轮牛熊转换趋势吹号手｜𝙇𝙋𝙋𝙇(老婆跑了)模型代言人",
+      "followersCount": 57711,
+      "friendsCount": 3497,
+      "location": "距离你384400km 🌕 🚪520/999/1314"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/hazenlee/status/2002798967726489976",
+    "fullText": "厂妹不会好吃懒做，不会把精致挂在嘴巴，更不会一天到晚想的想一些有的没的，别人知道劳动致富，在流水线带着帽兜跟男人一样生产，四班三运转，早班早班中班中班休息休息夜班夜班中班中班休息休息，一个月拿4000，还有医保社保，每次领工资喜滋滋的跑来同你分享，两个人回家随便吃的什么就开始操B，开"
+  },
+  {
+    "user": {
+      "screenName": "SeekingAlpha",
+      "name": "Seeking Alpha",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/534299535552421888/eHacq8EQ_normal.png",
+      "description": "A global leader in crowdsourced U.S. investment research, powered by one of the largest and most vibrant investor communities.",
+      "followersCount": 314437,
+      "friendsCount": 234,
+      "location": "New York, NY"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/SeekingAlpha/status/2002798742609764665",
+    "fullText": "Conditions looking good for the Santa Claus Rally $SPY $IVV $VOO #stockmarket #finance #business https://t.co/0LylZjhtig"
+  },
+  {
+    "user": {
+      "screenName": "theinformation",
+      "name": "The Information",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1747484907163516928/d_K3Z_hH_normal.jpg",
+      "description": "The most authoritative publication covering tech that high-powered tech execs and founders read daily.\n\nTITV M-F at 1 ET: https://t.co/M0NywExPjR",
+      "followersCount": 134112,
+      "friendsCount": 703,
+      "location": "San Francisco"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/theinformation/status/2002797471022403995",
+    "fullText": "Massive demand for AI data centers is giving memory chipmakers unprecedented pricing power. Micron recently saw its gross margin jump to 46% as revenue growth is expected to accelerate into next year. Details here: https://t.co/SPfo4WOMA8"
+  },
+  {
+    "user": {
+      "screenName": "IOHK_Charles",
+      "name": "Charles Hoskinson",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2002776094735577092/QoKKI9pr_normal.jpg",
+      "description": "Dire Wolf Mode | Sateré-Mawé Warrior | Honorary Berkutchi\n\n8830 AC64 17F2 5164 195C 05DE 21E3 E377 13E1 5586 | CEO of IOG and King of the Rats",
+      "followersCount": 1071488,
+      "friendsCount": 1578,
+      "location": "Boulder, Colorado"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G8tc26Ba8AAqlyl.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/IOHK_Charles/status/2002796559843627397",
+    "fullText": "In 2026, we just getting started \nhttps://t.co/evYTQRBe6t\n\n#StayingAlive https://t.co/ttI7dwm5Lp"
+  },
+  {
+    "user": {
+      "screenName": "jessepollak",
+      "name": "jesse.base.eth",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1879556312822120448/QngrqCSC_normal.jpg",
+      "description": "@base builder #001 | DM @jessexbt_ai to get building",
+      "followersCount": 333487,
+      "friendsCount": 4211,
+      "location": "east bay & the internet"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/jessepollak/status/2002796058347532652",
+    "fullText": "if you double tap early,\nyou make money\n\nif you double tap early,\nyou earn followers\n\nif you double tap early,\nyou are based"
+  },
+  {
+    "user": {
+      "screenName": "hazenlee",
+      "name": "𝙃𝘼𝙕𝙀𝙉𝙇𝙀𝙀",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1999890528549425152/rV_An7mP_normal.jpg",
+      "description": "𝙀／𝘼𝙘𝙘｜十年𝙊𝙂 伪𝙏𝙧𝙖𝙙𝙚𝙧真𝙃𝙤𝙙𝙡𝙚𝙧 ｜ 加密信仰传教士已𝘼𝙇𝙇 𝙄𝙉 ₿𝙏𝘾+𝘼𝙄 ｜ 观点明确 从不马后炮 模棱两可｜致力于科技金融投资交易科普｜抽象派行为艺术大师｜多轮牛熊转换趋势吹号手｜𝙇𝙋𝙋𝙇(老婆跑了)模型代言人",
+      "followersCount": 57711,
+      "friendsCount": 3497,
+      "location": "距离你384400km 🌕 🚪520/999/1314"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G8tbHOAbwAARWyT.jpg",
+      "https://pbs.twimg.com/media/G8tbHN_boAAghsB.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/hazenlee/status/2002794647912153484",
+    "fullText": "家人萌 这个李哥也提出了一个指标\n李哥入了100个🚪姐，其中只有三个在更新\n而进入十二月，只剩下两个🚪姐更新了\n所以继LPPL(老婆跑了)模型100%胜率后\n李哥又一力作之MJPL(门姐跑了)模型\n高达98%胜率\n所以兄弟们看看免费的算了…\n就连几把糖心的会员掉了都不给补\n这世界太他吗坏了 https://t.co/kz6TOp5M3z"
+  },
+  {
+    "user": {
+      "screenName": "SuiNetwork",
+      "name": "Sui",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2001729274496053248/SKLMdvW__normal.jpg",
+      "description": "High-performance blockchain delivering the full stack for a new global economy. X account by @SuiFoundation.",
+      "followersCount": 1116647,
+      "friendsCount": 682,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/SuiNetwork/status/2002794320118895018",
+    "fullText": "should we do a Sui 2026 stream with @EmanAbio, @EvanWeb3, and @aslan_web3?"
+  },
+  {
+    "user": {
+      "screenName": "okx",
+      "name": "OKX",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1968722816154345472/vEj4j3o9_normal.jpg",
+      "description": "A new alternative for your crypto journey | Self-custody & dApps: @Wallet | Support: @OKXHelpDesk | UK users: @OKX_UK",
+      "followersCount": 5701409,
+      "friendsCount": 325,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G8tae2wXwAAELg_.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/okx/status/2002793965687378295",
+    "fullText": "Finding winners - on track and onchain. https://t.co/eclRx4ezjm"
+  },
+  {
+    "user": {
+      "screenName": "theinformation",
+      "name": "The Information",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1747484907163516928/d_K3Z_hH_normal.jpg",
+      "description": "The most authoritative publication covering tech that high-powered tech execs and founders read daily.\n\nTITV M-F at 1 ET: https://t.co/M0NywExPjR",
+      "followersCount": 134112,
+      "friendsCount": 703,
+      "location": "San Francisco"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/theinformation/status/2002793716084273364",
+    "fullText": "Sunday Insights Exclusive: OpenAI is getting more efficient at running its AI models, internal financials show.\n\nRead more from Sri Muppidi 👇 \nhttps://t.co/3uo8C8WW6y"
+  },
+  {
+    "user": {
+      "screenName": "SeekingAlpha",
+      "name": "Seeking Alpha",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/534299535552421888/eHacq8EQ_normal.png",
+      "description": "A global leader in crowdsourced U.S. investment research, powered by one of the largest and most vibrant investor communities.",
+      "followersCount": 314437,
+      "friendsCount": 234,
+      "location": "New York, NY"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/SeekingAlpha/status/2002793714440446076",
+    "fullText": "Berkshire Hathaway May Continue Underperforming In 2026 (Rating Downgrade) $BRK.B $BRK.A $BRK:CA #markets #business #finance https://t.co/pKknL2nRkx"
+  },
+  {
+    "user": {
+      "screenName": "laurashin",
+      "name": "Laura Shin",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1539462748173746176/hxR80FYT_normal.png",
+      "description": "Crypto journalist 🎧 Host @unchained_pod 📚 Author, The Cryptopians 💌 Sign up https://t.co/gf90Q5GrXy Ads sponsorships@unchainedcrypto.com",
+      "followersCount": 281301,
+      "friendsCount": 4991,
+      "location": "Crypto Twitter"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2002723623107203072/vid/avc1/1280x720/jfOblqC2ffe7ir3J.mp4?tag=21"
+    ],
+    "tweetUrl": "https://x.com/laurashin/status/2002793689266200664",
+    "fullText": "Is Trump’s World Liberty Financial really DeFi? 🤔\n\nA new market structure bill may force an answer.\n\nTimestamps:\n0:00 🎬 Intro\n3:56 ⚖️ If crypto finally gets rules, what then?\n7:44 ❄️ Frozen wallets: the DeFi dealbreaker\n13:56 🏛️ Has the White House picked a DeFi side?\n14:41 👀 https://t.co/nTxm2Zy4qQ"
+  },
+  {
+    "user": {
+      "screenName": "jup_mobile",
+      "name": "Jupiter Mobile (Trencher Arc ⚡️)",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1982361203847442432/v2yYIp8M_normal.jpg",
+      "description": "The DeFi Superapp, powered by @JupiterExchange. Trade up to 10x faster and 8x cheaper than any other wallet.",
+      "followersCount": 55779,
+      "friendsCount": 156,
+      "location": "Jupiter"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2002793390916673536/vid/avc1/1920x1066/HQYLMC1Qti62h2D8.mp4?tag=21"
+    ],
+    "tweetUrl": "https://x.com/jup_mobile/status/2002793486207345104",
+    "fullText": "Onboarding doesn’t get easier than this.\n\nWith Jupiter Mobile you can onboard anyone in seconds, anywhere in the world.\n\nUse Jupiter Send, create a Magic Link and share it in seconds. 📲 https://t.co/vv3jMDFkJY"
+  },
+  {
+    "user": {
+      "screenName": "NodYoung",
+      "name": "Nod",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1935205913083920384/Ot3jWepL_normal.jpg",
+      "description": "→ Design Forward →",
+      "followersCount": 29368,
+      "friendsCount": 39,
+      "location": "California, USA"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/NodYoung/status/2002792734050914533",
+    "fullText": "这个周末，有很多朋友在 at 我，说收到了书，然后“一口气读完”。\n\n其实不用着急这么快看完。\n这本书确实很简单，也正因为简单，才很容易被一下读完。但这种“容易”，本身就是一种设置 —— 就像设计里的爽快感，是一种给读者的奖励机制。有的书则很难，你也可以把它理解为游戏里偏“魂系”试炼的设定。"
+  },
+  {
+    "user": {
+      "screenName": "AltCryptoGems",
+      "name": "Sjuul | AltCryptoGems",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1950543002721533952/y0gABDyF_normal.jpg",
+      "description": "Invest in the unexpected || Founder of @AltCryptoCast, @AltCryptoTalk & @KollectAgency || DM for Business Enquiries💰",
+      "followersCount": 477136,
+      "friendsCount": 1901,
+      "location": "Dubai"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/tweet_video/G8io5GUXAAAjQ2E.mp4"
+    ],
+    "tweetUrl": "https://x.com/AltCryptoGems/status/2002792682348019724",
+    "fullText": "Not long until the @AltCryptoTalk $USDC Giveaway ends!\n\nDon’t forget to participate!\n \nThe odds of winning are looking very easy so far! 🚀 https://t.co/tF2OTgrxwk"
+  },
+  {
+    "user": {
+      "screenName": "CyberPhilos",
+      "name": "赛博哲学家",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1915367685137063936/nIEYsC_Q_normal.jpg",
+      "description": "频道: https://t.co/nkaRd28lUC",
+      "followersCount": 30051,
+      "friendsCount": 2093,
+      "location": "Join Sigma Hunter 👉"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/CyberPhilos/status/2002791847354376501",
+    "fullText": "资本市场有四种人：骗子、工程师、创业者和银行家。\n\n骗子借假修假，工程师借真修真，创业者借假修真，银行家借真修假。"
+  },
+  {
+    "user": {
+      "screenName": "viviennaBTC",
+      "name": "vivienna.btc",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1992889163495174144/vhVliipj_normal.jpg",
+      "description": "Macroeconomics | Bitcoin-er since 2017 | Prev. Defi researcher @huobiglobal | INTJ",
+      "followersCount": 26865,
+      "friendsCount": 371,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G8tW2Nda8AAjMNH.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/viviennaBTC/status/2002789964799733801",
+    "fullText": "Bye. https://t.co/128v7Hg9ci"
+  },
+  {
+    "user": {
+      "screenName": "theinformation",
+      "name": "The Information",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1747484907163516928/d_K3Z_hH_normal.jpg",
+      "description": "The most authoritative publication covering tech that high-powered tech execs and founders read daily.\n\nTITV M-F at 1 ET: https://t.co/M0NywExPjR",
+      "followersCount": 134112,
+      "friendsCount": 703,
+      "location": "San Francisco"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/theinformation/status/2002789931874152844",
+    "fullText": "A new executive council including the heads of Google Cloud and DeepMind must now decide how to divide scarce chips between AI research and revenue-generating products. Learn more: https://t.co/akynFh0OaM"
+  },
+  {
+    "user": {
       "screenName": "Ga__ke",
       "name": "gake",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1993011467344658436/ilYSzdjn_normal.jpg",
       "description": "NOT Financial Advice | For Collabs (no token deals): https://t.co/XEAUE9onul | gmgn: https://t.co/ZmplkQuiZz",
-      "followersCount": 166964,
+      "followersCount": 166989,
       "friendsCount": 5167,
       "location": "hi"
     },
@@ -50,7 +665,7 @@
       "name": "0xAA",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1909791942961250308/nPZLMciH_normal.jpg",
       "description": "Neuroscience PhD @WTFAcademy_ @ourRescuETH @The_PeopleDAO ｜链上交易，首选 #Binance 钱包 https://t.co/RHEMiFBtjR ｜新人首选，安全简单。一站式链上链下交易平台OKX https://t.co/Kwxe2KTZlu",
-      "followersCount": 169628,
+      "followersCount": 169636,
       "friendsCount": 1480,
       "location": "Dark Forest"
     },
@@ -729,7 +1344,7 @@
       "name": "Crypto.com",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1873578819833204736/t-8bwuwM_normal.jpg",
       "description": "The best place to buy, sell, and pay with crypto #BTC #CRO #DeFi #FFTB",
-      "followersCount": 3064570,
+      "followersCount": 3064599,
       "friendsCount": 495,
       "location": ""
     },
@@ -905,7 +1520,7 @@
       "name": "Your Quant Guy",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1921904182144958464/Pog_SOSz_normal.jpg",
       "description": "🧑‍🌾 DeFi farmer | 记录 | 分享 | 交流 | Macro hedge fund → Fintech → Web3 | NOT FINANCIAL ADVICE | ALWAYS DO YOUR OWN RESEARCH",
-      "followersCount": 12538,
+      "followersCount": 12549,
       "friendsCount": 254,
       "location": "New York"
     },
@@ -1753,7 +2368,7 @@
       "name": "带带带比特",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1753543065292431360/j4831bJN_normal.jpg",
       "description": "财富增长的核心是不要有大回撤，做好资金管理，一定不要返贫｜交易就用币安：https://t.co/R6kS5alF4D｜OKX:https://t.co/z7UuIh1CNC",
-      "followersCount": 42331,
+      "followersCount": 42329,
       "friendsCount": 428,
       "location": ""
     },
@@ -2101,8 +2716,8 @@
       "name": "Yuki",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1887054804930981888/h1avTrMw_normal.jpg",
       "description": "@OKX 高级品牌经理 | Web3 & Crypto Enthusiast | 分享品牌增长、市场动态与行业趋势 📢 DM for collaborations!",
-      "followersCount": 10588,
-      "friendsCount": 888,
+      "followersCount": 10591,
+      "friendsCount": 889,
       "location": "香港"
     },
     "images": [
@@ -2167,7 +2782,7 @@
       "name": "浪老湿",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1794645661943791616/bEaIK4oF_normal.jpg",
       "description": "8年交易所品牌、营销、运营、增长 | #web3赏花大赛 职业经理人 | 言论仅代表个人观点 | 不构成任何投资建议",
-      "followersCount": 10070,
+      "followersCount": 10073,
       "friendsCount": 1591,
       "location": "1公里以内"
     },
@@ -5618,8 +6233,8 @@
       "name": "猛小蛇",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1998087687149142016/RS4aXav-_normal.jpg",
       "description": "🔞十八摸站长 🐃牛车水龙头 🐕‍🦺狗日报总编辑 🐟鱼禅寺末代知客僧 🙈连续创业不成功者 📝关注睡后没收入的抽象老登",
-      "followersCount": 8733,
-      "friendsCount": 1999,
+      "followersCount": 8765,
+      "friendsCount": 2001,
       "location": "Singapore"
     },
     "images": [
@@ -8000,7 +8615,7 @@
       "name": "谢家印",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1974628997163294720/f8I2MTz2_normal.jpg",
       "description": "@Bitget Head of Greater China, Only Hold #BGB VIP3+🚀\nBitget VIP，费率更低，福利更狠！",
-      "followersCount": 84135,
+      "followersCount": 84151,
       "friendsCount": 1418,
       "location": "Singapore"
     },
