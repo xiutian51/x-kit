@@ -1,6 +1,573 @@
 [
   {
     "user": {
+      "screenName": "theinformation",
+      "name": "The Information",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1747484907163516928/d_K3Z_hH_normal.jpg",
+      "description": "The most authoritative publication covering tech that high-powered tech execs and founders read daily.\n\nTITV M-F at 1 ET: https://t.co/M0NywExPjR",
+      "followersCount": 134507,
+      "friendsCount": 703,
+      "location": "San Francisco"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/theinformation/status/2003544905814020238",
+    "fullText": "Cutting power to a humanoid during an emergency could cause it to topple and injure bystanders. Industry groups are now debating whether the classic big red shut down button is the wrong approach for 150-pound robots. Read: https://t.co/olYwze7ljT"
+  },
+  {
+    "user": {
+      "screenName": "InvCryptoDaily",
+      "name": "Investor's Crypto Daily",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1959028769303216128/ET7nj3C6_normal.jpg",
+      "description": "Cryptocurrency hub strictly for traditional investors.\nIt's time to get off the sidelines",
+      "followersCount": 96311,
+      "friendsCount": 6212,
+      "location": "Sarasota, Florida"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G84FeGTWAAE0JgM.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/InvCryptoDaily/status/2003544903096164717",
+    "fullText": "The Trader's Outlook: Gold can reach $8,000 and Bitcoin will not be in a deep bear market. https://t.co/XAO1aXyN6Q https://t.co/oBYqhhaKPV"
+  },
+  {
+    "user": {
+      "screenName": "SeekingAlpha",
+      "name": "Seeking Alpha",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/534299535552421888/eHacq8EQ_normal.png",
+      "description": "A global leader in crowdsourced U.S. investment research, powered by one of the largest and most vibrant investor communities.",
+      "followersCount": 314560,
+      "friendsCount": 234,
+      "location": "New York, NY"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/SeekingAlpha/status/2003544898906058962",
+    "fullText": "Market Voices: Paramount-WBD, Trump vs. defense sector, Wegovy pill $NVO $LLY $LMT #stocks #markets #finance https://t.co/EsnX2i6xVN"
+  },
+  {
+    "user": {
+      "screenName": "AshCrypto",
+      "name": "Ash Crypto",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1935933861034090496/h_vgXOAw_normal.jpg",
+      "description": "News, Memes, Charts, Hopium, Market analysis and Latest crypto updates. Our official Telegram https://t.co/6iHJbN2D67",
+      "followersCount": 2095437,
+      "friendsCount": 316,
+      "location": "X"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G84E05IaQAAROJ5.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/AshCrypto/status/2003544198688178527",
+    "fullText": "https://t.co/urg7TwlRvK"
+  },
+  {
+    "user": {
+      "screenName": "maid_crypto",
+      "name": "CryptoMaid加密女仆お嬢様 .edge🦭",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1954884001342341120/0OmJrznn_normal.png",
+      "description": "开合约来：https://t.co/gm8PiLcQX0\nDEX之王（返20%+）:https://t.co/6QLwVMjqeE\n打meme神器:https://t.co/pzbgNAkc7y\n买美股就上：https://t.co/qsDZ5dJkUO",
+      "followersCount": 137990,
+      "friendsCount": 6094,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/maid_crypto/status/2003543943385112846",
+    "fullText": "赌圈是远大于币圈的….stake营收虽然一直低于币安但也都是一个数量级的\nhttps://t.co/dFtgbyGqY6 跟bitget体量差不多\n洗米职能也接近\n预测市场找币圈的人…..甚至是完全没有做项目经验的那些kol 取经…的话…我就会觉得挺无语的"
+  },
+  {
+    "user": {
+      "screenName": "0xKatt",
+      "name": "0x凯瑟琳",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1530412556312932352/0hrYmCDk_normal.png",
+      "description": "人称币圈范冰冰  #Web3/#crypto @bitgetglobal Ambassador IG：https://t.co/MxxRxe0sHa",
+      "followersCount": 2129,
+      "friendsCount": 878,
+      "location": "Downtown, Vancouver"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2003543174804111360/vid/avc1/1080x1904/7K8WPFIfLLOHMy8S.mp4?tag=21"
+    ],
+    "tweetUrl": "https://x.com/0xKatt/status/2003543304848498934",
+    "fullText": "爆仓了，没钱吃饭了，回Web2直播了，欢迎大家某音关注：宋小云在枫叶国，给爆仓主播一个温暖的家😢 https://t.co/aNyr21h5d2"
+  },
+  {
+    "user": {
+      "screenName": "whale_alert",
+      "name": "Whale Alert",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1132579647374417921/9ifIGXEQ_normal.png",
+      "description": "Live reporting on large and interesting #blockchain transactions as they happen. Create your own alerts for over 100 coins on https://t.co/wQEfstUfLm",
+      "followersCount": 2848738,
+      "friendsCount": 13,
+      "location": "Worldwide"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/whale_alert/status/2003543140578304190",
+    "fullText": "🚨 🚨 🚨 🚨 🚨 🚨 🚨 🚨 🚨  2,315 #BTC (203,628,216 USD) transferred from unknown wallet to unknown new wallet\n\nhttps://t.co/KHG4jzAoGG"
+  },
+  {
+    "user": {
+      "screenName": "OKXinsiders",
+      "name": "INS",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1911676392455954432/Q0bN1fqk_normal.jpg",
+      "description": "Building @XLayerOfficial @INSWAPxlayer",
+      "followersCount": 2856,
+      "friendsCount": 669,
+      "location": "XLayer"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G81RePhagAI2Yup.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/OKXinsiders/status/2003543001365385447",
+    "fullText": "GM\n\nThe egg is well-done.\n\nMy risk management is… medium rare. https://t.co/D3zRBB8wxk"
+  },
+  {
+    "user": {
+      "screenName": "maid_crypto",
+      "name": "CryptoMaid加密女仆お嬢様 .edge🦭",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1954884001342341120/0OmJrznn_normal.png",
+      "description": "开合约来：https://t.co/gm8PiLcQX0\nDEX之王（返20%+）:https://t.co/6QLwVMjqeE\n打meme神器:https://t.co/pzbgNAkc7y\n买美股就上：https://t.co/qsDZ5dJkUO",
+      "followersCount": 137990,
+      "friendsCount": 6094,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/maid_crypto/status/2003542986349850806",
+    "fullText": "不知道是不是意淫 老觉得 这里在铸一个反抽回十万的平台"
+  },
+  {
+    "user": {
+      "screenName": "whale_alert",
+      "name": "Whale Alert",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1132579647374417921/9ifIGXEQ_normal.png",
+      "description": "Live reporting on large and interesting #blockchain transactions as they happen. Create your own alerts for over 100 coins on https://t.co/wQEfstUfLm",
+      "followersCount": 2848738,
+      "friendsCount": 13,
+      "location": "Worldwide"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/whale_alert/status/2003542859983605903",
+    "fullText": "🚨 🚨 🚨 🚨 🚨 🚨 🚨 🚨 🚨  2,315 #BTC (203,628,217 USD) transferred from unknown wallet to unknown new wallet\n\nhttps://t.co/HZlCmEAorZ"
+  },
+  {
+    "user": {
+      "screenName": "whale_alert",
+      "name": "Whale Alert",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1132579647374417921/9ifIGXEQ_normal.png",
+      "description": "Live reporting on large and interesting #blockchain transactions as they happen. Create your own alerts for over 100 coins on https://t.co/wQEfstUfLm",
+      "followersCount": 2848738,
+      "friendsCount": 13,
+      "location": "Worldwide"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/whale_alert/status/2003542576251474154",
+    "fullText": "🚨 🚨 🚨 🚨 🚨  1,299 #BTC (114,258,132 USD) transferred from unknown wallet to unknown wallet\n\nhttps://t.co/xW1UQ0HYdB"
+  },
+  {
+    "user": {
+      "screenName": "WhiteHouse",
+      "name": "The White House",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1916971216620982274/1DsLEcqW_normal.jpg",
+      "description": "The Golden Age of America Begins Right Now.\n📱 Text USA to 45470 to receive alerts.",
+      "followersCount": 3090670,
+      "friendsCount": 6,
+      "location": "Washington, DC"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G84C3BPXcAAbiFq.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/WhiteHouse/status/2003542033793974494",
+    "fullText": "🚨 Avoid the Nightmare Before Christmas!\n\nSelf-deport voluntarily using the CBP Home app before Dec 31, 2025 — get up to $3,000, and have the opportunity to return the LEGAL way. https://t.co/CytuLHMqqU"
+  },
+  {
+    "user": {
+      "screenName": "JA_Maartun",
+      "name": "Maartunn",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1585951872275415040/XMXK3bXW_normal.jpg",
+      "description": "Market Watcher 👀 || Community Analyst @cryptoquant_com 🏆 || Quoted by CNBC, Bloomberg 📰",
+      "followersCount": 46671,
+      "friendsCount": 949,
+      "location": "Nederland"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G84CgCAXcAAh8dT.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/JA_Maartun/status/2003541637000008092",
+    "fullText": "1 month trading with @breakoutprop ✅\n5 payouts locked in 💸\n\nGreat to see consistent profits on the prop account.\n\n👉 Want to try it yourself? Use code G2KB5D for a discount on your evaluation. https://t.co/ftNfU694K4"
+  },
+  {
+    "user": {
+      "screenName": "cryptocom",
+      "name": "Crypto.com",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1873578819833204736/t-8bwuwM_normal.jpg",
+      "description": "The best place to buy, sell, and pay with crypto #BTC #CRO #DeFi #FFTB",
+      "followersCount": 3064808,
+      "friendsCount": 495,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G8zJ6d2WwAAEKbC.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/cryptocom/status/2003541368807813327",
+    "fullText": "Kick off Christmas Eve with football cheers ⚽️\n\nTrade your way to the top of the League Royale Campaign leaderboard and stand to win:\n\n💰 Up to US$1,000 in $CRO rewards\n⚽ First Class UCL tickets (EU traders only)\n✅ Buy at least US$50 of $CRO to qualify\n\n📅 Round 8: Dec 17 - 31 https://t.co/qEARnGpwGp"
+  },
+  {
+    "user": {
+      "screenName": "AltCryptoGems",
+      "name": "Sjuul | AltCryptoGems",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1950543002721533952/y0gABDyF_normal.jpg",
+      "description": "Invest in the unexpected || Founder of @AltCryptoCast, @AltCryptoTalk & @KollectAgency || DM for Business Enquiries💰",
+      "followersCount": 477217,
+      "friendsCount": 1905,
+      "location": "Dubai"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G82WzQaXsAEJPCr.png"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/AltCryptoGems/status/2003541243859730858",
+    "fullText": "Do you want to become good at trading?\n\nPick one single system, one single strategy, one single setup, and practice 10,000 times! https://t.co/7xmU7AJAne"
+  },
+  {
+    "user": {
+      "screenName": "TheOnion",
+      "name": "The Onion",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1517492889852461056/bEnqsvVR_normal.jpg",
+      "description": "America's Finest News Source. A @globtetrahedron subsidiary.\n\nGet the paper delivered to your door: https://t.co/jJP2Apbhe8",
+      "followersCount": 10593251,
+      "friendsCount": 8,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/TheOnion/status/2003541199957770509",
+    "fullText": "Megan Fox Confirms She And New Baby Will Co-Parent Machine Gun Kelly https://t.co/NCbzTRqw0F"
+  },
+  {
+    "user": {
+      "screenName": "SeekingAlpha",
+      "name": "Seeking Alpha",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/534299535552421888/eHacq8EQ_normal.png",
+      "description": "A global leader in crowdsourced U.S. investment research, powered by one of the largest and most vibrant investor communities.",
+      "followersCount": 314560,
+      "friendsCount": 234,
+      "location": "New York, NY"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/SeekingAlpha/status/2003541138054234178",
+    "fullText": "Pfizer reports patient death in hemophilia trial for Hympavzi $PFE #investing #stocks #economy https://t.co/U2xpX0ObTP"
+  },
+  {
+    "user": {
+      "screenName": "laurashin",
+      "name": "Laura Shin",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1539462748173746176/hxR80FYT_normal.png",
+      "description": "Crypto journalist 🎧 Host @unchained_pod 📚 Author, The Cryptopians 💌 Sign up https://t.co/gf90Q5GrXy Ads sponsorships@unchainedcrypto.com",
+      "followersCount": 281300,
+      "friendsCount": 4993,
+      "location": "Crypto Twitter"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/laurashin/status/2003540995338633414",
+    "fullText": "\"If you have to go with a custody provider for setting up some long-term account for future inheritance of your grandchildren, maybe go with a company that's been around for five years, or have a really good reason for going with a different one.\"\n\n- Isaac Patka"
+  },
+  {
+    "user": {
+      "screenName": "whale_alert",
+      "name": "Whale Alert",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1132579647374417921/9ifIGXEQ_normal.png",
+      "description": "Live reporting on large and interesting #blockchain transactions as they happen. Create your own alerts for over 100 coins on https://t.co/wQEfstUfLm",
+      "followersCount": 2848738,
+      "friendsCount": 13,
+      "location": "Worldwide"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/whale_alert/status/2003539598069080119",
+    "fullText": "🚨 🚨 🚨  589 #BTC (51,809,779 USD) transferred from Coinbase Institutional to unknown wallet\n\nhttps://t.co/3urd5QJoLE"
+  },
+  {
+    "user": {
+      "screenName": "whale_alert",
+      "name": "Whale Alert",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1132579647374417921/9ifIGXEQ_normal.png",
+      "description": "Live reporting on large and interesting #blockchain transactions as they happen. Create your own alerts for over 100 coins on https://t.co/wQEfstUfLm",
+      "followersCount": 2848738,
+      "friendsCount": 13,
+      "location": "Worldwide"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/whale_alert/status/2003538433533259801",
+    "fullText": "🚨 🚨 🚨 🚨  28,264 #ETH (83,229,449 USD) transferred from unknown wallet to Coinbase Institutional\n\nhttps://t.co/A1BtjCZiA5"
+  },
+  {
+    "user": {
+      "screenName": "elonmusk",
+      "name": "Elon Musk",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1995407795835772928/Wp7m4L9h_normal.jpg",
+      "description": "",
+      "followersCount": 230337944,
+      "friendsCount": 1254,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/elonmusk/status/2003538387559678369",
+    "fullText": "Dustin Moskowitz is a horrible human who pays for the bail of murderers\n https://t.co/gMGdKAHdiO"
+  },
+  {
+    "user": {
+      "screenName": "jup_mobile",
+      "name": "Jupiter Mobile (Trencher Arc ⚡️)",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1982361203847442432/v2yYIp8M_normal.jpg",
+      "description": "The DeFi Superapp, powered by @JupiterExchange. Trade up to 10x faster and 8x cheaper than any other wallet.",
+      "followersCount": 55813,
+      "friendsCount": 156,
+      "location": "Jupiter"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/jup_mobile/status/2003538027847778421",
+    "fullText": "I WANT TO SEE ______ ON JUPITER MOBILE. 📱\n\nDrop one feature you want to see on Jupiter Mobile before the year ends 👇"
+  },
+  {
+    "user": {
+      "screenName": "xiaomucrypto",
+      "name": "川沐｜Trumoo🐮",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1595742328450211840/oO6w9IYm_normal.jpg",
+      "description": "自由 crypto 纯二级韭菜交易员 -所有内容不构成任何投资建议-不会参与接受任何推广和广告-不私聊不碰任何人资金",
+      "followersCount": 175517,
+      "friendsCount": 835,
+      "location": "萨尔瓦多"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G83-p_FWEAEnDUs.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/xiaomucrypto/status/2003537419405230287",
+    "fullText": "铂金在被逼空，一天涨10%.\n贵金属最近都疯了. https://t.co/yidCc9d9gB"
+  },
+  {
+    "user": {
+      "screenName": "SeekingAlpha",
+      "name": "Seeking Alpha",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/534299535552421888/eHacq8EQ_normal.png",
+      "description": "A global leader in crowdsourced U.S. investment research, powered by one of the largest and most vibrant investor communities.",
+      "followersCount": 314560,
+      "friendsCount": 234,
+      "location": "New York, NY"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/SeekingAlpha/status/2003537356104638834",
+    "fullText": "U.S. offshore wind halt seen as short-lived, Goldman Sachs says $D $ES $XLE #markets #finance #investing https://t.co/t7HFaF7qpa"
+  },
+  {
+    "user": {
+      "screenName": "theinformation",
+      "name": "The Information",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1747484907163516928/d_K3Z_hH_normal.jpg",
+      "description": "The most authoritative publication covering tech that high-powered tech execs and founders read daily.\n\nTITV M-F at 1 ET: https://t.co/M0NywExPjR",
+      "followersCount": 134507,
+      "friendsCount": 703,
+      "location": "San Francisco"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/theinformation/status/2003537354246570222",
+    "fullText": "Exclusive: ClickUp is acquiring AI coding startup Codegen as it looks to expand its agent capabilities. The deal marks another significant consolidation in the AI coding space this year. Read more: https://t.co/mdCCVI7XkV"
+  },
+  {
+    "user": {
+      "screenName": "wallet",
+      "name": "OKX Wallet",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1961251596895227906/o3V4FDLG_normal.jpg",
+      "description": "The crypto wallet for everything onchain. Self-custody is the future.\n\nEngagement is not endorsement.",
+      "followersCount": 1985135,
+      "friendsCount": 413,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/wallet/status/2003537352468091020",
+    "fullText": "Nothing says freedom like holding your keys."
+  },
+  {
+    "user": {
+      "screenName": "whale_alert",
+      "name": "Whale Alert",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1132579647374417921/9ifIGXEQ_normal.png",
+      "description": "Live reporting on large and interesting #blockchain transactions as they happen. Create your own alerts for over 100 coins on https://t.co/wQEfstUfLm",
+      "followersCount": 2848738,
+      "friendsCount": 13,
+      "location": "Worldwide"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/whale_alert/status/2003537144413864245",
+    "fullText": "🚨 🚨 🚨  584 #BTC (51,528,574 USD) transferred from #Robinhood to Coinbase Institutional\n\nhttps://t.co/5HpbCSYsvU"
+  },
+  {
+    "user": {
+      "screenName": "laurashin",
+      "name": "Laura Shin",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1539462748173746176/hxR80FYT_normal.png",
+      "description": "Crypto journalist 🎧 Host @unchained_pod 📚 Author, The Cryptopians 💌 Sign up https://t.co/gf90Q5GrXy Ads sponsorships@unchainedcrypto.com",
+      "followersCount": 281300,
+      "friendsCount": 4993,
+      "location": "Crypto Twitter"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/laurashin/status/2003536780503712111",
+    "fullText": "\"If you don't train your team to understand and recognise social engineering, it doesn't matter what you have; your company will eventually be hacked. \n\nIt's not a matter of 'if' but 'when'\"\n\n- Pablo \n\nhttps://t.co/KVrO57RM8M"
+  },
+  {
+    "user": {
+      "screenName": "IOHK_Charles",
+      "name": "Charles Hoskinson",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2002776094735577092/QoKKI9pr_normal.jpg",
+      "description": "Dire Wolf Mode | Sateré-Mawé Warrior | Honorary Berkutchi\n\n8830 AC64 17F2 5164 195C 05DE 21E3 E377 13E1 5586 | CEO of IOG and King of the Rats",
+      "followersCount": 1072057,
+      "friendsCount": 1583,
+      "location": "Boulder, Colorado"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/IOHK_Charles/status/2003536111541629290",
+    "fullText": "I'm incredibly excited to endorse Representative Hageman for US Senate. She has big shoes to fill from Senator Lummis, but she's up for the task and will represent the people of Wyoming well: https://t.co/LCYG7WkPiz"
+  },
+  {
+    "user": {
+      "screenName": "cryptoquant_com",
+      "name": "CryptoQuant.com",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1420281702736269312/yfIaAbXb_normal.png",
+      "description": "Leading On-chain Data/Analytics Provider\n\n💡 Insights: https://t.co/4soN6kP21x\n🔔 Alerts: https://t.co/kINun4rMMM",
+      "followersCount": 284983,
+      "friendsCount": 29,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G831LMGWcAAVVCQ.jpg",
+      "https://pbs.twimg.com/media/G831LMJWEAEBu56.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/cryptoquant_com/status/2003534319349064028",
+    "fullText": "Gold and Silver Are Rising While Bitcoin Remains Range-Bound\n\n“The base scenario is that gold and silver stay supported by safe-asset flows, while Bitcoin’s upside remains capped by weak demand and short-term holder pressure.” – By @xwinfinance \n\nLink ⤵️\nhttps://t.co/uBk9tyGzfT https://t.co/zB3DPdbU3A"
+  },
+  {
+    "user": {
+      "screenName": "SchorLukas",
+      "name": "lukasschor.eth",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1981994715160494080/aGz1IOWS_normal.jpg",
+      "description": "Co-founder @Safe | President @SafeFndn | Smart Account Maxi",
+      "followersCount": 16500,
+      "friendsCount": 1508,
+      "location": "Switzerland"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G837mhPWwAAaLKI.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/SchorLukas/status/2003534053950255504",
+    "fullText": "Most people are surprised to hear this:\n\nHere in Switzerland, by far the most popular dish eaten at Christmas is…. Chinese hot pot. \n\nNo joke. Look it up. https://t.co/VXHINb87Rp"
+  },
+  {
+    "user": {
+      "screenName": "TheOnion",
+      "name": "The Onion",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1517492889852461056/bEnqsvVR_normal.jpg",
+      "description": "America's Finest News Source. A @globtetrahedron subsidiary.\n\nGet the paper delivered to your door: https://t.co/jJP2Apbhe8",
+      "followersCount": 10593251,
+      "friendsCount": 8,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G837MldXsAE2XgA.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/TheOnion/status/2003533624130392203",
+    "fullText": "The news they need. The price they're worth. Give the gift of membership here: https://t.co/H75NQuS4Ez https://t.co/FKW7BWAUy4"
+  },
+  {
+    "user": {
+      "screenName": "laurashin",
+      "name": "Laura Shin",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1539462748173746176/hxR80FYT_normal.png",
+      "description": "Crypto journalist 🎧 Host @unchained_pod 📚 Author, The Cryptopians 💌 Sign up https://t.co/gf90Q5GrXy Ads sponsorships@unchainedcrypto.com",
+      "followersCount": 281300,
+      "friendsCount": 4993,
+      "location": "Crypto Twitter"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/laurashin/status/2003533608724664690",
+    "fullText": "\"For example, you are paying your employees in some (crypto) address, have those addresses checked with tools like Chainalysis or TRM and also check where those funds are being sent. \n\nIf you are hiring someone who's Canadian and lives in Canada, why are they sending their funds"
+  },
+  {
+    "user": {
+      "screenName": "SeekingAlpha",
+      "name": "Seeking Alpha",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/534299535552421888/eHacq8EQ_normal.png",
+      "description": "A global leader in crowdsourced U.S. investment research, powered by one of the largest and most vibrant investor communities.",
+      "followersCount": 314560,
+      "friendsCount": 234,
+      "location": "New York, NY"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/SeekingAlpha/status/2003533569466192173",
+    "fullText": "Wall Street moves higher as traders weigh GDP data in holiday-shortened week $MRVL $SP500 $COMP:IND #economy #finance #stocks https://t.co/0Dzhgll4oo"
+  },
+  {
+    "user": {
+      "screenName": "circle",
+      "name": "Circle",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1719446730091962368/Bl01sQsB_normal.png",
+      "description": "Building the Internet Financial Platform — powered by USDC, Arc, and Circle Payments Network. Disclosure: https://t.co/7L62d1pLE0",
+      "followersCount": 260978,
+      "friendsCount": 460,
+      "location": "Remote First"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G83yhkNagAQMKFf.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/circle/status/2003533565112324123",
+    "fullText": "Circle Alliance Program member @CheesecakeLabs is advancing USDC adoption by developing tools with CCTP at their core.\n\nMany of their solutions have enabled seamless bridging and swapping of assets for the businesses they support. https://t.co/vagzF7JYpZ"
+  },
+  {
+    "user": {
+      "screenName": "army_shiba",
+      "name": "$SHIB KNIGHT",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1816418292812197888/ItW68YdW_normal.jpg",
+      "description": "Trader / #Crypto Investor since 2017 ♤  / #Binance KOL",
+      "followersCount": 486298,
+      "friendsCount": 685,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/army_shiba/status/2003533115395047652",
+    "fullText": "Stocks are pumping. Gold and Silver are flying.\n\nCrypto is the last one standing still, and when it moves, it won’t be subtle.\n\nThe comeback will be biblical.\n\nWatch closely."
+  },
+  {
+    "user": {
       "screenName": "SuiNetwork",
       "name": "Sui",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2001729274496053248/SKLMdvW__normal.jpg",
@@ -703,7 +1270,7 @@
       "name": "子时",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1939972609023582210/TznrEwzJ_normal.jpg",
       "description": "剑开天门 伟大撤退 ｜Crypto入口,OKX就够,最全交易工具,畅游130+公链,极速交易热门Meme 🔗 https://t.co/2xvR6AW4jb",
-      "followersCount": 87169,
+      "followersCount": 87167,
       "friendsCount": 2939,
       "location": "Dublin"
     },
@@ -775,6 +1342,24 @@
     "videos": [],
     "tweetUrl": "https://x.com/yuyue_chris/status/2003517103366898066",
     "fullText": "加密市场的疲弱在我意料之内，但震荡筑底过程之痛苦也超过了我的想象。很多人开始拿 $BTC 今年的价格涨幅和黄金白银等作对比，但长期来看 BTC 在大类资产中的表现还是非常强悍的 https://t.co/TwG98CJOQZ"
+  },
+  {
+    "user": {
+      "screenName": "TC8880",
+      "name": "TC",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1894292608647675904/1wgSFRa__normal.jpg",
+      "description": "古典韭菜｜94/312/519幸存者｜MEME爱好新手｜梦想成为【庄家噩梦，散户的王】",
+      "followersCount": 19548,
+      "friendsCount": 1030,
+      "location": "北京"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G83rQuMbQAAbho_.jpg",
+      "https://pbs.twimg.com/media/G83rQuMagAgqdlx.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/TC8880/status/2003516090669003016",
+    "fullText": "长大以后逐渐理解宗教跟信仰\n我原来是坚定的唯物主义信仰者\n我现在开始理解了\n因为人生总是有羁绊的\n我们去求的东西，都是欲望的投射\n\n因为长大以后的生活\n如果没有寄托，没有希望\n不去期待信仰一些东西\n很难有强大的信念支撑\n这么长，这么多苦难的人生。☹️😖 https://t.co/30mtidg676"
   },
   {
     "user": {
@@ -7292,8 +7877,8 @@
       "name": "brother bing / 饼兄 Σ:",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1877410452608565248/lN8hImdQ_normal.jpg",
       "description": "cofounder @megaeth | advisoooor @Consensys I founder 🔥hotpot DAO 🔥I paid $200k tuition to @harvardhbs when $ETH was $80. AMA",
-      "followersCount": 40471,
-      "friendsCount": 2225,
+      "followersCount": 40486,
+      "friendsCount": 2226,
       "location": "灵境"
     },
     "images": [],
@@ -7639,8 +8224,8 @@
       "name": "TC",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1894292608647675904/1wgSFRa__normal.jpg",
       "description": "古典韭菜｜94/312/519幸存者｜MEME爱好新手｜梦想成为【庄家噩梦，散户的王】",
-      "followersCount": 19547,
-      "friendsCount": 1029,
+      "followersCount": 19548,
+      "friendsCount": 1030,
       "location": "北京"
     },
     "images": [],
