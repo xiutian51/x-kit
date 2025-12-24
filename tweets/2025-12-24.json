@@ -1,11 +1,405 @@
 [
   {
     "user": {
+      "screenName": "SuiNetwork",
+      "name": "Sui",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2001729274496053248/SKLMdvW__normal.jpg",
+      "description": "High-performance blockchain delivering the full stack for a new global economy. X account by @SuiFoundation.",
+      "followersCount": 1116199,
+      "friendsCount": 682,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/SuiNetwork/status/2003906530828320958",
+    "fullText": "Happy Holidays from Sui 💧\n\n                   ★\n                  /_\\\n                /___\\        \n              /_____\\   \n            /_______\\     \n                    |||           \n                    |||\n   ─────────"
+  },
+  {
+    "user": {
+      "screenName": "123skely",
+      "name": "Skely",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1880088945674919936/y9fjO4QB_normal.jpg",
+      "description": "https://t.co/8UXXg1Ri6w 10x Idea Guy. Shadow co-founder Ai16z",
+      "followersCount": 32433,
+      "friendsCount": 2013,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/123skely/status/2003906357091828112",
+    "fullText": "Jeffery Epstein got his chick to help him run an international sex-trafficking operation. \n\nAnd I cant even get my girl to do a threesome for Christmas.\n\nI need to become a billionaire fast."
+  },
+  {
+    "user": {
+      "screenName": "elonmusk",
+      "name": "Elon Musk",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1995407795835772928/Wp7m4L9h_normal.jpg",
+      "description": "",
+      "followersCount": 230390717,
+      "friendsCount": 1254,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G89OIPXXcAAPrmj.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/elonmusk/status/2003906330000871463",
+    "fullText": "Starship V3 Super Heavy Rocket https://t.co/NyXbLMG6XQ"
+  },
+  {
+    "user": {
+      "screenName": "hazenlee",
+      "name": "𝙃𝘼𝙕𝙀𝙉𝙇𝙀𝙀",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1999890528549425152/rV_An7mP_normal.jpg",
+      "description": "𝙀／𝘼𝙘𝙘｜十年𝙊𝙂 伪𝙏𝙧𝙖𝙙𝙚𝙧真𝙃𝙤𝙙𝙡𝙚𝙧 ｜ 加密信仰传教士已𝘼𝙇𝙇 𝙄𝙉 ₿𝙏𝘾+𝘼𝙄 ｜ 观点明确 从不马后炮 模棱两可｜致力于科技金融投资交易科普｜抽象派行为艺术大师｜多轮牛熊转换趋势吹号手｜𝙇𝙋𝙋𝙇(老婆跑了)模型代言人",
+      "followersCount": 58110,
+      "friendsCount": 3495,
+      "location": "距离你384400km 🌕 🚪520/999/1314"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/hazenlee/status/2003906181778268221",
+    "fullText": "我操了，你们刚刚，是不是谁许愿要一个185八块腹肌18cmjb霸道总裁猛男做男朋友了？我他妈差点让圣诞老人抓走了，你知道吗！😡"
+  },
+  {
+    "user": {
+      "screenName": "Polymarket",
+      "name": "Polymarket",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2002109346289799169/16U890lU_normal.jpg",
+      "description": "The World's Largest Prediction Market. Trade politics, news, culture, sports & tech. Discord: https://t.co/tzKrbDf7dZ",
+      "followersCount": 864490,
+      "friendsCount": 5542,
+      "location": ""
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2003591809109241857/vid/avc1/576x1024/-kZ-_xWNMlYcmQbb.mp4?tag=21"
+    ],
+    "tweetUrl": "https://x.com/Polymarket/status/2003905294804701536",
+    "fullText": "JUST IN: Thousands from across Africa arrive in Ghana in hopes of securing a spot on Ebo Noah’s Arc for tomorrow’s claimed rapture &amp; global flood.\n\n0.1% chance it happens.\n\nhttps://t.co/pFwQu4VqGt"
+  },
+  {
+    "user": {
+      "screenName": "IfindRetards",
+      "name": "Retard Finder",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2001039764754182144/qbkTUipd_normal.jpg",
+      "description": "I find retards and their posts on X.",
+      "followersCount": 819010,
+      "friendsCount": 790,
+      "location": "Coming for you "
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/IfindRetards/status/2003904952184496548",
+    "fullText": "Merry Christmas 🎄"
+  },
+  {
+    "user": {
+      "screenName": "blknoiz06",
+      "name": "Ansem",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1961642107187109888/o0B468ZS_normal.jpg",
+      "description": "coldest nigga breathing",
+      "followersCount": 783938,
+      "friendsCount": 8720,
+      "location": "onchain 🌒"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/blknoiz06/status/2003904877135908960",
+    "fullText": "what's the egyptian equivalent of the old testament"
+  },
+  {
+    "user": {
+      "screenName": "ZoeyWeb3_",
+      "name": "Zoey",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1994678672704561152/ZBWnQq_C_normal.jpg",
+      "description": "发财频道： https://t.co/ZjL8sDFKks 👩🏻‍💻Degen Trader",
+      "followersCount": 11928,
+      "friendsCount": 718,
+      "location": "关注我的都发财"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2003904141102624768/vid/avc1/1080x1920/V3n7b9sugk-eKETc.mp4?tag=21"
+    ],
+    "tweetUrl": "https://x.com/ZoeyWeb3_/status/2003904566602203347",
+    "fullText": "Bitget 圣诞礼盒开箱Vlog📦 \n\n感谢@JackChen214 @Bitget_zh @GracyBitget @xiejiayinBitget \n\n祝大家圣诞快乐🧑‍🎄 \n🎄Merry Cryptomas，HODL all the way！ https://t.co/eyocJbxvfN"
+  },
+  {
+    "user": {
+      "screenName": "whale_alert",
+      "name": "Whale Alert",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1132579647374417921/9ifIGXEQ_normal.png",
+      "description": "Live reporting on large and interesting #blockchain transactions as they happen. Create your own alerts for over 100 coins on https://t.co/wQEfstUfLm",
+      "followersCount": 2848841,
+      "friendsCount": 13,
+      "location": "Worldwide"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/whale_alert/status/2003903915440370052",
+    "fullText": "🚨 🚨 🚨 🚨 🚨 🚨 🚨 🚨  2,188 #BTC (191,425,059 USD) transferred from unknown wallet to unknown new wallet\n\nhttps://t.co/wKvzuZEmPb"
+  },
+  {
+    "user": {
+      "screenName": "WuBlockchain",
+      "name": "Wu Blockchain",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1763570636201615360/fuFapqAI_normal.jpg",
+      "description": "Important Crypto News mainly Asia\nLead by Colin Wu 吴说\nMore Channels: https://t.co/EWW3fUtX5v \nContact: Tele colinwu1989 \nnon-financial advice",
+      "followersCount": 548396,
+      "friendsCount": 883,
+      "location": ""
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2003903715028488193/vid/avc1/1820x1024/Z4LLsLVF9s3a06eA.mp4?tag=21"
+    ],
+    "tweetUrl": "https://x.com/WuBlockchain/status/2003903896536891475",
+    "fullText": "Vitalik Buterin: Warns of \"Walled Garden\" Risks from Mini Apps\n\nAt Pragma Taipei 2025, Vitalik Buterin warned that \"Mini Apps\" could create \"Walled Gardens.\" He noted that relying on proprietary APIs rather than standardized interfaces and \"bringing your own keys\" risks locking https://t.co/iNlBJqPyrQ"
+  },
+  {
+    "user": {
+      "screenName": "theinformation",
+      "name": "The Information",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1747484907163516928/d_K3Z_hH_normal.jpg",
+      "description": "The most authoritative publication covering tech that high-powered tech execs and founders read daily.\n\nTITV M-F at 1 ET: https://t.co/M0NywExPjR",
+      "followersCount": 134778,
+      "friendsCount": 703,
+      "location": "San Francisco"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2003903606685143040/vid/avc1/1280x720/T2Bq3ilU1BOvHJ0W.mp4?tag=14"
+    ],
+    "tweetUrl": "https://x.com/theinformation/status/2003903670648209732",
+    "fullText": "AWS Director of Technology Shaown Nandi explains how unlocking data is key for AI.\n\n“Instead of saying what model we should use, start to say how do we unlock our data?”\n\nFull episode: https://t.co/FfOjN4eamR. Presented by @awscloud https://t.co/0D20PyBh53"
+  },
+  {
+    "user": {
+      "screenName": "TheOnion",
+      "name": "The Onion",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1517492889852461056/bEnqsvVR_normal.jpg",
+      "description": "America's Finest News Source. A @globtetrahedron subsidiary.\n\nGet the paper delivered to your door: https://t.co/jJP2Apbhe8",
+      "followersCount": 10595407,
+      "friendsCount": 8,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/TheOnion/status/2003903592781033582",
+    "fullText": "Jealous Trump Throws Own State Funeral To Upstage Carter’s https://t.co/QeVw3DwvOJ"
+  },
+  {
+    "user": {
+      "screenName": "SeekingAlpha",
+      "name": "Seeking Alpha",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/534299535552421888/eHacq8EQ_normal.png",
+      "description": "A global leader in crowdsourced U.S. investment research, powered by one of the largest and most vibrant investor communities.",
+      "followersCount": 314614,
+      "friendsCount": 234,
+      "location": "New York, NY"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/SeekingAlpha/status/2003903521201307672",
+    "fullText": "Nvidia, Broadcom 'ripe for outperformance' in 2026, Cantor Fitzgerald says $GOOG $NVDA $AVGO #finance #trading #stockmarket https://t.co/2DzZd8elyv"
+  },
+  {
+    "user": {
+      "screenName": "AltCryptoGems",
+      "name": "Sjuul | AltCryptoGems",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1950543002721533952/y0gABDyF_normal.jpg",
+      "description": "Invest in the unexpected || Founder of @AltCryptoCast, @AltCryptoTalk & @KollectAgency || DM for Business Enquiries💰",
+      "followersCount": 477155,
+      "friendsCount": 1905,
+      "location": "Dubai"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/AltCryptoGems/status/2003902998553280660",
+    "fullText": "When I get caught daydreaming by the Mrs, she always asks what I’m thinking about…\n\nIt’s always the same answer.\n\nThe bull run, where my portfolio is pumping 100x and beyond… 🥹"
+  },
+  {
+    "user": {
+      "screenName": "SeekingAlpha",
+      "name": "Seeking Alpha",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/534299535552421888/eHacq8EQ_normal.png",
+      "description": "A global leader in crowdsourced U.S. investment research, powered by one of the largest and most vibrant investor communities.",
+      "followersCount": 314614,
+      "friendsCount": 234,
+      "location": "New York, NY"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/SeekingAlpha/status/2003899742523461763",
+    "fullText": "Will Santa Claus Rally For Top AI Stocks? $VFF $CRDO $MU #markets #business #finance https://t.co/RBgT8ZBD1F"
+  },
+  {
+    "user": {
+      "screenName": "theinformation",
+      "name": "The Information",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1747484907163516928/d_K3Z_hH_normal.jpg",
+      "description": "The most authoritative publication covering tech that high-powered tech execs and founders read daily.\n\nTITV M-F at 1 ET: https://t.co/M0NywExPjR",
+      "followersCount": 134778,
+      "friendsCount": 703,
+      "location": "San Francisco"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/theinformation/status/2003899739905917414",
+    "fullText": "Dealmaker: OpenAI is seeking $100 billion in a new funding round that would value the company at approximately $750 billion before the cash infusion. Read more from @Katie_Roof: https://t.co/nqpLQwcWQU"
+  },
+  {
+    "user": {
+      "screenName": "NodYoung",
+      "name": "Nod",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1935205913083920384/Ot3jWepL_normal.jpg",
+      "description": "→ Design Forward →",
+      "followersCount": 29381,
+      "friendsCount": 39,
+      "location": "California, USA"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/NodYoung/status/2003899526680289301",
+    "fullText": "这两天看到一些读者对我新书的讨论和疑问，主要集中在两个方面：一是写作中是否使用了 AI，二是书的结构、文字密度和图像比例。\n\n我觉得有必要真诚地回应一下大家。\n\n先说语言风格。"
+  },
+  {
+    "user": {
+      "screenName": "whale_alert",
+      "name": "Whale Alert",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1132579647374417921/9ifIGXEQ_normal.png",
+      "description": "Live reporting on large and interesting #blockchain transactions as they happen. Create your own alerts for over 100 coins on https://t.co/wQEfstUfLm",
+      "followersCount": 2848841,
+      "friendsCount": 13,
+      "location": "Worldwide"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/whale_alert/status/2003899353182703823",
+    "fullText": "🔥 🔥 🔥 🔥 🔥  100,000,000 #USDC (100,016,299 USD) burned at USDC Treasury\n\nhttps://t.co/kQ7YrmSvai"
+  },
+  {
+    "user": {
+      "screenName": "wallet",
+      "name": "OKX Wallet",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1961251596895227906/o3V4FDLG_normal.jpg",
+      "description": "The crypto wallet for everything onchain. Self-custody is the future.\n\nEngagement is not endorsement.",
+      "followersCount": 1984371,
+      "friendsCount": 413,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/wallet/status/2003898725278560341",
+    "fullText": "Which chain is gaining momentum despite price action?"
+  },
+  {
+    "user": {
+      "screenName": "JamesWynnReal",
+      "name": "James Wynn",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2003425606592253954/nFjbyLJN_normal.jpg",
+      "description": "Made $100M dollars in 70 days harnessing the power of leverage - on chain. I called PEPE at 600k market cap to go to billions and made $25m dollars - on chain.",
+      "followersCount": 481984,
+      "friendsCount": 214,
+      "location": "You can find me here  👉"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G89Gll6aIAA5-AY.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/JamesWynnReal/status/2003897980785684602",
+    "fullText": "The $SPX does NEW ATH!\n \n$6,932.\n \nWen $BTC..\n \n- Wynn 🎅 https://t.co/bOqoanWj5J"
+  },
+  {
+    "user": {
+      "screenName": "ycombinator",
+      "name": "Y Combinator",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1623777064821358592/9CApQWXe_normal.png",
+      "description": "We help founders make something people want. Subscribe to our newsletter: https://t.co/sjqjxxBeLc",
+      "followersCount": 1520573,
+      "friendsCount": 350,
+      "location": "San Francisco, CA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G89GCtRa0AAAueO.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/ycombinator/status/2003897375967076390",
+    "fullText": "“A hacker who has learned what to make, and not just how to make, is extraordinarily powerful.”\n\nhttps://t.co/0cf8SXcIjk https://t.co/1w11tS7dqV"
+  },
+  {
+    "user": {
+      "screenName": "petergyang",
+      "name": "Peter Yang",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1454103621516206083/_klMwpkk_normal.jpg",
+      "description": "I share extremely practical AI tutorials and interviews | Join 140K+ readers at https://t.co/XYKTmGVH14 | Product at Roblox",
+      "followersCount": 158127,
+      "friendsCount": 2001,
+      "location": "Get my best tutorials →"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/petergyang/status/2003896632111415446",
+    "fullText": "Holiday tip - just tell your kids “daddy is the real Santa Claus” and they’ll be extra nice to you all week"
+  },
+  {
+    "user": {
+      "screenName": "WatcherGuru",
+      "name": "Watcher.Guru",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1641221212578754562/DfiC0KW2_normal.png",
+      "description": "Watcher Guru gives you unparalleled, unbiased coverage of all-things crypto & finance in real-time | Tweets Are Not Financial Advice | @BTCPrice",
+      "followersCount": 3650310,
+      "friendsCount": 3,
+      "location": "Texas, USA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G89EyFdWIAAU23K.jpg",
+      "https://pbs.twimg.com/media/G89EyFdXcAARI0z.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/WatcherGuru/status/2003895989724500220",
+    "fullText": "JUST IN: 🇺🇸 S&amp;P 500 closes at new all-time high of 6,932 https://t.co/Spab9TC5W4"
+  },
+  {
+    "user": {
+      "screenName": "SeekingAlpha",
+      "name": "Seeking Alpha",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/534299535552421888/eHacq8EQ_normal.png",
+      "description": "A global leader in crowdsourced U.S. investment research, powered by one of the largest and most vibrant investor communities.",
+      "followersCount": 314614,
+      "friendsCount": 234,
+      "location": "New York, NY"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/SeekingAlpha/status/2003895960150434180",
+    "fullText": "Omeros surges on FDA nod for transplant therapy (update) $OMER #investing #finance #economy https://t.co/tnpQu46rB4"
+  },
+  {
+    "user": {
+      "screenName": "trylimitless",
+      "name": "Limitless",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1933055667524239360/mqiIx1cj_normal.jpg",
+      "description": "Predict crypto & stock prices with nonstop hourly and daily markets.\n\nTrade anytime, anywhere.\n\n$700M+ traded.\n\nDiscord: https://t.co/doQwSau6RJ",
+      "followersCount": 96715,
+      "friendsCount": 267,
+      "location": "Base"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G89D8_qW4AAT0mM.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/trylimitless/status/2003895805300908157",
+    "fullText": "This and nobody asking me to make something go viral https://t.co/SUmVAjZOc3"
+  },
+  {
+    "user": {
       "screenName": "GavinNewsom",
       "name": "Gavin Newsom",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1405191782984413184/AJ3ar-ad_normal.jpg",
       "description": "Husband to @JenSiebelNewsom and father. 40th Governor of California. Host of podcast This is Gavin Newsom.",
-      "followersCount": 2765318,
+      "followersCount": 2765338,
       "friendsCount": 20592,
       "location": "California"
     },
@@ -22,7 +416,7 @@
       "name": "Bera",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1962898843823230976/6Niy5C-f_normal.jpg",
       "description": "Crypto & Stocks \n\nNfa, dyor.",
-      "followersCount": 29621,
+      "followersCount": 29619,
       "friendsCount": 1994,
       "location": ""
     },
@@ -165,7 +559,7 @@
       "name": "Robert Scoble",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1915614118876504066/zVnfpAMf_normal.jpg",
       "description": "I'm Unaligned | San Francisco AI | Robots, holodecks, BCIs, analysis of new things | Ex-Microsoft, Rackspace, Fast Company | Wrote eight books about the future.",
-      "followersCount": 550457,
+      "followersCount": 550464,
       "friendsCount": 34687,
       "location": "My Free Newsletter 👉"
     },
@@ -517,7 +911,7 @@
       "name": "H.E. Justin Sun 👨‍🚀 🌞",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1954484454942298112/gmiMeJRS_normal.jpg",
       "description": "👨‍💻 Entrepreneur | 🤵‍♂️ Diplomat | 👨‍🚀 Astronaut #712 | 🍌 Art Collector | Founder @trondao | Advisor @BitTorrent & @htx_global | Chinese @sunyuchentron",
-      "followersCount": 3882805,
+      "followersCount": 3882762,
       "friendsCount": 3492,
       "location": "Geneva, Switzerland"
     },
@@ -1660,7 +2054,7 @@
       "name": "颜驰.Bit",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1940379875925180416/LNtpw-Cy_normal.jpg",
       "description": "#Binance 币安中文区年度最佳交易/技术分析博主 |  🔸24年币安交易大赛第二名🥈 社区交流群：https://t.co/bEdxcvnTnK 🟣 https://t.co/WSOJEY6a3A 币安广场作者",
-      "followersCount": 32114,
+      "followersCount": 32116,
       "friendsCount": 970,
       "location": ""
     },
@@ -2623,7 +3017,7 @@
       "name": "Tina_在路上",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1921902196557545472/JEMLIBbE_normal.jpg",
       "description": "Web3故事会，交易所7年打工人，毕业于Okx、Bybit。 环游世界中~ （有问必答，不便公开的就私信复）",
-      "followersCount": 12342,
+      "followersCount": 12398,
       "friendsCount": 1560,
       "location": "Yau Tsim Mong District"
     },
@@ -5626,7 +6020,7 @@
       "name": "Retard Finder",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2001039764754182144/qbkTUipd_normal.jpg",
       "description": "I find retards and their posts on X.",
-      "followersCount": 818976,
+      "followersCount": 819010,
       "friendsCount": 790,
       "location": "Coming for you "
     },
@@ -9736,7 +10130,7 @@
       "name": "DeFi Dad ⟠ defidad.eth",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1613764698775633921/72tL5YzB_normal.jpg",
       "description": "⟠ DeFi super-user, educator, angel\n🎙️ Host/Producer of The @Edge_Pod\n📰 FREE Newsletter: https://t.co/Pm9e0APe9B\n📺 Watch on https://t.co/txxZZAhqsW\n💫 Invests at @4RCapital",
-      "followersCount": 176988,
+      "followersCount": 176989,
       "friendsCount": 6073,
       "location": ""
     },
