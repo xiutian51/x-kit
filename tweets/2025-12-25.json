@@ -1,11 +1,280 @@
 [
   {
     "user": {
+      "screenName": "hotbabyrebao",
+      "name": "web3热宝💢",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1963916711624572928/LmF0uT-X_normal.jpg",
+      "description": "爱好meme/合约｜Web3+AI🔸｜币圈认知升级 ｜新手入门 ⭐️ 币圈开户汇总：https://t.co/BXrl8ZIkmH📖孙宇晨读书会会长 🔸所有项目DYOR,不构成投资建议💛PTCG宝可梦发烧友",
+      "followersCount": 69728,
+      "friendsCount": 1453,
+      "location": "商务合作👉🏻"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/hotbabyrebao/status/2004298810311528502",
+    "fullText": "黄金最近有点高，刚刚想去MSX开个黄金的合约来对冲一下我的现货黄金的，发现还没上这个功能，但是估计是快了，我发现麦通已经是快可以覆盖所有的交易场景了，美股黄金币，白银估计快了，以后还会有啥呢？"
+  },
+  {
+    "user": {
+      "screenName": "DefiLlama",
+      "name": "DefiLlama.com",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1915756547705036800/rAeLzZqs_normal.jpg",
+      "description": "Open and transparent DeFi analytics. @DLNews for news\n\nFor support: https://t.co/skXWYXnpK4",
+      "followersCount": 363070,
+      "friendsCount": 24,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G9Cy3igWMAADRwj.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/DefiLlama/status/2004298517490368604",
+    "fullText": "Now tracking @Neverland_Money pools on our Yield Dashboard https://t.co/a7FdyBPBrc"
+  },
+  {
+    "user": {
+      "screenName": "DefiLlama",
+      "name": "DefiLlama.com",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1915756547705036800/rAeLzZqs_normal.jpg",
+      "description": "Open and transparent DeFi analytics. @DLNews for news\n\nFor support: https://t.co/skXWYXnpK4",
+      "followersCount": 363070,
+      "friendsCount": 24,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G9CyDibWgAAM2s9.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/DefiLlama/status/2004297842643685820",
+    "fullText": "Now tracking @628Labs on our Fees &amp; Revenue Dashboard https://t.co/m96PVkHPoq"
+  },
+  {
+    "user": {
+      "screenName": "CryptoWhaleLive",
+      "name": "Hyperliquid Alpha Keys 🔑",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1965718483590864896/yLheDTvE_normal.jpg",
+      "description": "🔑 Daily Hyperliquid profit signals. We decode whale moves into repeatable alpha. NFA. #Hyperliquid #BTC #ETH",
+      "followersCount": 2878,
+      "friendsCount": 24,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/CryptoWhaleLive/status/2004297672258150826",
+    "fullText": "🐋 24h Profit Leaderboard: #1\n\nWallet: 0xffbd3e51ae0e2c4407434e157965c064f2a11628\nOn-chain Assets: $49.45M\nSymbol: ENA\nPnL (flip short→long): $1,267,897 USDC\nTx: https://t.co/U8pEu3yfjT\n———\nLargest position: $87.49M｜Long BTC 20x｜Entry 91,009｜Liq 86,893"
+  },
+  {
+    "user": {
+      "screenName": "coinbase",
+      "name": "Coinbase 🛡️",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2001689632770265091/WCLcJRFh_normal.jpg",
+      "description": "The future of finance is on Coinbase. For support: @CoinbaseSupport",
+      "followersCount": 6695507,
+      "friendsCount": 160,
+      "location": "Remote First"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/coinbase/status/2004296351316918428",
+    "fullText": "Monitoring the situation for the optimal time to bring up tokenized equities at the dinner table."
+  },
+  {
+    "user": {
+      "screenName": "TheOnion",
+      "name": "The Onion",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1517492889852461056/bEnqsvVR_normal.jpg",
+      "description": "America's Finest News Source. A @globtetrahedron subsidiary.\n\nGet the paper delivered to your door: https://t.co/jJP2Apbhe8",
+      "followersCount": 10597611,
+      "friendsCount": 8,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/TheOnion/status/2004296142847127728",
+    "fullText": "Home Depot Introduces New 12-Foot-Tall Baby Jesus Skeleton https://t.co/3QAIJUKs0z"
+  },
+  {
+    "user": {
+      "screenName": "DefiLlama",
+      "name": "DefiLlama.com",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1915756547705036800/rAeLzZqs_normal.jpg",
+      "description": "Open and transparent DeFi analytics. @DLNews for news\n\nFor support: https://t.co/skXWYXnpK4",
+      "followersCount": 363070,
+      "friendsCount": 24,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G9Cv2LRWQAE3lCZ.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/DefiLlama/status/2004295206926274757",
+    "fullText": "Now tracking @ValiantTrade on our our spot Volume Dashboard https://t.co/AYiPT1o6QQ"
+  },
+  {
+    "user": {
+      "screenName": "datadashboards",
+      "name": "dash",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1895800436629663744/DZGOxZAX_normal.jpg",
+      "description": "the revolution will not be centralized | dunedatadash@gmail.com | NFA\n\ncofounder @ https://t.co/ZSVW5Pa8dF",
+      "followersCount": 2404,
+      "friendsCount": 414,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G9CvOgaWcAA_M5a.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/datadashboards/status/2004294765106372779",
+    "fullText": "Almost $2.5M in spends done by @AviciMoney this month. Looks like they'll easily close above.\n\nLast month they did $1.9M so this one should be 20-30% higher. https://t.co/xHMn9nJIG0"
+  },
+  {
+    "user": {
+      "screenName": "InvCryptoDaily",
+      "name": "Investor's Crypto Daily",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1959028769303216128/ET7nj3C6_normal.jpg",
+      "description": "Cryptocurrency hub strictly for traditional investors.\nIt's time to get off the sidelines",
+      "followersCount": 96294,
+      "friendsCount": 6208,
+      "location": "Sarasota, Florida"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/InvCryptoDaily/status/2004291722755379705",
+    "fullText": "Bitcoin faces a gloomy Christmas: It's poised for its worst Q4 since 7 years https://t.co/rmEf3kzaG0"
+  },
+  {
+    "user": {
+      "screenName": "zhang_bj_",
+      "name": "老张🤟与神对话",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1636998250354843648/BDj2gX3H_normal.jpg",
+      "description": "觉者，感受着空气的流动，水的滋润，阳光照耀，感知着你的心，感悟着世间沧桑，妄念自己为“哆囉夜多”，能照亮众生的心灵，让人们摆脱痛苦，得到真正的幸福。",
+      "followersCount": 66908,
+      "friendsCount": 547,
+      "location": "New York, USA"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/zhang_bj_/status/2004290953406980311",
+    "fullText": "知道的不要全说，听到的不要全信。"
+  },
+  {
+    "user": {
+      "screenName": "zhang_bj_",
+      "name": "老张🤟与神对话",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1636998250354843648/BDj2gX3H_normal.jpg",
+      "description": "觉者，感受着空气的流动，水的滋润，阳光照耀，感知着你的心，感悟着世间沧桑，妄念自己为“哆囉夜多”，能照亮众生的心灵，让人们摆脱痛苦，得到真正的幸福。",
+      "followersCount": 66908,
+      "friendsCount": 547,
+      "location": "New York, USA"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/zhang_bj_/status/2004290510043992344",
+    "fullText": "让你等太久的人，最后都不会选择你。"
+  },
+  {
+    "user": {
+      "screenName": "Fetch_ai",
+      "name": "Fetch.ai",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1829125609353551872/5GnVEkRB_normal.png",
+      "description": "Try https://t.co/HQ2Tj9lbnW now.\n\nFounding member of the @ASI_Alliance",
+      "followersCount": 264278,
+      "friendsCount": 757,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/Fetch_ai/status/2004288557372875173",
+    "fullText": "Turn your brand into a 24/7 intelligent ambassador. Start here: https://t.co/uUHPVsyg2T"
+  },
+  {
+    "user": {
+      "screenName": "AltCryptoGems",
+      "name": "Sjuul | AltCryptoGems",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1950543002721533952/y0gABDyF_normal.jpg",
+      "description": "Invest in the unexpected || Founder of @AltCryptoCast, @AltCryptoTalk & @KollectAgency || DM for Business Enquiries💰",
+      "followersCount": 477070,
+      "friendsCount": 1905,
+      "location": "Dubai"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/AltCryptoGems/status/2004288035802976560",
+    "fullText": "Has anyone gone the whole evening without crypto coming up in conversation? 😂"
+  },
+  {
+    "user": {
+      "screenName": "cryppinfluence",
+      "name": "Crypp",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1916074200415997952/7XPT66dk_normal.jpg",
+      "description": "Founder @TrySweepFinance | Thread Writer | Chasing DeFi Alpha | 25/8 on X | Web3 since 2017 | Researching narratives and sharing my thoughts",
+      "followersCount": 48599,
+      "friendsCount": 1071,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G9CpFgEboAErlf-.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/cryppinfluence/status/2004287749785112848",
+    "fullText": "Although 2025 did not go as smoothly as I would have liked, the momentum I built up in 2024 allowed me to take it easy this year\n\nI went through burnout, mental health issues, and setbacks, all so that I could reignite my passion in 2026\n\nI appreciate everyone who was there for https://t.co/tLpLMxe3eW"
+  },
+  {
+    "user": {
+      "screenName": "SonicLabs",
+      "name": "Sonic",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2001710392750542850/MfTGFucS_normal.jpg",
+      "description": "The highest-performing EVM blockchain designed for developers to scale and earn. Eco @SonicEcosystem. Presence @SonicWorldHQ.",
+      "followersCount": 829308,
+      "friendsCount": 394,
+      "location": ""
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2004287011767947264/vid/avc1/540x540/m0vYY1efVAQAj3I1.mp4?tag=23"
+    ],
+    "tweetUrl": "https://x.com/SonicLabs/status/2004287280761217378",
+    "fullText": "Merry Christmas from all of us to you! 🎄 https://t.co/PpnM6Ube59"
+  },
+  {
+    "user": {
+      "screenName": "CryptoApprenti1",
+      "name": "Dr.Hash“Wesley”",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1773897198918651904/aSDYiSAb_normal.jpg",
+      "description": "Founder of Block Infinity Fund, Poker player, TraderChinese whale, @drhashclub, 新人首选 #OKX，安全简单: https://t.co/447DQJdoWj",
+      "followersCount": 129749,
+      "friendsCount": 1176,
+      "location": "t.me/DrHashCall"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G9Cnj12bEAAilaS.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/CryptoApprenti1/status/2004286071329456522",
+    "fullText": "日月同错 感觉是国漫巅峰，不比一人之下差。三个主角最喜欢高皓光 https://t.co/7wYFiuImy6"
+  },
+  {
+    "user": {
+      "screenName": "IOHK_Charles",
+      "name": "Charles Hoskinson",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2002776094735577092/QoKKI9pr_normal.jpg",
+      "description": "Dire Wolf Mode | Sateré-Mawé Warrior | Honorary Berkutchi\n\n8830 AC64 17F2 5164 195C 05DE 21E3 E377 13E1 5586 | CEO of IOG and King of the Rats",
+      "followersCount": 1072296,
+      "friendsCount": 1584,
+      "location": "Boulder, Colorado"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/IOHK_Charles/status/2004285861635281076",
+    "fullText": "Writing between 80-100 pages a day of technical documents for Midnight, getting ready for internal January workshops. Coffee, Remixed Eurodance, and some serious effort. \n\nMidnight is going to be the Manhattan Project of PET, Chain Abstraction, and Smart Compliance. 2026's body"
+  },
+  {
+    "user": {
       "screenName": "WuBlockchain",
       "name": "Wu Blockchain",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1763570636201615360/fuFapqAI_normal.jpg",
       "description": "Important Crypto News mainly Asia\nLead by Colin Wu 吴说\nMore Channels: https://t.co/EWW3fUtX5v \nContact: Tele colinwu1989 \nnon-financial advice",
-      "followersCount": 548468,
+      "followersCount": 548486,
       "friendsCount": 883,
       "location": ""
     },
@@ -20,7 +289,7 @@
       "name": "Crypto.com",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1873578819833204736/t-8bwuwM_normal.jpg",
       "description": "The best place to buy, sell, and pay with crypto #BTC #CRO #DeFi #FFTB",
-      "followersCount": 3064578,
+      "followersCount": 3064526,
       "friendsCount": 495,
       "location": ""
     },
@@ -37,7 +306,7 @@
       "name": "吴说区块链",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1763571513553543168/swT8lq9S_normal.jpg",
       "description": "吴说中文推特：接近真相，更可信赖\n专业可信的行业新闻，优质深度内容推荐\n吴说所有内容渠道、播客、APP 等：https://t.co/rVoqryXVjk\n联系我们 TG: colinwu1989",
-      "followersCount": 170512,
+      "followersCount": 170522,
       "friendsCount": 1,
       "location": ""
     },
@@ -52,8 +321,8 @@
       "name": "DEGEN NEWS",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2004177666992197632/wv1NJLcQ_normal.jpg",
       "description": "Reporting DEGEN nonsense. Powered by @Polymarket. Disclaimer in expanded bio. TG: https://t.co/j1BQdcJjFU",
-      "followersCount": 419233,
-      "friendsCount": 34962,
+      "followersCount": 419260,
+      "friendsCount": 34961,
       "location": "DEGEN space"
     },
     "images": [
@@ -69,7 +338,7 @@
       "name": "DefiLlama.com",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1915756547705036800/rAeLzZqs_normal.jpg",
       "description": "Open and transparent DeFi analytics. @DLNews for news\n\nFor support: https://t.co/skXWYXnpK4",
-      "followersCount": 363063,
+      "followersCount": 363070,
       "friendsCount": 24,
       "location": ""
     },
@@ -86,7 +355,7 @@
       "name": "Circle",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1719446730091962368/Bl01sQsB_normal.png",
       "description": "Building the Internet Financial Platform — powered by USDC, Arc, and Circle Payments Network. Disclosure: https://t.co/7L62d1pLE0",
-      "followersCount": 260953,
+      "followersCount": 260947,
       "friendsCount": 460,
       "location": "Remote First"
     },
@@ -103,7 +372,7 @@
       "name": "Binance",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1940131561103347712/f5y2qENu_normal.jpg",
       "description": "The world’s leading blockchain ecosystem and digital asset exchange | #Binance #BNB | Support: @BinanceHelpDesk | Posts are not directed towards UK users.",
-      "followersCount": 15228027,
+      "followersCount": 15228348,
       "friendsCount": 573,
       "location": ""
     },
@@ -120,7 +389,7 @@
       "name": "The Onion",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1517492889852461056/bEnqsvVR_normal.jpg",
       "description": "America's Finest News Source. A @globtetrahedron subsidiary.\n\nGet the paper delivered to your door: https://t.co/jJP2Apbhe8",
-      "followersCount": 10597517,
+      "followersCount": 10597611,
       "friendsCount": 8,
       "location": ""
     },
@@ -135,7 +404,7 @@
       "name": "Walrus 🦭/acc",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2000614090507497486/t976-LdN_normal.jpg",
       "description": "The developer platform enabling data markets for the AI era.\nChain-agnostic and built on @SuiNetwork. \nAccount managed by Walrus Foundation.",
-      "followersCount": 418028,
+      "followersCount": 418031,
       "friendsCount": 200,
       "location": "Sui"
     },
@@ -150,7 +419,7 @@
       "name": "Machi Big Brother",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1610342982187900928/84eyMoam_normal.jpg",
       "description": "",
-      "followersCount": 210027,
+      "followersCount": 210031,
       "friendsCount": 878,
       "location": ""
     },
@@ -180,7 +449,7 @@
       "name": "Laura Shin",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1539462748173746176/hxR80FYT_normal.png",
       "description": "Crypto journalist 🎧 Host @unchained_pod 📚 Author, The Cryptopians 💌 Sign up https://t.co/gf90Q5GrXy Ads sponsorships@unchainedcrypto.com",
-      "followersCount": 281316,
+      "followersCount": 281320,
       "friendsCount": 5000,
       "location": "Crypto Twitter"
     },
@@ -195,7 +464,7 @@
       "name": "INS",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1911676392455954432/Q0bN1fqk_normal.jpg",
       "description": "Building @XLayerOfficial @INSWAPxlayer",
-      "followersCount": 863,
+      "followersCount": 864,
       "friendsCount": 669,
       "location": "XLayer"
     },
@@ -212,7 +481,7 @@
       "name": "Sjuul | AltCryptoGems",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1950543002721533952/y0gABDyF_normal.jpg",
       "description": "Invest in the unexpected || Founder of @AltCryptoCast, @AltCryptoTalk & @KollectAgency || DM for Business Enquiries💰",
-      "followersCount": 477076,
+      "followersCount": 477070,
       "friendsCount": 1905,
       "location": "Dubai"
     },
@@ -229,7 +498,7 @@
       "name": "BloFin Exchange",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2003098858578911232/fcQJbaFy_normal.jpg",
       "description": "Where whales are made. | #BloFin offers premium perps & futures #trading with over 500+ USDT-M trading pairs | @BloFin_Listing for updates.",
-      "followersCount": 113936,
+      "followersCount": 113933,
       "friendsCount": 361,
       "location": ""
     },
@@ -276,7 +545,7 @@
       "name": "OKX",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1968722816154345472/vEj4j3o9_normal.jpg",
       "description": "A new alternative for your crypto journey | Self-custody & dApps: @Wallet | Support: @OKXHelpDesk | UK users: @OKX_UK",
-      "followersCount": 5697278,
+      "followersCount": 5697402,
       "friendsCount": 325,
       "location": ""
     },
@@ -293,7 +562,7 @@
       "name": "The Information",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1747484907163516928/d_K3Z_hH_normal.jpg",
       "description": "The most authoritative publication covering tech that high-powered tech execs and founders read daily.\n\nTITV M-F at 1 ET: https://t.co/M0NywExPjR",
-      "followersCount": 134984,
+      "followersCount": 135010,
       "friendsCount": 703,
       "location": "San Francisco"
     },
@@ -310,7 +579,7 @@
       "name": "郭宇 guoyu.eth",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1870511184761483265/QO7R0Ow3_normal.jpg",
       "description": "Retired. 只活一次等于没活。",
-      "followersCount": 153772,
+      "followersCount": 153771,
       "friendsCount": 517,
       "location": "東京 港区"
     },
@@ -329,7 +598,7 @@
       "name": "Polymarket",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2002109346289799169/16U890lU_normal.jpg",
       "description": "The World's Largest Prediction Market. Trade politics, news, culture, sports & tech. Discord: https://t.co/tzKrbDf7dZ",
-      "followersCount": 866392,
+      "followersCount": 866496,
       "friendsCount": 5543,
       "location": ""
     },
@@ -344,7 +613,7 @@
       "name": "Zo (hiring) 🐦‍⬛",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1818283535708336128/eJ54TkeA_normal.jpg",
       "description": "nesting @blackwing_fi, former code slinger at @meta, pro 🪂, currently📍🗽",
-      "followersCount": 28351,
+      "followersCount": 28352,
       "friendsCount": 3670,
       "location": "New York City, NY"
     },
@@ -376,8 +645,8 @@
       "name": "Claudia",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1921669746501500928/2itH34AD_normal.jpg",
       "description": "Fiat, Pay, Card @Bybit_official",
-      "followersCount": 17470,
-      "friendsCount": 661,
+      "followersCount": 17471,
+      "friendsCount": 654,
       "location": ""
     },
     "images": [],
@@ -391,7 +660,7 @@
       "name": "EigenCloud",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1944794158931095552/R98nm3La_normal.jpg",
       "description": "Powering the world with Verifiable AI.\n\nFrom apps to agents to systems.\n\nBuild Anything. Verify Everything.\n\nGet started today: https://t.co/Dg3fYtOEBT",
-      "followersCount": 317092,
+      "followersCount": 317085,
       "friendsCount": 352,
       "location": "Ethereum"
     },
@@ -425,7 +694,7 @@
       "name": "Bera",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1962898843823230976/6Niy5C-f_normal.jpg",
       "description": "Crypto & Stocks \n\nNfa, dyor.",
-      "followersCount": 29644,
+      "followersCount": 29647,
       "friendsCount": 1996,
       "location": ""
     },
@@ -506,7 +775,7 @@
       "name": "Binance",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1940131561103347712/f5y2qENu_normal.jpg",
       "description": "The world’s leading blockchain ecosystem and digital asset exchange | #Binance #BNB | Support: @BinanceHelpDesk | Posts are not directed towards UK users.",
-      "followersCount": 15228027,
+      "followersCount": 15228348,
       "friendsCount": 573,
       "location": ""
     },
@@ -696,8 +965,8 @@
       "name": "Phantom",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1973036509449121792/ePaMAzyA_normal.jpg",
       "description": "The crypto app for everyone. Get support at https://t.co/4xgbjivbm2\nNot for UK users. See @phantom__UK",
-      "followersCount": 943328,
-      "friendsCount": 1504,
+      "followersCount": 943553,
+      "friendsCount": 1507,
       "location": ""
     },
     "images": [
@@ -1003,7 +1272,7 @@
       "name": "redphone ☎️",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1920927361438044160/vwXihuHv_normal.jpg",
       "description": "Archivist-poet of acceleration. Helping crypto x AI startups tell their stories at @delphi_labs. Proposed BRC-20. Mbr @pleasrDAO ✨ https://t.co/QVtuTKUeHQ",
-      "followersCount": 62176,
+      "followersCount": 62175,
       "friendsCount": 7588,
       "location": "The Metaverse"
     },
@@ -1210,7 +1479,7 @@
       "name": "Tata",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2000971017737658369/odA7v9az_normal.jpg",
       "description": "不和丑人做朋友",
-      "followersCount": 19152,
+      "followersCount": 19158,
       "friendsCount": 77,
       "location": ""
     },
@@ -4162,7 +4431,7 @@
       "name": "AB Kuai.Dong",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1747252669897691136/wS_-7gEt_normal.jpg",
       "description": "热爱家庭，热爱研究，2016 入圈从业｜Ex @MeStar_Game @zkGamesClub @BlockBeatsAsia @sylo 元宝网｜已签约 币安广场",
-      "followersCount": 97505,
+      "followersCount": 97508,
       "friendsCount": 543,
       "location": "🇯🇵 Tokyo , Japan"
     },
@@ -7909,8 +8178,8 @@
       "name": "币圈老司机🔶BNB",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1896595804724359171/nvH8dGaA_normal.jpg",
       "description": "16年至今年资深币圈玩家，热衷于追寻热点 个人TG：@BQLSJ2023\nOK: https://t.co/ycjeIYG59w\nBN：https://t.co/GemZu6SVtO",
-      "followersCount": 134792,
-      "friendsCount": 1764,
+      "followersCount": 134791,
+      "friendsCount": 1765,
       "location": "日本"
     },
     "images": [
@@ -8073,7 +8342,7 @@
       "name": "Yuyue",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1930996097566265344/OvMn12UY_normal.jpg",
       "description": "Angel Investor | AI\n\n合约PVP指路\n#OKX https://t.co/NXhCSu43si",
-      "followersCount": 102586,
+      "followersCount": 102572,
       "friendsCount": 7333,
       "location": "Crypto"
     },
@@ -11730,7 +11999,7 @@
       "name": "梭教授说",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1937899711350104064/3oRnBU5t_normal.jpg",
       "description": "All in || @lspdao || || virtual|| ||GMGN|| || TG：@hellosuoha  ||\n做一个有耐心的人，做个有耐心的，做个人。",
-      "followersCount": 173906,
+      "followersCount": 173896,
       "friendsCount": 467,
       "location": "Macau"
     },
