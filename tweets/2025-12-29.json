@@ -1,6 +1,594 @@
 [
   {
     "user": {
+      "screenName": "trylimitless",
+      "name": "Limitless",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1933055667524239360/mqiIx1cj_normal.jpg",
+      "description": "Predict crypto & stock prices with nonstop hourly and daily markets.\n\nTrade anytime, anywhere.\n\n$700M+ traded.\n\nDiscord: https://t.co/doQwSau6RJ",
+      "followersCount": 96805,
+      "friendsCount": 267,
+      "location": "Base"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/trylimitless/status/2005584523841724420",
+    "fullText": "gm what tickers are we trading this week?"
+  },
+  {
+    "user": {
+      "screenName": "whale_alert",
+      "name": "Whale Alert",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1132579647374417921/9ifIGXEQ_normal.png",
+      "description": "Live reporting on large and interesting #blockchain transactions as they happen. Create your own alerts for over 100 coins on https://t.co/wQEfstUfLm",
+      "followersCount": 2849103,
+      "friendsCount": 13,
+      "location": "Worldwide"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/whale_alert/status/2005584174388834344",
+    "fullText": "🚨 🚨 🚨 🚨  901 #BTC (79,292,536 USD) transferred from unknown wallet to Coinbase Institutional\n\nhttps://t.co/793veFojBO"
+  },
+  {
+    "user": {
+      "screenName": "Cointime_global",
+      "name": "Cointime",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1677957552829792257/d48jKbXG_normal.jpg",
+      "description": "Cointime: Leading blockchain media, in-depth coverage of the global crypto market\nTG group link: https://t.co/MydtRbCBPT\nCointime Chinese : @cointime_CN",
+      "followersCount": 9806,
+      "friendsCount": 412,
+      "location": "Singapore"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/Cointime_global/status/2005584110077747200",
+    "fullText": "QCP：假期流动性稀薄下BTC价格失真，方向性选择需待流动性回归\nQCP资本分析指出，BTC早盘上涨约2.6%，假日流动性不足导致价格走势失真。比特币更多由现货与永续买盘推动，而非清算驱动。"
+  },
+  {
+    "user": {
+      "screenName": "BruceBlue",
+      "name": "BruceBlue 🌲",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1991512349006790656/sRi-Mbop_normal.jpg",
+      "description": "Retired Venture Capitalist｜Aging Crypto Degen｜Build #BNB｜Taoist｜Ex-GP of @BingVentures ｜Ex-VC @GaorongVC, @ZhenFund",
+      "followersCount": 5164,
+      "friendsCount": 4242,
+      "location": "United States"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G9VDdWGaEAEhvlx.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/BruceBlue/status/2005583383599198717",
+    "fullText": "2026 Mood.\n\nManifesting huge gains. https://t.co/jRGbTkCI8t"
+  },
+  {
+    "user": {
+      "screenName": "TheDefiApe",
+      "name": "APE",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1316553322627846144/1D5ypUwm_normal.jpg",
+      "description": "Crypto Everyday Since 2017. Partners: @polymarket @shufflecom @acebet",
+      "followersCount": 89120,
+      "friendsCount": 10261,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/TheDefiApe/status/2005582791518695561",
+    "fullText": "Liquidity has left the building."
+  },
+  {
+    "user": {
+      "screenName": "BensonTWN",
+      "name": "Benson Sun",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1668618508853477381/dEpVvzxO_normal.jpg",
+      "description": "Founder of @coinkarma_\nFull-time degen, part-time shit poster\n\nhttps://t.co/kibwqND8yQ",
+      "followersCount": 72443,
+      "friendsCount": 840,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/BensonTWN/status/2005582605262242209",
+    "fullText": "現在的大餅處於一個想拉盤，但多頭背後靈永遠甩不乾淨的狀態"
+  },
+  {
+    "user": {
+      "screenName": "cryptocom",
+      "name": "Crypto.com",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1873578819833204736/t-8bwuwM_normal.jpg",
+      "description": "The best place to buy, sell, and pay with crypto #BTC #CRO #DeFi #FFTB",
+      "followersCount": 3064492,
+      "friendsCount": 495,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G9VClv0XQAATAw2.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/cryptocom/status/2005582428975304750",
+    "fullText": "🆕 $PYUSD has been added to DeFi Lending in the https://t.co/vCNztATkNg App\n\n✅ Lend out $PYUSD on @KaminoFinance\n✅ Receive rewards up to 3 times a week\n\nStart Now 👇\nhttps://t.co/zxoROUZuYd \n\n*Yields are variable and not guaranteed. Subject to market conditions, protocol risks, https://t.co/X0RQnRtMrE"
+  },
+  {
+    "user": {
+      "screenName": "0xBeyondLee",
+      "name": "解构师 Beyond",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1930527417329983488/RQePWyBC_normal.jpg",
+      "description": "投资日记，不含任何建议",
+      "followersCount": 38502,
+      "friendsCount": 1899,
+      "location": "Kuala Lumpur"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G9U9Gu4aEAAyXHO.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/0xBeyondLee/status/2005582221244330005",
+    "fullText": "年底复盘才发现，这类平时不会点开的 APP 真的很有用\n\n应用商店搜索「足迹」前几个基本都是\n\n顾名思义，基础功能就是时刻记录每天走过的地方，付费还能记录运动之类的\n\n如果无所谓隐私风险，还可以把相册导入，精准查看照片什么时候在哪里拍的\n\n对于我这样记性不好，又经常四处跑的人来说，太实用了 https://t.co/c2qpllsIJQ"
+  },
+  {
+    "user": {
+      "screenName": "SeekingAlpha",
+      "name": "Seeking Alpha",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/534299535552421888/eHacq8EQ_normal.png",
+      "description": "A global leader in crowdsourced U.S. investment research, powered by one of the largest and most vibrant investor communities.",
+      "followersCount": 314767,
+      "friendsCount": 233,
+      "location": "New York, NY"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/SeekingAlpha/status/2005582077451002176",
+    "fullText": "S&amp;P 500 Outlook, 2026: Stay Alert But Optimistic (Rating Upgrade) $SP500 $SPY $SPX #investing #business #stockmarket https://t.co/1xIBa9wn4w"
+  },
+  {
+    "user": {
+      "screenName": "okxchinese",
+      "name": "OKX中文",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2004404711307575296/w6OwQ4Ni_normal.jpg",
+      "description": "全球领先的加密资产交易平台和Web3平台｜@mancity @mclarenf1 赞助商\n注册领奖励：https://t.co/WUckrWa5WJ\n中文油管频道：https://t.co/qu5oz23Q6o\n*某些产品服务或推广活动不适用于部分地区",
+      "followersCount": 709457,
+      "friendsCount": 323,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G9VARbXawAAEnwm.jpg",
+      "https://pbs.twimg.com/media/G9VATRAaIAApfZ5.png",
+      "https://pbs.twimg.com/media/G9VAVHTaQAA_FDL.png",
+      "https://pbs.twimg.com/media/G9VAYBUbAAAKfd5.png"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/okxchinese/status/2005582006449778900",
+    "fullText": "2025，OKX的安全强化之年💪\n\n从7×24 安全防护、黑地址联动与动态风控，\n到发布《Web3 Security 白皮书》；\n从 xAssets、TEE 等安全审计，\n到极端行情系统稳定运行；\n从拦截钓鱼与恶意APP/插件，\n到POR连续三年准时发布，持续提升透明度\n\nOKX，以工程级安全，守护信任！\n#OKX2025年度账单 https://t.co/nevjso9vMH"
+  },
+  {
+    "user": {
+      "screenName": "alvinnn666",
+      "name": "神隐Alvin（实盘交易主打真实）",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1947144984601440256/_vee-BA2_normal.png",
+      "description": "#OKX 带单2023第一，Bitget交易赛冠军*2|OKX超级节点| OKX数字资产顶级交易所永久手续费减免邀请码alvintw：https://t.co/rISdXaOVzJ| #Binance ：邀请码CKR6ODUG | Bitget邀请码vdw59665 | Q群1053336326",
+      "followersCount": 38304,
+      "friendsCount": 1264,
+      "location": "Hong Kong"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G9VCBXQaMAAfBQm.jpg",
+      "https://pbs.twimg.com/media/G9VCBYObgAAEcv6.jpg",
+      "https://pbs.twimg.com/media/G9VCBYFbEAEnkHI.jpg",
+      "https://pbs.twimg.com/media/G9VCBaVbYAAkjUx.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/alvinnn666/status/2005581804183679072",
+    "fullText": "很多人看我经常玩双逼淫想了解一下\n#双币赢 事实就是将期货包装成了理财产品，详细和举例我放截图了，有问题可以随时评论区或者群里交流\n目前这款产品在 #okx #binance #Bitget 成熟度都是很高的，但是大家尽量只玩btc和eth就好，擅长期权的可以直接玩期权不会被平台抽水\nQ群1053336326 https://t.co/FvHz8oEf7Q"
+  },
+  {
+    "user": {
+      "screenName": "_FORAB",
+      "name": "AB Kuai.Dong",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1747252669897691136/wS_-7gEt_normal.jpg",
+      "description": "热爱家庭，热爱研究，2016 入圈从业｜Ex @MeStar_Game @zkGamesClub @BlockBeatsAsia @sylo 元宝网｜已签约 币安广场",
+      "followersCount": 98073,
+      "friendsCount": 543,
+      "location": "🇯🇵 Tokyo , Japan"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G9VBaFPaIAE6xcq.jpg",
+      "https://pbs.twimg.com/media/G9VBajPaQAE4Sbi.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/_FORAB/status/2005581420790714846",
+    "fullText": "说好了的，贵金属的下跌，就是本轮加密货币的开始。\n\n怎么今天白银和比特币，都先后盖帽了。。 https://t.co/8uvIyGEN7i"
+  },
+  {
+    "user": {
+      "screenName": "WuBlockchain",
+      "name": "Wu Blockchain",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1763570636201615360/fuFapqAI_normal.jpg",
+      "description": "Important Crypto News mainly Asia\nLead by Colin Wu 吴说\nMore Channels: https://t.co/EWW3fUtX5v \nContact: Tele colinwu1989 \nnon-financial advice",
+      "followersCount": 548744,
+      "friendsCount": 883,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/WuBlockchain/status/2005581306340442244",
+    "fullText": "QCP: BTC rose ~2.6% in thin holiday trading, driven by spot and perpetual buying rather than liquidations. Post-expiry positioning shows elevated perpetual funding, suggesting upside gamma risk if BTC sustains above ~$94k. Downside hedging has eased, but with open interest"
+  },
+  {
+    "user": {
+      "screenName": "wublockchain12",
+      "name": "吴说区块链",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1763571513553543168/swT8lq9S_normal.jpg",
+      "description": "吴说中文推特：接近真相，更可信赖\n专业可信的行业新闻，优质深度内容推荐\n吴说所有内容渠道、播客、APP 等：https://t.co/rVoqryXVjk\n联系我们 TG: colinwu1989",
+      "followersCount": 170706,
+      "friendsCount": 1,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/wublockchain12/status/2005581069978853420",
+    "fullText": "QCP 资本分析指出，BTC 早盘上涨约 2.6%，但假期流动性偏薄，价格更多由现货与永续买盘推动，而非清算驱动。Deribit 上 BTC 永续资金费率升至 30% 以上，显示交易商对上行方向处于 short gamma 状态，若价格站稳 94,000 美元，可能放大对冲买盘。下行方面，12 月 85,000"
+  },
+  {
+    "user": {
+      "screenName": "Xbt886",
+      "name": "KBeast.eth",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1996025915311357953/MRuyIMeN_normal.jpg",
+      "description": "来都来了 多吃瓜吧",
+      "followersCount": 15550,
+      "friendsCount": 571,
+      "location": "xyz886 planet"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G9VBKombEAA0i7c.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/Xbt886/status/2005580866685452765",
+    "fullText": "一会ny开盘咋办 https://t.co/ewRutQBhBx"
+  },
+  {
+    "user": {
+      "screenName": "FUNtoken_io",
+      "name": "FUNToken",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1774763162094501888/xLAQajJe_normal.jpg",
+      "description": "🎲 FUNToken - Welcome to the future of GameFi https://t.co/1tYGUKVmHf",
+      "followersCount": 62196,
+      "friendsCount": 7,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/FUNtoken_io/status/2005580674305262021",
+    "fullText": "FUNToken has been nominated for  Best Crypto Token of the Year 🏆 at the CoinGape Crypto Awards!\n\nVoting is LIVE now: https://t.co/p1bF7UWOJ6\n\nHow to vote (takes 30 seconds):\n1️⃣ Sign in with Google\n2️⃣ Find Best Crypto Token of the Year\n3️⃣ Select FUNToken and vote ✅\n\n#FUNToken"
+  },
+  {
+    "user": {
+      "screenName": "Ed_x0101",
+      "name": "Ed_x區塊日記🇭🇰",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1972802138318491648/WBM1Lz_a_normal.jpg",
+      "description": "Mamba Mentality\n链上交易，首选 #Binance 钱包\n币安钱包打狗：https://t.co/azmBxnIqcN\n邀请码省手续费：MMW5LP6Y\nhttps://t.co/8cckBMgbzC",
+      "followersCount": 81198,
+      "friendsCount": 3100,
+      "location": "Hong Kong"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G9VAvO2a4AAmhtU.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/Ed_x0101/status/2005580394914296259",
+    "fullText": "继续努力做交易\n\n我的加密货币故事 https://t.co/Myf7pFiCdl"
+  },
+  {
+    "user": {
+      "screenName": "TheDefiApe",
+      "name": "APE",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1316553322627846144/1D5ypUwm_normal.jpg",
+      "description": "Crypto Everyday Since 2017. Partners: @polymarket @shufflecom @acebet",
+      "followersCount": 89120,
+      "friendsCount": 10261,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/TheDefiApe/status/2005580321451069569",
+    "fullText": "If the Somalian government launched a shitcoin amid all this news it may hit $1M market cap, if they are lucky.\n\nThat's how bad the state of the trenches is."
+  },
+  {
+    "user": {
+      "screenName": "binance",
+      "name": "Binance",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1940131561103347712/f5y2qENu_normal.jpg",
+      "description": "The world’s leading blockchain ecosystem and digital asset exchange | #Binance #BNB | Support: @BinanceHelpDesk | Posts are not directed towards UK users.",
+      "followersCount": 15251256,
+      "friendsCount": 573,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G9VAfq6WIAEiOC3.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/binance/status/2005580128894501236",
+    "fullText": "how much RAM do i need to understand this https://t.co/ddBakdpANq"
+  },
+  {
+    "user": {
+      "screenName": "Crypto4bailout",
+      "name": "🥞C4B Freedom🥞",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1925474734323519488/J_470IzK_normal.jpg",
+      "description": "Crypto since 16, Marketing Consultant | Helping Web 3 projects grow | Airdrop Maxi | Started from $0 Not afraid to try new things | Trying to build for Millions",
+      "followersCount": 139382,
+      "friendsCount": 2001,
+      "location": "Elon Musk"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/Crypto4bailout/status/2005580078013399266",
+    "fullText": "NDLEA stopped me and the officer said he wants to search my car all cos of the dread on my head 😂😂😂😂.\n\nNow I see reason why police harrase alot of youth.\n\nI said no problem go ahead and search. He searched until he has nothing to search. I brought out some bags with boxers"
+  },
+  {
+    "user": {
+      "screenName": "WuBlockchain",
+      "name": "Wu Blockchain",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1763570636201615360/fuFapqAI_normal.jpg",
+      "description": "Important Crypto News mainly Asia\nLead by Colin Wu 吴说\nMore Channels: https://t.co/EWW3fUtX5v \nContact: Tele colinwu1989 \nnon-financial advice",
+      "followersCount": 548744,
+      "friendsCount": 883,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/WuBlockchain/status/2005579800501739971",
+    "fullText": "Digital asset products saw US$446m in weekly outflows. XRP and Solana recorded the largest inflows last week, totalling US$70.2m and US$7.5m respectively. Bitcoin and Ethereum saw outflows of US$443m and US$59.5m. https://t.co/Dj1Z2T6ZfE"
+  },
+  {
+    "user": {
+      "screenName": "wublockchain12",
+      "name": "吴说区块链",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1763571513553543168/swT8lq9S_normal.jpg",
+      "description": "吴说中文推特：接近真相，更可信赖\n专业可信的行业新闻，优质深度内容推荐\n吴说所有内容渠道、播客、APP 等：https://t.co/rVoqryXVjk\n联系我们 TG: colinwu1989",
+      "followersCount": 170706,
+      "friendsCount": 1,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/wublockchain12/status/2005579625309913370",
+    "fullText": "吴说获悉，据 CoinShares，上周数字资产投资产品录得 4.46 亿美元资金流出，使得 10 月 10 日之后的总资金流出达到 32 亿美元。比特币和以太坊分别录得 4.43 亿美元和 5950 万美元的资金流出，XRP 和 Solana 则分别录得 7020 万美元和 750 万美元的资金流入。https://t.co/SjzOymLKHX"
+  },
+  {
+    "user": {
+      "screenName": "gnosis_",
+      "name": "Gnosis",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1990401499135172608/_5iD3Ob8_normal.jpg",
+      "description": "Fork Banks. Bank On Gnosis.\n📍 Home @gnosischain @gnosispay @gnosisbusiness\n🎤 Host @dappcon\n💡 Origin @safe @cowswap @kpk_io @gnosisguild @aboutcircles",
+      "followersCount": 117296,
+      "friendsCount": 426,
+      "location": "Worldwide"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G9VACCNb0AEHlYo.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/gnosis_/status/2005579615134486942",
+    "fullText": "2025: Big on numbers. Bigger on values.\n\nThis was the year we hit:\n▪️ $100M+ volume on @gnosispay\n▪️ 300M+ txs on @gnosischain\n▪️ $1B+ txs processed by @gnosisbusiness\n\nWhat started 10 years ago as a prediction market on @ethereum, and then went on to build core infra like @safe https://t.co/8b8VBfbWU8"
+  },
+  {
+    "user": {
+      "screenName": "GitHub_Daily",
+      "name": "GitHubDaily",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1660876795347111937/EIo6fIr4_normal.jpg",
+      "description": "💡 挖掘开源的价值\n🧑🏻‍💻 坚持分享 GitHub 上高质量、有趣、实用的教程、AI工具、前沿 AI 技术\n🧐 A list cool, interesting projects of GitHub.\n✏️ 公众号：GitHubDaily",
+      "followersCount": 59484,
+      "friendsCount": 139,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G9U__LxboAAtJa-.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/GitHub_Daily/status/2005579571186532748",
+    "fullText": "在 Internet Archive 或 HathiTrust 上看到想要的书，只能在线限时阅读，想保存下来却没有下载选项。\n\n于是在 GitHub 上找到了 Internet Archive Downloader 这个浏览器插件，能把这些限时借阅的书下载成 PDF 或图片集。\n\n通过逐页获取书籍内容，在后台实时构建 PDF https://t.co/wvgH8GiBnJ"
+  },
+  {
+    "user": {
+      "screenName": "AltCryptoGems",
+      "name": "Sjuul | AltCryptoGems",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1950543002721533952/y0gABDyF_normal.jpg",
+      "description": "Invest in the unexpected || Founder of @AltCryptoCast, @AltCryptoTalk & @KollectAgency || DM for Business Enquiries💰",
+      "followersCount": 477628,
+      "friendsCount": 1906,
+      "location": "Dubai"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G9U9arnW0AAxIyV.png",
+      "https://pbs.twimg.com/media/G9U9cJ6WIAAKX1E.png",
+      "https://pbs.twimg.com/media/G9U9dtzWwAATcnh.png",
+      "https://pbs.twimg.com/media/G9U9fi-WcAAcuyx.png"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/AltCryptoGems/status/2005579555680010509",
+    "fullText": "Best feeling on a Monday? 🌟\n\nSeeing the two coins we have been most bullish about over the past few days simply outperforming the rest of the market. 📈\n\nBoth $CC and $NIGHT trading in beast mode. 🚀\n\nOur job is simple: spotting gems before anyone else! 💎 https://t.co/3hCXTue5Sm"
+  },
+  {
+    "user": {
+      "screenName": "dotey",
+      "name": "宝玉",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
+      "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+      "followersCount": 162709,
+      "friendsCount": 1500,
+      "location": "Chicago, IL"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/dotey/status/2005579554346385571",
+    "fullText": "年底了，问几个问题，欢迎一起留言讨论：\n\n1. 2025年，将AI推入下一个阶段的关键技术突破是什么？\n\n2. 2025年有哪些AI产品让您眼前一亮？\n\n3. 展望2026，哪个趋势是不可忽视的必然路径？"
+  },
+  {
+    "user": {
+      "screenName": "CryptoBLACK0511",
+      "name": "CryptoBLACK🌙◼️",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1816081513441792000/mZZ7IL6s_normal.jpg",
+      "description": "🔸成都集团Founder  | ◾️Ambassador：@0G_labs |🔸 #Binance 近3亿用户的共同选择，出入安全，启程Web3，就在币安：https://t.co/DDiFhdIMLv",
+      "followersCount": 31182,
+      "friendsCount": 1716,
+      "location": "CDC Group Encryption Center"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G9U_iVPaQAAQZ2M.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/CryptoBLACK0511/status/2005579553511772354",
+    "fullText": "🚨 12.29 币圈战报：大饼9万关口，国内风向变了🚨\n\n1. 💎大饼$90,000 (BTC)微策略大决战(BTC) 微策略(MicroStrategy)疯子Saylor又喊了一句“Back to Orange”！再次大饼站上9万刀！现在还有人敢做空？你是嫌钱多还是命长？这波不是顶，是通往10万刀的最后一张门票！别等了，就是踏空！🚀\n\n2. https://t.co/J25ZcuaAFs"
+  },
+  {
+    "user": {
+      "screenName": "HyperTracker",
+      "name": "HyperTracker",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2003901527287910403/Pb7pjOU5_normal.jpg",
+      "description": "Visualising onchain data for Hyperliquid traders. Track wallets, positions, behaviour, builders, and more. API coming soon.",
+      "followersCount": 6464,
+      "friendsCount": 427,
+      "location": "On the chain"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2005286353722855424/vid/avc1/3188x2160/S8DmVUyP3_5EpdFo.mp4?tag=21"
+    ],
+    "tweetUrl": "https://x.com/HyperTracker/status/2005579547488481413",
+    "fullText": "Our friends at OpenBB signed up for early API access and already started building cool visualizations with the data. We love to see it.\n\n📺 @josedonato__\n\nhttps://t.co/DJoZUy1yrL"
+  },
+  {
+    "user": {
+      "screenName": "lijiuer1",
+      "name": "Niner 🍡九儿🔶BNB",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1991160425912659968/EMrETvKq_normal.jpg",
+      "description": "🏅 别人微微一笑，倾国倾城；我微微一笑，下巴两层 #Binance : https://t.co/JJiwQDzvw8 Gmgn:https://t.co/trAAOMhSaq tg频道：https://t.co/yol6hH5FwC",
+      "followersCount": 119225,
+      "friendsCount": 992,
+      "location": "Taiwan"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/lijiuer1/status/2005579474566557893",
+    "fullText": "牛回了一小会，又走了\n我点了的麻辣烫又退回去了🥹"
+  },
+  {
+    "user": {
+      "screenName": "Xbt886",
+      "name": "KBeast.eth",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1996025915311357953/MRuyIMeN_normal.jpg",
+      "description": "来都来了 多吃瓜吧",
+      "followersCount": 15550,
+      "friendsCount": 571,
+      "location": "xyz886 planet"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G9U_5SZawAAlxmS.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/Xbt886/status/2005579469126525052",
+    "fullText": "作为一个中国人 你应该善于玩这个 因为咱们祖宗都是修长城的 https://t.co/yyw2MEpP31"
+  },
+  {
+    "user": {
+      "screenName": "songsong7364",
+      "name": "0xSong🏍️",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1976099458040659969/9g9MwaMH_normal.jpg",
+      "description": "您好，我是小宋，臭撸毛的。",
+      "followersCount": 1059,
+      "friendsCount": 231,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G9U_1cKa8AA49lM.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/songsong7364/status/2005579409806512451",
+    "fullText": "Opinion 第十周复盘\n\n//本周积分收益：1.362\n//本周资金磨损：97.79\n//每分成本：45.9u（较上周提升0.9u）\n\n复盘： \n-上周的磨损基本就是Tiktio出售结算，把剩下那点零头抹了\n-由于单号里都没什么资金了，所以只做了一些基础的保底操作\n-新活动跟了几天数据，最后还是没下手\n\n收获： https://t.co/3zL1aX4tFX"
+  },
+  {
+    "user": {
+      "screenName": "Tokenomist_ai",
+      "name": "Tokenomist",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1952634626926850048/J4r76Vg0_normal.jpg",
+      "description": "The trusted source for tokenomics intelligence.\n🔎 https://t.co/dNisBb2xx6 | 📊 https://t.co/LPfOqAjkb1 \n💬 https://t.co/yH8tET5ArF",
+      "followersCount": 73908,
+      "friendsCount": 212,
+      "location": "Web3"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G9U-BLxbsAA0TVO.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/Tokenomist_ai/status/2005579356866019723",
+    "fullText": "1/ $HYPE token unlocks UPDATES 🚨\n@HyperliquidX  has clarified that team token distributions will occur on the 6th of each month, starting January 6, 2026.\n\nClear unlock data helps you make informed decisions and ensures all stakeholders, including teams operate with the same https://t.co/owwoTFRdfK"
+  },
+  {
+    "user": {
+      "screenName": "xtony1314",
+      "name": "逍遥XTony",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1897681346174283776/ABKW5uor_normal.jpg",
+      "description": "独立交易员\n历史成绩：实盘 5W➡️5000W ，2.5年1000倍收益率\n#Binance 币安交易，安全稳定，启程Web3，就在币安：https://t.co/ZiUiJFpo8S",
+      "followersCount": 57985,
+      "friendsCount": 198,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/xtony1314/status/2005578393346359667",
+    "fullText": "币圈废了，草泥马的比特币！！！"
+  },
+  {
+    "user": {
+      "screenName": "CryptoApprenti1",
+      "name": "Dr.Hash“Wesley”",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1773897198918651904/aSDYiSAb_normal.jpg",
+      "description": "Founder of Block Infinity Fund, Poker player, TraderChinese whale, @drhashclub, 新人首选 #OKX，安全简单: https://t.co/447DQJdoWj",
+      "followersCount": 130011,
+      "friendsCount": 1178,
+      "location": "t.me/DrHashCall"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G9U7NofaoAEdQMq.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/CryptoApprenti1/status/2005574317845934315",
+    "fullText": "币圈多狗如果还有幻觉，那我告诉你可能年都过不好了😀😀😀😀 https://t.co/66KR12rzqB"
+  },
+  {
+    "user": {
+      "screenName": "heyibinance",
+      "name": "Yi He",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1974520590410170369/q2Q0S0fa_normal.jpg",
+      "description": "Co-Founder & Chief Customer Service Officer @Binance  \nHolder of #BNB",
+      "followersCount": 550464,
+      "friendsCount": 1163,
+      "location": "Mars"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/heyibinance/status/2005572293452525836",
+    "fullText": "开始您的加密货币故事，查看@币安年度回顾并分享您的亮点！#2025withBinance。\n\n👉 使用我的链接注册，获得100美元奖励！ https://t.co/prh7BXmWM4"
+  },
+  {
+    "user": {
+      "screenName": "love_doge123",
+      "name": "败犬女王~",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1668900880865984512/DR7yK5V8_normal.jpg",
+      "description": "性别女，爱好女 #OKX 是全球领先的 #Crypto 交易平台 #OKX Web3钱包支持100+公链。 #web3 入口 一个就够https://t.co/ZXfy5QkB0b  irys-verify-0xa287df-love_doge123",
+      "followersCount": 38266,
+      "friendsCount": 2157,
+      "location": "hk"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G9U1RYPaYAA1lOm.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/love_doge123/status/2005571707541897291",
+    "fullText": "Gate ETF 近30天交易量约 50 亿美元，聪明的你看到了什么~\n\n30 天成交量 ≈ 50 亿美元，算下来 日均 1.6 亿刀，\n不是 BTC / ETH 两个老伙计，而是——256 个 ERC-20 杠杆 ETF。\n\nGate @Gate_zh  把杠杆“铺平了”，刚好市场有这个需求，我空我的垃圾币---山寨的本质是0\n\n大部分交易所：\n🔸 BTC / ETH + https://t.co/2zR9xX9xN0"
+  },
+  {
+    "user": {
       "screenName": "Meta8Mate",
       "name": "机灵的杰尼君🔶BNB",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1530002268334223360/lwFqoY3E_normal.jpg",
@@ -743,6 +1331,23 @@
     "videos": [],
     "tweetUrl": "https://x.com/Sea_Bitcoin/status/2005558971130917277",
     "fullText": "https://t.co/CQILcWWj49"
+  },
+  {
+    "user": {
+      "screenName": "xtony1314",
+      "name": "逍遥XTony",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1897681346174283776/ABKW5uor_normal.jpg",
+      "description": "独立交易员\n历史成绩：实盘 5W➡️5000W ，2.5年1000倍收益率\n#Binance 币安交易，安全稳定，启程Web3，就在币安：https://t.co/ZiUiJFpo8S",
+      "followersCount": 57985,
+      "friendsCount": 198,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G9UrctjWcAA_N44.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/xtony1314/status/2005557865453326582",
+    "fullText": "别老问我怎么微博不说话了，\n被封了啊！能因为什么？？？\n\n我的微博，前阵子因为说 养老金不公平问题，全部被封了，\n\n现在言论管控越来越严，微博上几乎任何社会性话题，都不让说了，\n基本只让你聊吃喝玩乐，把人当猪养了。 https://t.co/4ubhkdatCp"
   },
   {
     "user": {
@@ -2350,7 +2955,7 @@
       "name": "币安Binance华语",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1815972658640740354/RySOJZ_Q_normal.jpg",
       "description": "关注Binance华语，\n洞悉行情节奏，\n劲享币安重重好礼，\n让你的邻家小编不下岗！\n注册立拿100U：https://t.co/SLuxJUoDEi\n商业合作： https://t.co/aPXd3SWVfx\n #Binance #BNB",
-      "followersCount": 429181,
+      "followersCount": 429223,
       "friendsCount": 382,
       "location": ""
     },
@@ -4603,6 +5208,26 @@
   },
   {
     "user": {
+      "screenName": "btcpiggy",
+      "name": "开挂的金兔子☯️🍊",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1992068457035386880/tOKeDb8i_normal.jpg",
+      "description": "🔮奇门遁甲占卜师 |16年进入加密货币行业，玄學奇门遁甲预测加密货币|命运的改变始于看见 🛎️ ｜TG：https://t.co/mYpb4sZVIw｜币安广场创作者，同名｜商务合作DM",
+      "followersCount": 30044,
+      "friendsCount": 2613,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G9TT4pXbIAA_Gea.jpg",
+      "https://pbs.twimg.com/media/G9TT4pPaAAAo2-q.jpg",
+      "https://pbs.twimg.com/media/G9TT4pOakAAyTwT.jpg",
+      "https://pbs.twimg.com/media/G9TT4pPawAAiz91.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/btcpiggy/status/2005460710634188949",
+    "fullText": "玄学比特币本周走势如何？\n\n公益直播预告⏰\n\n今晚 7 点，兔子将做客 billion @Billion_Global 平台直播间，一起分享比特币未来一周内走势。\n\n提钱注册好锁定直播间，兔子邀请链接:\n\nhttps://t.co/Kg6wPzs3G4\n\n注册好，等待晚上 7 点可以在平台首页看到兔子，兔子也会在今天下午 6 https://t.co/hQNyt2pH3G"
+  },
+  {
+    "user": {
       "screenName": "ai_9684xtpa",
       "name": "Ai 姨",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1599605643744116736/Pstsnsb6_normal.jpg",
@@ -5621,8 +6246,8 @@
       "name": "yyy",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1940912893202944000/CGNonSFc_normal.jpg",
       "description": "收手吧，阿祖\n\nShitposts. Head of E-beggers. Chief Fud Officer.\n\n「若批评不自由，则赞美无意义」",
-      "followersCount": 25767,
-      "friendsCount": 5143,
+      "followersCount": 25771,
+      "friendsCount": 5144,
       "location": "Moon"
     },
     "images": [],
@@ -5767,7 +6392,7 @@
       "name": "Vand Ni｜Asian bro",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1954361526930100224/oKOGdT1a_normal.jpg",
       "description": "正直的 Web3 Native ｜ 点蜡烛的人🕯️｜充满乐观与活力的 Builder；善良第一， 社区头号客服，做个有人格魅力的 Researcher｜运动员，下面链接是TG禁言群",
-      "followersCount": 34397,
+      "followersCount": 34404,
       "friendsCount": 4709,
       "location": "加密人生"
     },
@@ -5910,6 +6535,23 @@
     "videos": [],
     "tweetUrl": "https://x.com/evilcos/status/2004919323018809620",
     "fullText": "做了个有点复杂的 agents .md 文件，让 AI IDE 分别用 Opus 4.5 与 Gemini 3 Flash 完成制作任务，开源在这：\nhttps://t.co/Ump0EmQqlW\n\n在线玩耍在这：\nhttps://t.co/dBiRYcGuIX\n\n感兴趣的可以看看对应的 agents .md 文件。\n\n漏洞研究麻了，玩点自己创作的小游戏，换换脑子。😂 https://t.co/x3OcemR1fP"
+  },
+  {
+    "user": {
+      "screenName": "wangbuai",
+      "name": "王不爱",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1968714096158945280/-3rVN-e3_normal.jpg",
+      "description": "#BTC 左金右饼，特斯拉长期持有者，TACO交易和左侧交易者，运用自然交易理论+裸K， #Binance 近3亿用户的共同选择，出入金安全，启程Web3，就在币安 ：https://t.co/kD1nFIyFxG #OKX 注册终身8折手续费：https://t.co/cZ44VklHSb",
+      "followersCount": 36475,
+      "friendsCount": 784,
+      "location": "Taiwan"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G9LczhhbgAMMx8P.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/wangbuai/status/2004907567282303033",
+    "fullText": "圣诞快乐！初雪了！听说初雪最适合告白！\n\n我请愿：狗庄再爱我一次……🥲 https://t.co/1m6VB3JsyD"
   },
   {
     "user": {
