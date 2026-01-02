@@ -1,11 +1,468 @@
 [
   {
     "user": {
+      "screenName": "AshCrypto",
+      "name": "Ash Crypto",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1935933861034090496/h_vgXOAw_normal.jpg",
+      "description": "News, Memes, Charts, Hopium, Market analysis and Latest crypto updates. Our official Telegram https://t.co/6iHJbN2D67",
+      "followersCount": 2104790,
+      "friendsCount": 316,
+      "location": "X"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G9rkiCrasAEdlt4.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/AshCrypto/status/2007167865645084688",
+    "fullText": "ETH \"Fck you higher\" candle is coming. https://t.co/nzToXMgzsR"
+  },
+  {
+    "user": {
+      "screenName": "gdb",
+      "name": "Greg Brockman",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1347621377503711233/bHg3ipfD_normal.jpg",
+      "description": "President & Co-Founder @OpenAI",
+      "followersCount": 890331,
+      "friendsCount": 8,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/gdb/status/2007167658958172191",
+    "fullText": "great feeling to wake up in the morning and see how much progress codex made overnight"
+  },
+  {
+    "user": {
+      "screenName": "whale_alert",
+      "name": "Whale Alert",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1132579647374417921/9ifIGXEQ_normal.png",
+      "description": "Live reporting on large and interesting #blockchain transactions as they happen. Create your own alerts for over 100 coins on https://t.co/wQEfstUfLm",
+      "followersCount": 2851483,
+      "friendsCount": 13,
+      "location": "Worldwide"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/whale_alert/status/2007166362213372092",
+    "fullText": "🚨 🚨 🚨 🚨 🚨 🚨  1,449 #BTC (130,141,792 USD) transferred from unknown wallet to unknown wallet\n\nhttps://t.co/zpfFiaafKq"
+  },
+  {
+    "user": {
+      "screenName": "whale_alert",
+      "name": "Whale Alert",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1132579647374417921/9ifIGXEQ_normal.png",
+      "description": "Live reporting on large and interesting #blockchain transactions as they happen. Create your own alerts for over 100 coins on https://t.co/wQEfstUfLm",
+      "followersCount": 2851483,
+      "friendsCount": 13,
+      "location": "Worldwide"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/whale_alert/status/2007166085682872555",
+    "fullText": "🚨 🚨 🚨 🚨 🚨 🚨 🚨 🚨  1,999 #BTC (179,505,922 USD) transferred from unknown wallet to unknown wallet\n\nhttps://t.co/seT3tLyRl4"
+  },
+  {
+    "user": {
+      "screenName": "wallet",
+      "name": "OKX Wallet",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1961251596895227906/o3V4FDLG_normal.jpg",
+      "description": "The crypto wallet for everything onchain. Self-custody is the future.\n\nEngagement is not endorsement.",
+      "followersCount": 1981149,
+      "friendsCount": 413,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G9ri2IzWwAAj9rT.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/wallet/status/2007166024051773805",
+    "fullText": "POV: You in 2026 when you lock in https://t.co/iNoXMeZCmE"
+  },
+  {
+    "user": {
+      "screenName": "whale_alert",
+      "name": "Whale Alert",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1132579647374417921/9ifIGXEQ_normal.png",
+      "description": "Live reporting on large and interesting #blockchain transactions as they happen. Create your own alerts for over 100 coins on https://t.co/wQEfstUfLm",
+      "followersCount": 2851483,
+      "friendsCount": 13,
+      "location": "Worldwide"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/whale_alert/status/2007165805708837142",
+    "fullText": "🚨 🚨 🚨 🚨 🚨 🚨  1,408 #BTC (126,408,180 USD) transferred from Coinbase Institutional to unknown new wallet\n\nhttps://t.co/vu0aUrESsN"
+  },
+  {
+    "user": {
+      "screenName": "whale_alert",
+      "name": "Whale Alert",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1132579647374417921/9ifIGXEQ_normal.png",
+      "description": "Live reporting on large and interesting #blockchain transactions as they happen. Create your own alerts for over 100 coins on https://t.co/wQEfstUfLm",
+      "followersCount": 2851483,
+      "friendsCount": 13,
+      "location": "Worldwide"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/whale_alert/status/2007165520097800301",
+    "fullText": "🚨 🚨 🚨 🚨 🚨  1,272 #BTC (114,211,283 USD) transferred from unknown wallet to Coinbase Institutional\n\nhttps://t.co/Lx1vdewsTP"
+  },
+  {
+    "user": {
+      "screenName": "0xshawnpang",
+      "name": "Shawn Pang",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1885945732831858688/uCZD8meP_normal.jpg",
+      "description": "Cooking the self-custodial stablecoins neobank @allscaleio",
+      "followersCount": 24809,
+      "friendsCount": 1769,
+      "location": "SF / Vancouver"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/0xshawnpang/status/2007165505279254697",
+    "fullText": "我的2026不做清单：\n\n1. 不用过度工作对抗焦虑，保护自己的时间和注意力，适当的休息和放松才是对工作最大的尊重\n2. 不透支睡眠和运动换产出，出差也要保证足够的时间去恢复和运动，每天用Whoop监控睡眠、恢复、运动，自己控制不了自己就听AI的。\n3."
+  },
+  {
+    "user": {
+      "screenName": "whale_alert",
+      "name": "Whale Alert",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1132579647374417921/9ifIGXEQ_normal.png",
+      "description": "Live reporting on large and interesting #blockchain transactions as they happen. Create your own alerts for over 100 coins on https://t.co/wQEfstUfLm",
+      "followersCount": 2851483,
+      "friendsCount": 13,
+      "location": "Worldwide"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/whale_alert/status/2007165238315987334",
+    "fullText": "🚨 🚨 🚨 🚨  862 #BTC (77,439,739 USD) transferred from unknown wallet to Coinbase Institutional\n\nhttps://t.co/DH4z7jcL61"
+  },
+  {
+    "user": {
+      "screenName": "theinformation",
+      "name": "The Information",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1747484907163516928/d_K3Z_hH_normal.jpg",
+      "description": "The most authoritative publication covering tech that high-powered tech execs and founders read daily.\n\nTITV M-F at 1 ET: https://t.co/M0NywExPjR",
+      "followersCount": 137145,
+      "friendsCount": 703,
+      "location": "San Francisco"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2007165055477948416/vid/avc1/1280x720/E5E3DnUPBwrQvlBX.mp4?tag=14"
+    ],
+    "tweetUrl": "https://x.com/theinformation/status/2007165140471325006",
+    "fullText": "Nvidia might look toward acquisitions to overcome GPU communication limitations, @theaustinlyons predicts. \n\n\"A company that comes to mind is @AyarLabs.\" \n\nFull episode: https://t.co/QxMhv2F4PC https://t.co/THCQPNH5fY"
+  },
+  {
+    "user": {
+      "screenName": "TheOnion",
+      "name": "The Onion",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1517492889852461056/bEnqsvVR_normal.jpg",
+      "description": "America's Finest News Source. A @globtetrahedron subsidiary.\n\nGet the paper delivered to your door: https://t.co/jJP2Apbhe8",
+      "followersCount": 10605585,
+      "friendsCount": 8,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/TheOnion/status/2007165084078952660",
+    "fullText": "Study Finds 93% Of Murders Solved By Consulting Victim’s Pet Parrot https://t.co/zCSIhdRaW0"
+  },
+  {
+    "user": {
+      "screenName": "SeekingAlpha",
+      "name": "Seeking Alpha",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/534299535552421888/eHacq8EQ_normal.png",
+      "description": "A global leader in crowdsourced U.S. investment research, powered by one of the largest and most vibrant investor communities.",
+      "followersCount": 314986,
+      "friendsCount": 233,
+      "location": "New York, NY"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/SeekingAlpha/status/2007165015741329444",
+    "fullText": "Intel: The Comeback Isn't Happening $INTC #trading #finance #economy https://t.co/21wGxBrfRV"
+  },
+  {
+    "user": {
       "screenName": "AltCryptoGems",
       "name": "Sjuul | AltCryptoGems",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1950543002721533952/y0gABDyF_normal.jpg",
       "description": "Invest in the unexpected || Founder of @AltCryptoCast, @AltCryptoTalk & @KollectAgency || DM for Business Enquiries💰",
-      "followersCount": 478094,
+      "followersCount": 478124,
+      "friendsCount": 1907,
+      "location": "Dubai"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G9rC3j7XcAEv7B6.png"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/AltCryptoGems/status/2007164994463387850",
+    "fullText": "Timeline is basically full of pessimism lately.\n\nVery good, that's where a bull market is usually born! https://t.co/S5kKlZlVyK"
+  },
+  {
+    "user": {
+      "screenName": "LuxAlgo",
+      "name": "LuxAlgo",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1872719571141951488/Wd4LnEpE_normal.jpg",
+      "description": "The #1 AI agent for backtesting trading strategies \nWorld's largest provider of trading indicators 📈",
+      "followersCount": 110935,
+      "friendsCount": 348,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G9rhLslWkAAIcsL.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/LuxAlgo/status/2007164294685962522",
+    "fullText": "Hey @grok remove the worst CEO https://t.co/25aXzo9iWj"
+  },
+  {
+    "user": {
+      "screenName": "theinformation",
+      "name": "The Information",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1747484907163516928/d_K3Z_hH_normal.jpg",
+      "description": "The most authoritative publication covering tech that high-powered tech execs and founders read daily.\n\nTITV M-F at 1 ET: https://t.co/M0NywExPjR",
+      "followersCount": 137145,
+      "friendsCount": 703,
+      "location": "San Francisco"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/theinformation/status/2007164276599894083",
+    "fullText": "What We Got Right (and Wrong) in Our Predictions for 2025\n\nWe predicted a bunch of tech deals and other events for last year. Some happened. Most didn’t.\n\nRead more 👇 \nhttps://t.co/d618ajwiaZ"
+  },
+  {
+    "user": {
+      "screenName": "JamesWynnReal",
+      "name": "James (Pauly) Wynn",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2006757642564415492/uNsSKckc_normal.jpg",
+      "description": "Made $100M in 70 days harnessing the power of leverage - on chain. I called PEPE at 600k market cap to go to billions and made $25m - on chain. $PEPE Whale 🐋",
+      "followersCount": 484668,
+      "friendsCount": 226,
+      "location": "Trade on the #1 Perp Dex 👇"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G9rfUd0X0AAByAd.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/JamesWynnReal/status/2007162137953591488",
+    "fullText": "If you believe something to be at rock bottom prices and simultaneously you believe it’s on the brink of breaking out\n \nTell me why using 70x leverage (in this example) isn’t viable.\n \n$10k to $260k in 24hrs. This isn’t to brag. This isn’t my only trade, I thoroughly understand https://t.co/RR9XSiTzpt"
+  },
+  {
+    "user": {
+      "screenName": "whale_alert",
+      "name": "Whale Alert",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1132579647374417921/9ifIGXEQ_normal.png",
+      "description": "Live reporting on large and interesting #blockchain transactions as they happen. Create your own alerts for over 100 coins on https://t.co/wQEfstUfLm",
+      "followersCount": 2851483,
+      "friendsCount": 13,
+      "location": "Worldwide"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/whale_alert/status/2007161305900130623",
+    "fullText": "🔥 🔥 🔥 🔥  99,000,000 #USDC (98,996,733 USD) burned at USDC Treasury\n\nhttps://t.co/fErZBbK1PW"
+  },
+  {
+    "user": {
+      "screenName": "SeekingAlpha",
+      "name": "Seeking Alpha",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/534299535552421888/eHacq8EQ_normal.png",
+      "description": "A global leader in crowdsourced U.S. investment research, powered by one of the largest and most vibrant investor communities.",
+      "followersCount": 314986,
+      "friendsCount": 233,
+      "location": "New York, NY"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/SeekingAlpha/status/2007161234853085397",
+    "fullText": "Valuation of the largest tech stocks is lower than last year – analyst $XLF $XLI $IPO #markets #trading #economy https://t.co/GAjMSUpV8A"
+  },
+  {
+    "user": {
+      "screenName": "theinformation",
+      "name": "The Information",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1747484907163516928/d_K3Z_hH_normal.jpg",
+      "description": "The most authoritative publication covering tech that high-powered tech execs and founders read daily.\n\nTITV M-F at 1 ET: https://t.co/M0NywExPjR",
+      "followersCount": 137145,
+      "friendsCount": 703,
+      "location": "San Francisco"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/theinformation/status/2007161232944472200",
+    "fullText": "New retail investors are being ushered into opaque private assets they can neither value nor sell. Without financial disclosures, buyers cannot determine if they are paying irrational multiples for companies hemorrhaging cash. Rett Wallace details the dangers in his opinion"
+  },
+  {
+    "user": {
+      "screenName": "blknoiz06",
+      "name": "Ansem",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1961642107187109888/o0B468ZS_normal.jpg",
+      "description": "coldest nigga breathing",
+      "followersCount": 783827,
+      "friendsCount": 8742,
+      "location": "onchain 🌒"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G9reeI1XIAANwMT.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/blknoiz06/status/2007161195732537774",
+    "fullText": "we are so back https://t.co/wjElTsKrp1"
+  },
+  {
+    "user": {
+      "screenName": "BTC563",
+      "name": "颜驰.Bit",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1940379875925180416/LNtpw-Cy_normal.jpg",
+      "description": "#Binance 币安中文区年度最佳交易/技术分析博主 |  🔸24年币安交易大赛第二名🥈 社区交流群：https://t.co/bEdxcvnTnK 🟣 https://t.co/WSOJEY6a3A 币安广场作者",
+      "followersCount": 32257,
+      "friendsCount": 971,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/BTC563/status/2007160866022797547",
+    "fullText": "@mscryptojiayi 😆"
+  },
+  {
+    "user": {
+      "screenName": "SuiNetwork",
+      "name": "Sui",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2001729274496053248/SKLMdvW__normal.jpg",
+      "description": "High-performance blockchain delivering the full stack for a new global economy. X account by @SuiFoundation.",
+      "followersCount": 1114296,
+      "friendsCount": 685,
+      "location": ""
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2007160491450478592/vid/avc1/1280x720/zprBhRb4nM9e8H17.mp4?tag=14"
+    ],
+    "tweetUrl": "https://x.com/SuiNetwork/status/2007160545112403974",
+    "fullText": "Sui 2026 alpha, straight from @EmanAbio.\n\n1. Free transfers for stablecoins\n2. Private transactions enabled in @SlushWallet https://t.co/hnbWIyYzDx"
+  },
+  {
+    "user": {
+      "screenName": "GCsheng",
+      "name": "深大高财生.eth",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1956429310363074560/kZapgvHx_normal.jpg",
+      "description": "NFT 菩萨丨精算师 丨贪财好色丨全是情绪没有观点丨立场不明丨 \n#Binance\n找链上机会就上binance钱包网页版享受手续费折扣：https://t.co/8pQX4Oxnbj",
+      "followersCount": 45352,
+      "friendsCount": 1549,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/GCsheng/status/2007159222249922852",
+    "fullText": "Milady留言，眼熟回关\n\n-- NFT守村人"
+  },
+  {
+    "user": {
+      "screenName": "blknoiz06",
+      "name": "Ansem",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1961642107187109888/o0B468ZS_normal.jpg",
+      "description": "coldest nigga breathing",
+      "followersCount": 783827,
+      "friendsCount": 8742,
+      "location": "onchain 🌒"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/blknoiz06/status/2007158870024901104",
+    "fullText": "https://t.co/iqDeaWfMed"
+  },
+  {
+    "user": {
+      "screenName": "LuxAlgo",
+      "name": "LuxAlgo",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1872719571141951488/Wd4LnEpE_normal.jpg",
+      "description": "The #1 AI agent for backtesting trading strategies \nWorld's largest provider of trading indicators 📈",
+      "followersCount": 110935,
+      "friendsCount": 348,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G9rcBwGWcAAoTUi.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/LuxAlgo/status/2007158745667907858",
+    "fullText": "'It's so over' is so 2025 https://t.co/jPM1KzXZso"
+  },
+  {
+    "user": {
+      "screenName": "AshCrypto",
+      "name": "Ash Crypto",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1935933861034090496/h_vgXOAw_normal.jpg",
+      "description": "News, Memes, Charts, Hopium, Market analysis and Latest crypto updates. Our official Telegram https://t.co/6iHJbN2D67",
+      "followersCount": 2104790,
+      "friendsCount": 316,
+      "location": "X"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G9rb7vWbYAAY2Lq.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/AshCrypto/status/2007158414221422881",
+    "fullText": "🚨BREAKING: The Insider Bitcoin whale now has a long position of nearly $800 million on BTC, ETH and SOL.\n\nThis is absolutely insane. https://t.co/m8wUr38cPu"
+  },
+  {
+    "user": {
+      "screenName": "Polymarket",
+      "name": "Polymarket",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2005664281002491904/bz2ZO_nU_normal.jpg",
+      "description": "The World's Largest Prediction Market. Trade politics, news, culture, sports & tech. Discord: https://t.co/tzKrbDf7dZ",
+      "followersCount": 888346,
+      "friendsCount": 5550,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/Polymarket/status/2007157767287824895",
+    "fullText": "JUST IN: It has been revealed the FBI has the authority to arrest Tim Walz if charged with misuse of federal funds."
+  },
+  {
+    "user": {
+      "screenName": "SeekingAlpha",
+      "name": "Seeking Alpha",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/534299535552421888/eHacq8EQ_normal.png",
+      "description": "A global leader in crowdsourced U.S. investment research, powered by one of the largest and most vibrant investor communities.",
+      "followersCount": 314986,
+      "friendsCount": 233,
+      "location": "New York, NY"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/SeekingAlpha/status/2007157460298014966",
+    "fullText": "SA analyst upgrades/downgrades: SBUX, ANF, VRT, DELL $ANF $SBUX $DELL #markets #economy #investing https://t.co/naCZHpoLX1"
+  },
+  {
+    "user": {
+      "screenName": "APRO_Oracle",
+      "name": "APRO |🔶NO.1 Oracle",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1979930335761633280/dmNqHKgi_normal.jpg",
+      "description": "🚛 The 1st AI-enhanced Oracle for Cutting-Edge Ecosystems (#RWA , #AI , #Prediction Market , #DeFi ) . Backed by @Polychain , @FTDA_US and @yzilabs",
+      "followersCount": 178132,
+      "friendsCount": 229,
+      "location": "Oracle Era"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G9raLZ6akAA3ZS2.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/APRO_Oracle/status/2007156482966728819",
+    "fullText": "🟩 APRO Oracle-as-a-Service (OaaS) is now live on @Aptos !\n\nWith prediction markets gaining momentum on Aptos, we’re bringing production-ready oracle infrastructure to fuel its growing ecosystem of high‑performance dApps.\n\nBuilt for the speed of Move — delivering verifiable data https://t.co/s5d50ielJO"
+  },
+  {
+    "user": {
+      "screenName": "AltCryptoGems",
+      "name": "Sjuul | AltCryptoGems",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1950543002721533952/y0gABDyF_normal.jpg",
+      "description": "Invest in the unexpected || Founder of @AltCryptoCast, @AltCryptoTalk & @KollectAgency || DM for Business Enquiries💰",
+      "followersCount": 478124,
       "friendsCount": 1907,
       "location": "Dubai"
     },
@@ -20,7 +477,7 @@
       "name": "Paul Graham",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1824002576/pg-railsconf_normal.jpg",
       "description": "",
-      "followersCount": 2081869,
+      "followersCount": 2081947,
       "friendsCount": 780,
       "location": ""
     },
@@ -37,7 +494,7 @@
       "name": "The White House",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1916971216620982274/1DsLEcqW_normal.jpg",
       "description": "The Golden Age of America Begins Right Now.\n📱 Text USA to 45470 to receive alerts.",
-      "followersCount": 3122799,
+      "followersCount": 3123378,
       "friendsCount": 6,
       "location": "Washington, DC"
     },
@@ -54,7 +511,7 @@
       "name": "dontbesilent",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1840665561287798784/GJCK0iKf_normal.jpg",
       "description": "🔍 商业哲学爱好者  📡 维特根斯坦种草主播  🫆 生活合伙人 @XiaoNianTalk  📱 全网同名：dontbesilent 聊赚钱",
-      "followersCount": 60235,
+      "followersCount": 60240,
       "friendsCount": 1035,
       "location": ""
     },
@@ -69,7 +526,7 @@
       "name": "The Information",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1747484907163516928/d_K3Z_hH_normal.jpg",
       "description": "The most authoritative publication covering tech that high-powered tech execs and founders read daily.\n\nTITV M-F at 1 ET: https://t.co/M0NywExPjR",
-      "followersCount": 137125,
+      "followersCount": 137145,
       "friendsCount": 703,
       "location": "San Francisco"
     },
@@ -84,7 +541,7 @@
       "name": "Seeking Alpha",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/534299535552421888/eHacq8EQ_normal.png",
       "description": "A global leader in crowdsourced U.S. investment research, powered by one of the largest and most vibrant investor communities.",
-      "followersCount": 314979,
+      "followersCount": 314986,
       "friendsCount": 233,
       "location": "New York, NY"
     },
@@ -99,8 +556,8 @@
       "name": "Shaw",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1915759012362301441/qB4pcvcV_normal.jpg",
       "description": "chief scammer @ eliza labs // open source agents and decentralized networks // ai16z is now elizaOS",
-      "followersCount": 156850,
-      "friendsCount": 1272,
+      "followersCount": 156854,
+      "friendsCount": 1273,
       "location": "San Francisco, CA"
     },
     "images": [],
@@ -114,7 +571,7 @@
       "name": "Sei",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1998864096943566848/quL0fkgk_normal.jpg",
       "description": "The Fastest Layer 1 Blockchain • High-Performance Rails for Digital Asset Markets • RT ≠ endorsement • Account managed by @Sei_FND",
-      "followersCount": 781865,
+      "followersCount": 781891,
       "friendsCount": 355,
       "location": ""
     },
@@ -131,7 +588,7 @@
       "name": "Eric Balchunas",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1918640027518582784/jKES83Yg_normal.jpg",
       "description": "Senior ETF Analyst for @Bloomberg. Dad. Rutgers grad. Gen X-er. Author of \"The Institutional ETF Toolbox\" & \"The Bogle Effect.” Co-host of Trillions & ETF IQ.",
-      "followersCount": 386274,
+      "followersCount": 386282,
       "friendsCount": 3000,
       "location": "South Philly, yo"
     },
@@ -229,7 +686,7 @@
       "name": "Bitcoin Magazine",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1444022922377576453/AzvXYXGr_normal.jpg",
       "description": "The Most Trusted Voice In #Bitcoin 🟠 • Find us https://t.co/X4mXn4fvYQ",
-      "followersCount": 3860019,
+      "followersCount": 3860098,
       "friendsCount": 1197,
       "location": "Nashville, TN"
     },
@@ -246,7 +703,7 @@
       "name": "Binance",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1940131561103347712/f5y2qENu_normal.jpg",
       "description": "The world’s leading blockchain ecosystem and digital asset exchange | #Binance #BNB | Support: @BinanceHelpDesk | Posts are not directed towards UK users.",
-      "followersCount": 15284288,
+      "followersCount": 15284901,
       "friendsCount": 574,
       "location": ""
     },
@@ -526,7 +983,7 @@
       "name": "Meta 猿 🦍",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1959964162676883456/EJIg0d9g_normal.jpg",
       "description": "记录生活，分享偏见。#猩球 社区👇",
-      "followersCount": 25296,
+      "followersCount": 25294,
       "friendsCount": 1301,
       "location": "上海"
     },
@@ -700,7 +1157,7 @@
       "name": "jiayi 加一",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1927954033425408000/tgBtde5s_normal.jpg",
       "description": "Cooking @geek_cartel | Strategist, Investor | Leader in storytelling, impactful marketing & growth hacking | prev @binance 2018-2021 Always hiring",
-      "followersCount": 20913,
+      "followersCount": 20914,
       "friendsCount": 1140,
       "location": ""
     },
@@ -717,7 +1174,7 @@
       "name": "Laura Shin",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1539462748173746176/hxR80FYT_normal.png",
       "description": "Crypto journalist 🎧 Host @unchained_pod 📚 Author, The Cryptopians 💌 Sign up https://t.co/gf90Q5GrXy Ads sponsorships@unchainedcrypto.com",
-      "followersCount": 281367,
+      "followersCount": 281365,
       "friendsCount": 5006,
       "location": "Crypto Twitter"
     },
@@ -6993,7 +7450,7 @@
       "name": "静香小姐",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1559441539889127424/5p6T0EKu_normal.jpg",
       "description": "普通擦边女爱炒币｜不是kol｜扔门永存｜记录个人交易：https://t.co/fkshaN7E3x｜合作tg：jingxiangxj",
-      "followersCount": 613412,
+      "followersCount": 613402,
       "friendsCount": 1184,
       "location": "畅享web3尽在OKX"
     },
