@@ -1,11 +1,788 @@
 [
   {
     "user": {
+      "screenName": "CuiMao",
+      "name": "CuiMao",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2002464185410625537/300GsGlm_normal.jpg",
+      "description": "@NVidia  AI Developer",
+      "followersCount": 24419,
+      "friendsCount": 1007,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/CuiMao/status/2007109001730023768",
+    "fullText": "有些事看破不说破，这是我在推特 7年学会最终身受益的本事。"
+  },
+  {
+    "user": {
+      "screenName": "ChartsRUs0",
+      "name": "Charts R Us",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1989323401731690496/f2sqEynO_normal.jpg",
+      "description": "Some flow. Some dark pool. Maybe a little charts sprinkled in. And a whole lot of dry humor to keep it from feeling like C-SPAN with candlesticks",
+      "followersCount": 13738,
+      "friendsCount": 44,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G9qu6EeWcAANqPf.png"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/ChartsRUs0/status/2007108905495871797",
+    "fullText": "$IONQ https://t.co/LMO508wjR2"
+  },
+  {
+    "user": {
+      "screenName": "SeekingAlpha",
+      "name": "Seeking Alpha",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/534299535552421888/eHacq8EQ_normal.png",
+      "description": "A global leader in crowdsourced U.S. investment research, powered by one of the largest and most vibrant investor communities.",
+      "followersCount": 314964,
+      "friendsCount": 233,
+      "location": "New York, NY"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/SeekingAlpha/status/2007108392205394283",
+    "fullText": "SPYI: Final Distributions Are In, 94% Return Of Capital $SPYI #investing #markets #finance https://t.co/3SdmM7XOJY"
+  },
+  {
+    "user": {
+      "screenName": "theinformation",
+      "name": "The Information",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1747484907163516928/d_K3Z_hH_normal.jpg",
+      "description": "The most authoritative publication covering tech that high-powered tech execs and founders read daily.\n\nTITV M-F at 1 ET: https://t.co/M0NywExPjR",
+      "followersCount": 137039,
+      "friendsCount": 703,
+      "location": "San Francisco"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/theinformation/status/2007108390682558830",
+    "fullText": "Nvidia is investing in Brookfield’s new AI infrastructure fund. The partnership will help the firm set up large server clusters for its new cloud business. Learn more: https://t.co/5YwoNBbGnX"
+  },
+  {
+    "user": {
+      "screenName": "ChartsRUs0",
+      "name": "Charts R Us",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1989323401731690496/f2sqEynO_normal.jpg",
+      "description": "Some flow. Some dark pool. Maybe a little charts sprinkled in. And a whole lot of dry humor to keep it from feeling like C-SPAN with candlesticks",
+      "followersCount": 13738,
+      "friendsCount": 44,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G9quFCfWwAAjhM4.png"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/ChartsRUs0/status/2007107992811127044",
+    "fullText": "$HIMS https://t.co/VAMVR6MP2i"
+  },
+  {
+    "user": {
+      "screenName": "Polymarket",
+      "name": "Polymarket",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2005664281002491904/bz2ZO_nU_normal.jpg",
+      "description": "The World's Largest Prediction Market. Trade politics, news, culture, sports & tech. Discord: https://t.co/tzKrbDf7dZ",
+      "followersCount": 887744,
+      "friendsCount": 5550,
+      "location": ""
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2006862445411721216/vid/avc1/720x1280/0xWfn5I21oG3VyAb.mp4?tag=21"
+    ],
+    "tweetUrl": "https://x.com/Polymarket/status/2007107972930179341",
+    "fullText": "NEW: Lily Phillips has been baptized &amp; now accepts Jesus Christ as her Lord &amp; Savior.\n\nThe odds of Him returning this year are now down to 2%.\nhttps://t.co/UeOTKmnjGU"
+  },
+  {
+    "user": {
+      "screenName": "WuBlockchain",
+      "name": "Wu Blockchain",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1763570636201615360/fuFapqAI_normal.jpg",
+      "description": "Important Crypto News mainly Asia\nLead by Colin Wu 吴说\nMore Channels: https://t.co/EWW3fUtX5v \nContact: Tele colinwu1989 \nnon-financial advice",
+      "followersCount": 548908,
+      "friendsCount": 882,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/WuBlockchain/status/2007107792088228192",
+    "fullText": "Grayscale Head of Research Zach Pandl said in a CNBC interview that 2026 could mark the start of crypto’s “institutional era,” with Bitcoin likely reaching a new all-time high in the first half of 2026, driven by rising demand for alternative stores of value amid global macro"
+  },
+  {
+    "user": {
+      "screenName": "Dapp_Learning",
+      "name": "Dapp-Learning",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1792541391945674752/WRs68aqA_normal.jpg",
+      "description": "An  online open-source developer community focusing on Ethereum & Layer2.\nOfficial website: https://t.co/aFPj7mxvac  \nhttps://t.co/eqGPrSztRh",
+      "followersCount": 3854,
+      "friendsCount": 1701,
+      "location": "Ethereum"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/Dapp_Learning/status/2007107516178878683",
+    "fullText": "《AAVE v4 架构与核心机制》by @wong_ssh \n精彩分享已上传, 欢迎点赞收藏订阅转发～～\nV4代码相对可读性较强， 相对于V3，引入了 Hub 和 Spoke 的分离架构，变化较大，感兴趣的同学可以深入看视频学习。\n文档链接：https://t.co/FmgNga9HBS \nBilibili: https://t.co/HhHdWN27wK\nYoutube:"
+  },
+  {
+    "user": {
+      "screenName": "Balder13946731",
+      "name": "Balder 猫哥",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1891012617319411712/Ikv_y_or_normal.jpg",
+      "description": "Part-time Trader•Ph.D.｜Not Financial Advise｜Our free Community https://t.co/sQlCkImeTz",
+      "followersCount": 17706,
+      "friendsCount": 144,
+      "location": "Texas, USA"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G9qtoBzbkAA2pzL.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/Balder13946731/status/2007107490341867537",
+    "fullText": "我觉得短期内空 $TSLA 是可以理解的，但是要空其一年是难以理解的。因为今年可能是一个机器人大年。 https://t.co/YHlZ3v2pxN"
+  },
+  {
+    "user": {
+      "screenName": "ChartsRUs0",
+      "name": "Charts R Us",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1989323401731690496/f2sqEynO_normal.jpg",
+      "description": "Some flow. Some dark pool. Maybe a little charts sprinkled in. And a whole lot of dry humor to keep it from feeling like C-SPAN with candlesticks",
+      "followersCount": 13738,
+      "friendsCount": 44,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G9qtSoNXAAAtDMy.png"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/ChartsRUs0/status/2007107140373402078",
+    "fullText": "$SYM Spec https://t.co/2yzMpamYKy"
+  },
+  {
+    "user": {
+      "screenName": "Alvin0617",
+      "name": "alvin617.eth 🦇🔊",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1949101146012086272/lxA6QPbF_normal.jpg",
+      "description": "Building @CryptoWesearch I Crypto ‘17 I Dive into new narratives and vibing tools  💎 ⚙️",
+      "followersCount": 21779,
+      "friendsCount": 11325,
+      "location": "cryptowesearch.com"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/Alvin0617/status/2007106955270299701",
+    "fullText": "It's 2026 - What Should We Talk About? w/ @cryptomeina [Guardians Echo ep.22] https://t.co/pQghxIZTai"
+  },
+  {
+    "user": {
+      "screenName": "Balder13946731",
+      "name": "Balder 猫哥",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1891012617319411712/Ikv_y_or_normal.jpg",
+      "description": "Part-time Trader•Ph.D.｜Not Financial Advise｜Our free Community https://t.co/sQlCkImeTz",
+      "followersCount": 17706,
+      "friendsCount": 144,
+      "location": "Texas, USA"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/Balder13946731/status/2007106870247628916",
+    "fullText": "$META 和 $MSFT 都是 “AI想相关但实际无关股”"
+  },
+  {
+    "user": {
+      "screenName": "Polymarket",
+      "name": "Polymarket",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2005664281002491904/bz2ZO_nU_normal.jpg",
+      "description": "The World's Largest Prediction Market. Trade politics, news, culture, sports & tech. Discord: https://t.co/tzKrbDf7dZ",
+      "followersCount": 887744,
+      "friendsCount": 5550,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/Polymarket/status/2007106833903956371",
+    "fullText": "JUST IN: Grokipedia will \"far exceed Wikipedia this year\" — Elon Musk"
+  },
+  {
+    "user": {
+      "screenName": "hotbabyrebao",
+      "name": "web3热宝💢",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1963916711624572928/LmF0uT-X_normal.jpg",
+      "description": "爱好meme/合约｜Web3+AI🔸｜币圈认知升级 ｜新手入门 ⭐️ 币圈开户汇总：https://t.co/BXrl8ZIkmH📖孙宇晨读书会会长 🔸所有项目DYOR,不构成投资建议💛PTCG宝可梦发烧友",
+      "followersCount": 69564,
+      "friendsCount": 1468,
+      "location": "商务合作👉🏻"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G9qs_78aEAAdH31.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/hotbabyrebao/status/2007106804019556753",
+    "fullText": "他妈的一夜回解放前了5555\n早知道我就不开单了！！！ https://t.co/ldnpg2fYVr"
+  },
+  {
+    "user": {
+      "screenName": "y_cryptoanalyst",
+      "name": "yyy",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1940912893202944000/CGNonSFc_normal.jpg",
+      "description": "收手吧，阿祖\n\nShitposts. Head of E-beggers. Chief Fud Officer.\n\n「若批评不自由，则赞美无意义」",
+      "followersCount": 25870,
+      "friendsCount": 5145,
+      "location": "Moon"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G9qsyo6bYAAAtOI.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/y_cryptoanalyst/status/2007106746721140771",
+    "fullText": "今年写推文的首要目标是不让Grok 看穿我。 https://t.co/VZfbYEKePB"
+  },
+  {
+    "user": {
+      "screenName": "wublockchain12",
+      "name": "吴说区块链",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1763571513553543168/swT8lq9S_normal.jpg",
+      "description": "吴说中文推特：接近真相，更可信赖\n专业可信的行业新闻，优质深度内容推荐\n吴说所有内容渠道、播客、APP 等：https://t.co/rVoqryXVjk\n联系我们 TG: colinwu1989",
+      "followersCount": 170808,
+      "friendsCount": 1,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/wublockchain12/status/2007106566424613136",
+    "fullText": "灰度（Grayscale）研究主管 Zach Pandl 在 CNBC 采访中表示，2026 年可能开启加密货币的 “机构时代”，并预计比特币将在 2026 年上半年创历史新高。驱动因素包括全球宏观经济对替代价值储存需求上升、美元走弱预期、美联储潜在降息，以及跨党派加密市场结构立法进展。https://t.co/feEAV8A6pZ"
+  },
+  {
+    "user": {
+      "screenName": "petergyang",
+      "name": "Peter Yang",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1454103621516206083/_klMwpkk_normal.jpg",
+      "description": "I share extremely practical AI tutorials and interviews | Join 140K+ readers at https://t.co/XYKTmGVH14 | Product at Roblox",
+      "followersCount": 160884,
+      "friendsCount": 2005,
+      "location": "Get my best tutorials →"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G9qsqPqbQAAu0-1.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/petergyang/status/2007106429862445424",
+    "fullText": "Built a new personal website last night.\n\nIt has a hidden page if you can find it 🙂\n\nBuilding is so fun when AI (Opus) can one shot whatever I want each time.\n\nGoing to add more easter eggs to this next (I'm thinking a satirical LinkedIn profile).\n\n📌 Visit it here: https://t.co/bfaQ5jA1gi"
+  },
+  {
+    "user": {
+      "screenName": "CryptoWhaleLive",
+      "name": "Hyperliquid Alpha Keys 🔑",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1965718483590864896/yLheDTvE_normal.jpg",
+      "description": "🔑 Daily Hyperliquid profit signals. We decode whale moves into repeatable alpha. NFA. #Hyperliquid #BTC #ETH",
+      "followersCount": 2861,
+      "friendsCount": 24,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/CryptoWhaleLive/status/2007106177516130590",
+    "fullText": "🐋 24h Profit Leaderboard: #3\n\nWallet: 0x3e56cd2e45607df5ee53d4daec678ae048a0e96f\nOn-chain Assets: $2.75M\nSymbol: ETH\nPnL (close-long): $52,475 USDC\nTx: https://t.co/8dnoqmx14S\n———\nLargest position: $22.58M｜Long BTC 20x｜Entry 88,552｜Liq 84,547"
+  },
+  {
+    "user": {
+      "screenName": "AltCryptoGems",
+      "name": "Sjuul | AltCryptoGems",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1950543002721533952/y0gABDyF_normal.jpg",
+      "description": "Invest in the unexpected || Founder of @AltCryptoCast, @AltCryptoTalk & @KollectAgency || DM for Business Enquiries💰",
+      "followersCount": 478063,
+      "friendsCount": 1907,
+      "location": "Dubai"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G9qCroyW4AMa72x.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/AltCryptoGems/status/2007105854340837382",
+    "fullText": "The bear of the week is @SkyEcosystem with a price decrease of almost 10%! This price drop for $SKY is due to a technical breakdown, leading to investors and whales selling!\n\nSource: @CoinMarketCap https://t.co/qdmNCCOn0c"
+  },
+  {
+    "user": {
+      "screenName": "Paris13Jeanne",
+      "name": "K线教主",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1966498856683847680/60Li7Mqk_normal.jpg",
+      "description": "二级实盘交易员/法国Essec金融硕士/CFA特许金融分析师一级/缠论lover/SM lover/加群需要注册:\n近3亿用户共同选择TOP1交易所币安 或\n钱包超丝滑，合约滑点小的OKX\n（链接如下）",
+      "followersCount": 118551,
+      "friendsCount": 3029,
+      "location": "Paris"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/Paris13Jeanne/status/2007105748036460552",
+    "fullText": "我日，一手看多期权今天下午到期。。。"
+  },
+  {
+    "user": {
+      "screenName": "ChartsRUs0",
+      "name": "Charts R Us",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1989323401731690496/f2sqEynO_normal.jpg",
+      "description": "Some flow. Some dark pool. Maybe a little charts sprinkled in. And a whole lot of dry humor to keep it from feeling like C-SPAN with candlesticks",
+      "followersCount": 13738,
+      "friendsCount": 44,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G9qrvtCWcAAdPQr.png"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/ChartsRUs0/status/2007105426979176578",
+    "fullText": "$CAT https://t.co/0CfRuw39u6"
+  },
+  {
+    "user": {
+      "screenName": "gonka_ai",
+      "name": "Gonka",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1957724852619456516/TRz8RAPs_normal.jpg",
+      "description": "Gonka is a decentralized network for high‑efficiency AI compute. Run by those who run it. Join us: https://t.co/kqCSQ6eppL",
+      "followersCount": 16336,
+      "friendsCount": 36,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G9pnDFnXsAA_xwc.png"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/gonka_ai/status/2007105350634291296",
+    "fullText": "Ethics panels mean nothing when users do not own compute.\n\nYou cannot regulate morality into a rented brain.\n\nOwnership precedes ethics. Always. https://t.co/hDALwLbnPw"
+  },
+  {
+    "user": {
+      "screenName": "BloFin_Official",
+      "name": "BloFin Exchange",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2006993532570185729/hJ9h1ngT_normal.jpg",
+      "description": "Where whales are made. | #BloFin offers premium perps & futures #trading with over 500+ USDT-M trading pairs | @BloFin_Listing for updates.",
+      "followersCount": 113934,
+      "friendsCount": 362,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/BloFin_Official/status/2007105186205209049",
+    "fullText": "When are you touching grass in 2026? 🫳🌱"
+  },
+  {
+    "user": {
+      "screenName": "Haider",
+      "name": "Haider",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1975808859915620352/BOVNqhev_normal.jpg",
+      "description": "Creator of the OKX brand. Read my personal views about crypto and what we are up to at @OKX & @Wallet.",
+      "followersCount": 31911,
+      "friendsCount": 2544,
+      "location": "🌎 | 🇺🇸"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/Haider/status/2007105173768868351",
+    "fullText": "Building something that doesn’t compete with anyone …. just creates our our lane and a new value for people using our apps"
+  },
+  {
+    "user": {
+      "screenName": "shequjuncrypto",
+      "name": "社Q君crypto",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1586620758532313088/8p9x7QgK_normal.jpg",
+      "description": "原微信公众号：社区君聊投资。\n转战twitter聊聊天",
+      "followersCount": 4680,
+      "friendsCount": 425,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/shequjuncrypto/status/2007105011772465502",
+    "fullText": "老美是懂什么叫好好过节的。\n美股 币都一片光明啊，希望2026好好的"
+  },
+  {
+    "user": {
+      "screenName": "TheOnion",
+      "name": "The Onion",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1517492889852461056/bEnqsvVR_normal.jpg",
+      "description": "America's Finest News Source. A @globtetrahedron subsidiary.\n\nGet the paper delivered to your door: https://t.co/jJP2Apbhe8",
+      "followersCount": 10605118,
+      "friendsCount": 8,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/TheOnion/status/2007104723711582268",
+    "fullText": "Man Spends Whole Day Dreading Fun Activity He Signed Up For https://t.co/tDh2fwt6UP"
+  },
+  {
+    "user": {
+      "screenName": "CantonNetwork",
+      "name": "Canton Network",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1957589819074158594/Wgh-q50O_normal.jpg",
+      "description": "The only public blockchain with privacy that works, powering Wall Street and trillions on-chain.",
+      "followersCount": 82128,
+      "friendsCount": 216,
+      "location": "NYC"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/CantonNetwork/status/2007104629356773886",
+    "fullText": "Privacy that scales comes from control, not obscurity."
+  },
+  {
+    "user": {
+      "screenName": "SeekingAlpha",
+      "name": "Seeking Alpha",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/534299535552421888/eHacq8EQ_normal.png",
+      "description": "A global leader in crowdsourced U.S. investment research, powered by one of the largest and most vibrant investor communities.",
+      "followersCount": 314964,
+      "friendsCount": 233,
+      "location": "New York, NY"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/SeekingAlpha/status/2007104628983533848",
+    "fullText": "Nasdaq, S&amp;P, 500 Dow gain to kick off 2026 $SP500 $COMP:IND $DJI #markets #investing #economy https://t.co/sUbYNyuCdW"
+  },
+  {
+    "user": {
+      "screenName": "TradeZella",
+      "name": "TradeZella 🦄",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1457961291566436356/X_5FP53Y_normal.jpg",
+      "description": "#1 tracking tool that lets you track your trading performance, journal your trades and Backtest. Trade Tracker - Journal - Backtest - Replay - Analytics.",
+      "followersCount": 53709,
+      "friendsCount": 0,
+      "location": "Start today 👇"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/TradeZella/status/2007104141026349473",
+    "fullText": "New traders spend more time “looking for trades” than defining what a trade even is.\n\nAsk yourself:\n– What does your A+ setup actually look like?\n– What must price do before you participate?\n– What behavior instantly cancels the idea?\n\nIf you can’t describe it clearly, you won’t"
+  },
+  {
+    "user": {
+      "screenName": "MMCrypto",
+      "name": "MMCrypto",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1961007339777208320/jscP_kQg_normal.jpg",
+      "description": "for #Bitcoin, #BTC, $BTC; for Health: @ChrisMMHealth",
+      "followersCount": 1772652,
+      "friendsCount": 2808,
+      "location": "United Arab Emirates"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G9qqY1KbsAELYz2.jpg",
+      "https://pbs.twimg.com/media/G9qqY1DacAEaiTW.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/MMCrypto/status/2007103934935289936",
+    "fullText": "BITCOIN JUST HIT A NEW YEARLY HIGH! https://t.co/kBv0iZVJQL"
+  },
+  {
+    "user": {
+      "screenName": "doomsdart",
+      "name": "Bera",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1962898843823230976/6Niy5C-f_normal.jpg",
+      "description": "Crypto & Stocks \n\nNfa, dyor.",
+      "followersCount": 29628,
+      "friendsCount": 2001,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/doomsdart/status/2007103901221388386",
+    "fullText": "I bought some $Useless\n\nI am a little late to the party since it's already up big on the day\n\nBut I think it can go much higher at the back of Unipcs (bonkguy) support.\n\nBottom was around 55M and now it's around 80M\n\nSeems cheap vs many other memes at the moment."
+  },
+  {
+    "user": {
+      "screenName": "ChartsRUs0",
+      "name": "Charts R Us",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1989323401731690496/f2sqEynO_normal.jpg",
+      "description": "Some flow. Some dark pool. Maybe a little charts sprinkled in. And a whole lot of dry humor to keep it from feeling like C-SPAN with candlesticks",
+      "followersCount": 13738,
+      "friendsCount": 44,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G9qqUG3WwAAQ-sB.png"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/ChartsRUs0/status/2007103852085223662",
+    "fullText": "$BE https://t.co/voPyGH9X6y"
+  },
+  {
+    "user": {
+      "screenName": "SahilBloom",
+      "name": "Sahil Bloom",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1586859332104343552/V1HRpbP1_normal.jpg",
+      "description": "NYT Bestselling Author of The 5 Types of Wealth. Founder of Wild Roman. Gave up a grand slam on ESPN in 2012 and still waiting for it to land.",
+      "followersCount": 1135054,
+      "friendsCount": 344,
+      "location": "Boston, MA"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/SahilBloom/status/2007103735148007563",
+    "fullText": "I’m increasingly convinced that knowing when to keep your mouth shut is the ultimate life hack."
+  },
+  {
+    "user": {
+      "screenName": "ChineseWSJ",
+      "name": "华尔街日报中文网",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1037219311130234880/KXlUBc9N_normal.jpg",
+      "description": "感谢您关注华尔街日报中文网。我们有上千位专业记者与资深编辑遍布全球，为读者提供24小时最可靠、即时和深入的市场动向，政商时事，科技趋势和前沿思潮。欢迎阅读并分享见解。\n\n尽管全球局势瞬息万变，可靠的信息来源仍能助您洞悉全局，运筹帷幄。前往https://t.co/Ay39I3A0HH成为会员，尽享赢得全球核心决策者信赖的独到见解和深入分析。",
+      "followersCount": 3269722,
+      "friendsCount": 498,
+      "location": "China"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/ChineseWSJ/status/2007103590947537152",
+    "fullText": "五年前，Meta的Reels还是一款模仿TikTok、未创造任何收入的产品。如今，它即将带来与可口可乐和耐克相当的收入——而且该公司计划在2026年将其扩展到更多屏幕上。https://t.co/9x2Bzh8Ele"
+  },
+  {
+    "user": {
+      "screenName": "AshCrypto",
+      "name": "Ash Crypto",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1935933861034090496/h_vgXOAw_normal.jpg",
+      "description": "News, Memes, Charts, Hopium, Market analysis and Latest crypto updates. Our official Telegram https://t.co/6iHJbN2D67",
+      "followersCount": 2104228,
+      "friendsCount": 316,
+      "location": "X"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G9qp1LVbMAAhSbu.jpg",
+      "https://pbs.twimg.com/media/G9qp1LfaYAEqyhQ.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/AshCrypto/status/2007103322327757016",
+    "fullText": "Bitcoin just hit $90,000 \n\nETH just hit $3,100 \n\nLet’s fucking go !! https://t.co/TbqSyKD7Dj"
+  },
+  {
+    "user": {
+      "screenName": "doomsdart",
+      "name": "Bera",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1962898843823230976/6Niy5C-f_normal.jpg",
+      "description": "Crypto & Stocks \n\nNfa, dyor.",
+      "followersCount": 29628,
+      "friendsCount": 2001,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/doomsdart/status/2007103103561273460",
+    "fullText": "Not seeing any Blackrock Xfers to CB today. Prolly means market can continue rallying into weekend and beyond.\nAll this time the etf sell pressure has been killing all green candles.\nWe finally have some real relief with memes leading once again."
+  },
+  {
+    "user": {
+      "screenName": "LuxAlgo",
+      "name": "LuxAlgo",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1872719571141951488/Wd4LnEpE_normal.jpg",
+      "description": "The #1 AI agent for backtesting trading strategies \nWorld's largest provider of trading indicators 📈",
+      "followersCount": 110930,
+      "friendsCount": 348,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G9qouA6WIAAc33P.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/LuxAlgo/status/2007102442698322309",
+    "fullText": "S&amp;P PMI REPORT: Input cost inflation weakens to an 11-month low. 🚨 https://t.co/leMiQKumct"
+  },
+  {
+    "user": {
+      "screenName": "ChainCatcher_",
+      "name": "ChainCatcher",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1742468413048700929/UHVAy44V_normal.jpg",
+      "description": "为你带来最新资讯的专业 #crypto 媒体，与创新者共建 #Web3 世界\n\n开启 🔔 ，及时获取最新加密资讯；评论、转发，打破加密信息传播的壁垒",
+      "followersCount": 36857,
+      "friendsCount": 1709,
+      "location": "Web3"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/ChainCatcher_/status/2007102339505922462",
+    "fullText": "💡资讯\n美股2026年首个交易日加密货币股普涨，Bitmine涨幅逾4%。道指涨0.18%，标普500指数涨0.54%，纳指涨超1%。主要加密货币概念股中，Bitmine涨4.20%，Gemini涨1.81%，Coinbase涨0.49%。 #比特币 #加密资产 #美股\n\nhttps://t.co/cHQYCLAyh8"
+  },
+  {
+    "user": {
+      "screenName": "ChartsRUs0",
+      "name": "Charts R Us",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1989323401731690496/f2sqEynO_normal.jpg",
+      "description": "Some flow. Some dark pool. Maybe a little charts sprinkled in. And a whole lot of dry humor to keep it from feeling like C-SPAN with candlesticks",
+      "followersCount": 13738,
+      "friendsCount": 44,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G9qoz7IXsAA6hT9.png"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/ChartsRUs0/status/2007102222694514967",
+    "fullText": "$UNH https://t.co/iFB3t69mtN"
+  },
+  {
+    "user": {
+      "screenName": "Mirro7777",
+      "name": "MIRRO🔶BNB",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1987779770286063616/O3bOBJIb_normal.jpg",
+      "description": "永远热爱 $cheems $bnb",
+      "followersCount": 39107,
+      "friendsCount": 397,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/Mirro7777/status/2007102191069491424",
+    "fullText": "其实都是一样的戏码\n\n很多的造梦告诉你小资金门槛+已自由，然后有意无意之间透露都是可复制的。所以现在原本就稀缺的注意力直接被锚定，这群人行情技术都不讲，和你说看得早，OK你也直接塞了，但是真的能说服自己拿得住吗，\n\n于是能力开始被干掉，钱包再包装一下，运气变成了技巧，然后错过感一推FOMO"
+  },
+  {
+    "user": {
+      "screenName": "LuxAlgo",
+      "name": "LuxAlgo",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1872719571141951488/Wd4LnEpE_normal.jpg",
+      "description": "The #1 AI agent for backtesting trading strategies \nWorld's largest provider of trading indicators 📈",
+      "followersCount": 110930,
+      "friendsCount": 348,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G9qnvowXQAALwiR.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/LuxAlgo/status/2007101034163019917",
+    "fullText": "2026 is off to a great start. https://t.co/bSB6D6lUS1"
+  },
+  {
+    "user": {
+      "screenName": "JamesWynnReal",
+      "name": "James (Pauly) Wynn",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2006757642564415492/uNsSKckc_normal.jpg",
+      "description": "Made $100M in 70 days harnessing the power of leverage - on chain. I called PEPE at 600k market cap to go to billions and made $25m - on chain. $PEPE Whale 🐋",
+      "followersCount": 484461,
+      "friendsCount": 226,
+      "location": "Trade/Buy $WYNN below 👇"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G9qno2ObcAER6vq.png"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/JamesWynnReal/status/2007100941741551991",
+    "fullText": "I fucking love $PEPE.\n \n- Wynn https://t.co/3ApbbpqHnI"
+  },
+  {
+    "user": {
+      "screenName": "theinformation",
+      "name": "The Information",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1747484907163516928/d_K3Z_hH_normal.jpg",
+      "description": "The most authoritative publication covering tech that high-powered tech execs and founders read daily.\n\nTITV M-F at 1 ET: https://t.co/M0NywExPjR",
+      "followersCount": 137039,
+      "friendsCount": 703,
+      "location": "San Francisco"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/theinformation/status/2007100844731252893",
+    "fullText": "By integrating Groq’s low-latency processors, Nvidia aims to neutralize threats from specialized chips that offer cheaper and faster AI inference. Our Deep Research Report analyzes the move. Full story: https://t.co/ViNMY3Or4g"
+  },
+  {
+    "user": {
+      "screenName": "SeekingAlpha",
+      "name": "Seeking Alpha",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/534299535552421888/eHacq8EQ_normal.png",
+      "description": "A global leader in crowdsourced U.S. investment research, powered by one of the largest and most vibrant investor communities.",
+      "followersCount": 314964,
+      "friendsCount": 233,
+      "location": "New York, NY"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/SeekingAlpha/status/2007100839958368537",
+    "fullText": "Here's what SA analysts and subscribers expect from markets in 2026 $QQQ $SPY $DIA #business #economy #stockmarket https://t.co/GGWmh8kI4f"
+  },
+  {
+    "user": {
+      "screenName": "biupa",
+      "name": "Biupa",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1884643390387875840/MyeoGHmu_normal.jpg",
+      "description": "DAT stuff\ntweets are personal trading record, non-corporate. \n— \n进群注册 https://t.co/BBq8xz5l15 \n🎰顶级游戏体验尽在 @bcgame",
+      "followersCount": 24253,
+      "friendsCount": 1358,
+      "location": "TG: biupa0068"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/biupa/status/2007100691030962530",
+    "fullText": "行情观点\n\n1月1号开始反弹？2023春节剧本的可能性\n\n1月1号出现了部分山寨反弹\n\n点火的是 $PEPE\n\n很多家人认为是否是某季来了。首先整体行情仍然处于熊市这一点不变。四年周期的第四年收了红，也把祖制违背\n\n现在我认为探讨的是能否出现熊市中期反弹"
+  },
+  {
+    "user": {
+      "screenName": "wang_xiaolou",
+      "name": "日拱一卒王小楼",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1988567900735877120/DKtV7mlY_normal.jpg",
+      "description": "|个人投研者｜AI + Web3 | 只筛选，不教育｜善良：利他不利己；聪明：利他又利己｜",
+      "followersCount": 29456,
+      "friendsCount": 5793,
+      "location": "Shanghai"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/wang_xiaolou/status/2007100499578044750",
+    "fullText": "2026年值得关注的顶级增长主题\n\n• 加密货币 | $HOOD  $COIN  $BMNR \n• 量子 | $IONQ $RGTI $QBTS\n• 机器人 | $TSLA $SYM $ISRG $RR\n• 核能 | $OKLO $LEU $GEV $UUUU\n• AI 公用设施 | $CRWV $NBIS $IREN $CIFR\n• AI 芯片 | $NVDA $TSM $ASML $AMD\n• 电网与电力 | $CEG $NEE $VST $EOSE\n• 无人机"
+  },
+  {
+    "user": {
+      "screenName": "JunShao_666",
+      "name": "Crypto_君少",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1808135500840001537/al17oN8I_normal.jpg",
+      "description": "资深二级分析师┋广场创作者┋白名单分享┋投研报告┋项目线程┋链圈信息捕获者┋加密世界信仰者┋ 优质币种分析┋ 商务合作DM ┋无投资建议┋ ➠ 乌鸦社群：https://t.co/icFuAS1ZHp",
+      "followersCount": 40085,
+      "friendsCount": 1788,
+      "location": "Hong Kong"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G9qmwoda8AAiYN9.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/JunShao_666/status/2007099948802937323",
+    "fullText": "2026年，新年新气象！\n\n各个平台又开始送福利抢人了！\n最近朋友说deepcoin的福利可以撸一撸，看了一下确实有操作空间。\n\n百U的猪脚饭问题不大：\n  ①新人奖+ 体验金 （最高45U）\n  ②邀请下级好友（5U /人）\n  ③交易100%中奖（U，滑雪套装，双人旅行）\n  ④平台滑点赔付（据说全赔） https://t.co/3ivfWFXNtr"
+  },
+  {
+    "user": {
+      "screenName": "WuBlockchain",
+      "name": "Wu Blockchain",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1763570636201615360/fuFapqAI_normal.jpg",
+      "description": "Important Crypto News mainly Asia\nLead by Colin Wu 吴说\nMore Channels: https://t.co/EWW3fUtX5v \nContact: Tele colinwu1989 \nnon-financial advice",
+      "followersCount": 548908,
+      "friendsCount": 882,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/WuBlockchain/status/2007099854464364992",
+    "fullText": "Bitfinex 2016 hack mastermind Ilya Lichtenstein has been released early, citing sentence reductions under the U.S. First Step Act signed by President Trump in 2018. Lichtenstein was sentenced to five years in November 2024 for laundering nearly 120,000 BTC (~$4.5 billion at the"
+  },
+  {
+    "user": {
+      "screenName": "tengyanAI",
+      "name": "Teng Yan · Chain of Thought AI",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1822948258752442368/rqjcPBNB_normal.jpg",
+      "description": "I find the AI / Robotics / Crypto things everyone will talk about in 12 months. Running @cot_research. Ex-doctor turned researcher. ↓ Newsletter (12k+ subs)",
+      "followersCount": 41289,
+      "friendsCount": 6761,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G9qmqUSbwAExLd8.png"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/tengyanAI/status/2007099832532619739",
+    "fullText": "So @vercel did something backwards: they deleted 80% of their agent’s tools.\n\nand... it didn't break. It became bettert.\n\nafter months of over-engineering an internal analytics agent, the team stripped the custom scaffolding and gave the model direct access to files via plain https://t.co/choqAKyGbv"
+  },
+  {
+    "user": {
       "screenName": "nina_rong",
       "name": "Nina Rong",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1990925647183577088/p4p9dZ8W_normal.jpg",
       "description": "Executive Director of Growth @BNBChain | prev: Head of Partnerships @Arbitrum Foundation and @OffchainLabs | All words are Rong",
-      "followersCount": 23226,
+      "followersCount": 23245,
       "friendsCount": 1661,
       "location": "L2"
     },
@@ -65,9 +842,9 @@
     "user": {
       "screenName": "liuxiaoling933",
       "name": "baby",
-      "profileImageUrl": "https://pbs.twimg.com/profile_images/2004117434941521920/NlTThV1O_normal.jpg",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2007106340175618049/qXXa42C5_normal.jpg",
       "description": "Web3 Builder  Love Memes  #BTC #BNB   $M  | 🐜  #Binance 近3亿用户的共同选择，出入金安全 启程Web3 👉\n进入：https://t.co/M97g3UVikK",
-      "followersCount": 103713,
+      "followersCount": 103741,
       "friendsCount": 13285,
       "location": ""
     },
@@ -470,7 +1247,7 @@
       "name": "KBeast.eth",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1996025915311357953/MRuyIMeN_normal.jpg",
       "description": "我是来发疯的",
-      "followersCount": 15695,
+      "followersCount": 15696,
       "friendsCount": 570,
       "location": "xyz886 planet"
     },
@@ -598,7 +1375,7 @@
       "name": "风无向🎒",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1909546559332884480/u29g-t22_normal.jpg",
       "description": "梭哈不是鲁莽，而是精心策划的辉煌！ Solana Maxi,WAO!!!\n📈敬告: 本人言论均为网上冲浪，不构成任何投资建议。 \n币圈最强空投撸毛工具 @Wave_Tool Co founder.",
-      "followersCount": 79096,
+      "followersCount": 79100,
       "friendsCount": 1894,
       "location": "The Dark Forest"
     },
@@ -964,7 +1741,7 @@
       "name": "冰蛙",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1546704581815463937/fn14Lcd-_normal.jpg",
       "description": "",
-      "followersCount": 102245,
+      "followersCount": 102277,
       "friendsCount": 2360,
       "location": ""
     },
@@ -1474,6 +2251,23 @@
     "videos": [],
     "tweetUrl": "https://x.com/AltCryptoGems/status/2007059302352351337",
     "fullText": "Would you even buy a chart that looks like this?\n\nIf yes, when and why? https://t.co/ivXdAkzkWY"
+  },
+  {
+    "user": {
+      "screenName": "BitcoinMagazine",
+      "name": "Bitcoin Magazine",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1444022922377576453/AzvXYXGr_normal.jpg",
+      "description": "The Most Trusted Voice In #Bitcoin 🟠 • Find us https://t.co/X4mXn4fvYQ",
+      "followersCount": 3859860,
+      "friendsCount": 1197,
+      "location": "Nashville, TN"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G9qAi2dX0AEDssa.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/BitcoinMagazine/status/2007057925580509481",
+    "fullText": "FUN FACT: In 2010, this website would give away 5 #Bitcoin per visitor for free.  \n\n5 #BTC is worth $447,200 today. https://t.co/Cj0ENgkczE"
   },
   {
     "user": {
@@ -4037,7 +4831,7 @@
       "name": "开挂的金兔子☯️🍊",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1992068457035386880/tOKeDb8i_normal.jpg",
       "description": "🔮奇门遁甲占卜师 |16年进入加密货币行业，玄學奇门遁甲预测加密货币|命运的改变始于看见 🛎️ ｜TG：https://t.co/mYpb4sZVIw｜币安广场创作者，同名｜商务合作DM",
-      "followersCount": 29998,
+      "followersCount": 29997,
       "friendsCount": 2614,
       "location": ""
     },
@@ -4781,8 +5575,8 @@
       "name": "雨中狂睡SleepintheRain",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1995365068872245249/n9tO5bnO_normal.jpg",
       "description": "Until death, all defeat is psychological.",
-      "followersCount": 28239,
-      "friendsCount": 3804,
+      "followersCount": 28241,
+      "friendsCount": 3805,
       "location": "Bitcoin"
     },
     "images": [
