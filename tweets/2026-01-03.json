@@ -1,12 +1,458 @@
 [
   {
     "user": {
+      "screenName": "Polymarket",
+      "name": "Polymarket",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2005664281002491904/bz2ZO_nU_normal.jpg",
+      "description": "The World's Largest Prediction Market. Trade politics, news, culture, sports & tech. Discord: https://t.co/tzKrbDf7dZ",
+      "followersCount": 894264,
+      "friendsCount": 5552,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/Polymarket/status/2007530119179710640",
+    "fullText": "JUST IN: A proposal has been made to make Venezuela to become America’s 51st state."
+  },
+  {
+    "user": {
+      "screenName": "SeekingAlpha",
+      "name": "Seeking Alpha",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/534299535552421888/eHacq8EQ_normal.png",
+      "description": "A global leader in crowdsourced U.S. investment research, powered by one of the largest and most vibrant investor communities.",
+      "followersCount": 315027,
+      "friendsCount": 233,
+      "location": "New York, NY"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/SeekingAlpha/status/2007529900832633304",
+    "fullText": "Flight To Safety: Why AGNC's 13.4% Dividend Is The Ultimate Recession Hedge $AGNC #markets #business #stockmarket https://t.co/hO45Rg36v9"
+  },
+  {
+    "user": {
+      "screenName": "ApusCoin",
+      "name": "Apu Apustaja",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1771272678562824193/ebi-vPeE_normal.jpg",
+      "description": "💌 - $APU is the coin for all frens 📣 - https://t.co/8JFrUKXeyG",
+      "followersCount": 47825,
+      "friendsCount": 454,
+      "location": "🫂💌"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G9wruPBWUAAHhyD.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/ApusCoin/status/2007528289590825021",
+    "fullText": "Newly released footage of the air campaign over Venezuela https://t.co/9DwAp6jStl"
+  },
+  {
+    "user": {
+      "screenName": "TheOnion",
+      "name": "The Onion",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1517492889852461056/bEnqsvVR_normal.jpg",
+      "description": "America's Finest News Source. A @globtetrahedron subsidiary.\n\nGet the paper delivered to your door: https://t.co/jJP2Apbhe8",
+      "followersCount": 10607862,
+      "friendsCount": 8,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/TheOnion/status/2007527441296662588",
+    "fullText": "Tech Billionaires Threaten To Flee California Over Proposed Vest Tax  https://t.co/ROpQo8ElvI"
+  },
+  {
+    "user": {
+      "screenName": "WuBlockchain",
+      "name": "Wu Blockchain",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1763570636201615360/fuFapqAI_normal.jpg",
+      "description": "Important Crypto News mainly Asia\nLead by Colin Wu 吴说\nMore Channels: https://t.co/EWW3fUtX5v \nContact: Tele colinwu1989 \nnon-financial advice",
+      "followersCount": 548970,
+      "friendsCount": 882,
+      "location": ""
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2007526277495042055/vid/avc1/3840x2160/yh3QOWk9Sb7jUJIU.mp4?tag=21"
+    ],
+    "tweetUrl": "https://x.com/WuBlockchain/status/2007527432480571566",
+    "fullText": "Vitalik: Traditional Money Struggles to Solve Public Goods Problems\n\nIn March 2020, Ethereum co-founder Vitalik said in an interview with Lex Fridman that both online and in the real world, many public goods involve concentrated costs and distributed benefits. Such activities are https://t.co/U7mEwLY4RF"
+  },
+  {
+    "user": {
+      "screenName": "cryptocom",
+      "name": "Crypto.com",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1873578819833204736/t-8bwuwM_normal.jpg",
+      "description": "The best place to buy, sell, and pay with crypto #BTC #CRO #DeFi #FFTB",
+      "followersCount": 3065283,
+      "friendsCount": 495,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/cryptocom/status/2007527384115818902",
+    "fullText": "BTC at the end of Q1. What's your call?"
+  },
+  {
+    "user": {
+      "screenName": "dontbesilent12",
+      "name": "dontbesilent",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1840665561287798784/GJCK0iKf_normal.jpg",
+      "description": "🔍 商业哲学爱好者  📡 维特根斯坦种草主播  🫆 生活合伙人 @XiaoNianTalk  📱 全网同名：dontbesilent 聊赚钱",
+      "followersCount": 60375,
+      "friendsCount": 1036,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/dontbesilent12/status/2007527258072793108",
+    "fullText": "岸本齐史是怎么在没有 AI 的情况下写出《火影忍者》的\n\n这他妈怎么可能呢"
+  },
+  {
+    "user": {
+      "screenName": "doomsdart",
+      "name": "Bera",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1962898843823230976/6Niy5C-f_normal.jpg",
+      "description": "Crypto & Stocks \n\nNfa, dyor.",
+      "followersCount": 29637,
+      "friendsCount": 2006,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G9wrAVsaUAEs79-.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/doomsdart/status/2007526822385422743",
+    "fullText": "Venezuelan Oil money will be used for buybacks to pump this chart.\n\n$wlfi https://t.co/3d05yJWdmM"
+  },
+  {
+    "user": {
+      "screenName": "WatcherGuru",
+      "name": "Watcher.Guru",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1641221212578754562/DfiC0KW2_normal.png",
+      "description": "Watcher Guru gives you unparalleled, unbiased coverage of all-things crypto & finance in real-time | Tweets Are Not Financial Advice | @BTCPrice",
+      "followersCount": 3659626,
+      "friendsCount": 3,
+      "location": "Texas, USA"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2007526751803523072/vid/avc1/960x540/sk092fNpEFNmPI8I.mp4?tag=21"
+    ],
+    "tweetUrl": "https://x.com/WatcherGuru/status/2007526802843959611",
+    "fullText": "JUST IN: 🇺🇸🇻🇪 President Trump says US oil companies will go into Venezuela, spend billions of dollars, fix the badly broken oil infrastructure, and start making money for the country. https://t.co/TeSTUiqYUo"
+  },
+  {
+    "user": {
+      "screenName": "shawmakesmagic",
+      "name": "Shaw",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1915759012362301441/qB4pcvcV_normal.jpg",
+      "description": "chief scammer @ eliza labs // open source agents and decentralized networks // ai16z is now elizaOS",
+      "followersCount": 156860,
+      "friendsCount": 1276,
+      "location": "San Francisco, CA"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/shawmakesmagic/status/2007525562504622155",
+    "fullText": "In the last 3 months I have been grinding nonstop on a project that is now 1.2 million lines of code (TS, Go, Rust)\n\nI made a massive, 800k loc project once. Took me 3 years and a team of 10\n\nI could not have built this project on my own in my lifetime."
+  },
+  {
+    "user": {
+      "screenName": "SeekingAlpha",
+      "name": "Seeking Alpha",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/534299535552421888/eHacq8EQ_normal.png",
+      "description": "A global leader in crowdsourced U.S. investment research, powered by one of the largest and most vibrant investor communities.",
+      "followersCount": 315027,
+      "friendsCount": 233,
+      "location": "New York, NY"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/SeekingAlpha/status/2007524870402556291",
+    "fullText": "Venezuela has world's largest proven crude oil reserves, but severely lags in production $UCO $USO $DBO #business #markets #investing https://t.co/bEsAKC5eXJ"
+  },
+  {
+    "user": {
+      "screenName": "traderxiaoxia",
+      "name": "小侠",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1974684378321321984/etRIXI2O_normal.jpg",
+      "description": "主业打假 副业交易 炒币12年有余，现已自由，追求自洽\n如果想了解币圈交易/注册/安装相关请点击：https://t.co/mjazQJTiMM",
+      "followersCount": 58079,
+      "friendsCount": 129,
+      "location": "油尖旺, 香港"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G9wnpiMasAIqxtA.jpg",
+      "https://pbs.twimg.com/media/G9wnphQacAE6IwC.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/traderxiaoxia/status/2007524151708508551",
+    "fullText": "信悦湾 1000 万首付款已经凑齐交上去了。\n\n贷款 5700 万从 2027 年才开始供楼，也就是 2026 是不用交利息的，2029 年中旬才交楼，也就是至少贷款 2 年，利息是 3.05%，2 年利息是 347 万，所以这个房子 差不多 7000 万的成本（23 万/平） https://t.co/sZTv9KLr3X"
+  },
+  {
+    "user": {
+      "screenName": "theinformation",
+      "name": "The Information",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1747484907163516928/d_K3Z_hH_normal.jpg",
+      "description": "The most authoritative publication covering tech that high-powered tech execs and founders read daily.\n\nTITV M-F at 1 ET: https://t.co/M0NywExPjR",
+      "followersCount": 137600,
+      "friendsCount": 703,
+      "location": "San Francisco"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/theinformation/status/2007523612912144471",
+    "fullText": "Our team predicts OpenAI will buy Pinterest in 2026 to beef up its shopping and ads businesses. The deal would give ChatGPT a trove of image data and merchant relationships. More on the prediction: https://t.co/0o1cQmRUgP"
+  },
+  {
+    "user": {
+      "screenName": "ravespecialist",
+      "name": "𝖒 (hype/acc)",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1983508891477368832/YnhLLkvw_normal.jpg",
+      "description": "",
+      "followersCount": 6098,
+      "friendsCount": 3941,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/ravespecialist/status/2007523149664137717",
+    "fullText": "milady posting is soooo back"
+  },
+  {
+    "user": {
+      "screenName": "ElonAlertsX",
+      "name": "ELON ALERTS",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1737032019102633984/2C9Chkxz_normal.jpg",
+      "description": "Notifications for Elon Musk replies, follows & profile changes. Also check @ElonClipsX and @muskosophy. By @lismont",
+      "followersCount": 122190,
+      "friendsCount": 1,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G9wnkCpXMAEINJk.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/ElonAlertsX/status/2007523035872371186",
+    "fullText": "👥 Elon Musk is now following Shou Chew (@shouchew) https://t.co/c6TO2b59uZ"
+  },
+  {
+    "user": {
+      "screenName": "ravespecialist",
+      "name": "𝖒 (hype/acc)",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1983508891477368832/YnhLLkvw_normal.jpg",
+      "description": "",
+      "followersCount": 6098,
+      "friendsCount": 3941,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/ravespecialist/status/2007523028104819022",
+    "fullText": "i keep listening to running up that hill and turn the lights off while doing deadlifts \n\nSOS"
+  },
+  {
+    "user": {
+      "screenName": "ChartsRUs0",
+      "name": "Charts R Us",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1989323401731690496/f2sqEynO_normal.jpg",
+      "description": "Some flow. Some dark pool. Maybe a little charts sprinkled in. And a whole lot of dry humor to keep it from feeling like C-SPAN with candlesticks",
+      "followersCount": 13759,
+      "friendsCount": 44,
+      "location": ""
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2007522110734848000/vid/avc1/954x720/eEJGIPPVFKRQl0du.mp4?tag=21"
+    ],
+    "tweetUrl": "https://x.com/ChartsRUs0/status/2007522318378250410",
+    "fullText": "I genuinely don’t care about politics.\n\nI just enjoy watching press conferences like a documentary.\nHumans are funny.\n\nWatching Trump here makes me want to start doing voiceovers 🤣 https://t.co/SduhKmuMn8"
+  },
+  {
+    "user": {
+      "screenName": "ravespecialist",
+      "name": "𝖒 (hype/acc)",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1983508891477368832/YnhLLkvw_normal.jpg",
+      "description": "",
+      "followersCount": 6098,
+      "friendsCount": 3941,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/ravespecialist/status/2007521046593953806",
+    "fullText": "As a Founder I really should write up my uniformed views of Venezuela as I monitor the situation"
+  },
+  {
+    "user": {
       "screenName": "JamesWynnReal",
       "name": "James (Pauly) Wynn",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2006757642564415492/uNsSKckc_normal.jpg",
       "description": "Made $100M in 70 days harnessing the power of leverage - on chain. I called PEPE at 600k market cap to go to billions and made $25m - on chain. $PEPE Whale 🐋",
-      "followersCount": 485015,
-      "friendsCount": 227,
+      "followersCount": 485008,
+      "friendsCount": 226,
+      "location": "Trade on the #1 Perp Dex 👇"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G9wlW_fasAEUXD1.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/JamesWynnReal/status/2007520617881538881",
+    "fullText": "Someone asked me earlier if they should wait for a pullback.\n \nYou’ll be lucky. $PEPE has woken.\n \n- Wynn https://t.co/Ir58jfy5LO"
+  },
+  {
+    "user": {
+      "screenName": "BitcoinMagazine",
+      "name": "Bitcoin Magazine",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1444022922377576453/AzvXYXGr_normal.jpg",
+      "description": "The Most Trusted Voice In #Bitcoin 🟠 • Find us https://t.co/X4mXn4fvYQ",
+      "followersCount": 3860751,
+      "friendsCount": 1198,
+      "location": "Nashville, TN"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G9v1cs7W0AANCNt.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/BitcoinMagazine/status/2007520533487988859",
+    "fullText": "17 years ago, #Bitcoin was just an idea.\n\nToday, it's a $1.8 trillion market and a global reserve currency.\n\nThank you Satoshi 🙌 https://t.co/DLWOiYw7Zx"
+  },
+  {
+    "user": {
+      "screenName": "WatcherGuru",
+      "name": "Watcher.Guru",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1641221212578754562/DfiC0KW2_normal.png",
+      "description": "Watcher Guru gives you unparalleled, unbiased coverage of all-things crypto & finance in real-time | Tweets Are Not Financial Advice | @BTCPrice",
+      "followersCount": 3659626,
+      "friendsCount": 3,
+      "location": "Texas, USA"
+    },
+    "images": [],
+    "videos": [
+      "https://video.twimg.com/amplify_video/2007520348854468608/vid/avc1/1920x1080/p-laUo7UThATwL6z.mp4?tag=21"
+    ],
+    "tweetUrl": "https://x.com/WatcherGuru/status/2007520406199251070",
+    "fullText": "JUST IN: 🇺🇸🇻🇪 President Trump says the US will use Venezuela's oil reserves and sell \"large amounts\" to other countries after capturing Nicolás Maduro.\n\n\"We're in the oil business.\" https://t.co/U9NDR2eYKy"
+  },
+  {
+    "user": {
+      "screenName": "SeekingAlpha",
+      "name": "Seeking Alpha",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/534299535552421888/eHacq8EQ_normal.png",
+      "description": "A global leader in crowdsourced U.S. investment research, powered by one of the largest and most vibrant investor communities.",
+      "followersCount": 315027,
+      "friendsCount": 233,
+      "location": "New York, NY"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/SeekingAlpha/status/2007519842463830327",
+    "fullText": "Global EV sales to expand at slowest pace since pandemic: report $F $GM $TM #trading #stocks #finance https://t.co/H04uPfZMp4"
+  },
+  {
+    "user": {
+      "screenName": "mscryptojiayi",
+      "name": "jiayi 加一",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1927954033425408000/tgBtde5s_normal.jpg",
+      "description": "Cooking @geek_cartel | Strategist, Investor | Leader in storytelling, impactful marketing & growth hacking | prev @binance 2018-2021 Always hiring",
+      "followersCount": 20920,
+      "friendsCount": 1141,
+      "location": ""
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G9wjpohW4AEvy1D.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/mscryptojiayi/status/2007518735511470102",
+    "fullText": "❗️ 川普最新新闻发布会已经公布了将要直接执政委内瑞拉 🇻🇪 ❗️ https://t.co/2QP50DKOZY"
+  },
+  {
+    "user": {
+      "screenName": "123skely",
+      "name": "Skely",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1880088945674919936/y9fjO4QB_normal.jpg",
+      "description": "https://t.co/8UXXg1Ri6w 10x Idea Guy. Shadow co-founder Ai16z",
+      "followersCount": 32541,
+      "friendsCount": 2017,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/123skely/status/2007518535376089158",
+    "fullText": "Today a Venezuelan named  Donaldo Flores will be born"
+  },
+  {
+    "user": {
+      "screenName": "sqalef",
+      "name": "Sqalef",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1972475871089905664/AhOXGm0C_normal.jpg",
+      "description": "speculator, participant of markets, chaotic neutral",
+      "followersCount": 4282,
+      "friendsCount": 3071,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/sqalef/status/2007518529827025154",
+    "fullText": "wow no more war this is rly bullish right"
+  },
+  {
+    "user": {
+      "screenName": "AltCryptoGems",
+      "name": "Sjuul | AltCryptoGems",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1950543002721533952/y0gABDyF_normal.jpg",
+      "description": "Invest in the unexpected || Founder of @AltCryptoCast, @AltCryptoTalk & @KollectAgency || DM for Business Enquiries💰",
+      "followersCount": 478202,
+      "friendsCount": 1907,
+      "location": "Dubai"
+    },
+    "images": [
+      "https://pbs.twimg.com/media/G9wjUiTaYAAUQKj.png",
+      "https://pbs.twimg.com/media/G9wjZkxaUAADJ6P.jpg"
+    ],
+    "videos": [],
+    "tweetUrl": "https://x.com/AltCryptoGems/status/2007518472348282990",
+    "fullText": "THE US MOVE ON VENEZUELA IS MUCH BIGGER THAN YOU THINK 🚨\n\nHere's what's actually happening:\n\n1. The Energy Lockdown\n\nChina is the largest buyer of Venezuelan crude, relying on it as a sanction-proof supply. By capturing Maduro and taking control of the Orinoco oil reserves, the https://t.co/eZgnu1js6L"
+  },
+  {
+    "user": {
+      "screenName": "123skely",
+      "name": "Skely",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1880088945674919936/y9fjO4QB_normal.jpg",
+      "description": "https://t.co/8UXXg1Ri6w 10x Idea Guy. Shadow co-founder Ai16z",
+      "followersCount": 32541,
+      "friendsCount": 2017,
+      "location": ""
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/123skely/status/2007518329205075990",
+    "fullText": "I'm surprised there aren't more Latino men named \"Goku\"."
+  },
+  {
+    "user": {
+      "screenName": "0xshawnpang",
+      "name": "Shawn Pang",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1885945732831858688/uCZD8meP_normal.jpg",
+      "description": "Cooking the self-custodial stablecoins neobank @allscaleio",
+      "followersCount": 24966,
+      "friendsCount": 1769,
+      "location": "SF / Vancouver"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/0xshawnpang/status/2007518323022479466",
+    "fullText": "百度的日活在2020年日活达到了峰值2亿日活随后就在下降，从此就没有过官方或可靠第三方直接披露的日活数字了。\n\n上周36Kr最新数据豆包刚刚超过了1亿日活，而且依靠字节全矩阵引流，增长还在持续。或许不久后对年轻人而言，用百度就像用必应一样陌生了，只听说过从没用过。"
+  },
+  {
+    "user": {
+      "screenName": "JamesWynnReal",
+      "name": "James (Pauly) Wynn",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/2006757642564415492/uNsSKckc_normal.jpg",
+      "description": "Made $100M in 70 days harnessing the power of leverage - on chain. I called PEPE at 600k market cap to go to billions and made $25m - on chain. $PEPE Whale 🐋",
+      "followersCount": 485008,
+      "friendsCount": 226,
       "location": "Trade on the #1 Perp Dex 👇"
     },
     "images": [],
@@ -22,7 +468,7 @@
       "name": "The Information",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1747484907163516928/d_K3Z_hH_normal.jpg",
       "description": "The most authoritative publication covering tech that high-powered tech execs and founders read daily.\n\nTITV M-F at 1 ET: https://t.co/M0NywExPjR",
-      "followersCount": 137590,
+      "followersCount": 137600,
       "friendsCount": 703,
       "location": "San Francisco"
     },
@@ -37,7 +483,7 @@
       "name": "CuiMao",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2002464185410625537/300GsGlm_normal.jpg",
       "description": "@NVidia  AI Developer",
-      "followersCount": 24488,
+      "followersCount": 24492,
       "friendsCount": 1012,
       "location": ""
     },
@@ -52,8 +498,8 @@
       "name": "Polymarket",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2005664281002491904/bz2ZO_nU_normal.jpg",
       "description": "The World's Largest Prediction Market. Trade politics, news, culture, sports & tech. Discord: https://t.co/tzKrbDf7dZ",
-      "followersCount": 893903,
-      "friendsCount": 5551,
+      "followersCount": 894264,
+      "friendsCount": 5552,
       "location": ""
     },
     "images": [
@@ -1411,7 +1857,7 @@
       "name": "yueya",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/2007047301500731392/K7xCXSLO_normal.jpg",
       "description": "Cooking @FOMO_v & @Flywheel_DAO｜@Memeland MVP-co founder｜Trader｜Prev: @Defiapp @Stepnofficial ｜",
-      "followersCount": 50964,
+      "followersCount": 50968,
       "friendsCount": 4988,
       "location": "moon🌙"
     },
@@ -2112,8 +2558,8 @@
       "name": "0xAA",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1909791942961250308/nPZLMciH_normal.jpg",
       "description": "Neuroscience PhD @WTFAcademy_ @ourRescuETH @The_PeopleDAO ｜链上交易，首选 #Binance 钱包 https://t.co/7oMOxjTnbI",
-      "followersCount": 170425,
-      "friendsCount": 1488,
+      "followersCount": 170428,
+      "friendsCount": 1489,
       "location": "Dark Forest"
     },
     "images": [
@@ -3252,7 +3698,7 @@
       "name": "Benson Sun",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1668618508853477381/dEpVvzxO_normal.jpg",
       "description": "Founder of @coinkarma_\nFull-time degen, part-time shit poster\n\nhttps://t.co/kibwqND8yQ",
-      "followersCount": 72564,
+      "followersCount": 72570,
       "friendsCount": 844,
       "location": ""
     },
@@ -4417,8 +4863,8 @@
       "screenName": "traderxiaoxia",
       "name": "小侠",
       "profileImageUrl": "https://pbs.twimg.com/profile_images/1974684378321321984/etRIXI2O_normal.jpg",
-      "description": "主业打假 副业交易 炒币12年有余，现已自由，追求自洽，如果想了解币圈交易/注册/安装相关请点击：https://t.co/mjazQJTQCk",
-      "followersCount": 58078,
+      "description": "主业打假 副业交易 炒币12年有余，现已自由，追求自洽\n如果想了解币圈交易/注册/安装相关请点击：https://t.co/mjazQJTiMM",
+      "followersCount": 58079,
       "friendsCount": 129,
       "location": "油尖旺, 香港"
     },
@@ -9760,6 +10206,21 @@
     "videos": [],
     "tweetUrl": "https://x.com/GCsheng/status/2007159222249922852",
     "fullText": "Milady留言，眼熟回关\n\n-- NFT守村人"
+  },
+  {
+    "user": {
+      "screenName": "blknoiz06",
+      "name": "Ansem",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1961642107187109888/o0B468ZS_normal.jpg",
+      "description": "coldest nigga breathing",
+      "followersCount": 784314,
+      "friendsCount": 8749,
+      "location": "onchain 🌒"
+    },
+    "images": [],
+    "videos": [],
+    "tweetUrl": "https://x.com/blknoiz06/status/2007149309406450088",
+    "fullText": "the @nickshirleyy coin on @zora seems like the best shot at any content-creator coin we are ever going to get\n\nkid has been making content for nearly a decade with receipts, was demonetized on youtube during trump's election so has reason to prefer decentralized alternatives\n\nis"
   },
   {
     "user": {
